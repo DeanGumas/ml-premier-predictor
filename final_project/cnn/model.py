@@ -62,10 +62,6 @@ class CNNModel(nn.Module):
         #x = self.flatten(x, dim=1)
         x = self.conv1d(x_input)  # Shape: (batch_size, num_filters, new_length)
 
-        #if self.conv_activation == 'relu':
-        #    x = relu(x)
-        
-
         #print(f"x size after conv: {x.size()}")
         # Flatten only the non-batch dimensions
         x = torch.flatten(x, start_dim=1)  # Shape: (batch_size, flattened_features)
@@ -88,6 +84,8 @@ class CNNModel(nn.Module):
 
         # Output layer
         #x = self.output_layer(x).squeeze(-1)
+
+        # Combined dense/output relu stack
         x = self.linear_relu_stack(x).squeeze(-1)
         return x
 
@@ -326,10 +324,17 @@ def build_train_cnn(X_train, d_train, y_train,
     model.eval()
     X_test_tensor = torch.tensor(X_test, dtype=torch.float32).to(device)
     d_test_tensor = torch.tensor(d_test, dtype=torch.float32).to(device)
-    y_test_tensor = torch.tensor(y_test, dtype=torch.float32)
+    y_test_tensor = torch.tensor(y_test, dtype=torch.float32).to(device)
+    #print(f'Test Loss (MSE): {X_test_tensor.size()}')
+    #print(f'Test Loss (MSE): {d_test_tensor.size()}')
+    #print(f'Test Loss (MSE): {y_test_tensor.size()}')
     with torch.no_grad():
-        y_test_pred = model(X_test_tensor, d_test_tensor).cpu().numpy().flatten()
+        output = model(X_test_tensor, d_test_tensor)
+        
+    y_test_pred = output.cpu().numpy().flatten()
     test_mae = mean_absolute_error(y_test, y_test_pred)
+    test_mse = loss_fn(output, y_test_tensor)
+    print(f'Test Loss (MSE): {test_mse}')
     print(f'Test Mean Absolute Error (MAE): {test_mae}')
     
     # Draw model if specified
