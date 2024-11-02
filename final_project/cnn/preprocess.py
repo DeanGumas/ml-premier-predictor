@@ -140,7 +140,7 @@ def generate_cnn_data(data_dir : str,
         print(f"Generated combined features dataframe for preprocessing of shape: {combined_features_df.shape}.\n")
         print(f"========== EDA ==========")
         # Distributions and EDA based on player-weeks (ie for DEF: ~38 gameweeks * 400 players)
-        eda_and_plot(combined_features_df, verbose=verbose)
+        #eda_and_plot(combined_features_df, verbose=verbose)
         print(f"========== Done Generating CNN Data ==========\n")
 
     return windowed_df, combined_features_df
@@ -308,10 +308,10 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
         print(f"{stratify_by} Distribution of Players:\n")
         strat_counts = players_strats[stratify_by].value_counts()
         colors = plt.cm.get_cmap('tab10', len(strat_counts))
-        plt.figure(figsize=(3, 3))
-        plt.pie(strat_counts, labels=strat_counts.index, autopct='%1.1f%%', colors=colors(range(len(strat_counts))))
-        plt.title(f'Distribution of {stratify_by.capitalize()}')
-        plt.show()
+        #plt.figure(figsize=(3, 3))
+        #plt.pie(strat_counts, labels=strat_counts.index, autopct='%1.1f%%', colors=colors(range(len(strat_counts))))
+        #plt.title(f'Distribution of {stratify_by.capitalize()}')
+        #plt.show()
 
 
 

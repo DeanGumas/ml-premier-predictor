@@ -12,6 +12,9 @@ from final_project.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
 
 from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
 
+
+device = "cuda"    
+
 class CNNModel(nn.Module):
     def __init__(self, 
                  X_input_shape: Tuple, 
@@ -25,11 +28,12 @@ class CNNModel(nn.Module):
         
         super(CNNModel, self).__init__()
         
+        self.flatten = nn.Flatten()
+
         # Set up convolutional layer with L1L2 regularization (equivalent)
         self.conv1d = nn.Conv1d(in_channels=X_input_shape[0], 
                                 out_channels=num_filters, 
                                 kernel_size=kernel_size)
-        self.flatten = nn.Flatten()
         
         # Merge flattened convolution output and additional input
         self.dense1 = nn.Linear(num_filters * (X_input_shape[1] - kernel_size + 1) + d_input_shape[0], 
@@ -37,6 +41,13 @@ class CNNModel(nn.Module):
         
         # Output layer
         self.output_layer = nn.Linear(num_dense, 1)
+
+        # Attempt to combine both linear layers
+        self.linear_relu_stack = nn.Sequential(
+            nn.Linear(num_filters * (X_input_shape[1] - kernel_size + 1) + d_input_shape[0], num_dense),
+            nn.ReLU(),
+            nn.Linear(num_dense, 1)
+        )
 
         # Store activations
         self.conv_activation = conv_activation
@@ -48,30 +59,36 @@ class CNNModel(nn.Module):
     def forward(self, x_input, d_input):
         # Pass through Conv1D layer
         #print(f"x_input size before conv: {x_input.size()}")
+        #x = self.flatten(x, dim=1)
         x = self.conv1d(x_input)  # Shape: (batch_size, num_filters, new_length)
 
-        if self.conv_activation == 'relu':
-            x = relu(x)
+        #if self.conv_activation == 'relu':
+        #    x = relu(x)
         
+
+        #print(f"x size after conv: {x.size()}")
         # Flatten only the non-batch dimensions
         x = torch.flatten(x, start_dim=1)  # Shape: (batch_size, flattened_features)
         #print(f"x size after flatten: {x.size()}")
 
         # Ensure d_input is (batch_size, 1) before concatenating
+        #print(f"d_input size before adjustment: {d_input.size()}")
         if d_input.dim() == 1:  
             d_input = d_input.unsqueeze(1)
         #print(f"d_input size after adjustment: {d_input.size()}")
 
         # Concatenate along the feature dimension
         x = torch.cat((x, d_input), dim=1)  # Shape: (batch_size, flattened_features + 1)
+        #print(f"x size after adjustment: {x.size()}")
 
         # Dense layer
-        x = self.dense1(x)
-        if self.dense_activation == 'relu':
-            x = relu(x)
+        #x = self.dense1(x)
+        #if self.dense_activation == 'relu':
+        #    x = relu(x)
 
         # Output layer
-        x = self.output_layer(x).squeeze(-1)
+        #x = self.output_layer(x).squeeze(-1)
+        x = self.linear_relu_stack(x).squeeze(-1)
         return x
 
 def create_cnn(X_input_shape: Tuple, 
@@ -90,10 +107,11 @@ def create_cnn(X_input_shape: Tuple,
     
     if verbose:
         print("====== Building CNN Architecture ======")
-    
+
     # Initialize model
     model = CNNModel(X_input_shape, d_input_shape, kernel_size, num_filters, num_dense, 
-                     conv_activation, dense_activation, regularization)
+                     conv_activation, dense_activation, regularization).to(device)
+
     
     # Set up optimizer with L2 regularization as weight_decay
     if optimizer == 'adam':
@@ -236,7 +254,6 @@ def build_train_cnn(X_train, d_train, y_train,
     # Set input shapes
     X_input_shape = (window_size, X_train.shape[2])
     d_input_shape = (1,)
-
     # Initialize model, optimizer, and loss function
     model, optimizer, loss_fn = create_cnn(X_input_shape=X_input_shape, 
                                            d_input_shape=d_input_shape,
@@ -260,6 +277,9 @@ def build_train_cnn(X_train, d_train, y_train,
         model.train()
         running_loss = 0.0
         for X_batch, d_batch, y_batch in train_loader:
+            X_batch = X_batch.to(device)
+            d_batch = d_batch.to(device)
+            y_batch = y_batch.to(device)
             optimizer.zero_grad()
             output = model(X_batch, d_batch)
             loss = loss_fn(output, y_batch)
@@ -276,6 +296,9 @@ def build_train_cnn(X_train, d_train, y_train,
         y_true_list = []
         with torch.no_grad():
             for X_val_batch, d_val_batch, y_val_batch in val_loader:
+                X_val_batch = X_val_batch.to(device)
+                d_val_batch = d_val_batch.to(device)
+                y_val_batch = y_val_batch.to(device)
                 output = model(X_val_batch, d_val_batch)
                 loss = loss_fn(output, y_val_batch)
                 val_loss += loss.item() * X_val_batch.size(0)
