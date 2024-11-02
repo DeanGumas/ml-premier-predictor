@@ -45,8 +45,13 @@ def create_cnn(X_input_shape: Tuple,
     # add extra input point on matchup difficulty after convolution
     d_input = Input(shape=d_input_shape)
 
+    print(convnet.shape)
+    print(d_input.shape)
+
     # using the Functional API to concatenate match difficulty and the convolutional flattened output
     merged_layer = Concatenate(axis=-1)([convnet, d_input])
+
+    print(merged_layer.shape)
 
     dense_layer = Dense(units=num_dense,
                        activation=dense_activation,
@@ -63,7 +68,7 @@ def create_cnn(X_input_shape: Tuple,
     if optimizer == 'sgd':
         optimizer = tf.keras.optimizers.legacy.SGD(learning_rate=learning_rate)
     elif optimizer == 'adam':
-        optimizer = tf.keras.optimizers.legacy.Adam(learning_rate=learning_rate)
+        optimizer = tf.keras.optimizers.Adam(learning_rate=learning_rate)
     else:
         print(f"Using passed optimizer directly: {optimizer}. If you want a Keras optimizer pass 'adam' or 'sgd")
         optimizer = optimizer
