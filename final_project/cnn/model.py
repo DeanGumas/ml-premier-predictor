@@ -324,8 +324,8 @@ def build_train_cnn(X_train, d_train, y_train,
 
     # Evaluate model on test set
     model.eval()
-    X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
-    d_test_tensor = torch.tensor(d_test, dtype=torch.float32)
+    X_test_tensor = torch.tensor(X_test, dtype=torch.float32).to(device)
+    d_test_tensor = torch.tensor(d_test, dtype=torch.float32).to(device)
     y_test_tensor = torch.tensor(y_test, dtype=torch.float32)
     with torch.no_grad():
         y_test_pred = model(X_test_tensor, d_test_tensor).cpu().numpy().flatten()
