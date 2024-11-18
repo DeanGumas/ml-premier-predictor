@@ -13,7 +13,7 @@ from sklearn.pipeline import Pipeline
 from typing import Tuple, List, Union
 from final_project.cnn.evaluate import eda_and_plot
 
-from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
+from final_project.cnn.config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
 
 
 def get_avg_playtime(player_data: pd.DataFrame) -> int:
