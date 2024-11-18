@@ -32,19 +32,12 @@ class CNNModel(nn.Module):
 
         # Set up convolutional layer with L1L2 regularization (equivalent)
         self.conv2d = nn.Conv2d(in_channels=1, 
-                                out_channels=6, 
+                                out_channels=num_filters, 
                                 kernel_size=kernel_size)
-        
-        # Merge flattened convolution output and additional input
-        self.dense1 = nn.Linear(6 * (X_input_shape[0] - kernel_size + 1) * (X_input_shape[1] - kernel_size + 1) + d_input_shape[0], 
-                                num_dense)
-        
-        # Output layer
-        self.output_layer = nn.Linear(num_dense, 1)
 
         # Attempt to combine both linear layers
         self.linear_relu_stack = nn.Sequential(
-            nn.Linear(6 * (X_input_shape[0] - kernel_size + 1) * (X_input_shape[1] - kernel_size + 1) + d_input_shape[0], num_dense),
+            nn.Linear(num_filters * (X_input_shape[0] - kernel_size + 1) * (X_input_shape[1] - kernel_size + 1) + d_input_shape[0], num_dense),
             nn.ReLU(),
             nn.Linear(num_dense, 1)
         )
@@ -60,7 +53,7 @@ class CNNModel(nn.Module):
         # Pass through Conv2D layer
         #print(f"x_input size before conv: {x_input.size()}")
         #x_input = torch.flatten(x_input, start_dim=0)
-        x_input = torch.reshape(x_input, (x_input.size(dim=0), 1, 6, 10))
+        x_input = torch.reshape(x_input, (x_input.size(dim=0), 1, x_input.size(dim=1), x_input.size(dim=2)))
         #print(f"x_input size before conv: {x_input.size()}")
         x = self.conv2d(x_input)  # Shape: (batch_size, num_filters, new_length)
 
