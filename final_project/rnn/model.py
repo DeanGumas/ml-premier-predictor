@@ -13,7 +13,36 @@ from final_project.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
 from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
 
 
-device = "cuda"    
+device = "cuda"  
+
+class TemporalAttention(nn.Module):
+    def __init__(self, input_dim, attention_dim):
+        super(TemporalAttention, self).__init__()
+        self.W = nn.Linear(input_dim, attention_dim, bias=False)  # Learnable weights
+        self.v = nn.Linear(attention_dim, 1, bias=False)          # Attention scores
+
+    def forward(self, x):
+        """
+        Args:
+            x: Tensor of shape (batch_size, time_steps, input_dim)
+        
+        Returns:
+            context: Tensor of shape (batch_size, input_dim)
+                     Weighted sum of inputs based on attention scores.
+            attention_weights: Tensor of shape (batch_size, time_steps)
+                                Attention weights for each time step.
+        """
+        # Linear transformation and tanh activation
+        attention_scores = torch.tanh(self.W(x))  # (batch_size, time_steps, attention_dim)
+
+        # Compute attention weights
+        attention_weights = self.v(attention_scores)  # (batch_size, time_steps, 1)
+        attention_weights = torch.softmax(attention_weights, dim=1)  # Normalize weights along time_steps
+
+        # Weighted sum of inputs
+        context = torch.sum(attention_weights * x, dim=1)  # (batch_size, input_dim)
+
+        return context, attention_weights.squeeze(-1)  # Remove last dimension for weights
 
 class rnnModel(nn.Module):
     def __init__(self, 
@@ -23,6 +52,7 @@ class rnnModel(nn.Module):
                  num_filters: int, 
                  num_dense: int, 
                  bidirectional: bool = True,
+                 temporal_attention: bool = False,
                  conv_activation: str = 'relu', 
                  dense_activation: str = 'relu', 
                  regularization: float = 0.001):
@@ -34,8 +64,20 @@ class rnnModel(nn.Module):
         # Set up RNN
         self.rnn = nn.RNN(X_input_shape[1], num_filters, batch_first=True, bidirectional=bidirectional)
 
+        # Set up Temporal Attention
+        self.attention = TemporalAttention(num_filters*2, num_filters)
+
         # Output layer
-        if bidirectional:
+        if temporal_attention:
+            if bidirectional:
+                self.linear_relu_stack = nn.Sequential(
+                    nn.Linear(num_dense * 2 + d_input_shape[0], 1)
+                )
+            else:
+                self.linear_relu_stack = nn.Sequential(
+                    nn.Linear(num_dense + d_input_shape[0], 1)
+                )
+        elif bidirectional:
             self.linear_relu_stack = nn.Sequential(
                 nn.Linear((2*X_input_shape[0]*num_filters) + d_input_shape[0], num_dense*2),
                 nn.ReLU(),
@@ -57,11 +99,16 @@ class rnnModel(nn.Module):
         # Regularization (L1L2 applied in optimizer)
         self.regularization = regularization
 
+        self.temporal_attention = temporal_attention
+
     def forward(self, x_input, d_input):
         # Pass through Conv1D layer
         #print(f"x_input size before rnn: {x_input.size()}")
         x, _ = self.rnn(x_input)  # Shape: (batch_size, num_filters, new_length)
         #print(f"x size before flatten: {x.size()}")
+
+        if self.temporal_attention:
+            x, _ = self.attention(x)
 
         # Flatten only the non-batch dimensions
         x = torch.flatten(x, start_dim=1)  # Shape: (batch_size, flattened_features)
@@ -87,6 +134,7 @@ def create_rnn(X_input_shape: Tuple,
                num_filters: int, 
                num_dense: int, 
                bidirectional: bool = True,
+               temporal_attention: bool = False,
                conv_activation: str = 'relu', 
                dense_activation: str = 'relu', 
                optimizer: str = 'adam', 
@@ -101,7 +149,7 @@ def create_rnn(X_input_shape: Tuple,
 
     # Initialize model
     model = rnnModel(X_input_shape, d_input_shape, kernel_size, num_filters, num_dense, bidirectional, 
-                     conv_activation, dense_activation, regularization).to(device)
+                     temporal_attention, conv_activation, dense_activation, regularization).to(device)
 
     
     # Set up optimizer with L2 regularization as weight_decay
@@ -209,6 +257,7 @@ def build_train_rnn(X_train, d_train, y_train,
                     num_filters: int,
                     num_dense: int,
                     bidirectional: bool,
+                    temporal_attention: bool,
                     batch_size: int = 50,
                     epochs: int = 500,
                     drop_low_playtime: bool = True,
@@ -253,6 +302,7 @@ def build_train_rnn(X_train, d_train, y_train,
                                            num_filters=num_filters,
                                            num_dense=num_dense,
                                            bidirectional=bidirectional,
+                                           temporal_attention=temporal_attention,
                                            conv_activation=conv_activation,
                                            dense_activation=dense_activation,
                                            optimizer=optimizer,
@@ -345,6 +395,7 @@ def full_rnn_pipeline(data_dir: str,
                     num_filters: int,
                     num_dense: int,
                     bidirectional: bool,
+                    temporal_attention: bool,
                     batch_size: int = 50,
                     epochs: int = 500,  
                     drop_low_playtime : bool = True,
@@ -399,6 +450,7 @@ def full_rnn_pipeline(data_dir: str,
         num_filters=num_filters,
         num_dense=num_dense,
         bidirectional=bidirectional,
+        temporal_attention=temporal_attention,
         batch_size=batch_size,
         epochs=epochs,
         drop_low_playtime=drop_low_playtime,
