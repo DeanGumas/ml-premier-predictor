@@ -22,6 +22,7 @@ class rnnModel(nn.Module):
                  kernel_size: int, 
                  num_filters: int, 
                  num_dense: int, 
+                 bidirectional: bool = True,
                  conv_activation: str = 'relu', 
                  dense_activation: str = 'relu', 
                  regularization: float = 0.001):
@@ -31,14 +32,23 @@ class rnnModel(nn.Module):
         self.flatten = nn.Flatten()
 
         # Set up RNN
-        self.rnn = nn.RNN(X_input_shape[1], num_filters, batch_first=True)
+        self.rnn = nn.RNN(X_input_shape[1], num_filters, batch_first=True, bidirectional=bidirectional)
 
         # Output layer
-        self.linear_relu_stack = nn.Sequential(
-            nn.Linear((X_input_shape[0]*num_filters) + d_input_shape[0], num_dense),
-            nn.ReLU(),
-            nn.Linear(num_dense, 1)
-        )
+        if bidirectional:
+            self.linear_relu_stack = nn.Sequential(
+                nn.Linear((2*X_input_shape[0]*num_filters) + d_input_shape[0], num_dense*2),
+                nn.ReLU(),
+                nn.Linear(num_dense*2, num_dense),
+                nn.ReLU(),
+                nn.Linear(num_dense, 1)
+            )
+        else:
+            self.linear_relu_stack = nn.Sequential(
+                nn.Linear((X_input_shape[0]*num_filters) + d_input_shape[0], num_dense),
+                nn.ReLU(),
+                nn.Linear(num_dense, 1)
+            )
 
         # Store activations
         self.conv_activation = conv_activation
@@ -49,12 +59,10 @@ class rnnModel(nn.Module):
 
     def forward(self, x_input, d_input):
         # Pass through Conv1D layer
-        #print(f"x_input size before conv: {x_input.size()}")
-        #x = self.flatten(x, dim=1)
+        #print(f"x_input size before rnn: {x_input.size()}")
         x, _ = self.rnn(x_input)  # Shape: (batch_size, num_filters, new_length)
         #print(f"x size before flatten: {x.size()}")
-        #print(f"x size before flatten: {x[:][-1].size()}")
-        #print(f"x size after conv: {x.size()}")
+
         # Flatten only the non-batch dimensions
         x = torch.flatten(x, start_dim=1)  # Shape: (batch_size, flattened_features)
         #print(f"x size after flatten: {x.size()}")
@@ -69,14 +77,6 @@ class rnnModel(nn.Module):
         x = torch.cat((x, d_input), dim=1)  # Shape: (batch_size, flattened_features + 1)
         #print(f"x size after adjustment: {x.size()}")
 
-        # Dense layer
-        #x = self.dense1(x)
-        #if self.dense_activation == 'relu':
-        #    x = relu(x)
-
-        # Output layer
-        #x = self.output_layer(x).squeeze(-1)
-
         # Combined dense/output relu stack
         x = self.linear_relu_stack(x).squeeze(-1)
         return x
@@ -86,6 +86,7 @@ def create_rnn(X_input_shape: Tuple,
                kernel_size: int, 
                num_filters: int, 
                num_dense: int, 
+               bidirectional: bool = True,
                conv_activation: str = 'relu', 
                dense_activation: str = 'relu', 
                optimizer: str = 'adam', 
@@ -99,7 +100,7 @@ def create_rnn(X_input_shape: Tuple,
         print("====== Building rnn Architecture ======")
 
     # Initialize model
-    model = rnnModel(X_input_shape, d_input_shape, kernel_size, num_filters, num_dense, 
+    model = rnnModel(X_input_shape, d_input_shape, kernel_size, num_filters, num_dense, bidirectional, 
                      conv_activation, dense_activation, regularization).to(device)
 
     
@@ -207,6 +208,7 @@ def build_train_rnn(X_train, d_train, y_train,
                     kernel_size: int,
                     num_filters: int,
                     num_dense: int,
+                    bidirectional: bool,
                     batch_size: int = 50,
                     epochs: int = 500,
                     drop_low_playtime: bool = True,
@@ -250,6 +252,7 @@ def build_train_rnn(X_train, d_train, y_train,
                                            kernel_size=kernel_size,
                                            num_filters=num_filters,
                                            num_dense=num_dense,
+                                           bidirectional=bidirectional,
                                            conv_activation=conv_activation,
                                            dense_activation=dense_activation,
                                            optimizer=optimizer,
@@ -341,6 +344,7 @@ def full_rnn_pipeline(data_dir: str,
                     kernel_size: int,
                     num_filters: int,
                     num_dense: int,
+                    bidirectional: bool,
                     batch_size: int = 50,
                     epochs: int = 500,  
                     drop_low_playtime : bool = True,
@@ -394,6 +398,7 @@ def full_rnn_pipeline(data_dir: str,
         kernel_size=kernel_size,
         num_filters=num_filters,
         num_dense=num_dense,
+        bidirectional=bidirectional,
         batch_size=batch_size,
         epochs=epochs,
         drop_low_playtime=drop_low_playtime,
