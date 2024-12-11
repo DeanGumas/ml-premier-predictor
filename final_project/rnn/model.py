@@ -5,7 +5,8 @@ import torch.optim as optim
 import matplotlib.pyplot as plt
 from torch.nn.functional import relu
 from torch.utils.data import DataLoader, TensorDataset
-from sklearn.metrics import mean_absolute_error
+from sklearn.metrics import mean_absolute_error, mean_squared_error
+from final_project.rnn.evaluate import evaluate
 from typing import Tuple, List
 from final_project.cnn.preprocess import generate_cnn_data, split_preprocess_cnn_data
 from final_project.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
@@ -13,7 +14,7 @@ from final_project.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
 from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
 
 
-device = "cuda"  
+device = "cpu"  
 
 class TemporalAttention(nn.Module):
     def __init__(self, input_dim, attention_dim):
@@ -48,7 +49,6 @@ class rnnModel(nn.Module):
     def __init__(self, 
                  X_input_shape: Tuple, 
                  d_input_shape: Tuple, 
-                 kernel_size: int, 
                  num_filters: int, 
                  num_dense: int, 
                  bidirectional: bool = True,
@@ -65,8 +65,10 @@ class rnnModel(nn.Module):
         self.rnn = nn.RNN(X_input_shape[1], num_filters, batch_first=True, bidirectional=bidirectional)
 
         # Set up Temporal Attention
-        self.attention = TemporalAttention(num_filters*2, num_filters)
-
+        if bidirectional:
+            self.attention = TemporalAttention(num_filters*2, num_filters)
+        else:
+            self.attention = TemporalAttention(num_filters, num_filters)
         # Output layer
         if temporal_attention:
             if bidirectional:
@@ -130,7 +132,6 @@ class rnnModel(nn.Module):
 
 def create_rnn(X_input_shape: Tuple, 
                d_input_shape: Tuple, 
-               kernel_size: int, 
                num_filters: int, 
                num_dense: int, 
                bidirectional: bool = True,
@@ -140,7 +141,6 @@ def create_rnn(X_input_shape: Tuple,
                optimizer: str = 'adam', 
                learning_rate: float = 0.001, 
                loss: str = 'mse', 
-               metrics: List[str] = ['mae'], 
                verbose: bool = False, 
                regularization: float = 0.001):
     
@@ -148,7 +148,7 @@ def create_rnn(X_input_shape: Tuple,
         print("====== Building rnn Architecture ======")
 
     # Initialize model
-    model = rnnModel(X_input_shape, d_input_shape, kernel_size, num_filters, num_dense, bidirectional, 
+    model = rnnModel(X_input_shape, d_input_shape, num_filters, num_dense, bidirectional, 
                      temporal_attention, conv_activation, dense_activation, regularization).to(device)
 
     
@@ -253,7 +253,6 @@ def build_train_rnn(X_train, d_train, y_train,
                     season: str,
                     position: str,
                     window_size: int,
-                    kernel_size: int,
                     num_filters: int,
                     num_dense: int,
                     bidirectional: bool,
@@ -298,7 +297,6 @@ def build_train_rnn(X_train, d_train, y_train,
     # Initialize model, optimizer, and loss function
     model, optimizer, loss_fn = create_rnn(X_input_shape=X_input_shape, 
                                            d_input_shape=d_input_shape,
-                                           kernel_size=kernel_size,
                                            num_filters=num_filters,
                                            num_dense=num_dense,
                                            bidirectional=bidirectional,
@@ -308,7 +306,6 @@ def build_train_rnn(X_train, d_train, y_train,
                                            optimizer=optimizer,
                                            learning_rate=learning_rate,
                                            loss=loss,
-                                           metrics=metrics,
                                            regularization=regularization,
                                            verbose=verbose)
     
@@ -354,14 +351,14 @@ def build_train_rnn(X_train, d_train, y_train,
         y_true = np.array(y_true_list).flatten()
         
         # Calculate additional metrics if required
-        if 'mae' in metrics:
+        if 'mae' in metrics and verbose:
             val_mae = mean_absolute_error(y_true, y_pred)
             print(f"Epoch {epoch+1}/{epochs}, Train Loss: {train_loss}, Val Loss: {val_loss}, Val MAE: {val_mae}")
         
         # Early stopping check
         if early_stopping:
             early_stopping(val_loss)
-            if early_stopping.early_stop:
+            if early_stopping.early_stop and verbose: 
                 print("Early stopping")
                 break
 
@@ -379,19 +376,21 @@ def build_train_rnn(X_train, d_train, y_train,
     y_test_pred = output.cpu().numpy().flatten()
     test_mae = mean_absolute_error(y_test, y_test_pred)
     test_mse = loss_fn(output, y_test_tensor)
-    print(f'Test Loss (MSE): {test_mse}')
-    print(f'Test Mean Absolute Error (MAE): {test_mae}')
+    if verbose:
+        print(f'Test Loss (MSE): {test_mse}')
+        print(f'Test Mean Absolute Error (MAE): {test_mae}')
+    results = evaluate(model, loss_fn, device, X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test, y_test_pred)
     
     # Draw model if specified
-    plot_learning_curve(history, season, position)
+    if plot:
+        plot_learning_curve(history, season, position)
 
-    return model, {'test_mae': test_mae}
+    return model, results
 
 def full_rnn_pipeline(data_dir: str, 
                     season: str, 
                     position: str,  
                     window_size: int,
-                    kernel_size: int,
                     num_filters: int,
                     num_dense: int,
                     bidirectional: bool,
@@ -446,7 +445,6 @@ def full_rnn_pipeline(data_dir: str,
         season=season,
         position=position,
         window_size=window_size,
-        kernel_size=kernel_size,
         num_filters=num_filters,
         num_dense=num_dense,
         bidirectional=bidirectional,
