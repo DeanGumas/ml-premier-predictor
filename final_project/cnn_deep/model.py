@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from torch.nn.functional import relu
 from torch.utils.data import DataLoader, TensorDataset
 from sklearn.metrics import mean_absolute_error
+from final_project.rnn.evaluate import evaluate
 from typing import Tuple, List
 from final_project.cnn.preprocess import generate_cnn_data, split_preprocess_cnn_data
 from final_project.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
@@ -340,11 +341,13 @@ def build_train_cnn(X_train, d_train, y_train,
     test_mse = loss_fn(output, y_test_tensor)
     print(f'Test Loss (MSE): {test_mse}')
     print(f'Test Mean Absolute Error (MAE): {test_mae}')
+    results = evaluate(model, loss_fn, device, X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test, y_test_pred)
     
     # Draw model if specified
-    plot_learning_curve(history, season, position)
+    if plot:
+        plot_learning_curve(history, season, position)
 
-    return model, {'test_mae': test_mae}
+    return model, results
 
 def full_cnn_pipeline(data_dir: str, 
                     season: str, 

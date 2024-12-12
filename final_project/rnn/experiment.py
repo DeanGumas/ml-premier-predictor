@@ -18,6 +18,7 @@ from datetime import date
 from tqdm import tqdm
 import torch
 import pickle
+import random
 
 from config import STANDARD_CAT_FEATURES, NUM_FEATURES_DICT
 
@@ -33,7 +34,7 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
     if verbose:
         print("======= Running GridSearch Experiment ========")
 
-    EPOCHS = 5
+    EPOCHS = 2000
     SEED = 229
     BATCH_SIZE = 32
 
@@ -67,14 +68,14 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
     #STRATIFY_BY = ['skill', 'stdev']
     #TOLERANCE_VALUES = [1e-4, 1e-6]
 
-    POSITIONS = ['FWD']
-    WINDOW_SIZES = [9]
-    NUM_DENSE = [256, 512]  # drop players who never play
-    AMT_NUM_FEATURES = ['pts_ict', 'large'] 
+    POSITIONS = ['GK', 'DEF', 'MID', 'FWD']
+    WINDOW_SIZES = [3, 6, 9]
+    NUM_DENSE = [64]  # drop players who never play
+    AMT_NUM_FEATURES = ['large'] 
     CAT_FEATURES = STANDARD_CAT_FEATURES
     STRATIFY_BY = ['stdev']
     TOLERANCE_VALUES = [1e-4]
-    SEEDS = [255, 834]
+    SEEDS = [444, 445, 446, 447, 448]
 
     # Loop through all combinations of parameters
     experiment_result = []
@@ -119,7 +120,9 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
         num_features = NUM_FEATURES_DICT[position][amt_num_feature]
 
 
+        random.seed(seed)
         torch.manual_seed(seed)
+        np.random.seed(seed)
 
         print(f"===== Running Experiment for Parameters: =====\n {variable_parameters}\n")
         for [name, val] in variable_parameters.items():
@@ -158,7 +161,7 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
                 epochs=EPOCHS,
                 drop_low_playtime=DROP_LOW_PLAYTIME,
                 low_playtime_cutoff=LOW_PLAYTIME_CUTOFF,
-                num_features=num_features,
+                num_features= num_features,
                 cat_features=CAT_FEATURES,
                 conv_activation=CONV_ACTIVATION,
                 dense_activation=DENSE_ACTIVATION,

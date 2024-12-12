@@ -11,7 +11,7 @@ sys.path.append(os.path.join(os.getcwd(), '..','..'))
 import tensorflow as tf
 import numpy as np
 import pandas as pd
-from final_project.rnn.model import build_train_rnn, generate_datasets
+from final_project.cnn_deep.model import build_train_cnn, generate_datasets
 import tensorflow as tf
 import itertools
 from datetime import date
@@ -21,7 +21,7 @@ import pickle
 
 from config import STANDARD_CAT_FEATURES, NUM_FEATURES_DICT
 
-def gridsearch_rnn(experiment_name: str = 'gridsearch',
+def gridsearch_cnn(experiment_name: str = 'gridsearch',
                    verbose : bool = False):
     """
     GridSearch for Best Hyperparameters
@@ -53,6 +53,7 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
     OPTIMIZER = 'adam'
     REGULARIZATION = 0.01
     LEARNING_RATE = 0.00001
+    KERNEL_SIZE = 2
     BIDIRECTIONAL = True
     TEMPORAL_ATTENTION= True
 
@@ -67,14 +68,14 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
     #STRATIFY_BY = ['skill', 'stdev']
     #TOLERANCE_VALUES = [1e-4, 1e-6]
 
-    POSITIONS = ['FWD']
-    WINDOW_SIZES = [9]
-    NUM_DENSE = [64, 256]  # drop players who never play
+    POSITIONS = ['GK']
+    WINDOW_SIZES = [6]
+    NUM_DENSE = [64]  # drop players who never play
     AMT_NUM_FEATURES = ['large'] 
     CAT_FEATURES = STANDARD_CAT_FEATURES
     STRATIFY_BY = ['stdev']
     TOLERANCE_VALUES = [1e-4]
-    SEEDS = [404, 400, 401, 402, 403]
+    SEEDS = [400, 401, 402]
 
     # Loop through all combinations of parameters
     experiment_result = []
@@ -143,17 +144,16 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
                                             verbose=verbose)
     
         #call build_train_cnn passing on all params 
-        model, iteration_result = build_train_rnn(
+        model, iteration_result = build_train_cnn(
                 X_train=X_train, d_train=d_train, y_train=y_train,
                 X_val=X_val, d_val=d_val, y_val=y_val,
                 X_test=X_test, d_test=d_test, y_test=y_test,
                 season=SEASON,
                 position=position,
+                kernel_size=KERNEL_SIZE,
                 window_size=window_size,
-                num_filters=num_dense,
+                num_filters=num_dense*2,
                 num_dense=num_dense,
-                bidirectional= BIDIRECTIONAL,
-                temporal_attention=TEMPORAL_ATTENTION,
                 batch_size=BATCH_SIZE,
                 epochs=EPOCHS,
                 drop_low_playtime=DROP_LOW_PLAYTIME,
@@ -222,7 +222,7 @@ def main():
     """
     Run the experiment specified by gridsearch_cnn constants
     """
-    gridsearch_rnn(verbose=False)
+    gridsearch_cnn(verbose=False)
     return
 
 if __name__ == '__main__':

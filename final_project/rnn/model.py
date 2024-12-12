@@ -14,7 +14,7 @@ from final_project.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
 from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
 
 
-device = "cpu"  
+device = "cuda"  
 
 class TemporalAttention(nn.Module):
     def __init__(self, input_dim, attention_dim):
