@@ -16,6 +16,7 @@ import tensorflow as tf
 import itertools
 from datetime import date
 from tqdm import tqdm
+import torch
 import pickle
 
 from config import STANDARD_CAT_FEATURES, NUM_FEATURES_DICT
@@ -25,14 +26,14 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
     """
     GridSearch for Best Hyperparameters
     """
-    log_file = os.path.join('results', 'gridsearch', f'{experiment_name}_{date.today().strftime("%m-%d")}.csv')
-    data_log_file = os.path.join('results', 'gridsearch', f'{experiment_name}_{date.today().strftime("%m-%d")}_data.pkl')
+    log_file = os.path.join('gridsearch', 'results', f'{experiment_name}_{date.today().strftime("%m-%d")}.csv')
+    data_log_file = os.path.join('gridsearch', 'results', f'{experiment_name}_{date.today().strftime("%m-%d")}_data.pkl')
     DATA_DIR = os.path.join(os.getcwd(), '..', 'data', 'clean_data')
 
     if verbose:
         print("======= Running GridSearch Experiment ========")
 
-    EPOCHS = 100
+    EPOCHS = 5
     SEED = 229
     BATCH_SIZE = 32
 
@@ -58,13 +59,22 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
 
     #____Variable Ranges________________________
 
-    POSITIONS = ['GK', 'DEF', 'MID', 'FWD']
-    WINDOW_SIZES = [3, 6, 9]
-    NUM_DENSE = [64, 128, 256]  # drop players who never play
-    AMT_NUM_FEATURES = ['pts_ict', 'medium', 'large'] 
+    #POSITIONS = ['GK', 'DEF', 'MID', 'FWD']
+    #WINDOW_SIZES = [3, 6, 9]
+    #NUM_DENSE = [64, 128, 256]  # drop players who never play
+    #AMT_NUM_FEATURES = ['pts_ict', 'medium', 'large'] 
+    #CAT_FEATURES = STANDARD_CAT_FEATURES
+    #STRATIFY_BY = ['skill', 'stdev']
+    #TOLERANCE_VALUES = [1e-4, 1e-6]
+
+    POSITIONS = ['FWD']
+    WINDOW_SIZES = [9]
+    NUM_DENSE = [256, 512]  # drop players who never play
+    AMT_NUM_FEATURES = ['pts_ict', 'large'] 
     CAT_FEATURES = STANDARD_CAT_FEATURES
-    STRATIFY_BY = ['skill', 'stdev']
-    TOLERANCE_VALUES = [1e-4, 1e-6]
+    STRATIFY_BY = ['stdev']
+    TOLERANCE_VALUES = [1e-4]
+    SEEDS = [255, 834]
 
     # Loop through all combinations of parameters
     experiment_result = []
@@ -75,7 +85,8 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
         len(NUM_DENSE) * #Y
         len(AMT_NUM_FEATURES) * #Y
         len(TOLERANCE_VALUES) *
-        len(STRATIFY_BY))
+        len(STRATIFY_BY) *
+        len(SEEDS))
     
     iteration_index = 0
     print(f"===== Total Number of Iterations: ", total_iterations)
@@ -85,15 +96,19 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
          num_dense,
          tolerance,
          amt_num_feature, 
-         stratify_by) in tqdm(itertools.product(
+         stratify_by,
+         seed) in tqdm(itertools.product(
             POSITIONS, 
             WINDOW_SIZES, 
             NUM_DENSE,
             TOLERANCE_VALUES,
             AMT_NUM_FEATURES,
-            STRATIFY_BY), total=total_iterations):
+            STRATIFY_BY,
+            SEEDS), total=total_iterations):
+        
 
         variable_parameters = {
+            'seed': seed,
             'position': position,
             'window_size': window_size,
             'num_dense': num_dense,
@@ -102,6 +117,9 @@ def gridsearch_rnn(experiment_name: str = 'gridsearch',
             "stratify_by": stratify_by,
         }
         num_features = NUM_FEATURES_DICT[position][amt_num_feature]
+
+
+        torch.manual_seed(seed)
 
         print(f"===== Running Experiment for Parameters: =====\n {variable_parameters}\n")
         for [name, val] in variable_parameters.items():
