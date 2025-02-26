@@ -2,6 +2,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
+import torch.onnx as onnx
 import matplotlib.pyplot as plt
 from torch.nn.functional import relu
 from torch.utils.data import DataLoader, TensorDataset
@@ -383,6 +384,30 @@ def build_train_rnn(X_train, d_train, y_train,
     # Draw model if specified
     if plot:
         plot_learning_curve(history, season, position)
+
+    # Export model for onnx
+    x_input = torch.randn(1, *X_input_shape).to(device)
+    d_input = torch.randn(1, *d_input_shape).to(device)
+    print("X input shape:")
+    print(X_input_shape)
+    print("d input shape:")
+    print(d_input_shape)
+    # Export model for onnx
+    torch.onnx.export(
+        model,
+        (x_input, d_input),  # Pass tuple of inputs
+        "model.onnx",  # Output ONNX filename
+        export_params=True,  # Store trained parameters
+        opset_version=11,  # ONNX opset version
+        do_constant_folding=True,  # Optimize constants
+        input_names=["player_data", "team_rating"],  # Multiple input names
+        output_names=["score_prediction"],  # Name for output
+        dynamic_axes={
+            "player_data": {0: "batch_size"},  # Allow variable batch size
+            "team_rating": {0: "batch_size"},
+            "score_prediction": {0: "batch_size"},
+        }
+    )
 
     return model, results
 
