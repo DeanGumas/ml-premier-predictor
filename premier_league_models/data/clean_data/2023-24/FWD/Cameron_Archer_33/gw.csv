@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cameron Archer,FWD,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Everton,5,0,0,0,0,-1,1,0,0,0,0,0,0.3,0.0,4.3,0.0,True,0,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cameron Archer,FWD,Aston Villa,Everton,74,1,1,2,0,32,0,0,0,0,0,0,5.5,30.0,0.8,24.0,True,12,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Spurs,90,0,0,2,0,-2,1,0,0,0,0,0,2.5,8.6,14.3,2.0,False,1,4.0,4.0,0.0
+Cameron Archer,FWD,Aston Villa,Newcastle,90,0,0,8,0,3,0,0,0,0,0,0,1.9,2.8,12.0,4.0,True,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,West Ham,78,0,0,2,0,6,0,0,0,0,0,0,3.7,3.8,24.8,8.0,False,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Fulham,78,0,0,2,0,7,0,0,0,0,0,0,4.4,9.8,22.3,12.0,False,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Man Utd,90,0,0,2,0,6,0,0,0,0,0,0,5.8,7.2,12.0,39.0,True,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Arsenal,31,0,0,2,0,2,0,0,0,0,0,0,0.1,0.0,0.6,0.0,False,1,4.0,5.0,-1.0
+Cameron Archer,FWD,Aston Villa,Wolves,90,1,0,1,0,28,0,0,0,0,0,0,7.1,34.4,12.6,24.0,True,9,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,2.4,7.2,11.1,6.0,False,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Bournemouth,90,0,0,3,0,6,0,0,0,0,0,0,2.1,5.4,13.8,2.0,True,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Burnley,45,0,0,2,0,3,0,0,0,0,0,0,1.6,0.0,11.6,4.0,False,1,4.0,2.0,2.0
+Cameron Archer,FWD,Aston Villa,Liverpool,90,0,0,2,0,0,0,0,0,0,0,0,2.6,0.4,1.1,24.0,True,2,4.0,4.0,0.0
+Cameron Archer,FWD,Aston Villa,Brentford,90,0,0,0,1,12,0,0,0,0,0,0,7.9,18.6,42.3,18.0,True,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Chelsea,90,0,0,2,0,7,0,0,0,0,0,0,2.8,14.0,0.8,13.0,False,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Aston Villa,89,1,0,0,1,25,0,0,0,0,0,0,5.6,32.2,1.4,22.0,False,8,4.0,4.0,0.0
+Cameron Archer,FWD,Aston Villa,Luton,85,0,1,3,0,18,0,0,0,0,0,0,6.7,10.8,27.5,29.0,True,5,4.0,2.0,2.0
+Cameron Archer,FWD,Aston Villa,Man City,23,0,0,0,0,5,0,0,0,0,0,0,1.3,3.0,10.3,0.0,False,1,4.0,5.0,-1.0
+Cameron Archer,FWD,Aston Villa,West Ham,23,0,0,1,0,5,0,0,0,0,0,0,1.4,7.0,4.5,2.0,True,1,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Crystal Palace,3,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Aston Villa,25,0,0,0,0,5,0,0,0,0,0,0,1.8,3.0,1.7,13.0,True,1,4.0,4.0,0.0
+Cameron Archer,FWD,Aston Villa,Luton,80,1,0,1,0,25,0,0,0,0,0,0,5.7,33.0,1.3,23.0,False,7,4.0,2.0,2.0
+Cameron Archer,FWD,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Cameron Archer,FWD,Aston Villa,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Cameron Archer,FWD,Aston Villa,Chelsea,3,0,1,0,0,16,0,0,0,0,0,0,3.0,17.2,11.0,2.0,True,4,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Brentford,14,0,0,1,0,3,0,0,0,0,0,0,0.5,0.0,1.8,4.0,False,1,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Burnley,22,0,0,1,0,2,0,0,0,0,0,0,1.8,2.0,11.8,4.0,True,1,4.0,2.0,2.0
+Cameron Archer,FWD,Aston Villa,Man Utd,61,0,0,2,0,5,0,0,0,0,0,0,0.3,0.4,1.2,1.0,False,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Newcastle,66,0,0,4,0,9,0,0,0,0,0,0,4.6,4.4,28.3,13.0,False,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Nott'm Forest,73,0,0,3,0,0,0,0,0,0,0,0,6.1,8.6,11.9,40.0,True,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Everton,80,0,0,1,0,0,0,0,0,0,0,0,1.5,0.0,1.6,15.0,False,2,4.0,3.0,1.0
+Cameron Archer,FWD,Aston Villa,Spurs,61,0,0,2,0,0,0,0,0,0,0,0,1.8,2.2,10.6,5.0,True,2,4.0,4.0,0.0

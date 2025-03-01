@@ -1,0 +1,23 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Joe Gomez,DEF,Liverpool,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Joe Gomez,DEF,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Joe Gomez,DEF,Liverpool,Wolves,1,0,0,0,0,5,0,0,0,0,0,0,0.3,3.0,0.3,0.0,False,1,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Chelsea,9,0,0,0,0,6,0,0,0,0,0,0,0.8,7.2,0.3,0.0,True,1,5.0,4.0,1.0
+Joe Gomez,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Joe Gomez,DEF,Liverpool,Brighton,45,0,0,0,0,8,0,0,0,0,0,0,7.3,22.6,0.2,50.0,True,1,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Joe Gomez,DEF,Liverpool,Man City,90,0,0,0,1,26,0,0,0,0,0,0,1.4,13.2,0.4,0.0,True,6,5.0,4.0,1.0
+Joe Gomez,DEF,Liverpool,Newcastle,66,0,0,2,0,7,0,0,0,0,0,0,1.9,18.4,0.5,0.0,False,1,5.0,4.0,1.0
+Joe Gomez,DEF,Liverpool,Fulham,90,0,0,2,0,4,0,0,0,0,0,0,2.7,18.0,4.5,4.0,True,1,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Spurs,90,0,0,3,0,9,0,0,0,0,0,0,2.3,22.2,1.2,0.0,False,1,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Leicester,90,0,0,1,0,15,1,0,0,0,0,0,5.5,22.0,30.5,2.0,True,1,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,West Ham,36,0,0,0,0,3,0,0,0,0,0,0,0.6,3.8,0.6,2.0,False,1,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Joe Gomez,DEF,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Joe Gomez,DEF,Liverpool,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0

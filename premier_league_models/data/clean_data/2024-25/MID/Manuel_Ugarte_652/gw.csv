@@ -1,0 +1,21 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Manuel Ugarte,MID,Man Utd,Southampton,17,0,0,0,0,8,0,0,0,0,0,0,0.8,4.6,3.1,0.0,False,1,3.0,2.0,1.0
+Manuel Ugarte,MID,Man Utd,Crystal Palace,14,0,0,0,0,1,0,0,0,0,0,0,0.6,3.8,2.6,0.0,False,1,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Spurs,71,0,0,2,0,4,1,0,0,0,0,0,1.0,9.8,0.6,0.0,True,1,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Brentford,2,0,0,0,0,3,0,0,0,0,0,0,0.2,2.2,0.2,0.0,True,1,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Chelsea,83,0,0,1,0,-2,1,0,0,0,0,0,0.0,0.0,1.1,2.0,True,1,3.0,4.0,-1.0
+Manuel Ugarte,MID,Man Utd,Leicester,90,0,0,0,1,27,0,0,0,0,0,0,4.1,24.0,14.7,2.0,True,3,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Ipswich,34,0,0,0,0,3,0,0,0,0,0,0,2.2,7.4,12.3,2.0,False,1,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Everton,24,0,0,0,0,3,0,0,0,0,0,0,0.6,3.0,2.7,0.0,True,1,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Arsenal,90,0,0,2,0,12,1,0,0,0,0,0,3.2,20.4,11.2,0.0,False,1,3.0,4.0,-1.0
+Manuel Ugarte,MID,Man Utd,Nott'm Forest,75,0,0,3,0,20,0,0,0,0,0,0,5.2,19.8,32.2,0.0,True,2,3.0,4.0,-1.0
+Manuel Ugarte,MID,Man Utd,Man City,90,0,0,1,0,11,0,0,0,0,0,0,2.4,10.6,12.7,1.0,False,2,3.0,4.0,-1.0
+Manuel Ugarte,MID,Man Utd,Bournemouth,54,0,0,1,0,6,1,0,0,0,0,0,2.0,5.4,2.3,12.0,True,0,3.0,4.0,-1.0
+Manuel Ugarte,MID,Man Utd,Wolves,62,0,0,1,0,10,1,0,0,0,0,0,1.8,14.4,2.9,1.0,False,1,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Manuel Ugarte,MID,Man Utd,Liverpool,90,0,0,2,0,15,0,0,0,0,0,0,2.1,13.6,7.0,0.0,False,2,3.0,5.0,-2.0
+Manuel Ugarte,MID,Man Utd,Southampton,53,0,0,1,0,8,0,0,1,0,0,0,1.2,8.6,3.2,0.0,True,-1,3.0,2.0,1.0
+Manuel Ugarte,MID,Man Utd,Brighton,63,0,0,2,0,2,1,0,0,0,0,0,0.6,3.4,0.6,2.0,True,1,3.0,3.0,0.0
+Manuel Ugarte,MID,Man Utd,Fulham,75,0,0,0,1,11,1,0,0,0,0,0,1.3,8.8,4.2,0.0,False,2,3.0,3.0,0.0

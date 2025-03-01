@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Dominik Szoboszlai,MID,Liverpool,Chelsea,90,0,0,1,0,17,0,0,0,0,0,0,5.7,9.6,37.5,10.0,False,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Bournemouth,90,0,1,1,0,26,0,0,0,0,0,0,5.3,15.2,15.9,22.0,True,5,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Newcastle,90,0,0,1,0,10,0,0,0,0,0,0,2.9,8.6,15.3,5.0,False,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Aston Villa,90,1,0,0,1,33,0,0,0,0,0,0,8.5,37.6,35.5,12.0,True,10,4.0,4.0,0.0
+Dominik Szoboszlai,MID,Liverpool,Wolves,90,0,0,1,0,15,0,0,0,0,0,0,5.6,19.0,19.2,18.0,False,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,West Ham,90,0,0,1,0,17,0,0,0,0,0,0,8.1,17.4,56.8,7.0,True,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Spurs,90,0,0,2,0,19,0,0,0,0,0,0,4.9,22.0,20.0,7.0,False,2,4.0,4.0,0.0
+Dominik Szoboszlai,MID,Liverpool,Brighton,90,0,1,2,0,24,1,0,0,0,0,0,7.6,18.4,47.6,10.0,False,4,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Everton,90,0,0,0,1,14,0,0,0,0,0,0,8.4,11.0,58.8,14.0,True,3,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Nott'm Forest,90,0,2,0,1,44,0,0,0,0,0,0,13.3,53.6,64.4,15.0,True,12,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Luton,65,0,0,0,1,8,0,0,0,0,0,0,2.2,1.8,14.2,6.0,False,3,4.0,2.0,2.0
+Dominik Szoboszlai,MID,Liverpool,Brentford,90,0,0,0,1,9,0,0,0,0,0,0,4.0,6.2,25.3,8.0,True,3,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Man City,72,0,0,1,0,7,0,0,0,0,0,0,2.9,2.0,17.9,9.0,False,2,4.0,5.0,-1.0
+Dominik Szoboszlai,MID,Liverpool,Fulham,64,0,0,2,0,10,0,0,0,0,0,0,4.0,9.2,15.6,15.0,True,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Sheffield Utd,90,1,0,0,1,32,0,0,0,0,0,0,10.0,50.6,26.7,23.0,False,9,4.0,2.0,2.0
+Dominik Szoboszlai,MID,Liverpool,Crystal Palace,73,0,0,1,0,7,0,0,0,0,0,0,1.4,3.0,5.2,6.0,False,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Man Utd,61,0,0,0,1,8,0,0,0,0,0,0,1.0,5.0,2.3,3.0,True,3,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Arsenal,90,0,0,1,0,15,0,0,0,0,0,0,2.5,16.0,2.8,6.0,True,2,4.0,5.0,-1.0
+Dominik Szoboszlai,MID,Liverpool,Burnley,23,0,0,0,0,0,0,0,0,0,0,0,0.2,0.0,0.7,3.0,False,1,4.0,2.0,2.0
+Dominik Szoboszlai,MID,Liverpool,Newcastle,63,0,0,1,0,14,0,0,0,0,0,0,6.3,15.2,38.4,9.0,True,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Chelsea,68,1,0,0,1,34,0,0,0,0,0,0,10.6,42.2,41.2,23.0,True,9,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Dominik Szoboszlai,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Dominik Szoboszlai,MID,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Dominik Szoboszlai,MID,Liverpool,Nott'm Forest,14,0,0,0,0,1,0,0,0,0,0,0,0.9,0.0,4.5,5.0,False,1,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Man City,60,0,0,1,0,6,0,0,0,0,0,0,3.0,1.6,12.3,16.0,True,2,4.0,5.0,-1.0
+Dominik Szoboszlai,MID,Liverpool,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,6.3,5.8,43.7,13.0,True,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Sheffield Utd,72,0,0,1,0,14,0,0,0,0,0,0,8.5,14.6,53.0,17.0,True,2,4.0,2.0,2.0
+Dominik Szoboszlai,MID,Liverpool,Man Utd,65,0,0,1,0,5,0,0,0,0,0,0,9.6,12.2,50.0,34.0,False,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Crystal Palace,45,0,0,0,0,11,0,0,0,0,0,0,5.7,6.8,43.1,7.0,True,1,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Fulham,4,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Everton,62,0,0,2,0,14,0,0,0,0,0,0,3.2,5.6,12.8,14.0,False,2,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,West Ham,1,0,0,0,0,2,0,0,0,0,0,0,0.4,0.0,0.5,4.0,False,1,4.0,3.0,1.0
+Dominik Szoboszlai,MID,Liverpool,Spurs,7,0,0,0,0,2,0,0,0,0,0,0,2.0,1.4,14.5,4.0,True,1,4.0,4.0,0.0
+Dominik Szoboszlai,MID,Liverpool,Aston Villa,14,0,0,2,0,-2,0,0,0,0,0,0,4.0,4.4,12.5,23.0,False,1,4.0,4.0,0.0
+Dominik Szoboszlai,MID,Liverpool,Wolves,9,0,0,0,0,8,0,0,0,0,0,0,3.8,7.4,21.8,9.0,True,1,4.0,3.0,1.0

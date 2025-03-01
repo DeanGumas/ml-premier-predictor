@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Willy Boly,DEF,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Fulham,63,0,0,3,0,5,1,0,0,0,0,0,0.9,8.8,0.0,0.0,True,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Willy Boly,DEF,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Willy Boly,DEF,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Willy Boly,DEF,Wolves,Crystal Palace,90,0,0,0,1,25,0,0,0,0,0,0,2.4,15.6,0.3,8.0,True,8,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Man Utd,90,0,0,3,0,10,0,0,0,0,0,0,2.8,21.4,0.3,6.0,False,1,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Chelsea,90,0,1,1,0,27,0,0,0,0,0,0,5.4,38.8,10.8,4.0,True,8,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Southampton,90,0,0,0,1,22,0,0,0,0,0,0,2.4,17.8,0.0,6.0,False,7,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Willy Boly,DEF,Wolves,Bournemouth,74,0,0,1,0,12,0,0,0,0,0,0,1.5,14.4,0.2,0.0,False,2,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Leeds,90,0,0,0,1,28,1,0,0,0,0,0,2.7,26.8,0.1,0.0,True,6,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Fulham,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Willy Boly,DEF,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Willy Boly,DEF,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Willy Boly,DEF,Wolves,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Willy Boly,DEF,Wolves,Southampton,9,0,0,1,0,3,0,0,0,0,0,0,0.2,1.4,0.1,0.0,True,1,2.0,2.0,0.0
+Willy Boly,DEF,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Arsenal,11,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Willy Boly,DEF,Wolves,Crystal Palace,71,0,0,1,0,9,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,2.0,2.0,0.0

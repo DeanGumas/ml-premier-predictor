@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ezri Konsa Ngoyo,DEF,Aston Villa,West Ham,90,0,0,1,0,10,0,0,0,0,0,0,3.5,13.4,14.1,7.0,False,2,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Arsenal,90,0,0,2,0,7,0,0,0,0,0,0,1.4,11.2,1.0,2.0,True,1,3.0,4.0,-1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Leicester,90,0,0,1,0,13,0,0,0,0,0,0,1.9,18.4,0.4,0.0,False,2,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Everton,90,0,0,2,0,12,0,0,0,0,0,0,2.7,17.6,7.8,2.0,True,1,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Wolves,90,1,0,1,0,33,0,0,0,0,0,0,8.6,45.4,5.3,35.0,True,9,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Ipswich,90,0,0,2,0,6,0,0,0,0,0,0,2.0,11.0,9.4,0.0,False,1,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Man Utd,11,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Bournemouth,90,0,0,1,0,13,0,0,0,0,0,0,4.1,20.2,13.3,7.0,True,2,3.0,4.0,-1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Spurs,90,0,0,4,0,4,0,0,0,0,0,0,2.5,19.4,3.9,2.0,False,0,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Liverpool,90,0,0,2,0,6,0,0,0,0,0,0,1.5,11.4,1.4,2.0,False,1,3.0,5.0,-2.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Chelsea,90,0,0,3,0,6,0,0,0,0,0,0,1.1,10.8,0.0,0.0,False,1,3.0,4.0,-1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Brentford,90,0,0,1,0,11,0,0,0,0,0,0,1.1,10.0,0.9,0.0,True,2,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Southampton,90,0,0,0,1,26,0,0,0,0,0,0,2.4,20.0,2.2,2.0,True,8,3.0,2.0,1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Nott'm Forest,90,0,0,2,0,8,0,0,0,0,0,0,3.0,14.4,1.8,14.0,False,1,3.0,4.0,-1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Man City,90,0,0,1,0,10,0,0,0,0,0,0,0.8,7.6,0.5,0.0,True,2,3.0,4.0,-1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Newcastle,90,0,0,3,0,0,0,0,0,0,0,0,1.7,16.4,0.9,0.0,False,1,3.0,4.0,-1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Brighton,90,0,0,2,0,4,0,0,0,0,0,0,3.7,19.2,13.7,4.0,True,1,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Leicester,90,0,0,1,0,10,0,0,0,0,0,0,1.8,14.0,2.1,2.0,True,2,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Everton,90,0,0,0,1,29,0,0,0,0,0,0,1.8,17.8,0.3,0.0,False,8,3.0,3.0,0.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,Arsenal,90,0,0,2,0,2,0,0,0,0,0,0,0.9,8.4,0.5,0.0,False,1,3.0,4.0,-1.0
+Ezri Konsa Ngoyo,DEF,Aston Villa,West Ham,90,0,0,1,0,15,0,0,0,0,0,0,2.1,18.2,0.3,2.0,True,2,3.0,3.0,0.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jamaal Lascelles,DEF,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Liverpool,90,0,0,2,0,6,1,0,0,0,0,0,1.9,19.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Fulham,7,0,0,1,0,2,0,0,0,0,0,0,0.6,6.0,0.0,0.0,False,1,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Man Utd,1,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,False,1,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Aston Villa,7,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,0.1,4.0,True,1,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Chelsea,0,0,0,0,0,-3,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,-1,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Arsenal,0,0,0,0,0,-3,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,-1,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Man City,90,0,0,2,0,9,1,0,0,0,0,0,1.6,11.2,0.5,4.0,False,0,4.0,5.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Brentford,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Spurs,16,0,0,0,0,3,0,0,0,0,0,0,0.9,3.4,0.3,5.0,True,1,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jamaal Lascelles,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0

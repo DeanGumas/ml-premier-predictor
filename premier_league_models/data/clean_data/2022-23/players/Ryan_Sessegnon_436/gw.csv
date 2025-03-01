@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ryan Sessegnon,DEF,Spurs,Southampton,65,1,0,1,0,19,1,0,0,0,0,0,9.4,38.4,3.0,53.0,True,7,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Chelsea,56,0,0,1,0,-3,0,0,0,0,0,0,2.1,3.2,0.5,17.0,False,1,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Wolves,14,0,0,0,0,4,0,0,0,0,0,0,0.2,0.2,0.1,2.0,True,1,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Nott'm Forest,16,0,0,0,0,1,0,0,0,0,0,0,0.6,3.0,0.6,2.0,False,1,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,Fulham,90,0,1,1,0,13,0,0,0,0,0,0,11.1,12.8,12.7,85.0,True,5,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Leicester,90,0,0,2,0,7,0,0,0,0,0,0,1.3,2.6,2.4,8.0,True,1,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,Arsenal,19,0,0,0,0,3,0,0,0,0,0,0,0.4,4.2,0.2,0.0,False,1,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Brighton,90,0,0,0,1,25,0,0,0,0,0,0,2.7,8.8,15.8,2.0,False,6,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Man Utd,8,0,0,0,0,1,0,0,0,0,0,0,0.4,0.0,0.5,4.0,False,1,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Newcastle,60,0,0,2,0,8,1,0,0,0,0,0,8.2,17.8,21.8,42.0,True,0,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Bournemouth,83,1,0,2,0,19,1,0,0,0,0,0,8.0,42.8,17.9,19.0,False,6,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Liverpool,67,0,0,2,0,10,0,0,0,0,0,0,4.4,1.8,11.4,31.0,True,1,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,Aston Villa,27,0,0,1,0,2,0,0,0,0,0,0,0.1,1.0,0.4,0.0,True,1,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Crystal Palace,13,0,0,0,0,3,0,0,0,0,0,0,0.5,2.2,0.3,2.0,False,1,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Arsenal,75,0,0,2,0,5,1,0,0,0,0,0,4.6,9.4,15.1,21.0,True,0,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Man City,21,0,0,1,0,1,0,0,0,0,0,0,0.1,0.4,0.3,0.0,False,1,4.0,5.0,-1.0
+Ryan Sessegnon,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Man City,11,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.0,2.0,True,1,4.0,5.0,-1.0
+Ryan Sessegnon,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ryan Sessegnon,DEF,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ryan Sessegnon,DEF,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ryan Sessegnon,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

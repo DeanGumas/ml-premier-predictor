@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Adam Lallana,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Adam Lallana,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Adam Lallana,MID,Southampton,Brentford,8,0,1,0,0,11,0,0,0,0,0,0,3.8,17.6,11.4,9.0,False,4,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Man Utd,27,0,0,1,0,5,0,0,0,0,0,0,0.6,5.8,0.3,0.0,True,1,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Ipswich,58,0,1,0,0,19,1,0,0,0,0,0,3.5,19.6,14.5,1.0,True,4,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Bournemouth,20,0,0,0,0,0,1,0,0,0,0,0,1.0,1.2,3.5,5.0,False,0,2.0,4.0,-2.0
+Adam Lallana,MID,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Adam Lallana,MID,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Man City,59,0,0,1,0,3,1,0,0,0,0,0,1.1,8.6,2.8,0.0,False,0,2.0,4.0,-2.0
+Adam Lallana,MID,Southampton,Everton,45,0,0,0,0,4,0,0,0,0,0,0,1.5,6.0,7.1,2.0,True,1,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Wolves,59,0,0,2,0,9,0,0,0,0,0,0,3.3,8.2,21.2,4.0,False,1,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Liverpool,36,0,0,1,0,6,1,0,0,0,0,0,1.0,3.6,6.3,0.0,True,0,2.0,5.0,-3.0
+Adam Lallana,MID,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Adam Lallana,MID,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,West Ham,3,0,0,0,0,4,0,0,0,0,0,0,1.8,4.2,14.1,0.0,True,1,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Crystal Palace,4,0,0,0,0,4,0,0,0,0,0,0,0.4,2.8,0.7,0.0,False,1,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Brentford,3,0,0,2,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Adam Lallana,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Adam Lallana,MID,Southampton,Newcastle,2,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,2.0,4.0,-2.0

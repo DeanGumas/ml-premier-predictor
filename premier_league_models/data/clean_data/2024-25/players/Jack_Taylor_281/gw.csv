@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Taylor,MID,Ipswich,Liverpool,25,0,0,1,0,3,0,0,0,0,0,0,0.6,3.2,0.9,2.0,True,1,3.0,5.0,-2.0
+Jack Taylor,MID,Ipswich,Man City,18,0,0,1,0,5,0,0,0,0,0,0,0.7,7.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Jack Taylor,MID,Ipswich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Southampton,29,0,0,0,0,-1,1,0,0,0,0,0,0.7,2.6,4.3,0.0,False,0,3.0,2.0,1.0
+Jack Taylor,MID,Ipswich,Aston Villa,21,0,0,0,0,4,0,0,0,0,0,0,1.1,3.2,1.0,7.0,True,1,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,West Ham,16,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,1.1,1.0,False,1,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Everton,19,0,0,0,0,-2,1,0,0,0,0,0,1.4,1.6,1.3,11.0,True,0,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Man Utd,25,0,0,0,0,3,0,0,0,0,0,0,0.6,4.8,1.5,0.0,True,1,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Nott'm Forest,16,0,0,0,0,3,0,0,0,0,0,0,3.5,7.4,26.3,1.0,False,1,3.0,4.0,-1.0
+Jack Taylor,MID,Ipswich,Crystal Palace,24,0,0,0,0,5,0,0,0,0,0,0,0.7,4.4,2.3,0.0,True,1,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Bournemouth,90,0,0,1,0,19,0,0,0,0,0,0,7.6,15.2,37.1,24.0,True,2,3.0,4.0,-1.0
+Jack Taylor,MID,Ipswich,Wolves,15,1,0,0,0,21,1,0,0,0,0,0,5.2,34.6,0.8,17.0,False,6,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Newcastle,28,0,0,0,0,3,0,0,0,0,0,0,0.2,0.4,1.3,0.0,True,1,3.0,4.0,-1.0
+Jack Taylor,MID,Ipswich,Arsenal,10,0,0,0,0,4,0,0,0,0,0,0,0.6,2.6,0.9,2.0,False,1,3.0,4.0,-1.0
+Jack Taylor,MID,Ipswich,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.0,0.0,True,1,3.0,4.0,-1.0
+Jack Taylor,MID,Ipswich,Fulham,18,0,0,1,0,5,0,0,0,0,0,0,0.4,3.2,0.5,0.0,False,1,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Brighton,19,0,0,1,0,1,0,0,0,0,0,0,0.4,1.8,1.7,0.0,True,1,3.0,3.0,0.0
+Jack Taylor,MID,Ipswich,Man City,17,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,4.0,-1.0
+Jack Taylor,MID,Ipswich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

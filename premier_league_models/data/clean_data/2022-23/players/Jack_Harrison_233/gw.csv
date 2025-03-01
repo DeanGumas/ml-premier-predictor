@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Harrison,MID,Leeds,Wolves,90,0,1,1,0,25,1,0,0,0,0,0,12.4,34.8,78.8,10.0,True,6,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Southampton,83,0,1,2,0,18,1,0,0,0,0,0,9.0,34.2,52.2,4.0,False,4,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Chelsea,82,1,1,0,1,43,0,0,0,0,0,0,13.5,67.4,15.8,52.0,True,14,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Brighton,73,0,0,1,0,7,0,0,0,0,0,0,3.8,8.2,11.9,18.0,False,2,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Everton,90,0,0,1,0,-5,0,0,0,0,0,0,7.9,7.6,37.4,34.0,True,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Brentford,45,0,0,2,0,6,0,0,0,0,0,0,3.5,5.4,27.7,2.0,False,1,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Aston Villa,78,0,0,0,1,3,0,0,0,0,0,0,0.1,0.0,0.7,2.0,True,3,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Crystal Palace,90,0,0,2,0,7,0,0,0,0,0,0,4.4,14.6,16.0,13.0,False,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Arsenal,75,0,0,1,0,11,0,0,0,0,0,0,3.3,4.8,24.9,3.0,True,2,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Leicester,25,0,0,0,0,2,0,0,0,0,0,0,0.5,0.6,0.6,4.0,False,1,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Fulham,90,0,1,3,0,11,0,0,0,0,0,0,5.2,8.0,16.2,28.0,True,5,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Liverpool,71,0,0,1,0,0,0,0,0,0,0,0,4.4,4.6,15.1,24.0,False,2,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Bournemouth,45,0,0,2,0,6,0,0,0,0,0,0,2.3,5.6,17.7,0.0,True,1,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Jack Harrison,MID,Leeds,Newcastle,63,0,0,0,1,8,0,0,0,0,0,0,4.3,5.4,33.3,4.0,False,3,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,West Ham,27,0,1,0,0,11,0,0,0,0,0,0,7.1,22.4,28.6,20.0,True,4,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Aston Villa,66,0,0,2,0,-1,0,0,0,0,0,0,10.0,15.0,39.3,46.0,False,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Brentford,90,0,0,0,1,5,0,0,0,0,0,0,2.4,8.2,5.0,11.0,True,3,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Nott'm Forest,82,0,0,1,0,5,0,0,0,0,0,0,1.7,4.6,8.0,4.0,False,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Man Utd,62,0,0,1,0,9,0,0,0,0,0,0,2.9,6.8,16.7,5.0,False,2,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Man Utd,72,0,0,0,1,-1,0,0,0,0,0,0,3.6,7.6,20.8,8.0,True,3,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Everton,85,0,0,1,0,5,0,0,0,0,0,0,2.8,3.8,19.1,5.0,False,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Southampton,90,0,1,0,1,19,0,0,0,0,0,0,6.8,27.0,31.8,9.0,True,6,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Chelsea,79,0,0,1,0,11,0,0,0,0,0,0,5.0,9.6,35.8,5.0,False,2,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Brighton,90,1,1,2,0,31,0,0,1,0,0,0,12.4,63.0,37.4,24.0,True,11,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Wolves,90,1,0,2,0,27,0,0,0,0,0,0,6.6,39.6,4.8,22.0,False,9,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Arsenal,84,0,0,4,0,5,0,0,0,0,0,0,2.6,5.2,2.0,19.0,False,2,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Nott'm Forest,90,1,0,1,0,30,0,0,0,0,0,0,11.2,45.0,24.7,42.0,True,8,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Crystal Palace,90,0,0,5,0,6,0,0,0,0,0,0,4.2,13.6,17.8,11.0,True,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Liverpool,76,0,0,5,0,15,0,0,0,0,0,0,3.5,10.6,17.3,7.0,True,2,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,Fulham,79,0,0,2,0,6,0,0,0,0,0,0,2.3,3.4,12.4,7.0,False,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Leicester,90,0,1,1,0,26,0,0,0,0,0,0,9.9,38.8,59.8,0.0,True,8,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Bournemouth,90,0,0,4,0,14,0,0,0,0,0,0,6.6,21.0,39.9,5.0,False,2,2.0,2.0,0.0
+Jack Harrison,MID,Leeds,Man City,64,0,0,2,0,4,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,2,2.0,5.0,-3.0
+Jack Harrison,MID,Leeds,Newcastle,63,0,0,1,0,3,0,0,0,0,0,0,0.3,1.4,1.3,0.0,True,2,2.0,4.0,-2.0
+Jack Harrison,MID,Leeds,West Ham,61,0,0,1,0,8,0,0,0,0,0,0,4.7,8.2,20.7,18.0,False,2,2.0,3.0,-1.0
+Jack Harrison,MID,Leeds,Spurs,87,1,0,3,0,23,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,8,2.0,4.0,-2.0

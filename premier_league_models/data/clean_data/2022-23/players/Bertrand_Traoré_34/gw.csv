@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Bertrand Traoré,MID,Aston Villa,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Bertrand Traoré,MID,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Bertrand Traoré,MID,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Bertrand Traoré,MID,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Bertrand Traoré,MID,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Bertrand Traoré,MID,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Bertrand Traoré,MID,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,West Ham,26,0,0,0,0,6,0,0,0,0,0,0,3.6,7.6,19.5,9.0,False,1,2.0,3.0,-1.0
+Bertrand Traoré,MID,Aston Villa,Bournemouth,25,0,0,0,0,-1,0,0,0,0,0,0,0.7,0.0,0.8,7.0,True,1,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Leicester,5,1,0,0,0,24,0,0,0,0,0,0,4.0,33.0,0.0,7.0,False,7,2.0,3.0,-1.0
+Bertrand Traoré,MID,Aston Villa,Nott'm Forest,62,1,0,0,1,24,0,0,0,0,0,0,6.1,31.2,1.7,28.0,True,8,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Brentford,24,0,0,0,0,1,0,0,0,0,0,0,0.6,2.0,2.0,2.0,False,1,2.0,3.0,-1.0
+Bertrand Traoré,MID,Aston Villa,Fulham,13,0,0,0,0,-2,1,0,0,0,0,0,0.1,0.0,0.5,2.0,True,0,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Man Utd,26,0,0,0,0,4,0,0,0,0,0,0,0.3,2.2,0.3,0.0,False,1,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Wolves,45,0,0,1,0,1,0,0,0,0,0,0,3.6,6.0,5.9,24.0,False,1,2.0,2.0,0.0
+Bertrand Traoré,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Bertrand Traoré,MID,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

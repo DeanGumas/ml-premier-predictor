@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Tyrick Mitchell,DEF,Crystal Palace,Sheffield Utd,90,0,0,0,1,29,0,0,0,0,0,0,1.9,14.6,2.6,2.0,False,8,3.0,2.0,1.0
+Tyrick Mitchell,DEF,Crystal Palace,Arsenal,90,0,0,1,0,15,0,0,0,0,0,0,4.7,10.8,28.2,8.0,True,2,3.0,5.0,-2.0
+Tyrick Mitchell,DEF,Crystal Palace,Brentford,90,0,0,1,0,13,0,0,0,0,0,0,2.1,9.6,8.9,2.0,False,2,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Wolves,90,0,1,2,0,24,0,0,0,0,0,0,4.5,23.8,17.6,4.0,True,4,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Aston Villa,90,0,0,3,0,14,0,0,0,0,0,0,1.7,13.2,2.1,2.0,False,1,3.0,4.0,-1.0
+Tyrick Mitchell,DEF,Crystal Palace,Fulham,90,0,0,0,1,18,1,0,0,0,0,0,1.7,14.8,2.5,0.0,True,5,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Man Utd,90,0,0,0,1,20,0,0,0,0,0,0,2.8,27.2,0.8,0.0,False,6,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Nott'm Forest,90,0,0,0,1,32,0,0,0,0,0,0,5.6,23.6,32.6,0.0,True,6,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Newcastle,90,0,0,4,0,6,1,0,0,0,0,0,3.9,20.0,12.2,7.0,False,-1,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Spurs,69,0,0,2,0,9,0,0,0,0,0,0,0.6,4.8,0.7,0.0,True,1,3.0,4.0,-1.0
+Tyrick Mitchell,DEF,Crystal Palace,Burnley,90,1,0,0,1,35,0,0,0,0,0,0,6.8,50.2,0.6,17.0,False,15,3.0,2.0,1.0
+Tyrick Mitchell,DEF,Crystal Palace,Everton,90,0,0,3,0,14,0,0,0,0,0,0,2.4,19.6,4.8,0.0,True,1,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Luton,90,0,0,2,0,11,0,0,0,0,0,0,3.1,19.4,9.3,2.0,False,1,3.0,2.0,1.0
+Tyrick Mitchell,DEF,Crystal Palace,West Ham,90,0,0,1,0,12,0,0,0,0,0,0,2.8,15.0,10.9,2.0,False,2,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Bournemouth,28,0,0,1,0,10,0,0,0,0,0,0,2.4,9.6,14.2,0.0,True,1,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Tyrick Mitchell,DEF,Crystal Palace,Man City,90,0,0,2,0,7,0,0,0,0,0,0,1.4,13.6,0.1,0.0,False,1,3.0,5.0,-2.0
+Tyrick Mitchell,DEF,Crystal Palace,Brighton,90,0,0,1,0,4,1,0,0,0,0,0,2.9,12.2,12.7,4.0,True,1,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Chelsea,90,0,0,2,0,7,1,0,0,0,0,0,2.7,18.6,4.1,4.0,False,0,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Brentford,90,0,1,1,0,28,0,0,0,0,0,0,6.0,34.2,23.3,2.0,True,6,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Arsenal,90,0,0,5,0,7,0,0,0,0,0,0,1.6,13.6,0.3,2.0,False,0,3.0,5.0,-2.0
+Tyrick Mitchell,DEF,Crystal Palace,Sheffield Utd,90,0,0,2,0,14,0,0,0,0,0,0,3.2,27.2,3.2,2.0,True,1,3.0,2.0,1.0
+Tyrick Mitchell,DEF,Crystal Palace,Brighton,90,0,0,4,0,6,0,0,0,0,0,0,1.8,12.6,5.1,0.0,False,0,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Chelsea,90,0,0,3,0,11,0,0,0,0,0,0,1.0,9.8,0.4,0.0,True,1,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Everton,90,0,0,1,0,7,0,0,0,0,0,0,5.5,21.0,14.6,19.0,False,2,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Burnley,90,0,0,0,1,17,1,0,0,0,0,0,1.3,3.8,3.0,6.0,True,5,3.0,2.0,1.0
+Tyrick Mitchell,DEF,Crystal Palace,Spurs,90,0,0,3,0,5,0,0,0,0,0,0,2.0,14.0,1.6,4.0,False,1,3.0,4.0,-1.0
+Tyrick Mitchell,DEF,Crystal Palace,Luton,90,0,0,1,0,18,0,0,0,0,0,0,7.9,22.4,46.5,10.0,True,3,3.0,2.0,1.0
+Tyrick Mitchell,DEF,Crystal Palace,Nott'm Forest,90,0,0,1,0,14,0,0,0,0,0,0,4.5,23.0,17.8,4.0,False,2,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Bournemouth,90,0,0,1,0,17,0,0,0,0,0,0,2.5,20.2,3.1,2.0,False,2,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Man City,74,0,0,4,0,10,0,0,0,0,0,0,0.9,7.2,0.1,2.0,True,0,3.0,5.0,-2.0
+Tyrick Mitchell,DEF,Crystal Palace,Liverpool,90,0,1,0,1,37,0,0,0,0,0,0,6.1,42.2,16.7,2.0,False,12,3.0,4.0,-1.0
+Tyrick Mitchell,DEF,Crystal Palace,West Ham,90,0,0,2,0,8,1,0,0,0,0,0,3.2,9.2,12.5,10.0,True,0,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Newcastle,90,0,0,0,1,20,0,0,0,0,0,0,2.5,6.2,14.1,5.0,True,6,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Fulham,84,0,0,1,0,10,0,0,0,0,0,0,2.8,8.2,16.2,4.0,False,2,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Man Utd,90,1,0,0,1,38,0,0,0,0,0,0,13.0,47.0,27.0,56.0,True,12,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Wolves,69,0,0,1,0,15,0,0,0,0,0,0,1.9,9.8,1.0,8.0,False,2,3.0,3.0,0.0
+Tyrick Mitchell,DEF,Crystal Palace,Aston Villa,90,0,0,0,1,28,0,0,0,0,0,0,5.7,17.6,22.3,17.0,True,6,3.0,4.0,-1.0

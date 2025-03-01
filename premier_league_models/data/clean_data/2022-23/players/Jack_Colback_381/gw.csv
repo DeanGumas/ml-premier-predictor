@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Colback,MID,Nott'm Forest,Newcastle,90,0,0,2,0,13,0,0,0,0,0,0,1.6,14.4,1.3,0.0,False,2,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Man City,21,0,0,1,0,8,0,0,0,0,0,0,1.8,4.2,14.0,0.0,False,1,2.0,5.0,-3.0
+Jack Colback,MID,Nott'm Forest,Bournemouth,14,0,0,1,0,2,0,0,0,0,0,0,0.1,0.0,0.8,0.0,True,1,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Crystal Palace,19,0,0,0,0,5,0,0,0,0,0,0,0.5,5.2,0.0,0.0,True,1,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Chelsea,12,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.6,0.0,True,1,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Southampton,30,0,0,0,0,4,0,0,0,0,0,0,0.7,7.0,0.2,0.0,False,1,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Leicester,45,0,0,0,0,4,0,0,0,0,0,0,1.6,5.0,10.8,0.0,True,1,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Leeds,45,0,0,0,0,6,0,0,0,0,0,0,0.7,6.2,0.3,0.0,True,1,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Man City,57,0,0,1,0,3,0,0,0,0,0,0,0.6,6.0,0.0,0.0,True,1,2.0,5.0,-3.0
+Jack Colback,MID,Nott'm Forest,West Ham,90,0,0,4,0,17,0,0,0,0,0,0,1.1,8.4,2.2,0.0,False,2,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Everton,69,0,0,2,0,8,0,0,0,0,0,0,1.1,5.2,3.5,2.0,True,2,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Colback,MID,Nott'm Forest,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Colback,MID,Nott'm Forest,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Colback,MID,Nott'm Forest,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0

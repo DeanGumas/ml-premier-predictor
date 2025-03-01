@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Grady Diangana,MID,West Brom,Leicester,90,0,0,3,0,3,0,0,0,0,0,0,2.7,4.8,12.8,9.0,True,2020-09-13T13:00:00Z,2
+Grady Diangana,MID,West Brom,Everton,70,1,0,5,0,26,0,0,0,0,0,0,8.7,47.6,3.6,36.0,False,2020-09-19T11:30:00Z,7
+Grady Diangana,MID,West Brom,Chelsea,73,0,0,2,0,5,0,0,0,0,0,0,4.4,12.0,20.2,12.0,True,2020-09-26T16:30:00Z,2
+Grady Diangana,MID,West Brom,Southampton,90,0,0,2,0,6,0,0,0,0,0,0,1.8,10.0,1.9,6.0,False,2020-10-04T11:00:00Z,2
+Grady Diangana,MID,West Brom,Burnley,90,0,0,0,1,4,0,0,0,0,0,0,4.1,6.0,15.8,19.0,True,2020-10-19T16:30:00Z,3
+Grady Diangana,MID,West Brom,Brighton,62,0,0,1,0,3,0,0,0,0,0,0,2.2,6.0,14.2,2.0,False,2020-10-26T17:30:00Z,2
+Grady Diangana,MID,West Brom,Fulham,90,0,0,2,0,5,0,0,0,0,0,0,3.5,10.4,2.7,22.0,False,2020-11-02T17:30:00Z,2
+Grady Diangana,MID,West Brom,Spurs,23,0,0,1,0,0,0,0,0,0,0,0,0.2,0.0,0.7,2.0,True,2020-11-08T12:00:00Z,1
+Grady Diangana,MID,West Brom,Man Utd,61,0,0,1,0,10,0,0,0,0,0,0,2.9,7.6,2.9,18.0,False,2020-11-21T20:00:00Z,2
+Grady Diangana,MID,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-28T20:00:00Z,0
+Grady Diangana,MID,West Brom,Crystal Palace,45,0,0,1,0,1,0,0,0,0,0,0,1.1,4.6,6.1,0.0,True,2020-12-06T12:00:00Z,1
+Grady Diangana,MID,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-12T15:00:00Z,0
+Grady Diangana,MID,West Brom,Man City,90,0,0,1,0,10,0,0,0,0,0,0,2.3,21.6,1.6,0.0,False,2020-12-15T20:00:00Z,2
+Grady Diangana,MID,West Brom,Aston Villa,77,0,0,1,0,9,0,0,0,0,0,0,0.7,4.2,2.3,0.0,True,2020-12-20T19:15:00Z,2
+Grady Diangana,MID,West Brom,Liverpool,90,0,0,1,0,6,0,0,0,0,0,0,1.6,11.0,1.1,4.0,False,2020-12-27T16:30:00Z,2
+Grady Diangana,MID,West Brom,Leeds,72,0,0,5,0,4,0,0,0,0,0,0,2.8,6.6,2.1,19.0,True,2020-12-29T18:00:00Z,2
+Grady Diangana,MID,West Brom,Arsenal,45,0,0,2,0,3,0,0,0,0,0,0,0.2,0.0,0.5,2.0,True,2021-01-02T20:00:00Z,1
+Grady Diangana,MID,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-16T12:30:00Z,0
+Grady Diangana,MID,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-19T18:00:00Z,0
+Grady Diangana,MID,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-26T20:15:00Z,0
+Grady Diangana,MID,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-30T15:00:00Z,0
+Grady Diangana,MID,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-02T18:00:00Z,0
+Grady Diangana,MID,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-07T12:00:00Z,0
+Grady Diangana,MID,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-14T14:00:00Z,0
+Grady Diangana,MID,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-20T15:00:00Z,0
+Grady Diangana,MID,West Brom,Brighton,18,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-27T15:00:00Z,1
+Grady Diangana,MID,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-04T18:00:00Z,0
+Grady Diangana,MID,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-07T12:00:00Z,0
+Grady Diangana,MID,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-13T15:00:00Z,0
+Grady Diangana,MID,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-03T11:30:00Z,0
+Grady Diangana,MID,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-12T17:00:00Z,0
+Grady Diangana,MID,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-22T19:00:00Z,0
+Grady Diangana,MID,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-25T18:00:00Z,0
+Grady Diangana,MID,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-03T17:00:00Z,0
+Grady Diangana,MID,West Brom,Arsenal,22,0,0,1,0,3,0,0,0,0,0,0,0.1,1.2,0.0,0.0,False,2021-05-09T18:00:00Z,1
+Grady Diangana,MID,West Brom,Liverpool,72,0,0,1,0,7,0,0,0,0,0,0,1.3,10.2,0.5,2.0,True,2021-05-16T15:30:00Z,2
+Grady Diangana,MID,West Brom,West Ham,21,0,0,2,0,0,0,0,0,0,0,0,0.3,0.0,2.2,1.0,True,2021-05-19T19:15:00Z,1
+Grady Diangana,MID,West Brom,Leeds,29,0,0,1,0,7,0,0,0,0,0,0,2.5,5.6,11.1,8.0,False,2021-05-23T15:00:00Z,1

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kristoffer Ajer,DEF,Brentford,Crystal Palace,90,0,0,1,0,4,0,0,0,0,0,0,4.2,7.8,1.3,33.0,True,2,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Liverpool,90,0,0,2,0,-2,0,0,0,0,0,0,2.5,11.8,11.6,2.0,False,1,3.0,5.0,-2.0
+Kristoffer Ajer,DEF,Brentford,Southampton,38,0,0,0,0,5,0,0,0,0,0,0,0.6,3.6,0.2,2.0,True,1,3.0,2.0,1.0
+Kristoffer Ajer,DEF,Brentford,Man City,71,0,0,2,0,7,0,0,0,0,0,0,1.8,9.4,6.1,2.0,False,1,3.0,4.0,-1.0
+Kristoffer Ajer,DEF,Brentford,Spurs,78,0,0,2,0,0,1,0,0,0,0,0,1.5,4.4,10.9,0.0,False,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,West Ham,90,0,0,1,0,10,0,0,0,0,0,0,2.3,17.2,5.5,0.0,True,2,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Wolves,90,0,0,2,0,-3,1,0,0,0,0,0,1.9,10.6,2.6,6.0,True,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Man Utd,90,0,0,2,0,2,1,0,0,0,0,0,1.1,7.0,2.4,2.0,False,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Kristoffer Ajer,DEF,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Kristoffer Ajer,DEF,Brentford,Chelsea,14,0,0,1,0,4,0,0,0,0,0,0,2.1,4.4,14.3,2.0,False,1,3.0,4.0,-1.0
+Kristoffer Ajer,DEF,Brentford,Nott'm Forest,66,0,0,2,0,-1,0,0,0,0,0,0,4.0,11.6,1.1,27.0,True,1,3.0,4.0,-1.0
+Kristoffer Ajer,DEF,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Kristoffer Ajer,DEF,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Kristoffer Ajer,DEF,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Kristoffer Ajer,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Kristoffer Ajer,DEF,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Kristoffer Ajer,DEF,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

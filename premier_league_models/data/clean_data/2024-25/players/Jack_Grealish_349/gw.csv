@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Grealish,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jack Grealish,MID,Man City,Ipswich,19,0,0,0,0,0,1,0,0,0,0,0,1.3,1.2,2.4,9.0,True,0,4.0,3.0,1.0
+Jack Grealish,MID,Man City,West Ham,71,0,0,1,0,16,0,0,0,0,0,0,6.9,10.4,37.1,21.0,False,2,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Brentford,83,0,0,1,0,14,0,0,0,0,0,0,6.2,9.8,18.4,34.0,True,2,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Arsenal,12,0,0,0,0,6,0,0,0,0,0,0,3.9,5.0,23.5,10.0,True,1,4.0,4.0,0.0
+Jack Grealish,MID,Man City,Newcastle,80,0,1,1,0,33,1,0,0,0,0,0,10.3,32.2,56.1,15.0,False,7,4.0,4.0,0.0
+Jack Grealish,MID,Man City,Fulham,61,0,0,1,0,11,0,0,0,0,0,0,3.5,6.6,18.3,10.0,True,2,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Wolves,17,0,0,0,0,10,0,0,0,0,0,0,7.7,12.0,38.3,27.0,False,1,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jack Grealish,MID,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jack Grealish,MID,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Spurs,16,0,0,1,0,2,0,0,0,0,0,0,3.0,1.0,21.3,8.0,True,1,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Liverpool,11,0,0,0,0,4,0,0,0,0,0,0,0.4,0.8,1.2,2.0,False,1,4.0,5.0,-1.0
+Jack Grealish,MID,Man City,Nott'm Forest,89,0,0,0,1,19,0,0,0,0,0,0,8.7,23.4,38.8,25.0,True,3,4.0,4.0,0.0
+Jack Grealish,MID,Man City,Crystal Palace,4,0,0,0,0,4,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Man Utd,13,0,0,2,0,2,0,0,0,0,0,0,0.2,1.0,1.3,0.0,True,1,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Aston Villa,90,0,0,2,0,13,1,0,0,0,0,0,7.6,11.0,30.2,35.0,False,1,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jack Grealish,MID,Man City,West Ham,6,0,0,0,0,4,0,0,0,0,0,0,0.7,0.0,1.6,5.0,True,1,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Ipswich,27,0,0,0,0,3,0,0,0,0,0,0,0.7,1.8,2.7,2.0,False,1,4.0,3.0,1.0
+Jack Grealish,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

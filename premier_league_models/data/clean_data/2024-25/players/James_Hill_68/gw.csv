@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+James Hill,DEF,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+James Hill,DEF,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+James Hill,DEF,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+James Hill,DEF,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+James Hill,DEF,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+James Hill,DEF,Bournemouth,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+James Hill,DEF,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+James Hill,DEF,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Ipswich,4,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.4,3.6,0.3,0.0,False,1,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Fulham,81,0,1,2,0,15,0,0,0,0,0,0,4.8,25.6,21.9,0.0,False,4,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Everton,69,0,0,0,1,24,0,0,0,0,0,0,0.9,6.6,1.2,1.0,True,6,4.0,3.0,1.0
+James Hill,DEF,Bournemouth,Chelsea,21,0,0,1,0,-2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,4.0,4.0,0.0
+James Hill,DEF,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+James Hill,DEF,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

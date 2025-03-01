@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Tom Davies,MID,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Aston Villa,55,0,0,1,0,1,1,0,0,0,0,0,0.6,0.8,1.0,4.0,False,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,Nott'm Forest,56,0,0,0,0,7,0,0,0,0,0,0,4.4,4.0,17.3,23.0,True,1,2.0,2.0,0.0
+Tom Davies,MID,Everton,Brentford,12,0,0,1,0,4,0,0,0,0,0,0,0.5,4.0,1.1,0.0,False,1,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Leeds,90,0,0,1,0,4,1,0,0,0,0,0,0.9,5.8,2.1,1.0,False,1,2.0,2.0,0.0
+Tom Davies,MID,Everton,Liverpool,61,0,0,0,1,5,0,0,0,0,0,0,0.6,1.2,0.8,4.0,True,3,2.0,4.0,-2.0
+Tom Davies,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Southampton,16,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,2.0,2.0,0.0
+Tom Davies,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Crystal Palace,4,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,2.0,2.0,0.0
+Tom Davies,MID,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,Man City,12,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,0.3,2.0,False,1,2.0,5.0,-3.0
+Tom Davies,MID,Everton,Brighton,57,0,0,4,0,5,0,0,0,0,0,0,2.0,10.4,1.0,9.0,True,1,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,West Ham,45,0,0,0,0,9,0,0,0,0,0,0,1.9,3.4,9.9,6.0,False,1,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Liverpool,12,0,0,0,0,-2,0,0,0,0,0,0,0.7,0.0,0.3,7.0,False,1,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Leeds,16,0,0,0,0,3,0,0,0,0,0,0,0.6,0.2,0.8,5.0,True,1,2.0,2.0,0.0
+Tom Davies,MID,Everton,Aston Villa,8,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,1,2.0,2.0,0.0
+Tom Davies,MID,Everton,Arsenal,11,0,0,1,0,-2,0,0,0,0,0,0,3.8,5.0,0.0,33.0,False,1,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Nott'm Forest,1,0,0,0,0,-3,1,0,0,0,0,0,0.0,0.0,0.3,0.0,False,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,Brentford,10,0,0,0,0,2,0,0,0,0,0,0,0.4,4.2,0.1,0.0,True,1,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Spurs,7,0,0,0,0,5,0,0,0,0,0,0,0.5,2.6,0.3,2.0,True,1,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Man Utd,30,0,0,1,0,3,0,0,0,0,0,0,1.4,3.8,10.5,0.0,False,1,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Fulham,21,0,0,0,0,2,0,0,0,0,0,0,0.3,0.6,0.4,2.0,True,1,2.0,2.0,0.0
+Tom Davies,MID,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Tom Davies,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Tom Davies,MID,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Tom Davies,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Tom Davies,MID,Everton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0

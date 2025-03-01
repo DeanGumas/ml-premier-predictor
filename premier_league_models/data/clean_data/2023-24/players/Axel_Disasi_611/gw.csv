@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Axel Disasi,DEF,Chelsea,Liverpool,90,1,0,1,0,27,0,0,0,0,0,0,8.6,47.0,1.8,37.0,True,11,3.0,4.0,-1.0
+Axel Disasi,DEF,Chelsea,West Ham,90,0,0,3,0,6,1,0,0,0,0,0,1.7,12.6,2.8,2.0,False,0,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Luton,90,0,0,0,1,29,0,0,0,0,0,0,3.9,20.6,1.3,17.0,True,6,3.0,2.0,1.0
+Axel Disasi,DEF,Chelsea,Nott'm Forest,90,0,0,1,0,13,0,0,0,0,0,0,3.5,13.2,13.9,8.0,True,2,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Bournemouth,90,0,0,0,1,23,1,0,0,0,0,0,2.8,26.6,1.0,0.0,False,5,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Aston Villa,90,0,0,1,0,11,0,0,0,0,0,0,3.4,15.4,12.7,6.0,True,2,3.0,4.0,-1.0
+Axel Disasi,DEF,Chelsea,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,1.7,13.0,0.1,4.0,False,6,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Burnley,90,0,0,1,0,13,0,0,0,0,0,0,2.5,21.4,4.0,0.0,False,2,3.0,2.0,1.0
+Axel Disasi,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Axel Disasi,DEF,Chelsea,Brentford,66,0,0,1,0,12,0,0,0,0,0,0,1.8,6.6,10.9,0.0,True,2,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Spurs,90,0,0,1,0,9,0,0,0,0,0,0,1.4,9.6,0.4,4.0,False,2,3.0,4.0,-1.0
+Axel Disasi,DEF,Chelsea,Man City,90,0,0,4,0,18,0,0,0,0,0,0,2.4,23.4,0.6,0.0,True,0,3.0,5.0,-2.0
+Axel Disasi,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Brighton,90,0,0,2,0,13,0,0,0,0,0,0,2.2,20.2,1.8,0.0,True,1,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Man Utd,90,0,0,2,0,12,0,0,0,0,0,0,1.5,11.2,3.5,0.0,False,1,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Everton,90,0,0,2,0,15,0,0,0,0,0,0,2.7,19.4,3.3,4.0,False,1,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Sheffield Utd,90,0,0,0,1,24,0,0,0,0,0,0,2.6,19.6,6.0,0.0,True,6,3.0,2.0,1.0
+Axel Disasi,DEF,Chelsea,Wolves,90,0,0,2,0,18,0,0,0,0,0,0,2.6,23.8,2.6,0.0,False,2,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Crystal Palace,90,0,0,1,0,18,0,0,0,0,0,0,2.2,20.4,1.8,0.0,True,2,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Luton,90,0,0,2,0,12,1,0,0,0,0,0,1.9,18.8,0.6,0.0,False,0,3.0,2.0,1.0
+Axel Disasi,DEF,Chelsea,Fulham,90,0,0,0,1,21,1,0,0,0,0,0,1.9,14.0,1.4,4.0,True,5,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Liverpool,90,0,0,4,0,13,1,0,0,0,0,0,2.0,18.2,2.0,0.0,False,-1,3.0,4.0,-1.0
+Axel Disasi,DEF,Chelsea,Wolves,90,0,0,4,0,12,0,0,1,0,0,0,2.6,12.0,7.7,6.0,True,-2,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Crystal Palace,90,0,0,1,0,10,1,0,0,0,0,0,3.6,16.0,2.6,17.0,False,1,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Man City,90,0,0,1,0,15,0,0,0,0,0,0,4.6,45.4,0.2,0.0,False,2,3.0,5.0,-2.0
+Axel Disasi,DEF,Chelsea,Brentford,90,1,0,2,0,27,0,0,0,0,0,0,8.6,47.2,2.0,37.0,False,9,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Newcastle,90,0,0,2,0,18,0,0,0,0,0,0,1.8,17.4,0.3,0.0,True,1,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Burnley,90,0,0,2,0,15,0,0,0,0,0,0,3.0,24.6,3.5,2.0,True,1,3.0,2.0,1.0
+Axel Disasi,DEF,Chelsea,Man Utd,74,0,0,3,0,10,0,0,0,0,0,0,3.6,8.2,11.2,17.0,True,1,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Sheffield Utd,90,0,0,2,0,10,0,0,0,0,0,0,1.0,7.6,2.2,0.0,False,1,3.0,2.0,1.0
+Axel Disasi,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Arsenal,90,0,0,5,0,13,0,0,0,0,0,0,2.8,17.2,3.3,7.0,False,0,3.0,5.0,-2.0
+Axel Disasi,DEF,Chelsea,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,3.0,4.0,-1.0
+Axel Disasi,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Axel Disasi,DEF,Chelsea,West Ham,8,0,0,0,0,3,0,0,0,0,0,0,0.2,2.4,0.0,0.0,True,1,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Axel Disasi,DEF,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

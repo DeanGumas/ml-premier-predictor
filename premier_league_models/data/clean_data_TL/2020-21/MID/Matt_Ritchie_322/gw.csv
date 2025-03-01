@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Matt Ritchie,MID,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-12T19:00:00Z,0
+Matt Ritchie,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-20T13:00:00Z,0
+Matt Ritchie,MID,Newcastle,Spurs,68,0,0,1,0,10,0,0,0,0,0,0,5.3,11.6,23.3,18.0,False,2020-09-27T13:00:00Z,2
+Matt Ritchie,MID,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-03T19:00:00Z,0
+Matt Ritchie,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-17T19:00:00Z,0
+Matt Ritchie,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-25T16:30:00Z,0
+Matt Ritchie,MID,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-01T14:00:00Z,0
+Matt Ritchie,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-06T20:00:00Z,0
+Matt Ritchie,MID,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-21T12:30:00Z,0
+Matt Ritchie,MID,Newcastle,Crystal Palace,22,0,0,0,0,6,0,0,0,0,0,0,3.2,6.6,18.7,7.0,False,2020-11-27T20:00:00Z,1
+Matt Ritchie,MID,Newcastle,West Brom,90,0,0,1,0,14,0,0,0,0,0,0,5.6,12.6,43.7,0.0,True,2020-12-12T15:00:00Z,2
+Matt Ritchie,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-16T18:00:00Z,0
+Matt Ritchie,MID,Newcastle,Fulham,90,0,0,1,0,5,0,0,1,0,0,0,6.3,8.6,43.3,11.0,True,2020-12-19T20:00:00Z,0
+Matt Ritchie,MID,Newcastle,Man City,65,0,0,2,0,2,1,0,0,0,0,0,0.3,2.4,0.7,0.0,False,2020-12-26T20:00:00Z,1
+Matt Ritchie,MID,Newcastle,Liverpool,85,0,0,0,1,17,0,0,0,0,0,0,5.4,18.4,33.7,2.0,True,2020-12-30T20:00:00Z,3
+Matt Ritchie,MID,Newcastle,Leicester,90,0,0,2,0,9,0,0,0,0,0,0,5.6,15.8,39.7,0.0,True,2021-01-03T14:15:00Z,2
+Matt Ritchie,MID,Newcastle,Sheffield Utd,16,0,0,0,0,3,0,0,0,0,0,0,0.2,0.6,0.9,0.0,False,2021-01-12T18:00:00Z,1
+Matt Ritchie,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-18T20:00:00Z,0
+Matt Ritchie,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-23T20:00:00Z,0
+Matt Ritchie,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-26T18:00:00Z,0
+Matt Ritchie,MID,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-30T12:30:00Z,0
+Matt Ritchie,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-02T20:15:00Z,0
+Matt Ritchie,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-06T15:00:00Z,0
+Matt Ritchie,MID,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-15T20:00:00Z,0
+Matt Ritchie,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-21T19:00:00Z,0
+Matt Ritchie,MID,Newcastle,Wolves,18,0,0,1,0,2,0,0,0,0,0,0,0.6,0.0,0.6,6.0,True,2021-02-27T20:00:00Z,1
+Matt Ritchie,MID,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-07T12:00:00Z,0
+Matt Ritchie,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-12T20:00:00Z,0
+Matt Ritchie,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-20T20:00:00Z,0
+Matt Ritchie,MID,Newcastle,Spurs,90,0,0,2,0,11,0,0,0,0,0,0,5.1,14.4,20.3,16.0,True,2021-04-04T13:05:00Z,2
+Matt Ritchie,MID,Newcastle,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,2.8,13.2,14.6,0.0,False,2021-04-11T11:00:00Z,2
+Matt Ritchie,MID,Newcastle,West Ham,90,0,2,2,0,32,0,0,0,0,0,0,6.0,34.6,25.8,0.0,True,2021-04-17T11:30:00Z,10
+Matt Ritchie,MID,Newcastle,Liverpool,90,0,0,1,0,11,0,0,0,0,0,0,4.0,9.4,18.9,12.0,False,2021-04-24T11:30:00Z,2
+Matt Ritchie,MID,Newcastle,Arsenal,90,0,0,2,0,10,0,0,0,0,0,0,3.7,7.2,30.2,0.0,True,2021-05-02T13:00:00Z,2
+Matt Ritchie,MID,Newcastle,Leicester,90,0,2,2,0,32,0,0,0,0,0,0,7.8,32.8,19.5,26.0,False,2021-05-07T19:00:00Z,8
+Matt Ritchie,MID,Newcastle,Man City,83,0,0,4,0,6,1,0,0,0,0,0,2.2,7.8,14.1,0.0,True,2021-05-14T19:00:00Z,1
+Matt Ritchie,MID,Newcastle,Sheffield Utd,90,0,0,0,1,18,0,0,0,0,0,0,6.1,16.2,43.6,1.0,True,2021-05-19T17:00:00Z,3
+Matt Ritchie,MID,Newcastle,Fulham,90,0,1,0,1,27,0,0,0,0,0,0,3.6,13.6,20.3,2.0,False,2021-05-23T15:00:00Z,9

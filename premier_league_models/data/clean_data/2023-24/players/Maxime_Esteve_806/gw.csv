@@ -1,0 +1,17 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Maxime Esteve,DEF,Burnley,Fulham,45,0,0,0,0,8,0,0,0,0,0,0,1.0,8.4,1.1,0.0,True,1,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Liverpool,79,0,0,3,0,13,0,0,0,0,0,0,1.7,16.6,0.1,0.0,False,1,2.0,4.0,-2.0
+Maxime Esteve,DEF,Burnley,Arsenal,61,0,0,3,0,7,0,0,0,0,0,0,1.3,13.0,0.1,0.0,True,1,2.0,5.0,-3.0
+Maxime Esteve,DEF,Burnley,Crystal Palace,90,0,0,3,0,9,1,0,0,0,0,0,1.3,12.4,0.5,0.0,False,0,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Bournemouth,90,0,0,2,0,15,0,0,0,0,0,0,2.7,15.2,5.8,6.0,True,1,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,West Ham,90,0,0,2,0,9,1,0,0,0,0,0,1.8,17.0,0.9,0.0,False,0,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Brentford,90,0,0,1,0,9,0,0,0,0,0,0,2.3,16.6,4.8,2.0,True,2,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Chelsea,90,0,0,2,0,5,1,0,0,0,0,0,2.6,15.4,0.3,10.0,False,0,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Wolves,90,0,0,1,0,14,0,0,0,0,0,0,1.8,13.6,2.8,2.0,True,2,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Everton,90,0,0,1,0,11,0,0,0,0,0,0,2.0,14.4,1.4,4.0,False,2,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Brighton,90,0,0,1,0,13,0,0,0,0,0,0,2.0,18.4,1.4,0.0,True,2,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Sheffield Utd,90,0,0,1,0,10,0,0,0,0,0,0,2.2,11.8,10.4,0.0,False,2,2.0,2.0,0.0
+Maxime Esteve,DEF,Burnley,Man Utd,90,0,0,1,0,11,1,0,0,0,0,0,2.5,21.8,2.7,0.0,False,1,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Newcastle,45,0,0,3,0,4,1,0,0,0,0,0,0.6,5.8,0.3,0.0,True,-1,2.0,3.0,-1.0
+Maxime Esteve,DEF,Burnley,Spurs,90,0,0,2,0,12,0,0,0,0,0,0,1.4,8.4,1.2,4.0,False,1,2.0,4.0,-2.0
+Maxime Esteve,DEF,Burnley,Nott'm Forest,90,0,0,2,0,7,1,0,0,0,0,0,2.7,20.4,5.1,1.0,True,0,2.0,3.0,-1.0

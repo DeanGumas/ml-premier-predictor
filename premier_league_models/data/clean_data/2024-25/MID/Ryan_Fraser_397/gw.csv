@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ryan Fraser,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ryan Fraser,MID,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ryan Fraser,MID,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Man Utd,26,0,0,1,0,6,0,0,0,0,0,0,0.2,2.0,0.3,0.0,True,1,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Ipswich,58,0,0,0,0,3,0,0,0,0,0,0,1.2,10.6,1.5,0.0,True,1,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Bournemouth,45,0,0,3,0,6,0,0,0,0,0,0,1.2,4.2,0.3,7.0,False,1,4.0,4.0,0.0
+Ryan Fraser,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ryan Fraser,MID,Newcastle,Leicester,11,0,0,3,0,-9,0,1,0,0,0,0,0.4,0.0,10.3,2.0,True,-2,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ryan Fraser,MID,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Liverpool,76,0,0,2,0,10,0,0,0,0,0,0,2.6,14.6,11.3,0.0,True,2,4.0,5.0,-1.0
+Ryan Fraser,MID,Newcastle,Brighton,24,0,0,0,0,5,0,0,0,0,0,0,0.7,4.4,0.5,2.0,False,1,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Chelsea,61,0,0,3,0,7,0,0,0,0,0,0,0.4,0.0,2.3,2.0,True,2,4.0,4.0,0.0
+Ryan Fraser,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Fraser,MID,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ryan Fraser,MID,Newcastle,Newcastle,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,4.0,4.0,0.0

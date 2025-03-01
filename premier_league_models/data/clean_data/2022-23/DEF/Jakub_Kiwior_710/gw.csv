@@ -1,0 +1,20 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jakub Kiwior,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jakub Kiwior,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Jakub Kiwior,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jakub Kiwior,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Crystal Palace,4,0,0,0,0,3,0,0,0,0,0,0,0.3,2.8,0.1,0.0,True,1,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Liverpool,10,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,4.0,0.0
+Jakub Kiwior,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jakub Kiwior,DEF,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Jakub Kiwior,DEF,Arsenal,Chelsea,90,0,0,1,0,18,0,0,0,0,0,0,2.3,20.4,0.4,2.0,True,2,4.0,4.0,0.0
+Jakub Kiwior,DEF,Arsenal,Newcastle,90,0,0,0,1,25,0,0,0,0,0,0,1.9,18.4,0.3,0.0,False,6,4.0,4.0,0.0
+Jakub Kiwior,DEF,Arsenal,Brighton,90,0,0,3,0,18,0,0,0,0,0,0,1.4,11.0,0.5,2.0,True,1,4.0,3.0,1.0
+Jakub Kiwior,DEF,Arsenal,Nott'm Forest,62,0,0,1,0,8,0,0,0,0,0,0,0.4,1.0,2.8,0.0,False,2,4.0,2.0,2.0
+Jakub Kiwior,DEF,Arsenal,Wolves,79,1,0,0,1,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,13,4.0,2.0,2.0

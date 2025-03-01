@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Christian Nørgaard,MID,Brentford,Crystal Palace,90,0,0,1,0,15,0,0,0,0,0,0,3.0,17.8,12.3,0.0,True,2,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Liverpool,90,0,0,2,0,7,1,0,0,0,0,0,1.5,7.2,4.1,4.0,False,1,3.0,5.0,-2.0
+Christian Nørgaard,MID,Brentford,Southampton,90,0,0,1,0,16,0,0,0,0,0,0,4.1,17.2,12.9,11.0,True,2,3.0,2.0,1.0
+Christian Nørgaard,MID,Brentford,Man City,90,0,0,2,0,24,0,0,0,0,0,0,4.5,24.6,17.9,2.0,False,2,3.0,4.0,-1.0
+Christian Nørgaard,MID,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Wolves,76,1,0,2,0,34,0,0,0,0,0,0,8.8,41.8,6.8,39.0,True,7,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Man Utd,90,0,0,2,0,16,1,0,0,0,0,0,3.4,19.4,5.3,9.0,False,1,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Ipswich,77,0,0,2,0,10,0,0,0,0,0,0,2.1,3.4,4.2,13.0,True,2,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Fulham,90,0,1,2,0,21,0,0,0,0,0,0,5.9,36.4,23.0,0.0,False,5,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Bournemouth,82,0,0,2,0,16,0,0,0,0,0,0,2.4,15.4,1.7,7.0,True,2,3.0,4.0,-1.0
+Christian Nørgaard,MID,Brentford,Everton,40,0,0,0,0,-4,0,1,0,0,0,0,1.5,4.6,10.5,0.0,False,-2,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Leicester,69,0,0,1,0,16,0,0,0,0,0,0,2.6,15.0,4.8,6.0,True,2,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Newcastle,90,0,1,2,0,24,0,0,0,0,0,0,6.7,38.6,26.2,2.0,True,5,3.0,4.0,-1.0
+Christian Nørgaard,MID,Brentford,Chelsea,90,0,0,2,0,13,0,0,0,0,0,0,3.8,14.4,2.7,21.0,False,2,3.0,4.0,-1.0
+Christian Nørgaard,MID,Brentford,Nott'm Forest,90,0,0,2,0,23,0,0,0,0,0,0,4.0,23.2,9.9,7.0,True,2,3.0,4.0,-1.0
+Christian Nørgaard,MID,Brentford,Brighton,71,0,0,0,1,9,0,0,0,0,0,0,1.7,13.4,1.3,2.0,False,3,3.0,3.0,0.0
+Christian Nørgaard,MID,Brentford,Arsenal,74,0,0,3,0,4,1,0,0,0,0,0,0.7,2.8,2.6,2.0,True,1,3.0,4.0,-1.0
+Christian Nørgaard,MID,Brentford,Southampton,80,0,0,0,1,10,0,0,0,0,0,0,4.9,15.2,21.0,13.0,False,3,3.0,2.0,1.0
+Christian Nørgaard,MID,Brentford,Man City,90,1,0,2,0,29,0,0,0,0,0,0,7.8,52.8,3.8,21.0,True,8,3.0,4.0,-1.0
+Christian Nørgaard,MID,Brentford,Liverpool,90,0,0,2,0,19,1,0,0,0,0,0,4.4,25.4,12.8,6.0,True,1,3.0,5.0,-2.0
+Christian Nørgaard,MID,Brentford,Crystal Palace,53,0,0,0,0,10,0,0,0,0,0,0,1.7,6.6,2.6,8.0,False,1,3.0,3.0,0.0

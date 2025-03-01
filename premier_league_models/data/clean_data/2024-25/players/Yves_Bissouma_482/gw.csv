@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Yves Bissouma,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Everton,71,1,0,0,1,40,0,0,0,0,0,0,5.7,43.8,6.5,7.0,True,9,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Newcastle,81,0,0,2,0,15,1,0,0,0,0,0,4.3,11.6,29.0,2.0,False,1,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Brentford,27,0,0,0,0,1,1,0,0,0,0,0,0.6,3.6,2.8,0.0,True,0,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Brighton,11,0,0,0,0,4,0,0,0,0,0,0,0.3,2.6,0.3,0.0,False,1,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,West Ham,80,1,0,1,0,44,0,0,0,0,0,0,8.6,55.0,14.0,17.0,True,10,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Crystal Palace,86,0,0,1,0,13,0,0,0,0,0,0,1.8,15.6,2.0,0.0,False,2,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Aston Villa,34,0,0,0,0,5,0,0,0,0,0,0,1.1,8.2,2.3,0.0,True,1,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Ipswich,6,0,0,0,0,4,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,1,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Man City,90,0,0,0,1,7,1,0,0,0,0,0,0.8,3.2,3.6,1.0,False,2,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,2.1,17.2,3.7,0.0,True,2,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Bournemouth,79,0,0,1,0,10,1,0,0,0,0,0,3.4,17.4,14.5,2.0,False,1,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Chelsea,78,0,0,3,0,1,1,0,0,0,0,0,0.6,2.8,2.7,0.0,True,1,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Yves Bissouma,MID,Spurs,Liverpool,90,0,0,6,0,13,0,0,0,0,0,0,1.2,6.4,3.4,2.0,True,2,3.0,5.0,-2.0
+Yves Bissouma,MID,Spurs,Nott'm Forest,3,0,0,0,0,3,0,0,0,0,0,0,0.3,1.4,1.2,0.0,False,1,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Wolves,63,0,0,1,0,6,0,0,0,0,0,0,0.3,0.8,1.3,1.0,True,2,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Newcastle,28,0,0,0,0,15,0,0,0,0,0,0,1.7,14.4,2.2,0.0,True,1,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Arsenal,45,0,0,2,0,-1,0,0,0,0,0,0,0.1,0.0,1.3,0.0,False,1,3.0,4.0,-1.0
+Yves Bissouma,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yves Bissouma,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

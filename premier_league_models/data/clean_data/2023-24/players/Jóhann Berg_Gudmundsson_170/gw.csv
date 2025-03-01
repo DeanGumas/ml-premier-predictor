@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jóhann Berg Gudmundsson,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Jóhann Berg Gudmundsson,MID,Burnley,Aston Villa,45,0,1,1,0,15,0,0,0,0,0,0,6.7,23.4,41.4,2.0,True,4,2.0,4.0,-2.0
+Jóhann Berg Gudmundsson,MID,Burnley,Spurs,45,0,0,2,0,2,1,0,0,0,0,0,2.6,7.0,14.9,4.0,True,0,2.0,4.0,-2.0
+Jóhann Berg Gudmundsson,MID,Burnley,Nott'm Forest,62,0,0,1,0,9,0,0,0,0,0,0,0.9,3.8,4.8,0.0,False,2,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Man Utd,19,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,2.2,0.0,True,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jóhann Berg Gudmundsson,MID,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Bournemouth,80,0,0,2,0,12,0,0,0,0,0,0,3.1,11.4,17.2,2.0,False,2,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Crystal Palace,90,0,0,1,0,21,0,0,0,0,0,0,10.1,10.4,77.8,13.0,True,2,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Arsenal,90,0,0,3,0,3,1,0,0,0,0,0,6.5,13.6,30.8,21.0,False,1,2.0,5.0,-3.0
+Jóhann Berg Gudmundsson,MID,Burnley,West Ham,84,0,0,0,1,18,0,0,0,0,0,0,8.1,18.2,53.6,9.0,True,3,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Sheffield Utd,25,0,0,0,0,7,0,0,0,0,0,0,7.8,12.0,57.0,9.0,True,1,2.0,2.0,0.0
+Jóhann Berg Gudmundsson,MID,Burnley,Wolves,54,0,0,1,0,5,0,0,0,0,0,0,2.3,3.2,17.5,2.0,False,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Brighton,57,0,0,0,0,3,0,0,0,0,0,0,2.0,4.0,11.7,4.0,False,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Liverpool,29,0,0,1,0,0,0,0,0,0,0,0,2.1,3.2,8.3,9.0,True,1,2.0,4.0,-2.0
+Jóhann Berg Gudmundsson,MID,Burnley,Aston Villa,73,0,1,2,0,16,0,0,0,0,0,0,3.7,18.6,18.4,0.0,False,5,2.0,4.0,-2.0
+Jóhann Berg Gudmundsson,MID,Burnley,Luton,73,0,0,0,1,5,0,0,0,0,0,0,5.0,12.2,15.7,22.0,True,3,2.0,2.0,0.0
+Jóhann Berg Gudmundsson,MID,Burnley,Man City,58,0,0,3,0,6,0,0,0,0,0,0,2.7,3.6,23.3,0.0,False,1,2.0,5.0,-3.0
+Jóhann Berg Gudmundsson,MID,Burnley,Fulham,27,0,0,0,0,4,0,0,0,0,0,0,0.6,0.4,5.2,0.0,True,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jóhann Berg Gudmundsson,MID,Burnley,Arsenal,45,0,0,3,0,6,0,0,0,0,0,0,4.9,8.0,39.3,2.0,True,1,2.0,5.0,-3.0
+Jóhann Berg Gudmundsson,MID,Burnley,Crystal Palace,90,0,0,3,0,6,0,0,0,0,0,0,0.8,5.8,2.3,0.0,False,2,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Bournemouth,1,0,0,0,0,5,0,0,0,0,0,0,1.5,3.8,11.3,0.0,True,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Chelsea,20,0,0,1,0,4,0,0,0,0,0,0,0.4,3.2,0.5,0.0,False,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Everton,6,0,0,0,0,4,0,0,0,0,0,0,0.7,2.6,4.3,0.0,False,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Sheffield Utd,20,1,0,0,0,14,0,0,0,0,0,0,7.3,33.4,2.0,38.0,False,6,2.0,2.0,0.0
+Jóhann Berg Gudmundsson,MID,Burnley,Man Utd,18,0,0,1,0,2,0,0,0,0,0,0,0.2,0.2,1.6,0.0,False,1,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Newcastle,28,0,1,0,0,16,0,0,0,0,0,0,6.8,25.6,40.4,2.0,True,4,2.0,3.0,-1.0
+Jóhann Berg Gudmundsson,MID,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jóhann Berg Gudmundsson,MID,Burnley,Nott'm Forest,45,0,0,0,0,4,0,0,0,0,0,0,4.0,6.8,14.1,19.0,True,1,2.0,3.0,-1.0

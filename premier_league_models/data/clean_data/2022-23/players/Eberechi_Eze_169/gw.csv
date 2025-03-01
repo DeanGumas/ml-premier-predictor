@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Eberechi Eze,MID,Crystal Palace,Arsenal,85,0,0,2,0,7,0,0,0,0,0,0,3.6,6.8,8.1,21.0,True,2,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Liverpool,78,0,1,1,0,24,0,0,0,0,0,0,4.4,25.2,16.9,2.0,False,6,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Aston Villa,90,0,0,1,0,29,0,0,0,0,0,0,8.8,15.8,45.7,26.0,True,3,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Man City,90,0,1,4,0,18,0,0,0,0,0,0,5.1,20.4,28.5,2.0,False,5,2.0,5.0,-3.0
+Eberechi Eze,MID,Crystal Palace,Brentford,75,0,0,0,1,11,0,0,0,0,0,0,4.4,10.6,28.3,5.0,True,3,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Newcastle,61,0,0,0,1,7,0,0,0,0,0,0,3.0,7.6,15.8,7.0,False,3,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Chelsea,73,0,0,1,0,10,0,0,0,0,0,0,1.9,1.0,2.5,15.0,True,2,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Leeds,90,1,0,1,0,39,0,0,0,0,0,0,9.9,42.0,28.0,29.0,True,10,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Leicester,90,0,0,0,1,14,0,0,0,0,0,0,3.9,7.8,29.2,2.0,False,3,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Wolves,89,1,0,1,0,32,0,0,0,0,0,0,11.3,42.8,36.3,34.0,True,10,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Everton,90,0,0,3,0,9,0,0,0,0,0,0,8.0,10.6,48.5,21.0,False,2,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Southampton,62,0,0,0,1,4,0,0,0,0,0,0,5.0,9.4,27.6,13.0,True,3,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,West Ham,90,0,1,1,0,27,0,0,0,0,0,0,8.3,23.4,24.8,35.0,False,6,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Nott'm Forest,77,0,0,1,0,4,0,0,0,0,0,0,2.0,0.0,10.1,10.0,False,2,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Fulham,59,0,0,1,0,3,0,0,0,0,0,0,1.8,4.4,13.8,0.0,True,1,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Bournemouth,73,1,0,0,1,22,0,0,0,0,0,0,10.5,44.4,32.0,29.0,False,8,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Spurs,73,0,0,4,0,10,0,0,0,0,0,0,7.7,10.4,38.3,28.0,True,2,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Chelsea,69,0,0,1,0,3,1,0,0,0,0,0,2.1,1.8,15.8,3.0,False,1,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Man Utd,34,0,0,0,0,1,0,0,0,0,0,0,1.8,2.8,4.3,11.0,True,1,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Newcastle,64,0,0,0,1,11,0,0,0,0,0,0,4.2,13.4,26.2,2.0,True,3,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Man Utd,17,0,0,0,0,0,0,0,0,0,0,0,1.4,0.0,2.1,14.0,False,1,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Brighton,19,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.0,2.0,True,1,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Brentford,27,1,0,1,0,27,0,0,0,0,0,0,7.9,41.6,4.8,33.0,False,9,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Liverpool,19,0,0,0,0,1,0,0,0,0,0,0,0.7,1.6,5.3,0.0,True,1,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Aston Villa,74,0,0,1,0,0,1,0,0,0,0,0,0.0,0.0,1.4,0.0,False,1,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Man City,10,0,0,0,0,4,0,0,0,0,0,0,0.5,2.0,0.7,2.0,True,1,2.0,5.0,-3.0
+Eberechi Eze,MID,Crystal Palace,Brighton,45,0,0,0,0,7,0,0,0,0,0,0,5.2,10.8,32.7,8.0,False,1,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Arsenal,8,0,0,0,0,5,0,0,0,0,0,0,1.9,4.2,14.5,0.0,False,1,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Leicester,90,0,1,1,0,18,1,0,0,0,0,0,9.6,20.4,34.6,41.0,True,4,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Leeds,90,1,0,1,0,41,0,0,0,0,0,0,11.8,51.8,42.8,23.0,False,8,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Southampton,90,2,0,0,1,49,0,0,0,0,0,0,11.5,79.4,6.3,29.0,False,16,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Everton,90,0,0,0,1,10,0,0,0,0,0,0,2.8,11.0,3.8,13.0,True,3,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Wolves,90,0,0,2,0,7,0,0,0,0,0,0,9.8,18.6,49.8,30.0,False,2,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,West Ham,90,1,0,3,0,37,0,0,0,0,0,0,13.9,45.2,60.4,33.0,True,9,2.0,3.0,-1.0
+Eberechi Eze,MID,Crystal Palace,Spurs,90,0,0,1,0,7,0,0,0,0,0,0,1.8,6.8,4.8,6.0,False,2,2.0,4.0,-2.0
+Eberechi Eze,MID,Crystal Palace,Bournemouth,90,2,0,0,1,49,0,0,0,0,0,0,14.3,76.6,21.5,45.0,True,16,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Fulham,90,0,1,2,0,23,0,0,0,0,0,0,7.9,22.2,34.2,23.0,False,5,2.0,2.0,0.0
+Eberechi Eze,MID,Crystal Palace,Nott'm Forest,90,0,0,1,0,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,2.0,2.0,0.0

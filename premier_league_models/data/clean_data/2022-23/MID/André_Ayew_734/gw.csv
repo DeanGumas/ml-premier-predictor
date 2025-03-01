@@ -1,0 +1,19 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+André Ayew,MID,Nott'm Forest,Leeds,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,2.0,2.0,0.0
+André Ayew,MID,Nott'm Forest,Fulham,27,0,0,1,0,3,0,0,0,0,0,0,0.2,2.2,0.1,0.0,False,1,2.0,2.0,0.0
+André Ayew,MID,Nott'm Forest,Man City,32,0,0,0,0,6,0,0,0,0,0,0,0.5,4.2,0.4,0.0,True,1,2.0,5.0,-3.0
+André Ayew,MID,Nott'm Forest,West Ham,23,0,0,4,0,1,0,0,0,0,0,0,1.4,2.2,0.7,11.0,False,1,2.0,3.0,-1.0
+André Ayew,MID,Nott'm Forest,Everton,19,0,0,0,0,1,0,0,0,0,0,0,2.3,3.2,0.3,19.0,True,1,2.0,2.0,0.0
+André Ayew,MID,Nott'm Forest,Spurs,45,0,0,1,0,-7,0,0,0,0,1,0,2.4,3.4,1.3,19.0,False,-1,2.0,4.0,-2.0
+André Ayew,MID,Nott'm Forest,Newcastle,78,0,0,1,0,4,0,0,0,0,0,0,0.5,2.8,2.3,0.0,True,2,2.0,4.0,-2.0
+André Ayew,MID,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+André Ayew,MID,Nott'm Forest,Leeds,19,0,0,0,0,4,0,0,0,0,0,0,0.8,3.0,1.2,4.0,False,1,2.0,2.0,0.0
+André Ayew,MID,Nott'm Forest,Aston Villa,12,0,0,1,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,2.0,2.0,0.0
+André Ayew,MID,Nott'm Forest,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+André Ayew,MID,Nott'm Forest,Liverpool,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+André Ayew,MID,Nott'm Forest,Brighton,10,0,0,0,0,5,0,0,0,0,0,0,0.2,2.2,0.0,0.0,True,1,2.0,3.0,-1.0
+André Ayew,MID,Nott'm Forest,Brentford,36,0,0,2,0,-2,1,0,0,0,0,0,1.8,6.8,10.8,0.0,False,0,2.0,3.0,-1.0
+André Ayew,MID,Nott'm Forest,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+André Ayew,MID,Nott'm Forest,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+André Ayew,MID,Nott'm Forest,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+André Ayew,MID,Nott'm Forest,Crystal Palace,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,2.0,0.0

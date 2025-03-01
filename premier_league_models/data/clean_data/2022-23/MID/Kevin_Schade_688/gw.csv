@@ -1,0 +1,21 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kevin Schade,MID,Brentford,Bournemouth,8,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Southampton,16,0,0,0,0,1,0,0,0,0,0,0,0.7,2.0,0.5,4.0,True,1,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Arsenal,1,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Kevin Schade,MID,Brentford,Crystal Palace,27,0,0,1,0,2,0,0,0,0,0,0,1.8,0.2,5.0,13.0,True,1,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Fulham,13,0,1,1,0,18,0,0,0,0,0,0,3.7,20.0,10.5,6.0,True,4,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Everton,28,0,0,0,0,2,0,0,0,0,0,0,1.9,0.0,0.5,19.0,False,1,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Southampton,64,0,0,0,1,10,0,0,0,0,0,0,4.2,8.6,21.5,12.0,False,3,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Leicester,29,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,0.3,2.0,True,1,3.0,3.0,0.0
+Kevin Schade,MID,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Kevin Schade,MID,Brentford,Man Utd,28,0,0,0,0,1,0,0,0,0,0,0,4.4,8.2,10.6,25.0,False,1,3.0,4.0,-1.0
+Kevin Schade,MID,Brentford,Newcastle,90,0,0,2,0,7,0,0,0,0,0,0,2.9,5.0,11.8,12.0,True,2,3.0,4.0,-1.0
+Kevin Schade,MID,Brentford,Wolves,60,0,0,1,0,5,0,0,0,0,0,0,0.4,2.0,0.1,2.0,False,2,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Aston Villa,76,0,0,0,1,-1,1,0,0,0,0,0,4.5,4.6,12.5,28.0,True,2,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Chelsea,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Kevin Schade,MID,Brentford,Nott'm Forest,76,0,0,1,0,4,0,0,0,0,0,0,2.9,3.6,2.5,23.0,True,2,3.0,2.0,1.0
+Kevin Schade,MID,Brentford,Liverpool,18,0,0,0,0,3,0,0,0,0,0,0,0.4,2.2,0.2,2.0,False,1,3.0,4.0,-1.0
+Kevin Schade,MID,Brentford,West Ham,85,0,0,0,1,11,0,0,0,0,0,0,8.8,11.4,31.8,45.0,True,3,3.0,3.0,0.0
+Kevin Schade,MID,Brentford,Spurs,77,0,0,1,0,5,0,0,0,0,0,0,1.9,4.2,2.3,12.0,False,2,3.0,4.0,-1.0
+Kevin Schade,MID,Brentford,Man City,20,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,5.0,-2.0

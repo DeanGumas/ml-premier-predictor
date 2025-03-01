@@ -1,0 +1,2 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Omar Marmoush,FWD,Man City,Chelsea,73,0,0,1,0,10,0,0,0,0,0,0,2.9,7.4,16.8,5.0,True,2,4.0,4.0,0.0

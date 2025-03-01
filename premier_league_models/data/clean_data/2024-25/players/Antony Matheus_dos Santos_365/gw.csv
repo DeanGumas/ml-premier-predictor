@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Antony Matheus dos Santos,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Brighton,1,0,0,1,0,3,0,0,0,0,0,0,1.5,3.0,10.3,2.0,False,1,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Antony Matheus dos Santos,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Antony Matheus dos Santos,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Aston Villa,26,0,0,0,0,3,0,0,0,0,0,0,1.3,4.2,1.0,8.0,False,1,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Antony Matheus dos Santos,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Arsenal,11,0,0,0,0,6,0,0,0,0,0,0,2.0,3.0,0.3,17.0,False,1,3.0,4.0,-1.0
+Antony Matheus dos Santos,MID,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Antony Matheus dos Santos,MID,Man Utd,Man City,12,0,0,0,0,2,0,0,0,0,0,0,0.2,1.4,0.8,0.0,False,1,3.0,4.0,-1.0
+Antony Matheus dos Santos,MID,Man Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Antony Matheus dos Santos,MID,Man Utd,Wolves,27,0,0,1,0,8,0,0,0,0,0,0,2.8,8.6,16.3,3.0,False,1,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Newcastle,7,0,0,0,0,4,0,0,0,0,0,0,0.4,3.4,0.7,0.0,True,1,3.0,4.0,-1.0
+Antony Matheus dos Santos,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Antony Matheus dos Santos,MID,Man Utd,Southampton,45,0,0,0,0,6,0,0,0,0,0,0,6.8,9.4,17.0,42.0,True,1,3.0,2.0,1.0
+Antony Matheus dos Santos,MID,Man Utd,Brighton,6,0,0,0,0,5,0,0,0,0,0,0,0.8,2.0,4.3,2.0,True,1,3.0,3.0,0.0
+Antony Matheus dos Santos,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

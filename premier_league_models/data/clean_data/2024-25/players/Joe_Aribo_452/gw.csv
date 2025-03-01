@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Joe Aribo,MID,Southampton,Newcastle,69,0,0,1,0,18,0,0,0,0,0,0,5.2,14.8,27.9,9.0,False,2,2.0,4.0,-2.0
+Joe Aribo,MID,Southampton,Nott'm Forest,75,0,0,1,0,10,0,0,0,0,0,0,2.1,9.0,6.2,6.0,True,2,2.0,4.0,-2.0
+Joe Aribo,MID,Southampton,Brentford,81,0,0,3,0,9,0,0,0,0,0,0,3.0,2.4,16.2,11.0,False,2,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Ipswich,1,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Bournemouth,45,0,0,0,0,8,0,0,0,0,0,0,1.5,5.8,4.7,4.0,False,1,2.0,4.0,-2.0
+Joe Aribo,MID,Southampton,Arsenal,90,0,0,3,0,15,0,0,0,0,0,0,2.8,17.6,5.3,5.0,False,2,2.0,4.0,-2.0
+Joe Aribo,MID,Southampton,Leicester,90,1,0,3,0,29,0,0,0,0,0,0,10.7,46.0,7.6,53.0,True,9,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Man City,30,0,0,0,0,6,0,0,0,0,0,0,0.9,3.4,3.1,2.0,False,1,2.0,4.0,-2.0
+Joe Aribo,MID,Southampton,Everton,45,0,0,0,0,4,0,0,0,0,0,0,2.5,4.6,2.1,18.0,True,1,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Wolves,72,0,0,2,0,11,0,0,0,0,0,0,1.0,5.4,2.5,2.0,False,2,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Liverpool,53,0,0,2,0,3,0,0,0,0,0,0,1.6,9.8,2.2,4.0,True,1,2.0,5.0,-3.0
+Joe Aribo,MID,Southampton,Brighton,24,0,0,0,0,6,0,0,0,0,0,0,1.9,5.8,10.8,2.0,False,1,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Chelsea,90,1,0,5,0,36,0,0,0,0,0,0,12.5,53.2,15.8,56.0,True,8,2.0,4.0,-2.0
+Joe Aribo,MID,Southampton,Aston Villa,45,0,0,0,0,5,0,0,0,0,0,0,1.9,6.0,3.2,10.0,False,1,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Spurs,90,0,0,5,0,22,0,0,0,0,0,0,4.1,12.4,28.3,0.0,True,2,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Fulham,56,0,0,0,0,5,0,0,0,0,0,0,1.2,7.8,2.6,2.0,False,1,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,West Ham,29,0,0,0,0,4,0,0,0,0,0,0,1.0,4.8,5.4,0.0,True,1,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Crystal Palace,50,0,0,1,0,7,0,0,0,0,0,0,0.5,0.6,4.6,0.0,False,1,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Brentford,86,0,0,3,0,16,0,0,0,0,0,0,6.0,11.2,44.9,4.0,True,2,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Man Utd,72,0,0,0,1,16,0,0,0,0,0,0,3.9,10.6,24.2,4.0,False,3,2.0,3.0,-1.0
+Joe Aribo,MID,Southampton,Nott'm Forest,90,0,0,3,0,10,1,0,0,0,0,0,3.3,13.4,15.8,4.0,False,1,2.0,4.0,-2.0
+Joe Aribo,MID,Southampton,Newcastle,87,0,0,3,0,7,0,0,0,0,0,0,0.5,0.8,4.0,0.0,True,2,2.0,4.0,-2.0

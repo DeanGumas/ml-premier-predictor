@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Dean Huijsen,DEF,Bournemouth,Nott'm Forest,90,0,0,1,0,9,0,0,0,0,0,0,2.5,24.8,0.4,0.0,False,2,4.0,4.0,0.0
+Dean Huijsen,DEF,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Dean Huijsen,DEF,Bournemouth,Everton,13,0,0,0,0,4,0,0,0,0,0,0,1.8,7.2,10.5,0.0,False,1,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Dean Huijsen,DEF,Bournemouth,Liverpool,90,0,0,3,0,-3,1,0,0,0,0,0,3.2,7.0,20.5,4.0,False,0,4.0,5.0,-1.0
+Dean Huijsen,DEF,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Dean Huijsen,DEF,Bournemouth,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Dean Huijsen,DEF,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Man City,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.2,0.0,0.0,True,1,4.0,4.0,0.0
+Dean Huijsen,DEF,Bournemouth,Brentford,23,0,0,0,0,5,0,0,0,0,0,0,3.5,12.2,10.4,12.0,False,1,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Brighton,25,0,0,0,0,13,0,0,0,0,0,0,2.3,11.6,1.7,10.0,True,1,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Wolves,8,0,0,0,0,3,0,0,0,0,0,0,1.5,2.6,10.3,2.0,False,1,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Spurs,90,1,0,0,1,41,0,0,0,0,0,0,9.7,63.4,0.6,33.0,True,15,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Ipswich,90,0,0,1,0,12,0,0,0,0,0,0,3.6,23.2,13.0,0.0,False,2,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,West Ham,90,0,0,1,0,11,0,0,0,0,0,0,3.9,23.6,13.8,2.0,True,2,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Man Utd,90,1,0,0,1,45,1,0,0,0,0,0,9.0,62.0,10.7,17.0,False,14,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Crystal Palace,90,0,0,0,1,36,1,0,0,0,0,0,4.1,38.8,2.5,0.0,True,8,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Fulham,90,0,0,2,0,5,0,0,0,0,0,0,4.6,14.4,11.5,20.0,False,1,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Everton,90,0,0,0,1,31,0,0,0,0,0,0,4.5,24.0,12.2,9.0,True,8,4.0,3.0,1.0
+Dean Huijsen,DEF,Bournemouth,Chelsea,90,0,0,2,0,11,1,0,0,0,0,0,4.6,33.2,11.0,2.0,False,0,4.0,4.0,0.0
+Dean Huijsen,DEF,Bournemouth,Newcastle,90,0,0,1,0,17,0,0,0,0,0,0,4.5,35.4,0.4,9.0,False,2,4.0,4.0,0.0
+Dean Huijsen,DEF,Bournemouth,Nott'm Forest,90,0,0,0,1,28,0,0,0,0,0,0,2.9,25.0,1.8,2.0,True,6,4.0,4.0,0.0

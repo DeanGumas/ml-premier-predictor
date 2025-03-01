@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Diogo Teixeira da Silva,MID,Liverpool,Chelsea,65,0,0,1,0,3,1,0,0,0,0,0,2.6,3.2,12.9,10.0,False,1,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Bournemouth,75,1,1,1,0,33,0,0,0,0,0,0,16.1,39.8,22.9,98.0,True,12,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Newcastle,32,0,1,0,0,12,0,0,0,0,0,0,2.4,1.6,14.3,8.0,False,4,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Aston Villa,25,0,0,0,0,4,0,0,0,0,0,0,0.5,4.0,1.2,0.0,True,1,4.0,4.0,0.0
+Diogo Teixeira da Silva,MID,Liverpool,Wolves,55,0,0,1,0,6,0,0,0,0,0,0,1.7,3.0,3.5,10.0,False,1,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,West Ham,9,1,0,0,0,19,0,0,0,0,0,0,7.1,32.4,0.6,38.0,True,6,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Spurs,23,0,0,1,0,-11,0,1,0,0,0,0,0.0,0.0,1.0,0.0,False,-2,4.0,4.0,0.0
+Diogo Teixeira da Silva,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Everton,90,0,0,0,1,9,0,0,0,0,0,0,9.6,10.0,35.4,51.0,True,3,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Nott'm Forest,57,1,0,0,0,24,0,0,0,0,0,0,10.8,38.4,14.6,55.0,True,6,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Luton,65,0,0,0,1,5,0,0,0,0,0,0,4.4,10.2,13.1,21.0,False,3,4.0,2.0,2.0
+Diogo Teixeira da Silva,MID,Liverpool,Brentford,83,1,0,0,1,27,0,0,0,0,0,0,8.6,39.4,24.8,22.0,True,8,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Man City,53,0,0,1,0,0,0,0,0,0,0,0,1.7,4.6,10.3,2.0,False,1,4.0,5.0,-1.0
+Diogo Teixeira da Silva,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Diogo Teixeira da Silva,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Diogo Teixeira da Silva,MID,Liverpool,Burnley,6,1,0,0,0,20,0,0,0,0,0,0,7.1,35.4,0.6,35.0,False,6,4.0,2.0,2.0
+Diogo Teixeira da Silva,MID,Liverpool,Newcastle,26,0,2,1,0,24,0,0,0,0,0,0,5.4,22.6,20.7,11.0,True,7,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Bournemouth,90,2,1,0,1,55,0,0,0,0,0,0,15.3,88.2,20.3,44.0,False,19,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Chelsea,67,1,0,0,1,27,0,0,0,0,0,0,8.7,38.0,12.8,36.0,True,8,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Arsenal,90,0,0,3,0,3,0,0,0,0,0,0,4.1,7.2,25.3,8.0,False,2,4.0,5.0,-1.0
+Diogo Teixeira da Silva,MID,Liverpool,Burnley,90,1,0,1,0,23,0,0,0,0,0,0,13.4,44.2,16.7,73.0,True,7,4.0,2.0,2.0
+Diogo Teixeira da Silva,MID,Liverpool,Brentford,43,0,1,0,0,12,0,0,0,0,0,0,8.6,23.4,12.3,50.0,False,4,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Diogo Teixeira da Silva,MID,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Diogo Teixeira da Silva,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Diogo Teixeira da Silva,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Crystal Palace,24,0,0,0,0,2,0,0,0,0,0,0,2.8,0.4,12.1,15.0,True,1,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Fulham,73,1,1,1,0,31,0,0,0,0,0,0,10.5,37.8,14.8,52.0,False,12,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Diogo Teixeira da Silva,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Diogo Teixeira da Silva,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Diogo Teixeira da Silva,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0

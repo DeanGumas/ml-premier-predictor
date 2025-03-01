@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Nick Pope,GK,Newcastle,Southampton,90,0,0,0,1,27,0,0,0,3,0,0,2.5,25.2,0.0,0.0,True,9,4.0,2.0,2.0
+Nick Pope,GK,Newcastle,Bournemouth,90,0,0,1,0,14,0,0,0,3,0,0,2.6,25.6,0.0,0.0,False,3,4.0,4.0,0.0
+Nick Pope,GK,Newcastle,Spurs,90,0,0,1,0,16,0,0,0,6,0,0,3.5,34.8,0.0,0.0,True,4,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Wolves,90,0,0,1,0,12,0,0,0,4,0,0,3.4,33.6,0.0,0.0,False,3,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Fulham,90,0,0,3,0,9,0,0,0,8,0,0,5.3,53.0,0.0,0.0,False,3,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Man City,90,0,0,1,0,14,0,0,0,5,0,0,3.5,35.4,0.0,0.0,True,3,4.0,4.0,0.0
+Nick Pope,GK,Newcastle,Everton,90,0,0,0,1,24,0,0,0,2,0,0,1.6,16.2,0.0,0.0,False,6,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Brighton,90,0,0,1,0,13,0,0,0,4,0,0,2.7,27.4,0.0,0.0,True,3,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Chelsea,90,0,0,2,0,13,0,0,0,5,0,0,3.7,37.2,0.0,0.0,False,2,4.0,4.0,0.0
+Nick Pope,GK,Newcastle,Arsenal,90,0,0,0,1,19,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,5,4.0,4.0,0.0
+Nick Pope,GK,Newcastle,Nott'm Forest,90,0,0,1,0,9,0,0,0,2,0,0,1.9,19.2,0.0,0.0,False,2,4.0,4.0,0.0
+Nick Pope,GK,Newcastle,West Ham,90,0,0,2,0,10,0,0,0,4,0,0,2.4,24.4,0.0,0.0,True,2,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Crystal Palace,90,0,0,1,0,8,0,0,0,2,0,0,1.9,19.4,0.0,0.0,False,2,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Liverpool,90,0,0,3,0,-1,1,0,0,2,0,0,1.4,14.4,0.0,0.0,True,0,4.0,5.0,-1.0
+Nick Pope,GK,Newcastle,Brentford,90,0,0,4,0,1,0,0,0,4,0,0,2.7,26.6,0.0,0.0,False,1,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Nick Pope,GK,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Nick Pope,GK,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

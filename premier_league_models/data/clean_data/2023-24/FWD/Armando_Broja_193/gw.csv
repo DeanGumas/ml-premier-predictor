@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Armando Broja,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Armando Broja,FWD,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Armando Broja,FWD,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Aston Villa,11,0,0,0,0,1,0,0,0,0,0,0,0.6,0.0,0.3,7.0,True,1,3.0,4.0,-1.0
+Armando Broja,FWD,Chelsea,Fulham,64,1,0,0,1,25,0,0,0,0,0,0,6.4,36.4,2.9,25.0,False,6,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Burnley,45,0,0,1,0,0,0,0,0,0,0,0,2.0,2.0,2.9,15.0,False,1,3.0,2.0,1.0
+Armando Broja,FWD,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Armando Broja,FWD,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Armando Broja,FWD,Chelsea,Man City,1,0,1,0,0,11,0,0,0,0,0,0,0.2,0.0,0.0,2.0,True,4,3.0,5.0,-2.0
+Armando Broja,FWD,Chelsea,Newcastle,21,0,0,1,0,3,0,0,0,0,0,0,0.5,0.0,2.8,2.0,False,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Brighton,9,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Man Utd,13,0,0,0,0,-1,0,0,0,0,0,0,1.1,0.2,1.3,9.0,False,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Everton,66,0,0,1,0,0,0,0,0,0,0,0,1.8,0.0,11.8,8.0,False,2,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Sheffield Utd,15,0,0,0,0,1,0,0,0,0,0,0,1.9,0.0,2.7,16.0,True,1,3.0,2.0,1.0
+Armando Broja,FWD,Chelsea,Wolves,58,0,0,1,0,2,0,0,0,0,0,0,1.3,0.0,1.0,14.0,False,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Crystal Palace,19,0,0,0,0,-2,0,0,0,0,0,0,0.5,0.0,1.6,6.0,True,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Luton,61,0,0,0,1,2,0,0,0,0,0,0,4.4,11.6,13.8,19.0,False,2,3.0,2.0,1.0
+Armando Broja,FWD,Chelsea,Fulham,65,0,0,0,1,1,0,0,0,0,0,0,4.5,7.4,16.8,21.0,True,2,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Armando Broja,FWD,Chelsea,Burnley,16,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.5,0.0,False,1,3.0,2.0,1.0
+Armando Broja,FWD,Chelsea,Bournemouth,15,0,0,0,0,0,0,0,0,0,0,0,0.2,0.0,0.3,2.0,True,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Armando Broja,FWD,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Brighton,6,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Wolves,10,0,1,0,0,15,0,0,0,0,0,0,3.2,17.4,10.5,4.0,False,4,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Armando Broja,FWD,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Armando Broja,FWD,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Newcastle,5,0,0,0,0,2,0,0,0,0,0,0,0.3,0.4,0.2,2.0,True,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,West Ham,1,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Armando Broja,FWD,Chelsea,Crystal Palace,5,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Armando Broja,FWD,Chelsea,Man City,23,0,0,2,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,5.0,-2.0
+Armando Broja,FWD,Chelsea,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0

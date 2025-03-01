@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Richarlison de Andrade,MID,Spurs,Brentford,90,0,0,2,0,3,0,0,0,0,0,0,5.4,8.4,13.5,32.0,False,2,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Man Utd,69,0,0,0,1,2,0,0,0,0,0,0,2.3,9.0,12.3,2.0,True,3,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Bournemouth,59,0,0,0,0,-7,1,0,0,0,0,0,3.9,0.0,1.6,38.0,False,0,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Burnley,18,0,0,1,0,1,0,0,0,0,0,0,0.7,5.0,0.0,2.0,False,1,4.0,2.0,2.0
+Richarlison de Andrade,MID,Spurs,Sheffield Utd,10,1,1,0,0,24,1,0,0,0,0,0,9.9,45.0,10.8,43.0,True,8,4.0,2.0,2.0
+Richarlison de Andrade,MID,Spurs,Arsenal,11,0,0,0,0,0,0,0,0,0,0,0,2.0,2.2,0.5,17.0,False,1,4.0,5.0,-1.0
+Richarlison de Andrade,MID,Spurs,Liverpool,90,0,1,1,0,13,0,0,0,0,0,0,10.7,28.4,23.0,56.0,True,5,4.0,4.0,0.0
+Richarlison de Andrade,MID,Spurs,Luton,45,0,0,0,0,-5,0,0,0,0,0,0,4.9,3.8,7.3,38.0,False,1,4.0,2.0,2.0
+Richarlison de Andrade,MID,Spurs,Fulham,80,0,1,0,1,14,0,0,0,0,0,0,5.3,19.6,12.9,20.0,True,6,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Crystal Palace,63,0,0,0,1,4,0,0,0,0,0,0,3.2,8.6,15.9,7.0,False,3,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Richarlison de Andrade,MID,Spurs,Man City,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,5.0,-1.0
+Richarlison de Andrade,MID,Spurs,West Ham,23,0,0,1,0,-2,0,0,0,0,0,0,0.5,0.0,0.3,8.0,True,1,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Newcastle,72,2,0,0,1,46,0,0,0,0,0,0,13.7,73.2,1.3,62.0,True,15,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Nott'm Forest,71,1,0,0,1,29,0,0,0,0,0,0,7.5,37.6,2.6,35.0,False,9,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Everton,62,1,0,0,1,21,0,0,0,0,0,0,5.4,33.4,1.3,19.0,True,8,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Brighton,64,0,0,3,0,0,1,0,0,0,0,0,3.2,4.4,11.6,16.0,False,1,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Bournemouth,81,1,0,0,1,16,0,0,0,0,0,0,11.0,46.6,13.9,49.0,True,8,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Man Utd,90,1,0,2,0,27,0,0,0,0,0,0,11.9,44.0,12.8,62.0,False,8,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Brentford,90,1,0,2,0,22,0,0,0,0,0,0,9.8,41.4,6.3,50.0,True,7,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Everton,90,2,0,2,0,40,0,0,0,0,0,0,15.5,80.2,23.1,52.0,False,15,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,7.4,12.2,22.5,39.0,True,2,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Wolves,70,0,0,2,0,2,0,0,0,0,0,0,2.5,0.0,0.8,28.0,True,2,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Richarlison de Andrade,MID,Spurs,Fulham,10,0,0,0,0,0,0,0,0,0,0,0,2.2,1.0,0.2,21.0,False,1,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Luton,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,4.0,2.0,2.0
+Richarlison de Andrade,MID,Spurs,West Ham,8,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Arsenal,26,0,0,0,0,1,0,0,0,0,0,0,0.8,0.0,1.0,8.0,True,1,4.0,5.0,-1.0
+Richarlison de Andrade,MID,Spurs,Chelsea,62,0,0,1,0,6,0,0,0,0,0,0,1.6,2.4,1.1,12.0,False,2,4.0,3.0,1.0
+Richarlison de Andrade,MID,Spurs,Liverpool,29,1,1,0,0,32,0,0,0,0,0,0,10.7,54.0,11.4,42.0,False,9,4.0,4.0,0.0
+Richarlison de Andrade,MID,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Richarlison de Andrade,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Richarlison de Andrade,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

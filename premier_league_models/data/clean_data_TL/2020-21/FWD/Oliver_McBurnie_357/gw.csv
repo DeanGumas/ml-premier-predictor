@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Oliver McBurnie,FWD,Sheffield Utd,Wolves,90,0,0,2,0,3,1,0,0,0,0,0,6.8,12.0,15.3,41.0,True,2020-09-14T17:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Aston Villa,22,0,0,0,0,4,0,0,0,0,0,0,1.9,4.4,10.3,4.0,False,2020-09-21T17:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Leeds,16,0,0,1,0,2,0,0,0,0,0,0,0.7,1.2,1.3,4.0,True,2020-09-27T11:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Arsenal,34,0,0,2,0,2,0,0,0,0,0,0,1.1,3.4,0.8,7.0,False,2020-10-04T13:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Fulham,90,0,0,1,0,3,0,0,0,0,0,0,8.0,18.6,13.6,48.0,True,2020-10-18T11:00:00Z,2
+Oliver McBurnie,FWD,Sheffield Utd,Liverpool,90,0,1,2,0,17,0,0,0,0,0,0,5.5,9.2,26.8,19.0,False,2020-10-24T19:00:00Z,5
+Oliver McBurnie,FWD,Sheffield Utd,Man City,90,0,0,1,0,7,0,0,0,0,0,0,1.0,5.4,2.1,2.0,True,2020-10-31T12:30:00Z,2
+Oliver McBurnie,FWD,Sheffield Utd,Chelsea,27,0,0,2,0,1,0,0,0,0,0,0,0.1,0.0,0.5,2.0,False,2020-11-07T17:30:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,West Ham,90,0,0,1,0,-4,0,0,0,0,0,0,7.0,5.0,14.9,50.0,True,2020-11-22T14:00:00Z,2
+Oliver McBurnie,FWD,Sheffield Utd,West Brom,90,0,0,1,0,0,0,0,0,0,0,0,17.7,28.8,37.5,111.0,False,2020-11-28T20:00:00Z,2
+Oliver McBurnie,FWD,Sheffield Utd,Leicester,90,1,0,2,0,26,0,0,0,0,0,0,9.0,44.6,4.4,41.0,True,2020-12-06T14:15:00Z,8
+Oliver McBurnie,FWD,Sheffield Utd,Southampton,47,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.0,False,2020-12-13T12:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-17T20:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-20T12:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Everton,45,0,0,1,0,1,0,0,0,0,0,0,1.2,0.0,1.9,13.0,True,2020-12-26T20:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-29T18:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-02T15:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-12T18:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-17T14:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-27T20:15:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Man City,12,0,0,0,0,2,0,0,0,0,0,0,0.3,2.6,0.5,0.0,False,2021-01-30T15:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,West Brom,45,0,0,0,0,5,0,0,0,0,0,0,5.2,8.4,21.8,22.0,True,2021-02-02T18:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Chelsea,90,0,0,2,0,9,0,0,0,0,0,0,4.8,10.4,33.8,4.0,True,2021-02-07T19:15:00Z,2
+Oliver McBurnie,FWD,Sheffield Utd,West Ham,28,0,0,1,0,4,0,0,0,0,0,0,2.5,4.4,1.1,19.0,False,2021-02-15T18:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Fulham,90,0,0,1,0,4,0,0,0,0,0,0,1.0,9.0,1.2,0.0,False,2021-02-20T20:00:00Z,2
+Oliver McBurnie,FWD,Sheffield Utd,Liverpool,90,0,0,2,0,-5,0,0,0,0,0,0,2.3,1.6,13.2,8.0,True,2021-02-28T19:15:00Z,2
+Oliver McBurnie,FWD,Sheffield Utd,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-03T18:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Southampton,45,0,0,1,0,-1,1,0,0,0,0,0,2.6,4.8,3.9,17.0,True,2021-03-06T15:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-14T14:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Leeds,76,0,1,2,0,14,0,0,0,0,0,0,4.3,8.4,2.3,32.0,False,2021-04-03T14:00:00Z,5
+Oliver McBurnie,FWD,Sheffield Utd,Arsenal,18,0,0,1,0,4,0,0,0,0,0,0,0.1,0.4,0.4,0.0,True,2021-04-11T18:00:00Z,1
+Oliver McBurnie,FWD,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-17T19:15:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-24T19:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-02T18:15:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-08T14:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-16T18:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-19T17:00:00Z,0
+Oliver McBurnie,FWD,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-23T15:00:00Z,0

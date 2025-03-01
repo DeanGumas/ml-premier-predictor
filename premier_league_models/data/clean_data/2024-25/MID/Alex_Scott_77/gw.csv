@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Alex Scott,MID,Bournemouth,Nott'm Forest,62,0,0,1,0,11,0,0,0,0,0,0,3.6,22.8,12.8,0.0,False,2,4.0,4.0,0.0
+Alex Scott,MID,Bournemouth,Newcastle,26,0,0,1,0,3,0,0,0,0,0,0,0.5,3.4,0.3,1.0,True,1,4.0,4.0,0.0
+Alex Scott,MID,Bournemouth,Everton,24,0,0,0,0,4,0,0,0,0,0,0,1.5,12.6,2.4,0.0,False,1,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Chelsea,22,0,0,1,0,5,0,0,0,0,0,0,0.3,2.8,0.3,0.0,True,1,4.0,4.0,0.0
+Alex Scott,MID,Bournemouth,Liverpool,21,0,0,0,0,4,0,0,0,0,0,0,2.0,5.6,2.0,12.0,False,1,4.0,5.0,-1.0
+Alex Scott,MID,Bournemouth,Southampton,14,0,0,0,0,3,0,0,0,0,0,0,0.4,1.2,1.0,2.0,True,1,4.0,2.0,2.0
+Alex Scott,MID,Bournemouth,Leicester,27,0,0,0,0,7,0,0,0,0,0,0,3.5,11.2,21.9,2.0,False,1,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Arsenal,62,0,0,0,1,17,0,0,0,0,0,0,4.0,11.4,24.8,4.0,True,3,4.0,4.0,0.0
+Alex Scott,MID,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Alex Scott,MID,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Scott,MID,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alex Scott,MID,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alex Scott,MID,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

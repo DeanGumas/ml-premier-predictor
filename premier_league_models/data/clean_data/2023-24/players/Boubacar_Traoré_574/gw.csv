@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Boubacar Traoré,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Crystal Palace,16,0,0,2,0,2,0,0,0,0,0,0,0.6,1.4,2.1,2.0,False,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Liverpool,12,0,0,2,0,2,0,0,0,0,0,0,0.2,1.6,0.4,0.0,True,1,3.0,4.0,-1.0
+Boubacar Traoré,MID,Wolves,Luton,19,0,0,0,0,0,0,0,0,0,0,0,0.4,3.4,0.2,0.0,False,1,3.0,2.0,1.0
+Boubacar Traoré,MID,Wolves,Man City,23,0,0,0,0,2,0,0,0,0,0,0,0.4,3.2,0.3,0.0,True,1,3.0,5.0,-2.0
+Boubacar Traoré,MID,Wolves,Aston Villa,21,0,0,0,0,6,0,0,0,0,0,0,1.5,4.4,10.8,0.0,True,1,3.0,4.0,-1.0
+Boubacar Traoré,MID,Wolves,Bournemouth,90,0,0,1,0,12,1,0,0,0,0,0,2.1,12.4,4.4,4.0,False,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Newcastle,53,0,0,2,0,8,0,0,0,0,0,0,0.7,1.2,2.5,3.0,True,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Sheffield Utd,20,0,0,2,0,7,0,0,0,0,0,0,1.0,5.6,4.6,0.0,False,1,3.0,2.0,1.0
+Boubacar Traoré,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Boubacar Traoré,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Arsenal,90,0,0,2,0,12,0,0,0,0,0,0,1.2,7.4,4.3,0.0,False,2,3.0,5.0,-2.0
+Boubacar Traoré,MID,Wolves,Burnley,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,2.0,1.0
+Boubacar Traoré,MID,Wolves,Nott'm Forest,29,0,0,0,0,3,0,0,0,0,0,0,2.1,3.4,16.8,1.0,True,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Everton,5,0,0,0,0,5,0,0,0,0,0,0,1.5,4.4,10.3,0.0,True,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Spurs,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,3.0,4.0,-1.0
+Boubacar Traoré,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Boubacar Traoré,MID,Wolves,Newcastle,9,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Aston Villa,6,0,0,0,0,6,0,0,0,0,0,0,1.0,8.8,0.7,0.0,False,1,3.0,4.0,-1.0
+Boubacar Traoré,MID,Wolves,Burnley,7,0,0,0,0,-1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,2.0,1.0
+Boubacar Traoré,MID,Wolves,West Ham,15,0,0,1,0,-2,1,0,0,0,0,0,1.3,3.8,0.8,8.0,True,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Nott'm Forest,14,0,0,0,0,2,0,0,0,0,0,0,0.2,1.6,0.3,0.0,False,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Arsenal,90,0,0,2,0,13,0,0,0,0,0,0,1.6,12.6,2.2,1.0,True,2,3.0,5.0,-2.0
+Boubacar Traoré,MID,Wolves,Bournemouth,26,0,0,0,0,8,0,0,0,0,0,0,0.8,5.4,1.6,1.0,True,1,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Luton,90,0,0,1,0,7,0,0,0,0,0,0,4.6,17.2,23.3,5.0,True,2,3.0,2.0,1.0
+Boubacar Traoré,MID,Wolves,Man City,90,0,0,5,0,9,1,0,0,0,0,0,1.1,8.2,2.3,0.0,False,1,3.0,5.0,-2.0
+Boubacar Traoré,MID,Wolves,Crystal Palace,45,0,0,2,0,9,1,0,0,0,0,0,2.4,5.6,16.3,2.0,True,0,3.0,3.0,0.0
+Boubacar Traoré,MID,Wolves,Liverpool,27,0,0,0,0,4,0,0,0,0,0,0,0.5,2.8,1.8,0.0,False,1,3.0,4.0,-1.0

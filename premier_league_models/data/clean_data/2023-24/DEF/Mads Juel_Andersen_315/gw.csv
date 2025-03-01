@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mads Juel Andersen,DEF,Luton,Brighton,75,0,0,2,0,6,1,0,0,0,0,0,1.4,13.2,0.7,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Chelsea,13,0,0,0,0,5,0,0,0,0,0,0,0.2,1.4,0.1,0.0,False,1,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,West Ham,90,1,0,2,0,24,0,0,0,0,0,0,7.4,50.4,0.4,23.0,True,8,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Fulham,90,0,0,1,0,13,0,0,0,0,0,0,1.6,16.0,0.2,0.0,False,2,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Everton,45,0,0,0,0,9,0,0,0,0,0,0,2.8,23.6,0.1,4.0,False,1,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mads Juel Andersen,DEF,Luton,Spurs,58,0,0,1,0,11,0,0,0,0,0,0,0.9,8.6,0.3,0.0,True,1,2.0,4.0,-2.0
+Mads Juel Andersen,DEF,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mads Juel Andersen,DEF,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Mads Juel Andersen,DEF,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Mads Juel Andersen,DEF,Luton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Mads Juel Andersen,DEF,Luton,Newcastle,14,0,0,0,0,4,0,0,0,0,0,0,0.9,9.2,0.0,0.0,True,1,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Sheffield Utd,12,0,0,0,0,3,0,0,0,0,0,0,0.4,4.4,0.0,0.0,False,1,2.0,2.0,0.0
+Mads Juel Andersen,DEF,Luton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Mads Juel Andersen,DEF,Luton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mads Juel Andersen,DEF,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mads Juel Andersen,DEF,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Mads Juel Andersen,DEF,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mads Juel Andersen,DEF,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Mads Juel Andersen,DEF,Luton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Mads Juel Andersen,DEF,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mads Juel Andersen,DEF,Luton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cristian Romero,DEF,Spurs,Southampton,90,0,0,1,0,11,0,0,0,0,0,0,2.4,8.0,2.7,13.0,True,2,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Chelsea,90,0,0,2,0,16,0,0,0,0,0,0,3.5,34.8,0.4,0.0,False,1,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,Fulham,90,0,0,1,0,13,1,0,0,0,0,0,6.2,26.2,1.7,34.0,True,1,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Leicester,31,0,0,0,0,5,0,0,0,0,0,0,0.6,5.4,0.3,0.0,True,1,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,Arsenal,90,0,0,3,0,8,0,0,0,0,0,0,1.7,15.0,0.4,2.0,False,1,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Brighton,90,0,0,0,1,28,0,0,0,0,0,0,3.0,17.0,13.1,0.0,False,8,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,Everton,86,0,0,0,1,22,0,0,0,0,0,0,3.2,12.2,16.3,3.0,True,6,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Man Utd,90,0,0,2,0,17,0,0,0,0,0,0,3.3,22.6,10.8,0.0,False,1,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,Aston Villa,90,0,0,2,0,9,1,0,0,0,0,0,1.2,7.6,4.3,0.0,True,0,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Crystal Palace,90,0,0,0,1,23,0,0,0,0,0,0,1.8,16.6,1.4,0.0,False,6,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Arsenal,90,0,0,2,0,9,1,0,0,0,0,0,1.7,13.0,2.1,2.0,True,0,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Man City,90,0,0,4,0,9,1,0,0,0,0,0,1.7,15.4,1.0,1.0,False,-1,4.0,5.0,-1.0
+Cristian Romero,DEF,Spurs,Fulham,90,0,0,0,1,17,1,0,0,0,0,0,1.6,14.8,0.7,0.0,False,5,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Man City,86,0,0,0,1,15,0,1,0,0,0,0,1.8,17.8,0.6,0.0,True,3,4.0,5.0,-1.0
+Cristian Romero,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,West Ham,90,0,0,0,1,26,0,0,0,0,0,0,3.1,24.0,3.3,4.0,True,6,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,Chelsea,90,0,0,0,1,25,0,0,0,0,0,0,2.6,24.0,0.4,2.0,True,6,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Wolves,90,0,0,1,0,12,0,0,0,0,0,0,2.2,15.8,2.6,4.0,False,2,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Nott'm Forest,90,0,0,1,0,18,0,0,0,0,0,0,4.0,34.4,1.8,4.0,True,2,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Southampton,90,0,0,3,0,14,0,0,0,0,0,0,2.6,24.4,1.2,0.0,False,1,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Everton,90,0,1,1,0,19,1,0,0,0,0,0,3.0,21.6,4.6,4.0,False,4,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Brighton,90,0,0,1,0,7,1,0,0,0,0,0,2.1,20.2,0.6,0.0,True,1,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,Bournemouth,90,0,0,3,0,17,0,0,0,0,0,0,2.6,12.8,12.8,0.0,True,1,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Newcastle,90,0,0,6,0,14,1,0,0,0,0,0,3.7,26.4,10.3,0.0,False,-2,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Man Utd,90,0,0,2,0,22,0,0,0,0,0,0,5.9,45.2,12.2,2.0,True,1,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Liverpool,90,0,1,4,0,25,0,0,0,0,0,0,4.2,24.6,13.2,4.0,False,3,4.0,4.0,0.0
+Cristian Romero,DEF,Spurs,Crystal Palace,90,0,0,0,1,32,0,0,0,0,0,0,5.9,30.6,16.6,12.0,True,7,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Aston Villa,90,0,0,2,0,14,1,0,0,0,0,0,1.7,15.8,0.8,0.0,False,0,4.0,2.0,2.0
+Cristian Romero,DEF,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cristian Romero,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

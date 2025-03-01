@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Bobby De Cordova-Reid,MID,Fulham,Liverpool,90,0,0,2,0,6,1,0,0,0,0,0,4.0,13.0,17.5,9.0,True,1,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Wolves,90,0,0,0,1,8,0,0,0,0,0,0,7.1,7.2,6.3,57.0,False,3,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Brentford,90,1,0,2,0,24,0,0,0,0,0,0,10.5,37.6,22.4,45.0,True,8,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Arsenal,90,0,0,2,0,5,1,0,0,0,0,0,9.0,15.4,14.7,60.0,False,1,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Brighton,90,0,0,1,0,2,0,0,0,0,0,0,0.8,0.0,1.0,8.0,True,2,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Spurs,60,0,0,1,0,2,1,0,0,0,0,0,0.5,1.2,1.8,2.0,False,1,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Nott'm Forest,90,0,1,2,0,18,0,0,0,0,0,0,4.1,19.4,15.7,6.0,False,5,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Newcastle,90,1,0,4,0,23,0,0,0,0,0,0,7.6,37.0,2.1,37.0,True,7,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,West Ham,90,0,0,3,0,14,0,0,0,0,0,0,1.3,10.2,2.8,0.0,False,2,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Bournemouth,90,0,0,2,0,11,1,0,0,0,0,0,5.8,13.8,19.7,24.0,True,1,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Aston Villa,90,0,0,0,1,13,0,0,0,0,0,0,4.1,12.4,29.0,0.0,True,3,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Leeds,90,1,0,2,0,27,0,0,0,0,0,0,6.3,45.0,1.3,17.0,False,8,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Everton,75,0,0,0,1,2,1,0,0,0,0,0,6.4,10.8,15.9,37.0,True,2,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Bobby De Cordova-Reid,MID,Fulham,Man Utd,90,0,0,2,0,6,1,0,0,0,0,0,2.1,7.8,7.1,6.0,True,1,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Crystal Palace,80,1,0,0,1,33,0,0,0,0,0,0,13.7,44.8,28.9,63.0,False,9,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Southampton,61,0,0,1,0,7,0,0,0,0,0,0,2.3,4.6,16.0,2.0,True,2,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Leicester,65,0,0,0,1,4,0,0,0,0,0,0,1.7,2.8,12.4,2.0,False,3,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Chelsea,67,0,0,1,0,2,0,0,0,0,0,0,0.8,0.0,1.6,8.0,True,2,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Newcastle,90,0,0,1,0,8,0,0,0,0,0,0,1.5,7.8,1.0,6.0,False,2,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Spurs,86,0,0,1,0,4,0,0,0,0,0,0,2.3,12.4,1.8,9.0,True,2,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Chelsea,74,0,0,0,1,0,1,0,0,0,0,0,3.0,2.0,2.9,25.0,False,2,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Nott'm Forest,84,0,0,0,1,6,0,0,0,0,0,0,2.2,3.0,5.9,13.0,True,3,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Brighton,90,0,0,0,1,6,0,0,0,0,0,0,1.1,5.8,0.6,5.0,False,3,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Wolves,45,0,0,1,0,13,0,0,0,0,0,0,3.9,11.0,26.0,2.0,True,1,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Brentford,15,0,0,1,0,2,0,0,0,0,0,0,0.6,5.2,0.6,0.0,False,1,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Arsenal,90,0,0,3,0,9,0,0,0,0,0,0,4.8,11.0,19.7,17.0,True,2,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Bournemouth,68,0,0,1,0,12,0,0,0,0,0,0,3.4,7.6,16.3,10.0,False,2,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,West Ham,45,0,0,1,0,3,0,0,0,0,0,0,1.2,0.0,3.3,9.0,True,1,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Everton,11,0,0,0,0,6,0,0,0,0,0,0,1.9,5.4,11.2,2.0,False,1,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Leeds,81,0,0,1,0,0,0,0,0,0,0,0,1.3,4.4,4.8,4.0,True,2,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Aston Villa,73,0,0,1,0,1,1,0,0,0,0,0,1.2,2.0,3.8,6.0,False,1,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Man City,75,0,0,2,0,2,0,0,0,0,0,0,0.5,0.6,1.1,3.0,True,2,2.0,5.0,-3.0
+Bobby De Cordova-Reid,MID,Fulham,Liverpool,19,0,0,0,0,2,0,0,0,0,0,0,0.7,0.0,0.3,8.0,False,1,2.0,4.0,-2.0
+Bobby De Cordova-Reid,MID,Fulham,Leicester,8,0,0,1,0,3,0,0,0,0,0,0,0.4,4.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Bobby De Cordova-Reid,MID,Fulham,Southampton,21,0,0,0,0,2,0,0,0,0,0,0,1.6,0.0,10.8,6.0,False,1,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Crystal Palace,10,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,2.0,2.0,0.0
+Bobby De Cordova-Reid,MID,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0

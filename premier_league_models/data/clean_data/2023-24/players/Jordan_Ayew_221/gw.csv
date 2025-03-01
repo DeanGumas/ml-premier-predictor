@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jordan Ayew,MID,Crystal Palace,Sheffield Utd,90,0,1,0,1,14,0,0,0,0,0,0,9.1,26.8,32.0,32.0,False,6,3.0,2.0,1.0
+Jordan Ayew,MID,Crystal Palace,Arsenal,90,0,0,1,0,2,1,0,0,0,0,0,3.8,3.6,12.7,22.0,True,1,3.0,5.0,-2.0
+Jordan Ayew,MID,Crystal Palace,Brentford,90,0,1,1,0,16,0,0,0,0,0,0,11.5,26.6,34.0,54.0,False,5,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Wolves,90,0,0,2,0,2,0,0,0,0,0,0,5.8,17.6,16.0,24.0,True,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Aston Villa,24,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.2,0.0,False,1,3.0,4.0,-1.0
+Jordan Ayew,MID,Crystal Palace,Fulham,90,0,0,0,1,9,1,0,0,0,0,0,1.2,3.8,3.9,4.0,True,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Man Utd,90,0,0,0,1,13,0,0,0,0,0,0,3.3,19.0,11.8,2.0,False,3,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Nott'm Forest,90,0,0,0,1,3,0,0,0,0,0,0,2.3,1.4,4.8,17.0,True,3,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Newcastle,90,0,0,4,0,13,0,0,0,0,0,0,2.3,7.0,6.4,10.0,False,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Spurs,90,1,0,2,0,12,1,0,0,0,0,0,8.9,46.6,6.3,36.0,True,6,3.0,4.0,-1.0
+Jordan Ayew,MID,Crystal Palace,Burnley,90,0,1,0,1,21,1,0,0,0,0,0,4.7,27.4,15.8,4.0,False,5,3.0,2.0,1.0
+Jordan Ayew,MID,Crystal Palace,Everton,90,0,0,3,0,6,0,0,0,0,0,0,1.8,5.0,5.1,8.0,True,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Luton,41,0,0,2,0,2,0,0,0,0,0,0,2.5,4.0,15.3,6.0,False,1,3.0,2.0,1.0
+Jordan Ayew,MID,Crystal Palace,West Ham,90,0,0,1,0,3,0,0,0,0,0,0,2.3,13.6,2.8,7.0,False,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Bournemouth,90,0,0,2,0,5,0,0,0,0,0,0,8.2,16.6,15.5,50.0,True,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Liverpool,74,0,0,2,0,3,0,1,0,0,0,0,2.7,2.0,17.3,8.0,True,-1,3.0,4.0,-1.0
+Jordan Ayew,MID,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Jordan Ayew,MID,Crystal Palace,Brighton,69,1,0,0,1,22,0,0,0,0,0,0,11.7,41.0,3.6,72.0,True,8,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Chelsea,78,0,1,1,0,17,0,0,0,0,0,0,5.3,25.2,20.0,8.0,False,5,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Brentford,90,0,1,1,0,22,0,0,0,0,0,0,7.2,24.0,31.9,16.0,True,5,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Jordan Ayew,MID,Crystal Palace,Sheffield Utd,90,0,0,2,0,4,0,0,0,0,0,0,5.8,14.6,33.6,10.0,True,2,3.0,2.0,1.0
+Jordan Ayew,MID,Crystal Palace,Brighton,90,0,0,4,0,6,0,0,0,0,0,0,2.1,8.8,2.8,9.0,False,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Chelsea,90,0,0,3,0,4,0,0,0,0,0,0,1.8,4.8,1.3,12.0,True,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Everton,90,1,0,1,0,16,1,0,0,0,0,0,5.6,40.2,4.6,11.0,False,6,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Burnley,90,1,1,0,1,45,1,0,0,0,0,0,20.6,74.2,86.3,45.0,True,13,3.0,2.0,1.0
+Jordan Ayew,MID,Crystal Palace,Spurs,70,0,0,0,1,4,0,0,0,0,0,0,1.9,3.6,14.7,1.0,False,3,3.0,4.0,-1.0
+Jordan Ayew,MID,Crystal Palace,Luton,69,0,0,0,1,3,0,0,0,0,0,0,2.6,3.0,3.0,20.0,True,3,3.0,2.0,1.0
+Jordan Ayew,MID,Crystal Palace,Nott'm Forest,65,0,0,1,0,8,0,0,0,0,0,0,0.6,0.4,2.3,3.0,False,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Bournemouth,69,0,0,0,1,4,0,0,0,0,0,0,2.8,4.4,4.5,19.0,False,3,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Man City,73,0,0,4,0,6,0,0,0,0,0,0,0.6,0.0,0.8,7.0,True,2,3.0,5.0,-2.0
+Jordan Ayew,MID,Crystal Palace,Liverpool,22,0,0,0,0,1,0,0,0,0,0,0,0.4,3.2,0.5,0.0,False,1,3.0,4.0,-1.0
+Jordan Ayew,MID,Crystal Palace,West Ham,22,0,0,1,0,3,0,0,0,0,0,0,1.7,8.6,1.9,6.0,True,1,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Newcastle,72,0,1,0,1,19,1,0,0,0,0,0,5.0,23.8,14.6,12.0,True,5,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Fulham,75,0,0,1,0,9,0,0,0,0,0,0,2.2,9.8,4.2,8.0,False,2,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Man Utd,5,0,0,0,0,3,0,0,0,0,0,0,2.6,5.0,14.4,7.0,True,1,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jordan Ayew,MID,Crystal Palace,Aston Villa,2,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,4.0,-1.0

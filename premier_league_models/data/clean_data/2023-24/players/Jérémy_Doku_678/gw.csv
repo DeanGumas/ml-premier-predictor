@@ -1,0 +1,37 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jérémy Doku,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Jérémy Doku,MID,Man City,Fulham,75,0,0,1,0,9,0,0,0,0,0,0,1.9,12.0,6.8,0.0,True,2,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,West Ham,89,1,0,1,0,38,0,0,0,0,0,0,14.4,49.0,34.9,60.0,False,9,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Nott'm Forest,51,0,0,0,0,8,0,0,0,0,0,0,2.5,6.6,14.8,4.0,True,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Wolves,90,0,0,2,0,11,1,0,0,0,0,0,11.3,15.6,55.4,42.0,False,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Arsenal,22,0,0,1,0,0,0,0,0,0,0,0,1.6,12.0,0.3,4.0,False,1,5.0,5.0,0.0
+Jérémy Doku,MID,Man City,Brighton,74,0,1,1,0,25,0,0,0,0,0,0,8.9,23.8,25.8,39.0,True,6,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Man Utd,3,0,0,0,0,4,0,0,0,0,0,0,0.5,2.0,0.5,2.0,False,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Bournemouth,90,1,4,1,0,82,0,0,0,0,0,0,21.9,113.4,60.2,45.0,True,22,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Chelsea,58,0,0,2,0,1,1,0,0,0,0,0,4.7,8.0,2.1,37.0,False,0,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Liverpool,90,0,0,1,0,30,0,0,0,0,0,0,12.8,31.2,53.4,43.0,True,5,5.0,4.0,1.0
+Jérémy Doku,MID,Man City,Spurs,51,0,0,1,0,3,0,0,0,0,0,0,5.9,0.0,8.8,51.0,True,1,5.0,4.0,1.0
+Jérémy Doku,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Jérémy Doku,MID,Man City,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Jérémy Doku,MID,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Jérémy Doku,MID,Man City,Newcastle,81,0,0,2,0,2,0,0,0,0,0,0,10.2,13.0,44.6,44.0,False,2,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Burnley,90,0,0,1,0,11,1,0,0,0,0,0,8.0,19.4,48.2,12.0,True,1,5.0,2.0,3.0
+Jérémy Doku,MID,Man City,Brentford,19,0,0,0,0,4,0,0,0,0,0,0,2.3,5.0,15.8,2.0,False,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Everton,86,0,0,0,1,17,0,0,0,0,0,0,7.8,13.2,31.3,33.0,True,3,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Chelsea,90,0,0,1,0,9,0,0,0,0,0,0,13.0,18.2,50.1,62.0,True,2,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Brentford,29,0,0,0,0,10,0,0,0,0,0,0,1.8,1.6,6.7,10.0,True,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Bournemouth,27,0,0,0,0,1,0,0,0,0,0,0,1.6,3.0,1.8,11.0,False,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Man Utd,58,0,0,1,0,5,0,0,0,0,0,0,6.4,4.8,17.0,42.0,True,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Liverpool,21,0,0,0,0,1,0,0,0,0,0,0,3.3,2.4,1.6,29.0,False,1,5.0,4.0,1.0
+Jérémy Doku,MID,Man City,Arsenal,29,0,0,0,0,3,0,0,0,0,0,0,1.9,1.4,1.8,16.0,True,1,5.0,5.0,0.0
+Jérémy Doku,MID,Man City,Aston Villa,79,0,1,1,0,27,0,0,0,0,0,0,14.3,38.2,51.6,53.0,True,6,5.0,4.0,1.0
+Jérémy Doku,MID,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Luton,90,1,2,1,0,52,0,0,0,0,0,0,18.4,62.0,46.4,76.0,True,16,5.0,2.0,3.0
+Jérémy Doku,MID,Man City,Brighton,12,0,0,0,0,1,0,0,0,0,0,0,2.2,5.0,0.3,17.0,False,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Nott'm Forest,45,0,0,0,0,-2,0,0,0,0,0,0,0.7,0.0,2.1,6.0,False,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Wolves,10,0,0,0,0,11,0,0,0,0,0,0,4.3,10.2,15.8,17.0,True,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Fulham,15,0,0,0,0,-1,0,0,0,0,0,0,2.4,2.0,1.0,21.0,False,1,5.0,3.0,2.0
+Jérémy Doku,MID,Man City,Spurs,21,0,1,0,0,10,0,0,0,0,0,0,3.4,7.2,1.7,25.0,False,4,5.0,4.0,1.0
+Jérémy Doku,MID,Man City,West Ham,90,0,1,1,0,19,0,0,0,0,0,0,15.5,44.0,39.4,72.0,True,5,5.0,3.0,2.0

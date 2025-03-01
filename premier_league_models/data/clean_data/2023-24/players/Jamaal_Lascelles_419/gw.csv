@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jamaal Lascelles,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Jamaal Lascelles,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Brighton,16,0,0,0,0,2,0,0,0,0,0,0,0.2,1.6,0.0,0.0,False,1,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Burnley,90,0,0,0,1,24,0,0,0,0,0,0,3.0,7.6,11.6,11.0,True,6,3.0,2.0,1.0
+Jamaal Lascelles,DEF,Newcastle,West Ham,90,0,0,2,0,10,0,0,0,0,0,0,1.8,15.0,0.8,2.0,False,1,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Crystal Palace,90,0,0,0,1,23,0,0,0,0,0,0,3.2,27.6,1.9,2.0,True,6,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Wolves,90,0,0,2,0,12,1,0,0,0,0,0,1.9,16.2,0.8,2.0,False,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Arsenal,90,0,0,0,1,24,0,0,0,0,0,0,3.2,27.6,0.8,4.0,True,9,3.0,5.0,-2.0
+Jamaal Lascelles,DEF,Newcastle,Bournemouth,90,0,0,2,0,9,1,0,0,0,0,0,2.4,21.2,1.0,2.0,False,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Chelsea,85,1,0,1,0,21,1,0,0,0,0,0,7.4,36.6,10.8,27.0,True,7,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Man Utd,90,0,0,0,1,24,0,0,0,0,0,0,2.1,7.8,1.8,11.0,True,6,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Everton,89,0,0,2,0,13,0,0,0,0,0,0,2.6,24.8,0.9,0.0,False,1,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Spurs,90,0,0,4,0,7,1,0,0,0,0,0,2.1,14.6,0.8,6.0,False,-1,3.0,4.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Fulham,90,0,0,0,1,27,0,0,0,0,0,0,1.9,16.0,3.1,0.0,True,6,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Luton,36,0,0,1,0,7,0,0,0,0,0,0,1.0,9.4,0.6,0.0,False,1,3.0,2.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Liverpool,8,0,0,1,0,3,0,0,0,0,0,0,0.8,5.6,0.0,2.0,False,1,3.0,4.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Jamaal Lascelles,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Arsenal,17,0,0,0,0,3,0,0,0,0,0,0,0.2,1.4,0.5,0.0,False,1,3.0,5.0,-2.0
+Jamaal Lascelles,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,West Ham,16,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jamaal Lascelles,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jamaal Lascelles,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jamaal Lascelles,DEF,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

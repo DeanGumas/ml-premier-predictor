@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Will Hughes,MID,Crystal Palace,Arsenal,4,0,0,0,0,2,0,0,0,0,0,0,0.4,0.0,0.3,4.0,True,1,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Liverpool,11,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Aston Villa,8,0,0,0,0,2,0,0,0,0,0,0,4.0,8.4,1.7,30.0,True,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Man City,23,0,0,2,0,4,0,0,0,0,0,0,0.8,7.6,0.3,0.0,False,1,2.0,5.0,-3.0
+Will Hughes,MID,Crystal Palace,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Chelsea,6,0,0,1,0,2,0,0,0,0,0,0,0.0,0.2,0.2,0.0,True,1,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Leeds,5,0,0,0,0,5,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Southampton,15,0,0,0,0,2,0,0,0,0,0,0,0.2,1.4,0.8,0.0,True,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Nott'm Forest,12,0,0,0,0,2,0,0,0,0,0,0,0.3,0.6,2.8,0.0,False,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Fulham,6,0,0,0,0,3,0,0,0,0,0,0,0.7,7.0,0.0,0.0,True,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Bournemouth,2,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Spurs,16,0,0,0,0,0,0,0,0,0,0,0,1.9,1.8,15.2,2.0,True,1,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Chelsea,21,0,0,0,0,-2,1,0,0,0,0,0,0.0,0.0,1.5,0.0,False,0,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Man Utd,83,0,0,1,0,4,1,0,0,0,0,0,2.3,19.2,1.5,2.0,True,1,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Newcastle,25,0,0,0,0,1,1,0,0,0,0,0,0.1,0.4,0.4,0.0,True,0,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Man Utd,71,0,0,2,0,3,0,0,0,0,0,0,0.0,0.0,1.7,0.0,False,2,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Brighton,55,0,0,0,0,8,1,0,0,0,0,0,0.8,8.0,0.4,0.0,True,0,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Aston Villa,15,0,0,0,0,5,0,0,0,0,0,0,1.9,3.8,15.0,0.0,False,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Will Hughes,MID,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Arsenal,25,0,0,1,0,2,0,0,0,0,0,0,0.6,5.2,0.3,0.0,False,1,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Leicester,9,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.4,0.0,True,1,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Leeds,16,0,1,0,0,16,0,0,0,0,0,0,3.3,18.8,12.5,2.0,False,4,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Southampton,16,0,0,0,0,10,0,0,0,0,0,0,1.1,6.8,3.8,0.0,False,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Everton,19,0,0,0,0,3,0,0,0,0,0,0,0.4,1.0,1.2,2.0,True,1,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Wolves,88,0,0,1,0,14,0,0,0,0,0,0,4.5,16.8,23.7,4.0,False,2,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Will Hughes,MID,Crystal Palace,Spurs,16,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,1.3,0.0,False,1,2.0,4.0,-2.0
+Will Hughes,MID,Crystal Palace,Bournemouth,76,0,0,0,1,19,0,0,0,0,0,0,3.9,25.0,4.7,9.0,True,3,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Fulham,90,0,0,2,0,5,0,0,0,0,0,0,3.1,16.4,12.3,2.0,False,2,2.0,2.0,0.0
+Will Hughes,MID,Crystal Palace,Nott'm Forest,89,1,0,1,0,31,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,10,2.0,2.0,0.0

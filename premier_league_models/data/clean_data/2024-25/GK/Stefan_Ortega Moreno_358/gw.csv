@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Stefan Ortega Moreno,GK,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Stefan Ortega Moreno,GK,Man City,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Stefan Ortega Moreno,GK,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Stefan Ortega Moreno,GK,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Stefan Ortega Moreno,GK,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Stefan Ortega Moreno,GK,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Liverpool,90,0,0,2,0,11,0,0,0,5,0,0,3.5,35.2,0.0,0.0,False,2,4.0,5.0,-1.0
+Stefan Ortega Moreno,GK,Man City,Nott'm Forest,90,0,0,0,1,31,0,0,0,3,0,0,2.8,27.8,0.0,0.0,True,7,4.0,4.0,0.0
+Stefan Ortega Moreno,GK,Man City,Crystal Palace,90,0,0,2,0,6,0,0,0,1,0,0,1.2,12.4,0.0,0.0,False,1,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Aston Villa,90,0,0,2,0,8,0,0,0,4,0,0,3.4,33.6,0.0,0.0,False,2,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Everton,90,0,0,1,0,8,0,0,0,2,0,0,1.7,16.8,0.0,0.0,True,2,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Leicester,90,0,0,0,1,22,1,0,0,3,0,0,2.8,27.6,0.0,0.0,False,6,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,West Ham,90,0,0,1,0,14,0,0,0,3,0,0,3.2,31.6,0.0,0.0,True,3,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Brentford,90,0,0,2,0,9,0,0,0,3,0,0,2.6,26.0,0.0,0.0,False,2,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Stefan Ortega Moreno,GK,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

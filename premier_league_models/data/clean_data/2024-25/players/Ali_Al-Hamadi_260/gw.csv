@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ali Al-Hamadi,FWD,Ipswich,Liverpool,16,0,0,0,0,2,0,0,0,0,0,0,0.4,2.0,0.0,2.0,True,1,3.0,5.0,-2.0
+Ali Al-Hamadi,FWD,Ipswich,Man City,7,0,0,1,0,-2,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Ali Al-Hamadi,FWD,Ipswich,Fulham,9,0,0,0,0,0,1,0,0,0,0,0,1.6,2.0,11.5,2.0,True,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Ali Al-Hamadi,FWD,Ipswich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Man Utd,9,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.4,0.0,True,1,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Ali Al-Hamadi,FWD,Ipswich,Crystal Palace,11,0,0,0,0,4,0,0,0,0,0,0,0.2,1.2,0.5,0.0,True,1,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Bournemouth,9,0,0,2,0,4,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,1,3.0,4.0,-1.0
+Ali Al-Hamadi,FWD,Ipswich,Wolves,6,0,0,0,0,3,0,0,0,0,0,0,0.5,0.0,0.3,6.0,False,1,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Newcastle,45,0,0,1,0,-2,1,0,0,0,0,0,3.0,0.0,11.3,20.0,True,0,3.0,4.0,-1.0
+Ali Al-Hamadi,FWD,Ipswich,Arsenal,10,0,0,0,0,-1,0,0,0,0,0,0,0.2,0.0,1.1,2.0,False,1,3.0,4.0,-1.0
+Ali Al-Hamadi,FWD,Ipswich,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,3.0,4.0,-1.0
+Ali Al-Hamadi,FWD,Ipswich,Fulham,2,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ali Al-Hamadi,FWD,Ipswich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Ali Al-Hamadi,FWD,Ipswich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

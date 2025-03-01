@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Brajan Gruda,MID,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Brajan Gruda,MID,Brighton,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Brajan Gruda,MID,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Brajan Gruda,MID,Brighton,Spurs,3,0,0,0,0,1,0,0,0,0,0,0,0.4,0.0,0.0,4.0,True,1,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Brajan Gruda,MID,Brighton,Wolves,18,0,0,2,0,2,0,0,0,0,0,0,0.4,4.0,0.1,0.0,True,1,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Liverpool,14,0,0,0,0,2,0,0,0,0,0,0,2.3,6.2,11.1,6.0,False,1,3.0,5.0,-2.0
+Brajan Gruda,MID,Brighton,Man City,24,0,0,0,0,5,0,0,0,0,0,0,1.6,3.2,11.2,2.0,True,1,3.0,4.0,-1.0
+Brajan Gruda,MID,Brighton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Brajan Gruda,MID,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Brajan Gruda,MID,Brighton,Fulham,4,0,0,1,0,2,0,0,0,0,0,0,0.2,1.2,0.3,0.0,False,1,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Crystal Palace,18,0,0,1,0,3,0,0,0,0,0,0,0.9,1.6,1.3,6.0,True,1,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,West Ham,67,0,0,1,0,4,0,0,0,0,0,0,2.7,5.8,7.0,14.0,False,2,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Brentford,67,0,0,0,1,21,0,0,0,0,0,0,9.7,20.0,58.3,19.0,True,3,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Aston Villa,57,0,0,2,0,3,0,0,0,0,0,0,3.4,5.2,24.9,4.0,False,1,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Arsenal,45,0,0,1,0,0,0,0,0,0,0,0,3.8,3.2,1.6,33.0,True,1,3.0,4.0,-1.0
+Brajan Gruda,MID,Brighton,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Brajan Gruda,MID,Brighton,Everton,45,0,0,1,0,8,0,0,0,0,0,0,2.2,7.4,12.9,2.0,True,1,3.0,3.0,0.0

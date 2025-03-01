@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Aymeric Laporte,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Aymeric Laporte,DEF,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Man Utd,15,0,0,2,0,2,0,0,0,0,0,0,0.4,0.0,0.1,4.0,True,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Brighton,90,0,0,1,0,14,0,0,0,0,0,0,2.2,10.4,3.9,8.0,True,2,5.0,3.0,2.0
+Aymeric Laporte,DEF,Man City,Leicester,90,0,0,0,1,23,0,0,0,0,0,0,3.1,8.6,18.7,4.0,False,6,5.0,3.0,2.0
+Aymeric Laporte,DEF,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Brentford,90,0,0,2,0,17,0,0,0,0,0,0,8.4,31.8,28.3,24.0,True,1,5.0,3.0,2.0
+Aymeric Laporte,DEF,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Wolves,90,0,0,0,1,27,0,0,0,0,0,0,1.8,14.4,3.7,0.0,True,8,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Aston Villa,90,0,0,1,0,15,0,0,0,0,0,0,2.1,15.4,3.5,2.0,True,2,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Nott'm Forest,90,0,0,1,0,15,0,0,0,0,0,0,5.5,15.4,15.9,24.0,False,2,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Leicester,90,0,0,1,0,12,0,0,0,0,0,0,2.6,15.6,10.3,0.0,True,2,5.0,3.0,2.0
+Aymeric Laporte,DEF,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Aymeric Laporte,DEF,Man City,Leeds,90,0,0,1,0,15,0,0,0,0,0,0,2.1,17.2,4.0,0.0,True,2,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Everton,90,0,0,0,1,30,0,0,0,0,0,0,4.1,22.2,17.0,2.0,False,7,5.0,2.0,3.0
+Aymeric Laporte,DEF,Man City,Chelsea,77,0,0,0,1,23,0,0,0,0,0,0,1.8,15.2,2.4,0.0,True,6,5.0,4.0,1.0
+Aymeric Laporte,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Aymeric Laporte,DEF,Man City,Brentford,90,0,0,1,0,17,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,5.0,3.0,2.0

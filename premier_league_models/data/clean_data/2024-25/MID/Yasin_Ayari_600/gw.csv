@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Yasin Ayari,MID,Brighton,Everton,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,1.1,5.4,0.3,5.0,True,1,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Arsenal,73,0,0,1,0,8,0,0,0,0,0,0,5.5,14.8,15.9,24.0,False,2,3.0,4.0,-1.0
+Yasin Ayari,MID,Brighton,Ipswich,90,0,0,0,1,12,0,0,0,0,0,0,5.9,13.4,24.8,21.0,True,3,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Yasin Ayari,MID,Brighton,Chelsea,33,0,0,0,0,6,0,0,0,0,0,0,1.3,4.8,1.8,6.0,False,1,3.0,4.0,-1.0
+Yasin Ayari,MID,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Newcastle,81,0,0,0,1,9,1,0,0,0,0,0,4.6,12.0,33.8,0.0,False,2,3.0,4.0,-1.0
+Yasin Ayari,MID,Brighton,Wolves,90,0,0,2,0,11,0,0,0,0,0,0,6.5,16.0,42.5,6.0,True,2,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Liverpool,75,0,0,2,0,23,0,0,0,0,0,0,6.4,23.4,25.3,15.0,False,2,3.0,5.0,-2.0
+Yasin Ayari,MID,Brighton,Man City,45,0,0,1,0,0,1,0,0,0,0,0,0.2,0.2,1.7,0.0,True,0,3.0,4.0,-1.0
+Yasin Ayari,MID,Brighton,Bournemouth,75,0,0,0,1,15,0,0,0,0,0,0,3.1,13.2,17.5,0.0,False,3,3.0,4.0,-1.0
+Yasin Ayari,MID,Brighton,Southampton,90,0,0,1,0,10,0,0,0,0,0,0,3.6,9.0,17.3,10.0,True,2,3.0,2.0,1.0
+Yasin Ayari,MID,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Leicester,70,0,0,0,1,9,0,0,0,0,0,0,3.6,12.4,16.3,7.0,False,3,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Crystal Palace,71,0,0,2,0,18,0,0,0,0,0,0,4.8,9.2,30.6,8.0,True,2,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,West Ham,34,0,0,1,0,5,0,0,0,0,0,0,6.3,10.0,15.3,38.0,False,1,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Brentford,23,0,0,0,0,-1,0,0,0,0,0,0,0.4,0.0,0.8,6.0,True,1,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Aston Villa,68,0,0,2,0,9,1,0,0,0,0,0,3.1,19.6,11.0,0.0,False,1,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Arsenal,90,0,0,1,0,19,0,0,0,0,0,0,3.2,11.2,18.2,3.0,True,2,3.0,4.0,-1.0
+Yasin Ayari,MID,Brighton,Ipswich,90,0,0,0,1,11,0,0,0,0,0,0,1.6,1.6,10.3,4.0,False,3,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Man Utd,90,0,0,1,0,12,0,0,0,0,0,0,1.8,11.6,6.1,0.0,False,2,3.0,3.0,0.0
+Yasin Ayari,MID,Brighton,Everton,74,0,0,1,0,8,0,0,0,0,0,0,4.3,5.8,29.3,8.0,True,2,3.0,3.0,0.0

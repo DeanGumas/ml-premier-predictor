@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Nott'm Forest,15,0,0,0,0,6,0,0,0,0,0,0,0.3,3.2,0.1,0.0,False,1,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Newcastle,4,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Aston Villa,25,0,0,3,0,3,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,1,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Brentford,22,0,0,1,0,6,0,0,0,0,0,0,3.6,6.4,25.3,4.0,False,1,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Man City,10,0,0,1,0,1,0,0,0,0,0,0,0.1,0.4,0.6,0.0,True,1,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.4,4.0,0.3,0.0,False,1,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Crystal Palace,28,0,1,1,0,14,1,0,0,0,0,0,4.7,26.2,12.1,9.0,True,3,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Southampton,17,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,2.0,1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Fulham,1,1,0,0,0,23,0,0,0,0,0,0,5.0,33.0,0.0,17.0,False,6,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Bournemouth,26,0,1,1,0,18,0,0,0,0,0,0,4.5,26.4,11.3,7.0,True,4,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Everton,56,0,0,3,0,0,0,0,0,0,0,0,0.6,3.2,0.5,2.0,False,1,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,West Ham,28,0,0,1,0,5,0,0,0,0,0,0,3.4,4.6,14.6,15.0,False,1,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Ipswich,26,0,1,1,0,20,0,0,0,0,0,0,5.4,26.8,25.1,2.0,True,4,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Leicester,73,1,1,0,1,40,0,0,0,0,0,0,8.0,49.6,11.1,19.0,False,13,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Man Utd,73,0,0,0,1,-1,0,0,0,0,0,0,0.8,0.0,5.6,3.0,True,3,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Spurs,45,0,0,0,0,1,0,0,0,0,0,0,2.0,2.2,11.6,6.0,False,1,3.0,3.0,0.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Nott'm Forest,74,0,0,2,0,9,0,0,0,0,0,0,3.8,4.6,22.7,11.0,True,2,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Newcastle,68,0,0,2,0,8,0,0,0,0,0,0,4.1,5.8,6.1,29.0,False,2,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Chelsea,16,0,0,0,0,1,0,0,0,0,0,0,0.2,0.0,0.8,2.0,False,1,3.0,4.0,-1.0
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,Arsenal,3,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,4.0,-1.0

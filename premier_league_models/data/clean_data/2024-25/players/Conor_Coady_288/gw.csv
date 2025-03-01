@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Conor Coady,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Crystal Palace,7,0,0,1,0,-6,1,0,0,0,0,0,0.2,2.0,0.0,0.0,False,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Conor Coady,DEF,Leicester,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Conor Coady,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Conor Coady,DEF,Leicester,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Conor Coady,DEF,Leicester,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Conor Coady,DEF,Leicester,Brentford,90,0,0,4,0,-1,0,0,0,0,0,0,2.6,25.4,0.8,0.0,False,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,West Ham,90,0,0,1,0,17,0,0,0,0,0,0,2.8,28.0,0.3,0.0,True,2,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Brighton,90,0,0,2,0,6,0,0,0,0,0,0,1.2,10.8,1.3,0.0,True,1,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Newcastle,90,0,0,4,0,-7,0,0,0,0,0,0,2.0,15.4,4.7,0.0,False,0,3.0,4.0,-1.0
+Conor Coady,DEF,Leicester,Wolves,90,0,0,3,0,5,0,0,0,0,0,0,3.5,18.8,14.4,2.0,True,1,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Liverpool,90,0,0,3,0,4,0,0,0,0,0,0,2.6,25.2,0.3,0.0,False,1,3.0,5.0,-2.0
+Conor Coady,DEF,Leicester,Man City,84,0,0,2,0,6,0,0,0,0,0,0,1.5,9.2,1.3,4.0,True,1,3.0,4.0,-1.0
+Conor Coady,DEF,Leicester,Aston Villa,81,0,0,2,0,3,0,0,0,0,0,0,1.1,10.6,0.7,0.0,False,1,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Conor Coady,DEF,Leicester,Spurs,3,0,0,0,0,5,0,0,0,0,0,0,0.3,2.6,0.0,0.0,False,1,3.0,3.0,0.0

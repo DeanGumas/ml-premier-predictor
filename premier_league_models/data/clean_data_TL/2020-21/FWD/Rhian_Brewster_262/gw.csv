@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Rhian Brewster,FWD,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-12T16:30:00Z,0
+Rhian Brewster,FWD,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-20T15:30:00Z,0
+Rhian Brewster,FWD,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-27T11:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-04T13:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Fulham,26,0,0,1,0,1,0,0,0,0,0,0,0.2,1.4,0.3,0.0,True,2020-10-18T11:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Liverpool,53,0,0,1,0,1,0,0,0,0,0,0,1.3,0.2,11.1,2.0,False,2020-10-24T19:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Man City,90,0,0,1,0,3,0,0,0,0,0,0,2.5,4.0,12.2,9.0,True,2020-10-31T12:30:00Z,2
+Rhian Brewster,FWD,Liverpool,Chelsea,62,0,0,2,0,6,0,0,0,0,0,0,0.5,5.0,0.0,0.0,False,2020-11-07T17:30:00Z,2
+Rhian Brewster,FWD,Liverpool,West Ham,25,0,0,0,0,4,0,0,0,0,0,0,1.2,1.4,10.2,0.0,True,2020-11-22T14:00:00Z,1
+Rhian Brewster,FWD,Liverpool,West Brom,36,0,0,0,0,2,0,0,0,0,0,0,5.1,5.4,12.8,33.0,False,2020-11-28T20:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Leicester,9,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.3,1.0,True,2020-12-06T14:15:00Z,1
+Rhian Brewster,FWD,Liverpool,Southampton,30,0,0,2,0,-1,0,0,0,0,0,0,0.1,0.0,1.5,0.0,False,2020-12-13T12:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Man Utd,16,0,0,0,0,4,0,0,0,0,0,0,2.4,2.6,11.3,10.0,True,2020-12-17T20:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Brighton,53,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,1.0,0.0,False,2020-12-20T12:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Everton,75,0,0,0,1,10,0,0,0,0,0,0,2.0,3.0,17.4,0.0,True,2020-12-26T20:00:00Z,2
+Rhian Brewster,FWD,Liverpool,Burnley,90,0,0,1,0,5,0,0,0,0,0,0,5.7,10.8,2.8,43.0,False,2020-12-29T18:00:00Z,2
+Rhian Brewster,FWD,Liverpool,Crystal Palace,29,0,0,0,0,1,0,0,0,0,0,0,0.1,0.2,0.9,0.0,False,2021-01-02T15:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Newcastle,39,0,0,0,0,1,0,0,0,0,0,0,1.8,0.0,4.3,15.0,True,2021-01-12T18:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Spurs,19,0,0,0,0,3,0,0,0,0,0,0,0.6,3.0,0.5,2.0,True,2021-01-17T14:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Man Utd,10,0,0,0,0,5,0,0,0,0,0,0,0.4,4.0,0.0,0.0,False,2021-01-27T20:15:00Z,1
+Rhian Brewster,FWD,Liverpool,Man City,61,0,0,1,0,6,0,0,0,0,0,0,1.2,2.2,1.1,9.0,False,2021-01-30T15:00:00Z,2
+Rhian Brewster,FWD,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-02T18:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Chelsea,4,0,0,0,0,3,0,0,0,0,0,0,3.7,0.2,0.3,36.0,True,2021-02-07T19:15:00Z,1
+Rhian Brewster,FWD,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-15T18:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-20T20:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-28T19:15:00Z,0
+Rhian Brewster,FWD,Liverpool,Aston Villa,59,0,0,0,0,1,0,0,0,0,0,0,2.3,1.4,10.2,11.0,True,2021-03-03T18:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Southampton,67,0,0,2,0,7,0,0,0,0,0,0,2.3,0.2,14.6,8.0,True,2021-03-06T15:00:00Z,2
+Rhian Brewster,FWD,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-14T14:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Leeds,17,0,0,0,0,2,0,0,0,0,0,0,1.1,0.0,11.0,1.0,False,2021-04-03T14:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Arsenal,26,0,0,2,0,3,0,0,0,0,0,0,1.5,5.0,1.5,8.0,True,2021-04-11T18:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Wolves,74,0,0,1,0,6,1,0,0,0,0,0,3.7,6.8,15.6,15.0,False,2021-04-17T19:15:00Z,1
+Rhian Brewster,FWD,Liverpool,Brighton,64,0,0,0,1,5,0,0,0,0,0,0,3.1,2.8,0.4,28.0,True,2021-04-24T19:00:00Z,2
+Rhian Brewster,FWD,Liverpool,Spurs,45,0,0,1,0,3,0,0,0,0,0,0,1.8,1.0,14.3,3.0,False,2021-05-02T18:15:00Z,1
+Rhian Brewster,FWD,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-08T14:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-16T18:00:00Z,0
+Rhian Brewster,FWD,Liverpool,Newcastle,23,0,0,0,0,2,0,0,0,0,0,0,1.4,0.0,1.5,14.0,False,2021-05-19T17:00:00Z,1
+Rhian Brewster,FWD,Liverpool,Burnley,11,0,0,0,0,4,0,0,0,0,0,0,1.3,6.2,0.1,7.0,True,2021-05-23T15:00:00Z,1

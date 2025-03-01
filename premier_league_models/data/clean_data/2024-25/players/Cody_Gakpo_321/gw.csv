@@ -1,0 +1,23 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cody Gakpo,FWD,Liverpool,Ipswich,11,0,0,0,0,-1,1,0,0,0,0,0,0.8,0.0,1.8,6.0,False,0,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Brentford,18,0,0,0,0,3,0,0,0,0,0,0,0.7,2.2,1.1,4.0,True,1,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Man Utd,24,0,0,0,0,2,0,0,0,0,0,0,1.2,1.2,0.0,11.0,False,1,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Nott'm Forest,29,0,0,1,0,3,0,0,0,0,0,0,0.3,1.2,1.5,0.0,True,1,5.0,4.0,1.0
+Cody Gakpo,FWD,Liverpool,Bournemouth,18,0,0,0,0,10,0,0,0,0,0,0,4.4,7.2,30.8,6.0,True,1,5.0,4.0,1.0
+Cody Gakpo,FWD,Liverpool,Wolves,17,0,0,0,0,3,0,0,0,0,0,0,0.6,1.0,1.2,4.0,False,1,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Crystal Palace,90,0,1,0,1,30,1,0,0,0,0,0,10.4,36.4,56.3,11.0,False,4,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Chelsea,65,0,0,1,0,4,0,0,0,0,0,0,2.2,1.6,13.9,6.0,True,2,5.0,4.0,1.0
+Cody Gakpo,FWD,Liverpool,Arsenal,27,0,0,0,0,6,0,0,0,0,0,0,0.4,2.4,1.9,0.0,False,1,5.0,4.0,1.0
+Cody Gakpo,FWD,Liverpool,Brighton,90,1,0,1,0,35,0,0,0,0,0,0,7.4,39.2,16.8,18.0,True,9,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Aston Villa,25,0,0,0,0,3,0,0,0,0,0,0,2.2,0.2,0.8,21.0,True,1,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Southampton,61,0,0,2,0,14,1,0,0,0,0,0,5.2,11.0,24.3,17.0,False,1,5.0,2.0,3.0
+Cody Gakpo,FWD,Liverpool,Man City,72,1,0,0,1,33,0,0,0,0,0,0,11.0,36.8,11.8,61.0,True,9,5.0,4.0,1.0
+Cody Gakpo,FWD,Liverpool,Newcastle,66,0,0,2,0,10,0,0,0,0,0,0,2.8,6.2,1.5,20.0,False,2,5.0,4.0,1.0
+Cody Gakpo,FWD,Liverpool,Fulham,69,1,0,1,0,37,0,0,0,0,0,0,12.7,45.6,12.4,69.0,True,9,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Spurs,67,0,0,1,0,1,1,0,0,0,0,0,4.7,9.0,27.3,11.0,False,1,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Leicester,90,1,1,1,0,52,0,0,0,0,0,0,12.8,60.8,32.2,35.0,True,12,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,West Ham,57,1,0,0,0,31,0,0,0,0,0,0,9.1,38.0,26.3,27.0,False,5,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Man Utd,85,1,0,2,0,30,0,0,0,0,0,0,6.7,38.4,1.3,27.0,True,6,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Nott'm Forest,90,0,0,1,0,13,0,0,0,0,0,0,8.8,13.2,48.7,26.0,False,2,5.0,4.0,1.0
+Cody Gakpo,FWD,Liverpool,Brentford,86,0,0,0,1,13,0,0,0,0,0,0,8.5,10.6,45.4,29.0,False,2,5.0,3.0,2.0
+Cody Gakpo,FWD,Liverpool,Ipswich,67,2,1,0,1,69,0,0,0,0,0,0,17.4,87.0,18.3,69.0,True,16,5.0,3.0,2.0

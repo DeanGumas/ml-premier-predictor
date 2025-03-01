@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Charlie Taylor,DEF,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Charlie Taylor,DEF,Southampton,Nott'm Forest,14,0,0,0,0,3,0,0,0,0,0,0,0.4,0.8,1.6,2.0,True,1,2.0,4.0,-2.0
+Charlie Taylor,DEF,Southampton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Ipswich,90,0,0,1,0,10,1,0,0,0,0,0,2.5,23.0,1.7,0.0,True,1,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Bournemouth,90,0,0,3,0,10,0,0,0,0,0,0,5.3,34.8,17.7,0.0,False,1,2.0,4.0,-2.0
+Charlie Taylor,DEF,Southampton,Arsenal,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,2.0,4.0,-2.0
+Charlie Taylor,DEF,Southampton,Leicester,12,0,0,1,0,5,0,0,0,0,0,0,1.2,8.2,4.1,0.0,True,1,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Charlie Taylor,DEF,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Charlie Taylor,DEF,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Chelsea,11,0,0,1,0,-1,0,0,0,0,0,0,0.2,1.6,0.0,0.0,True,1,2.0,4.0,-2.0
+Charlie Taylor,DEF,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Brentford,45,0,0,4,0,-14,0,0,0,0,0,0,0.5,4.0,1.1,0.0,True,-1,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Charlie Taylor,DEF,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Charlie Taylor,DEF,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

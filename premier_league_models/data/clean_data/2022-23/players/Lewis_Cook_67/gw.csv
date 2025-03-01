@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Lewis Cook,MID,Bournemouth,Aston Villa,18,0,0,0,0,4,0,0,0,0,0,0,0.8,7.2,0.3,0.0,True,1,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Man City,63,0,0,3,0,7,0,0,0,0,0,0,0.4,3.0,0.6,0.0,False,2,2.0,5.0,-3.0
+Lewis Cook,MID,Bournemouth,Arsenal,45,0,0,1,0,2,0,0,0,0,0,0,1.2,10.2,1.8,0.0,True,1,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Liverpool,76,0,0,7,0,11,0,0,0,0,0,0,0.7,6.4,0.3,0.0,False,2,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Wolves,90,0,0,0,1,11,0,0,0,0,0,0,0.9,8.0,0.9,0.0,True,3,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Nott'm Forest,90,0,1,2,0,28,0,0,0,0,0,0,6.9,38.4,22.8,8.0,False,6,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Newcastle,90,0,0,1,0,13,0,0,0,0,0,0,2.5,14.2,10.7,0.0,False,2,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Brentford,90,0,0,0,1,10,0,0,0,0,0,0,0.7,5.2,2.1,0.0,True,3,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Leicester,90,0,0,1,0,14,0,0,0,0,0,0,4.5,8.4,26.9,10.0,True,2,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Fulham,90,0,0,2,0,18,0,0,0,0,0,0,6.2,18.4,43.1,0.0,False,2,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Southampton,90,0,0,1,0,15,0,0,0,0,0,0,9.0,15.4,69.2,5.0,True,2,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,West Ham,90,0,0,2,0,15,0,0,0,0,0,0,2.0,16.4,3.1,0.0,False,2,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Spurs,90,0,0,3,0,7,1,0,0,0,0,0,5.0,15.2,32.9,2.0,True,1,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Leeds,90,0,0,4,0,20,0,0,0,0,0,0,2.9,23.4,5.3,0.0,False,2,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Everton,90,0,1,0,1,25,1,0,0,0,0,0,8.2,30.6,49.3,2.0,True,5,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Chelsea,90,0,0,2,0,14,0,0,0,0,0,0,2.9,15.4,3.3,10.0,False,2,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Crystal Palace,79,0,0,2,0,9,0,0,0,0,0,0,1.1,4.2,1.7,5.0,True,2,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Man Utd,90,0,0,3,0,19,0,0,0,0,0,0,6.3,29.0,34.3,0.0,False,2,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Brentford,34,0,0,0,0,3,0,0,0,0,0,0,0.8,7.6,0.5,0.0,False,1,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Lewis Cook,MID,Bournemouth,Arsenal,20,0,0,1,0,4,0,0,0,0,0,0,0.5,5.2,0.0,0.0,False,1,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Liverpool,9,0,0,0,0,3,0,0,0,0,0,0,0.2,1.6,0.2,0.0,True,1,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Brighton,5,0,0,1,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Leicester,31,0,0,0,0,6,0,0,0,0,0,0,3.0,7.0,20.8,2.0,False,1,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,West Ham,15,0,0,0,0,3,0,0,0,0,0,0,0.4,3.0,0.6,0.0,True,1,2.0,3.0,-1.0
+Lewis Cook,MID,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Leeds,17,0,0,0,0,8,0,0,0,0,0,0,1.9,5.0,14.3,0.0,True,1,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Chelsea,31,0,0,2,0,3,0,0,0,0,0,0,1.1,5.6,5.3,0.0,True,1,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Crystal Palace,9,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,1.0,False,1,2.0,2.0,0.0
+Lewis Cook,MID,Bournemouth,Man Utd,90,0,0,1,0,8,1,0,0,0,0,0,1.1,9.0,1.9,0.0,True,1,2.0,4.0,-2.0
+Lewis Cook,MID,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0

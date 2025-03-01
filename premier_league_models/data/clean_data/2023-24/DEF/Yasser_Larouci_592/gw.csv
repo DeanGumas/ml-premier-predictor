@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Yasser Larouci,DEF,Sheffield Utd,Crystal Palace,10,0,0,0,0,4,0,0,0,0,0,0,0.6,5.4,0.3,0.0,True,1,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Nott'm Forest,45,0,0,1,0,2,0,0,0,0,0,0,1.2,9.8,0.6,2.0,False,1,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Man City,73,0,0,2,0,8,0,0,0,0,0,0,1.6,10.0,0.3,6.0,True,1,2.0,5.0,-3.0
+Yasser Larouci,DEF,Sheffield Utd,Everton,67,0,0,2,0,9,0,0,0,0,0,0,3.2,9.4,1.3,21.0,True,1,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Yasser Larouci,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Fulham,24,0,0,2,0,2,0,0,0,0,0,0,0.4,1.6,0.3,2.0,False,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Yasser Larouci,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Yasser Larouci,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Yasser Larouci,DEF,Sheffield Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Aston Villa,57,0,0,0,0,4,1,0,0,0,0,0,1.6,16.2,0.1,0.0,False,0,2.0,4.0,-2.0
+Yasser Larouci,DEF,Sheffield Utd,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Yasser Larouci,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Yasser Larouci,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Crystal Palace,8,0,0,0,0,9,0,0,0,0,0,0,2.0,6.4,11.2,2.0,False,1,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Yasser Larouci,DEF,Sheffield Utd,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Yasser Larouci,DEF,Sheffield Utd,Brighton,62,0,0,2,0,7,0,0,0,0,0,0,0.6,5.2,0.9,0.0,True,1,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Wolves,71,0,0,1,0,6,0,0,0,0,0,0,0.8,6.0,0.9,1.0,False,2,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Yasser Larouci,DEF,Sheffield Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Yasser Larouci,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Brentford,56,0,0,0,0,8,0,0,0,0,0,0,2.5,8.8,11.3,5.0,False,1,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Yasser Larouci,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Everton,54,0,0,1,0,4,0,0,0,0,0,0,0.3,2.0,0.6,0.0,False,1,2.0,3.0,-1.0
+Yasser Larouci,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

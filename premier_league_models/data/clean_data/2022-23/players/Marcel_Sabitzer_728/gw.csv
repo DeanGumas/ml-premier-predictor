@@ -1,0 +1,19 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Marcel Sabitzer,MID,Man Utd,Crystal Palace,9,0,0,0,0,2,0,0,0,0,0,0,0.2,1.2,0.3,0.0,True,1,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Leeds,81,0,0,2,0,14,1,0,0,0,0,0,6.9,16.8,38.3,14.0,True,1,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Leeds,90,0,0,0,1,15,0,0,0,0,0,0,2.0,16.0,3.5,0.0,False,3,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Leicester,79,0,0,0,1,12,0,0,0,0,0,0,4.6,18.0,24.4,4.0,True,3,4.0,3.0,1.0
+Marcel Sabitzer,MID,Man Utd,Liverpool,13,0,0,2,0,3,0,0,0,0,0,0,0.1,0.6,0.6,0.0,False,1,4.0,4.0,0.0
+Marcel Sabitzer,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Newcastle,90,0,0,2,0,6,0,0,0,0,0,0,2.0,10.4,2.5,7.0,False,2,4.0,4.0,0.0
+Marcel Sabitzer,MID,Man Utd,Brentford,70,0,1,0,1,20,0,0,0,0,0,0,5.3,21.2,16.3,15.0,True,6,4.0,3.0,1.0
+Marcel Sabitzer,MID,Man Utd,Everton,75,0,0,0,1,9,0,0,0,0,0,0,5.2,7.2,16.3,28.0,True,3,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Marcel Sabitzer,MID,Man Utd,Aston Villa,85,0,0,0,1,8,0,0,0,0,0,0,3.2,3.0,25.1,4.0,True,3,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Brighton,14,0,0,1,0,3,0,0,0,0,0,0,0.3,0.6,0.2,2.0,False,1,4.0,3.0,1.0
+Marcel Sabitzer,MID,Man Utd,West Ham,16,0,0,0,0,6,0,0,0,0,0,0,2.7,5.4,11.4,10.0,False,1,4.0,3.0,1.0
+Marcel Sabitzer,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Marcel Sabitzer,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Marcel Sabitzer,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

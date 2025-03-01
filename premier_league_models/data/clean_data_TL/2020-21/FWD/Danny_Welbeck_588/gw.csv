@@ -1,0 +1,34 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Danny Welbeck,FWD,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-26T17:30:00Z,0
+Danny Welbeck,FWD,Brighton,Spurs,16,0,0,0,0,3,0,0,0,0,0,0,0.3,0.0,0.8,2.0,False,2020-11-01T19:15:00Z,1
+Danny Welbeck,FWD,Brighton,Burnley,85,0,0,0,1,7,0,0,0,0,0,0,10.7,7.4,32.3,67.0,True,2020-11-06T17:30:00Z,2
+Danny Welbeck,FWD,Brighton,Aston Villa,90,1,0,1,0,35,0,0,0,0,0,0,9.2,46.2,14.9,31.0,False,2020-11-21T15:00:00Z,9
+Danny Welbeck,FWD,Brighton,Liverpool,90,0,1,1,0,18,0,0,0,0,0,0,5.3,11.6,12.3,29.0,True,2020-11-28T12:30:00Z,5
+Danny Welbeck,FWD,Brighton,Southampton,81,0,1,2,0,18,0,0,0,0,0,0,4.2,6.0,11.4,25.0,True,2020-12-07T20:00:00Z,5
+Danny Welbeck,FWD,Brighton,Leicester,62,0,0,3,0,3,0,0,0,0,0,0,2.0,2.2,0.6,17.0,False,2020-12-13T19:15:00Z,2
+Danny Welbeck,FWD,Brighton,Fulham,90,0,0,0,1,2,0,0,0,0,0,0,2.6,3.2,1.0,22.0,False,2020-12-16T20:00:00Z,2
+Danny Welbeck,FWD,Brighton,Sheffield Utd,24,1,0,0,0,24,0,0,0,0,0,0,8.7,34.0,0.0,53.0,True,2020-12-20T12:00:00Z,8
+Danny Welbeck,FWD,Brighton,West Ham,82,0,0,2,0,4,0,0,0,0,0,0,3.3,1.2,21.5,10.0,False,2020-12-27T14:15:00Z,2
+Danny Welbeck,FWD,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-29T18:00:00Z,0
+Danny Welbeck,FWD,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-02T17:30:00Z,0
+Danny Welbeck,FWD,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-13T18:00:00Z,0
+Danny Welbeck,FWD,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-16T15:00:00Z,0
+Danny Welbeck,FWD,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-27T19:30:00Z,0
+Danny Welbeck,FWD,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-31T19:15:00Z,0
+Danny Welbeck,FWD,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-03T20:15:00Z,0
+Danny Welbeck,FWD,Brighton,Burnley,28,0,0,0,0,3,0,0,0,0,0,0,1.0,2.0,0.3,8.0,False,2021-02-06T15:00:00Z,1
+Danny Welbeck,FWD,Brighton,Aston Villa,10,0,0,0,0,-1,0,0,0,0,0,0,3.5,2.0,0.0,33.0,True,2021-02-13T20:00:00Z,1
+Danny Welbeck,FWD,Brighton,Crystal Palace,45,0,0,1,0,-1,0,0,0,0,0,0,7.7,3.2,11.0,63.0,True,2021-02-22T20:00:00Z,1
+Danny Welbeck,FWD,Brighton,West Brom,29,0,0,0,0,-9,0,0,0,0,1,0,0.2,0.0,0.3,6.0,False,2021-02-27T15:00:00Z,-1
+Danny Welbeck,FWD,Brighton,Leicester,11,0,0,1,0,3,0,0,0,0,0,0,0.2,0.2,0.1,2.0,True,2021-03-06T20:00:00Z,1
+Danny Welbeck,FWD,Brighton,Southampton,76,0,1,1,0,20,0,0,0,0,0,0,4.8,21.0,21.2,6.0,False,2021-03-14T12:00:00Z,5
+Danny Welbeck,FWD,Brighton,Newcastle,83,1,0,0,1,31,0,0,0,0,0,0,5.8,34.8,12.6,11.0,True,2021-03-20T20:00:00Z,6
+Danny Welbeck,FWD,Brighton,Man Utd,90,1,0,2,0,30,0,0,0,0,0,0,11.9,50.0,12.7,56.0,False,2021-04-04T18:30:00Z,9
+Danny Welbeck,FWD,Brighton,Everton,90,0,0,0,1,8,0,0,0,0,0,0,7.9,7.8,24.0,47.0,True,2021-04-12T19:15:00Z,2
+Danny Welbeck,FWD,Brighton,Chelsea,85,0,0,0,1,6,0,0,0,0,0,0,2.3,0.0,3.8,21.0,False,2021-04-20T19:15:00Z,2
+Danny Welbeck,FWD,Brighton,Sheffield Utd,90,0,0,1,0,2,0,0,0,0,0,0,4.6,2.8,26.4,17.0,False,2021-04-24T19:00:00Z,2
+Danny Welbeck,FWD,Brighton,Leeds,89,1,1,0,1,38,0,0,0,0,0,0,10.9,38.8,23.9,46.0,True,2021-05-01T14:00:00Z,12
+Danny Welbeck,FWD,Brighton,Wolves,77,0,0,1,0,11,0,0,0,0,0,0,4.3,9.0,22.4,12.0,False,2021-05-09T11:00:00Z,2
+Danny Welbeck,FWD,Brighton,West Ham,90,1,0,1,0,29,0,0,0,0,0,0,6.3,36.4,15.9,11.0,True,2021-05-15T19:00:00Z,9
+Danny Welbeck,FWD,Brighton,Man City,28,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2021-05-18T18:00:00Z,1
+Danny Welbeck,FWD,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-23T15:00:00Z,0

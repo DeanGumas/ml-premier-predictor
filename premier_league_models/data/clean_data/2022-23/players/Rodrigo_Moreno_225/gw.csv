@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Rodrigo Moreno,MID,Leeds,Wolves,64,1,0,1,0,23,0,0,0,0,0,0,6.5,34.8,1.1,29.0,True,7,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Southampton,90,2,0,2,0,49,0,0,0,0,0,0,22.0,75.4,31.8,113.0,False,15,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Chelsea,82,1,1,0,1,27,0,0,0,0,0,0,12.6,48.2,11.9,66.0,True,13,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Brighton,90,0,0,1,0,6,0,0,0,0,0,0,6.3,5.2,2.8,55.0,False,2,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Everton,31,0,0,1,0,0,0,0,0,0,0,0,0.1,0.0,0.8,4.0,True,1,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Aston Villa,67,0,0,0,1,1,1,0,0,0,0,0,4.1,4.2,6.1,31.0,True,2,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Crystal Palace,90,0,0,2,0,10,0,0,0,0,0,0,6.8,18.2,38.0,12.0,False,2,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Arsenal,45,0,0,1,0,2,0,0,0,0,0,0,6.4,5.2,12.8,46.0,True,1,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Leicester,45,0,0,0,0,-3,0,0,0,0,0,0,1.0,0.0,1.9,9.0,False,1,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Fulham,63,1,0,1,0,23,0,0,0,0,0,0,9.9,34.6,2.0,62.0,True,7,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Liverpool,51,1,0,1,0,24,0,0,0,0,0,0,12.2,41.2,29.0,52.0,False,6,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Bournemouth,80,1,0,3,0,21,0,0,0,0,0,0,6.2,30.2,2.8,29.0,True,7,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Spurs,88,2,0,4,0,43,0,0,0,0,0,0,12.4,76.4,3.6,44.0,False,13,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Man City,71,0,0,3,0,7,0,0,0,0,0,0,2.4,3.2,14.8,6.0,True,2,2.0,5.0,-3.0
+Rodrigo Moreno,MID,Leeds,Newcastle,81,0,0,0,1,5,0,0,0,0,0,0,4.6,0.4,0.8,45.0,False,3,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,West Ham,90,1,0,2,0,17,1,0,0,0,0,0,8.6,35.6,2.0,48.0,True,6,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Aston Villa,90,0,0,2,0,1,0,0,0,0,0,0,5.3,0.0,20.9,33.0,False,2,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Brentford,78,0,0,0,1,9,1,0,0,0,0,0,5.7,13.2,21.5,22.0,True,2,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Brighton,24,0,0,0,0,0,0,0,0,0,0,0,0.5,0.4,0.5,4.0,True,1,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Wolves,23,1,0,1,0,20,0,0,0,0,0,0,5.8,36.2,1.2,21.0,False,6,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Arsenal,25,0,0,1,0,2,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,1,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Nott'm Forest,16,0,0,0,0,7,0,0,0,0,0,0,3.5,11.4,11.0,13.0,True,1,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Crystal Palace,30,0,0,2,0,9,0,0,0,0,0,0,0.7,6.0,1.3,0.0,True,1,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Liverpool,65,0,0,4,0,-1,0,0,0,0,0,0,2.7,1.8,0.3,25.0,True,2,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,Fulham,64,0,0,1,0,4,0,0,0,0,0,0,1.4,3.4,3.8,7.0,False,2,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Leicester,67,0,0,0,1,-1,1,0,0,0,0,0,1.6,5.0,2.1,9.0,True,2,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Bournemouth,20,0,0,1,0,3,0,0,0,0,0,0,0.3,0.2,0.3,2.0,False,1,2.0,2.0,0.0
+Rodrigo Moreno,MID,Leeds,Man City,32,1,0,0,0,19,1,0,0,0,0,0,5.0,33.0,0.0,17.0,False,5,2.0,5.0,-3.0
+Rodrigo Moreno,MID,Leeds,Newcastle,86,0,1,2,0,12,0,0,0,0,0,0,5.4,19.6,15.0,19.0,True,5,2.0,4.0,-2.0
+Rodrigo Moreno,MID,Leeds,West Ham,90,1,0,3,0,22,1,0,0,0,0,0,6.5,34.4,0.9,30.0,False,6,2.0,3.0,-1.0
+Rodrigo Moreno,MID,Leeds,Spurs,90,0,0,4,0,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,2.0,4.0,-2.0

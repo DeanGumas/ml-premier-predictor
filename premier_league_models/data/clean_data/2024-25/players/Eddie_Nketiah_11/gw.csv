@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Eddie Nketiah,FWD,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Eddie Nketiah,FWD,Arsenal,Leicester,90,0,0,2,0,7,0,0,0,0,0,0,7.1,0.0,14.8,57.0,True,2,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Man Utd,65,0,0,0,1,9,0,0,0,0,0,0,1.9,6.8,1.0,11.0,True,2,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Everton,72,0,0,2,0,4,0,0,0,0,0,0,1.4,0.0,2.3,14.0,False,2,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Liverpool,90,0,0,1,0,8,1,0,0,0,0,0,1.4,5.6,1.3,7.0,True,1,4.0,5.0,-1.0
+Eddie Nketiah,FWD,Arsenal,Nott'm Forest,65,0,0,1,0,18,0,0,0,0,0,0,10.5,13.8,41.7,49.0,False,2,4.0,4.0,0.0
+Eddie Nketiah,FWD,Arsenal,Spurs,23,0,0,0,0,3,0,0,0,0,0,0,0.9,8.2,0.8,0.0,True,1,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Wolves,83,0,0,2,0,9,0,0,0,0,0,0,5.8,11.8,22.3,24.0,False,2,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Newcastle,13,0,0,0,0,4,0,0,0,0,0,0,0.3,2.2,0.3,0.0,True,1,4.0,4.0,0.0
+Eddie Nketiah,FWD,Arsenal,Ipswich,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Man City,13,0,0,0,0,-2,1,0,0,0,0,0,0.0,0.0,0.5,0.0,True,0,4.0,4.0,0.0
+Eddie Nketiah,FWD,Arsenal,Brighton,30,0,1,1,0,12,0,0,0,0,0,0,6.0,16.4,30.8,13.0,False,4,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Arsenal,29,0,0,1,0,2,0,0,0,0,0,0,0.5,1.2,1.3,2.0,True,1,4.0,4.0,0.0
+Eddie Nketiah,FWD,Arsenal,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Eddie Nketiah,FWD,Arsenal,Southampton,1,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Eddie Nketiah,FWD,Arsenal,Chelsea,3,0,0,0,0,3,0,0,0,0,0,0,0.2,1.4,0.3,0.0,True,1,4.0,4.0,0.0
+Eddie Nketiah,FWD,Arsenal,Leicester,11,0,0,0,0,2,0,0,0,0,0,0,0.4,0.0,0.3,5.0,False,1,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,West Ham,12,0,1,0,0,12,0,0,0,0,0,0,3.1,3.0,0.3,28.0,False,4,4.0,3.0,1.0
+Eddie Nketiah,FWD,Arsenal,Brentford,18,0,0,1,0,0,0,0,0,0,0,0,0.4,0.0,0.8,4.0,True,1,4.0,3.0,1.0

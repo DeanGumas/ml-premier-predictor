@@ -1,0 +1,19 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jhon Durán,FWD,Aston Villa,Leicester,8,0,0,0,0,3,0,0,0,0,0,0,0.3,1.0,0.3,2.0,True,1,2.0,3.0,-1.0
+Jhon Durán,FWD,Aston Villa,Man City,30,0,0,0,0,1,0,0,0,0,0,0,0.8,1.2,0.8,6.0,False,1,2.0,5.0,-3.0
+Jhon Durán,FWD,Aston Villa,Arsenal,12,0,0,2,0,1,0,0,0,0,0,0,1.9,1.2,0.3,17.0,True,1,2.0,4.0,-2.0
+Jhon Durán,FWD,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jhon Durán,FWD,Aston Villa,Crystal Palace,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,1.1,1.0,True,1,2.0,2.0,0.0
+Jhon Durán,FWD,Aston Villa,West Ham,10,0,0,0,0,-1,0,0,0,0,0,0,2.5,2.0,0.5,22.0,False,1,2.0,3.0,-1.0
+Jhon Durán,FWD,Aston Villa,Bournemouth,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,1.0,True,1,2.0,2.0,0.0
+Jhon Durán,FWD,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jhon Durán,FWD,Aston Villa,Leicester,11,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Jhon Durán,FWD,Aston Villa,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jhon Durán,FWD,Aston Villa,Newcastle,1,0,0,0,0,-2,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jhon Durán,FWD,Aston Villa,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jhon Durán,FWD,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jhon Durán,FWD,Aston Villa,Man Utd,14,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.0,2.0,False,1,2.0,4.0,-2.0
+Jhon Durán,FWD,Aston Villa,Wolves,9,0,0,0,0,6,0,0,0,0,0,0,1.4,4.2,10.1,0.0,False,1,2.0,2.0,0.0
+Jhon Durán,FWD,Aston Villa,Spurs,22,0,0,1,0,-1,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Jhon Durán,FWD,Aston Villa,Liverpool,3,0,0,1,0,3,0,0,0,0,0,0,0.3,2.2,0.3,0.0,False,1,2.0,4.0,-2.0
+Jhon Durán,FWD,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

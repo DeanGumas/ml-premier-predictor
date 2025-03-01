@@ -1,0 +1,19 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kamaldeen Sulemana,MID,Southampton,Brentford,45,0,0,1,0,3,0,0,0,0,0,0,3.1,7.4,10.9,13.0,False,1,2.0,3.0,-1.0
+Kamaldeen Sulemana,MID,Southampton,Wolves,90,0,0,2,0,7,0,0,0,0,0,0,3.9,1.8,14.3,23.0,True,2,2.0,2.0,0.0
+Kamaldeen Sulemana,MID,Southampton,Chelsea,58,0,0,0,0,-4,0,0,0,0,0,0,4.2,7.0,12.2,23.0,False,1,2.0,4.0,-2.0
+Kamaldeen Sulemana,MID,Southampton,Leeds,62,0,0,0,1,7,0,0,0,0,0,0,3.0,5.6,20.8,4.0,False,3,2.0,2.0,0.0
+Kamaldeen Sulemana,MID,Southampton,Leicester,79,0,0,0,1,0,0,0,0,0,0,0,3.3,8.8,2.6,22.0,True,3,2.0,3.0,-1.0
+Kamaldeen Sulemana,MID,Southampton,Man Utd,75,0,0,0,1,0,0,0,0,0,0,0,3.0,0.4,16.2,13.0,False,3,2.0,4.0,-2.0
+Kamaldeen Sulemana,MID,Southampton,Brentford,90,0,0,2,0,10,0,0,0,0,0,0,4.3,7.6,19.5,16.0,True,2,2.0,3.0,-1.0
+Kamaldeen Sulemana,MID,Southampton,Spurs,20,0,0,1,0,5,1,0,0,0,0,0,3.4,7.6,22.5,4.0,True,0,2.0,4.0,-2.0
+Kamaldeen Sulemana,MID,Southampton,West Ham,36,0,0,0,0,3,0,0,0,0,0,0,1.2,4.4,1.4,6.0,False,1,2.0,3.0,-1.0
+Kamaldeen Sulemana,MID,Southampton,Man City,68,0,0,3,0,5,0,0,0,0,0,0,2.6,3.2,14.3,8.0,True,2,2.0,5.0,-3.0
+Kamaldeen Sulemana,MID,Southampton,Crystal Palace,79,0,0,2,0,12,0,0,0,0,0,0,4.6,8.4,25.3,12.0,True,2,2.0,2.0,0.0
+Kamaldeen Sulemana,MID,Southampton,Arsenal,13,0,0,2,0,3,0,0,0,0,0,0,0.2,2.0,0.1,0.0,False,1,2.0,4.0,-2.0
+Kamaldeen Sulemana,MID,Southampton,Bournemouth,14,0,0,0,0,2,0,0,0,0,0,0,0.3,0.6,1.1,1.0,True,1,2.0,2.0,0.0
+Kamaldeen Sulemana,MID,Southampton,Newcastle,69,0,1,1,0,27,0,0,0,0,0,0,4.9,30.4,10.7,8.0,False,6,2.0,4.0,-2.0
+Kamaldeen Sulemana,MID,Southampton,Nott'm Forest,29,0,0,1,0,4,0,0,0,0,0,0,1.7,6.2,1.5,9.0,False,1,2.0,2.0,0.0
+Kamaldeen Sulemana,MID,Southampton,Fulham,28,0,0,1,0,2,0,0,0,0,0,0,0.7,3.8,1.5,2.0,True,1,2.0,2.0,0.0
+Kamaldeen Sulemana,MID,Southampton,Brighton,19,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.6,0.0,False,1,2.0,3.0,-1.0
+Kamaldeen Sulemana,MID,Southampton,Liverpool,85,2,0,4,0,44,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,14,2.0,4.0,-2.0

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Yankuba Minteh,MID,Brighton,Everton,45,0,1,0,0,18,0,0,0,0,0,0,6.4,25.0,31.4,8.0,False,4,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Man Utd,89,0,0,1,0,4,0,0,0,0,0,0,6.7,8.8,29.3,29.0,True,2,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Arsenal,71,0,1,1,0,12,1,0,0,0,0,0,2.6,2.2,0.8,23.0,False,4,3.0,4.0,-1.0
+Yankuba Minteh,MID,Brighton,Ipswich,67,0,0,0,1,6,1,0,0,0,0,0,5.2,5.6,34.1,12.0,True,2,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Nott'm Forest,28,0,0,1,0,5,0,0,0,0,0,0,3.4,8.6,23.6,2.0,True,1,3.0,4.0,-1.0
+Yankuba Minteh,MID,Brighton,Chelsea,19,0,0,0,0,2,0,0,0,0,0,0,1.3,3.4,4.6,5.0,False,1,3.0,4.0,-1.0
+Yankuba Minteh,MID,Brighton,Spurs,86,1,0,2,0,27,0,0,0,0,0,0,7.0,36.6,5.4,28.0,True,7,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Yankuba Minteh,MID,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Yankuba Minteh,MID,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Yankuba Minteh,MID,Brighton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Yankuba Minteh,MID,Brighton,Southampton,2,0,0,0,0,6,0,0,0,0,0,0,3.1,4.2,25.0,2.0,True,1,3.0,2.0,1.0
+Yankuba Minteh,MID,Brighton,Fulham,10,0,0,1,0,5,0,0,0,0,0,0,0.9,3.0,4.0,2.0,False,1,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Leicester,20,1,0,2,0,22,0,0,0,0,0,0,6.0,33.0,0.0,27.0,False,6,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Crystal Palace,71,0,0,2,0,7,0,0,0,0,0,0,1.6,6.2,3.3,6.0,True,2,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,West Ham,22,0,0,0,0,3,0,0,0,0,0,0,1.6,2.2,1.3,12.0,False,1,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Brentford,23,0,0,0,0,5,0,0,0,0,0,0,0.5,1.8,0.8,2.0,True,1,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Aston Villa,32,0,0,0,0,2,0,0,0,0,0,0,1.2,1.4,1.3,9.0,False,1,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Arsenal,45,0,0,0,0,-1,1,0,0,0,0,0,2.0,1.2,14.3,4.0,True,0,3.0,4.0,-1.0
+Yankuba Minteh,MID,Brighton,Ipswich,27,0,0,0,0,2,0,0,0,0,0,0,0.8,0.2,0.6,7.0,False,1,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Man Utd,68,1,1,1,0,45,1,0,0,0,0,0,10.6,58.0,21.1,27.0,False,12,3.0,3.0,0.0
+Yankuba Minteh,MID,Brighton,Everton,16,0,0,0,0,3,1,0,0,0,0,0,1.0,6.4,1.2,2.0,True,0,3.0,3.0,0.0

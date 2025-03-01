@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Yegor Yarmoliuk,MID,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Yegor Yarmoliuk,MID,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Burnley,14,0,0,0,0,1,0,0,0,0,0,0,1.0,1.4,1.0,8.0,True,1,3.0,2.0,1.0
+Yegor Yarmoliuk,MID,Brentford,Chelsea,14,0,0,0,0,-2,0,0,0,0,0,0,2.1,3.2,0.8,17.0,False,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,West Ham,12,0,0,0,0,2,0,0,0,0,0,0,0.4,0.2,0.0,4.0,True,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Liverpool,18,0,0,1,0,7,0,0,0,0,0,0,1.3,7.0,0.5,5.0,False,1,3.0,4.0,-1.0
+Yegor Yarmoliuk,MID,Brentford,Arsenal,71,0,0,0,1,5,0,0,0,0,0,0,1.3,3.8,2.1,7.0,True,3,3.0,5.0,-2.0
+Yegor Yarmoliuk,MID,Brentford,Luton,69,0,0,0,1,14,0,0,0,0,0,0,4.1,10.0,23.8,7.0,True,3,3.0,2.0,1.0
+Yegor Yarmoliuk,MID,Brentford,Brighton,45,0,0,1,0,7,0,0,0,0,0,0,1.2,9.0,2.8,0.0,False,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Sheffield Utd,45,0,0,0,0,5,0,0,0,0,0,0,2.8,10.0,1.1,17.0,False,1,3.0,2.0,1.0
+Yegor Yarmoliuk,MID,Brentford,Aston Villa,2,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Yegor Yarmoliuk,MID,Brentford,Wolves,45,0,0,3,0,5,0,0,0,0,0,0,0.8,4.0,4.2,0.0,True,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Crystal Palace,10,0,0,0,0,1,0,0,0,0,0,0,0.3,0.0,1.2,2.0,False,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Nott'm Forest,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Spurs,33,0,0,0,0,-2,1,0,0,0,0,0,0.1,0.0,2.4,0.0,False,0,3.0,4.0,-1.0
+Yegor Yarmoliuk,MID,Brentford,Man City,14,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,1,3.0,5.0,-2.0
+Yegor Yarmoliuk,MID,Brentford,Wolves,21,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Yegor Yarmoliuk,MID,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Yegor Yarmoliuk,MID,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Chelsea,3,0,0,0,0,3,0,0,0,0,0,0,0.6,5.2,0.8,0.0,True,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Arsenal,12,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,3.0,5.0,-2.0
+Yegor Yarmoliuk,MID,Brentford,Burnley,31,0,0,1,0,6,0,0,0,0,0,0,0.9,7.8,1.5,0.0,False,1,3.0,2.0,1.0
+Yegor Yarmoliuk,MID,Brentford,Man Utd,70,0,0,0,1,6,0,0,0,0,0,0,5.3,8.0,7.0,38.0,True,3,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Brighton,63,0,0,0,1,4,0,0,0,0,0,0,1.3,9.4,1.8,2.0,True,3,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Aston Villa,9,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1,3.0,4.0,-1.0
+Yegor Yarmoliuk,MID,Brentford,Sheffield Utd,11,0,0,0,0,6,0,0,0,0,0,0,0.4,2.2,0.3,1.0,True,1,3.0,2.0,1.0
+Yegor Yarmoliuk,MID,Brentford,Luton,8,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.8,0.0,False,1,3.0,2.0,1.0
+Yegor Yarmoliuk,MID,Brentford,Everton,12,0,0,0,0,3,0,0,0,0,0,0,1.5,2.2,10.8,2.0,False,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Fulham,24,0,0,0,0,3,0,0,0,0,0,0,0.9,7.6,1.8,0.0,True,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Bournemouth,7,0,0,1,0,4,0,0,0,0,0,0,0.2,2.2,0.0,0.0,False,1,3.0,3.0,0.0
+Yegor Yarmoliuk,MID,Brentford,Newcastle,6,0,0,0,0,3,0,0,0,0,0,0,2.2,4.4,0.7,17.0,True,1,3.0,3.0,0.0

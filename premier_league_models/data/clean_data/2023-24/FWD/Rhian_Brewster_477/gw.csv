@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Rhian Brewster,FWD,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Rhian Brewster,FWD,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Rhian Brewster,FWD,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,West Ham,11,0,0,0,0,3,0,0,0,0,0,0,2.1,4.0,10.8,6.0,False,1,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Fulham,11,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Man Utd,38,0,0,1,0,1,0,0,0,0,0,0,1.5,4.2,1.8,9.0,True,1,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Arsenal,58,0,0,3,0,1,0,0,0,0,0,0,1.0,3.2,0.3,6.0,False,1,2.0,5.0,-3.0
+Rhian Brewster,FWD,Sheffield Utd,Wolves,45,0,0,0,0,2,0,0,0,0,0,0,0.8,0.4,1.6,6.0,True,1,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Rhian Brewster,FWD,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Rhian Brewster,FWD,Sheffield Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Rhian Brewster,FWD,Sheffield Utd,Luton,4,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1,2.0,2.0,0.0
+Rhian Brewster,FWD,Sheffield Utd,Man City,23,0,0,0,0,3,0,0,0,0,0,0,0.3,2.4,0.1,0.0,False,1,2.0,5.0,-3.0
+Rhian Brewster,FWD,Sheffield Utd,West Ham,10,0,0,0,0,-7,0,1,0,0,0,0,0.0,0.0,0.1,0.0,True,-2,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Rhian Brewster,FWD,Sheffield Utd,Luton,9,0,0,0,0,-2,0,0,0,0,0,0,0.0,0.0,0.0,2.0,False,1,2.0,2.0,0.0
+Rhian Brewster,FWD,Sheffield Utd,Brighton,11,0,0,1,0,3,0,0,0,0,0,0,0.1,0.2,0.4,0.0,True,1,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Wolves,81,0,0,1,0,0,0,0,0,0,0,0,7.0,5.2,11.6,53.0,False,2,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Rhian Brewster,FWD,Sheffield Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Rhian Brewster,FWD,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Rhian Brewster,FWD,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Everton,9,0,0,0,0,3,0,0,0,0,0,0,0.4,1.2,0.3,2.0,False,1,2.0,3.0,-1.0
+Rhian Brewster,FWD,Sheffield Utd,Spurs,28,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.8,1.0,True,1,2.0,4.0,-2.0

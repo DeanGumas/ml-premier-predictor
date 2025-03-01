@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jadon Sancho,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Jadon Sancho,MID,Man Utd,Bournemouth,45,0,1,0,0,15,1,0,0,0,0,0,5.3,22.4,24.6,6.0,False,3,3.0,4.0,-1.0
+Jadon Sancho,MID,Man Utd,West Ham,56,0,1,0,0,15,0,0,0,0,0,0,5.5,18.8,30.0,6.0,False,4,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Brighton,70,0,2,2,0,31,0,0,0,0,0,0,4.7,22.8,15.5,9.0,True,9,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Nott'm Forest,89,0,0,1,0,18,0,0,0,0,0,0,6.4,11.8,42.5,10.0,True,2,3.0,4.0,-1.0
+Jadon Sancho,MID,Man Utd,Liverpool,45,0,0,1,0,0,0,0,0,0,0,0,1.4,0.0,3.9,10.0,False,1,3.0,5.0,-2.0
+Jadon Sancho,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jadon Sancho,MID,Man Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jadon Sancho,MID,Man Utd,Leicester,5,0,0,1,0,3,0,0,0,0,0,0,0.1,1.0,0.3,0.0,False,1,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Aston Villa,70,0,0,0,1,7,0,0,0,0,0,0,1.5,0.0,6.2,11.0,True,3,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Southampton,18,1,0,0,0,23,0,0,0,0,0,0,5.4,33.4,3.4,17.0,False,6,3.0,2.0,1.0
+Jadon Sancho,MID,Man Utd,Spurs,90,1,0,3,0,36,0,0,0,0,0,0,12.2,45.2,27.3,49.0,False,8,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Brentford,90,0,0,1,0,17,0,0,0,0,0,0,8.0,10.2,49.8,20.0,True,2,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Everton,90,0,0,0,1,16,0,0,0,0,0,0,4.7,15.2,15.9,16.0,False,3,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Fulham,90,0,0,2,0,10,0,0,0,0,0,0,4.3,7.2,7.1,29.0,True,2,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Ipswich,25,0,0,0,0,4,0,0,0,0,0,0,2.6,5.0,11.7,9.0,False,1,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Crystal Palace,85,0,1,1,0,27,0,0,0,0,0,0,5.7,20.6,26.3,10.0,False,6,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Bournemouth,90,0,0,2,0,16,0,0,0,0,0,0,5.2,9.6,24.1,18.0,True,2,3.0,4.0,-1.0
+Jadon Sancho,MID,Man Utd,Wolves,28,0,0,0,0,4,0,0,0,0,0,0,2.4,4.0,12.3,8.0,True,1,3.0,3.0,0.0
+Jadon Sancho,MID,Man Utd,Man City,72,0,0,2,0,5,0,0,0,0,0,0,2.5,4.8,11.2,9.0,False,2,3.0,4.0,-1.0

@@ -1,0 +1,20 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Orel Mangala,MID,Everton,Aston Villa,26,0,0,1,0,3,0,0,0,0,0,0,0.8,1.6,0.3,6.0,False,1,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,2.3,8.6,14.3,0.0,False,2,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Crystal Palace,82,0,0,1,0,15,0,0,0,0,0,0,1.8,15.8,1.8,0.0,True,2,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Newcastle,56,0,0,0,0,-1,0,0,0,0,0,0,0.4,0.8,1.5,2.0,True,1,3.0,4.0,-1.0
+Orel Mangala,MID,Everton,Ipswich,9,0,0,0,0,6,0,0,0,0,0,0,0.5,4.6,0.3,0.0,False,1,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Fulham,10,0,0,0,0,5,0,0,0,0,0,0,1.5,4.6,10.8,0.0,True,1,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Southampton,90,0,0,1,0,10,0,0,0,0,0,0,2.0,8.4,2.0,10.0,False,2,3.0,2.0,1.0
+Orel Mangala,MID,Everton,West Ham,90,0,0,0,1,15,0,0,0,0,0,0,2.8,7.0,13.8,7.0,False,3,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Brentford,18,0,0,0,0,1,0,0,0,0,0,0,0.3,0.4,2.8,0.0,True,1,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Man Utd,23,0,0,0,0,3,0,0,0,0,0,0,0.8,2.4,5.3,0.0,False,1,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Wolves,88,1,0,0,1,24,1,0,0,0,0,0,7.4,43.6,13.3,17.0,True,7,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Arsenal,90,0,0,0,1,7,0,0,0,0,0,0,2.2,6.6,11.0,4.0,False,3,3.0,4.0,-1.0
+Orel Mangala,MID,Everton,Chelsea,90,0,0,0,1,6,0,0,0,0,0,0,2.6,9.2,2.3,14.0,True,3,3.0,4.0,-1.0
+Orel Mangala,MID,Everton,Man City,90,0,0,1,0,10,1,0,0,0,0,0,1.2,8.2,1.8,2.0,False,1,3.0,4.0,-1.0
+Orel Mangala,MID,Everton,Nott'm Forest,90,0,0,2,0,15,0,0,0,0,0,0,2.9,11.6,11.1,6.0,True,2,3.0,4.0,-1.0
+Orel Mangala,MID,Everton,Bournemouth,45,0,0,0,0,6,0,0,0,0,0,0,2.6,1.2,23.8,1.0,False,1,3.0,4.0,-1.0
+Orel Mangala,MID,Everton,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,2.9,8.6,3.2,17.0,True,2,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Spurs,90,0,0,2,0,14,0,0,0,0,0,0,5.2,20.0,13.2,19.0,True,2,3.0,3.0,0.0
+Orel Mangala,MID,Everton,Brighton,90,0,0,0,1,8,0,0,0,0,0,0,1.2,9.6,0.9,1.0,False,3,3.0,3.0,0.0

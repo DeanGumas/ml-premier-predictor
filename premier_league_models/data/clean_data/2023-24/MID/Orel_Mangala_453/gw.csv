@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Orel Mangala,MID,Nott'm Forest,Arsenal,89,0,0,2,0,-2,1,0,0,0,0,0,1.7,6.0,10.8,0.0,False,1,3.0,5.0,-2.0
+Orel Mangala,MID,Nott'm Forest,Sheffield Utd,68,0,0,1,0,5,0,0,0,0,0,0,1.0,9.0,0.9,0.0,True,2,3.0,2.0,1.0
+Orel Mangala,MID,Nott'm Forest,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Chelsea,71,0,0,0,1,2,0,0,0,0,0,0,0.3,1.4,0.6,1.0,False,3,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Burnley,70,0,0,1,0,3,1,0,0,0,0,0,2.2,5.2,11.9,5.0,True,1,3.0,2.0,1.0
+Orel Mangala,MID,Nott'm Forest,Man City,90,0,0,2,0,7,1,0,0,0,0,0,1.2,4.8,3.6,4.0,False,1,3.0,5.0,-2.0
+Orel Mangala,MID,Nott'm Forest,Brentford,90,0,0,1,0,18,0,0,0,0,0,0,1.4,10.6,3.3,0.0,True,2,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Crystal Palace,82,0,0,0,1,14,0,0,0,0,0,0,2.6,5.0,13.3,8.0,False,3,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Luton,90,0,0,2,0,13,0,0,0,0,0,0,2.6,10.4,15.8,0.0,True,2,3.0,2.0,1.0
+Orel Mangala,MID,Nott'm Forest,Liverpool,82,0,0,3,0,5,1,0,0,0,0,0,0.2,1.6,0.6,0.0,False,1,3.0,4.0,-1.0
+Orel Mangala,MID,Nott'm Forest,Aston Villa,90,1,0,0,1,29,0,0,0,0,0,0,5.6,48.8,0.6,7.0,True,8,3.0,4.0,-1.0
+Orel Mangala,MID,Nott'm Forest,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,2.0,13.2,6.8,0.0,False,2,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Brighton,90,0,0,3,0,16,0,0,0,0,0,0,1.7,12.2,3.1,2.0,True,2,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Everton,90,0,0,1,0,17,0,0,0,0,0,0,3.2,27.4,4.4,0.0,True,2,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Fulham,90,0,0,5,0,10,0,0,0,0,0,0,1.4,11.4,2.4,0.0,False,2,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Wolves,90,0,0,1,0,9,0,0,0,0,0,0,0.8,6.8,0.9,0.0,False,2,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Spurs,82,0,0,2,0,12,0,0,0,0,0,0,1.3,11.4,1.3,0.0,True,2,3.0,4.0,-1.0
+Orel Mangala,MID,Nott'm Forest,Bournemouth,45,0,0,0,0,7,0,0,0,0,0,0,1.8,7.6,10.3,0.0,True,1,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Man Utd,3,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Brentford,90,0,0,3,0,1,1,0,0,0,0,0,3.7,2.4,17.8,17.0,False,1,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Arsenal,70,0,0,1,0,8,0,0,0,0,0,0,1.3,12.8,0.3,0.0,True,2,3.0,5.0,-2.0
+Orel Mangala,MID,Nott'm Forest,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Orel Mangala,MID,Nott'm Forest,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Orel Mangala,MID,Nott'm Forest,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Orel Mangala,MID,Nott'm Forest,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Orel Mangala,MID,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Orel Mangala,MID,Nott'm Forest,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Orel Mangala,MID,Nott'm Forest,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Orel Mangala,MID,Nott'm Forest,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Nuno Varela Tavares,DEF,Arsenal,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Chelsea,18,0,0,0,0,4,1,0,0,0,0,0,0.7,7.2,0.1,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Burnley,37,0,0,0,0,4,0,0,0,0,0,0,0.4,2.0,1.8,0.0,True,1,5.0,2.0,3.0
+Nuno Varela Tavares,DEF,Arsenal,Man City,38,0,0,2,0,0,1,0,0,0,0,0,0.7,0.0,5.3,2.0,False,-1,5.0,5.0,0.0
+Nuno Varela Tavares,DEF,Arsenal,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Nuno Varela Tavares,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Nuno Varela Tavares,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Nuno Varela Tavares,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Nuno Varela Tavares,DEF,Arsenal,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Brentford,90,0,0,3,0,12,0,0,0,0,0,0,2.8,13.2,6.3,8.0,False,1,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,5.0,0.0
+Nuno Varela Tavares,DEF,Arsenal,Bournemouth,90,0,0,1,0,10,0,0,0,0,0,0,1.9,8.8,3.3,7.0,False,2,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Newcastle,90,0,0,3,0,13,0,0,0,0,0,0,3.2,10.4,14.6,7.0,True,1,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,West Ham,90,0,0,0,1,22,0,0,0,0,0,0,3.7,16.0,17.4,4.0,True,6,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Nuno Varela Tavares,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Nuno Varela Tavares,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Nuno Varela Tavares,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Nuno Varela Tavares,DEF,Arsenal,Wolves,1,0,0,0,0,4,0,0,0,0,0,0,0.4,4.2,0.0,0.0,True,1,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,5.0,0.0
+Nuno Varela Tavares,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Nuno Varela Tavares,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Nuno Varela Tavares,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0

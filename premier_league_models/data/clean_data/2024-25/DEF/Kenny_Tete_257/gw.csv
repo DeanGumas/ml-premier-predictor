@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kenny Tete,DEF,Fulham,Man Utd,90,0,0,1,0,7,0,0,0,0,0,0,2.5,10.0,1.2,14.0,False,2,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Leicester,90,0,0,1,0,0,0,0,0,0,0,0,2.5,9.8,4.2,11.0,True,2,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Ipswich,90,0,0,1,0,11,0,0,0,0,0,0,2.5,14.8,3.0,7.0,False,2,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,West Ham,90,0,0,1,0,7,0,0,0,0,0,0,4.0,15.2,15.8,9.0,True,2,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Newcastle,90,0,0,1,0,3,1,0,0,0,0,0,2.3,4.4,4.3,14.0,True,1,3.0,4.0,-1.0
+Kenny Tete,DEF,Fulham,Nott'm Forest,90,0,0,0,1,19,1,0,0,0,0,0,4.7,22.0,7.8,17.0,False,5,3.0,4.0,-1.0
+Kenny Tete,DEF,Fulham,Man City,76,0,0,2,0,5,0,0,0,0,0,0,1.3,9.2,3.5,0.0,False,1,3.0,4.0,-1.0
+Kenny Tete,DEF,Fulham,Aston Villa,90,0,0,3,0,7,0,0,0,0,0,0,3.8,18.4,5.8,14.0,True,1,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Everton,90,0,0,1,0,4,0,0,0,0,0,0,4.2,22.8,18.3,1.0,False,2,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Brentford,72,0,0,1,0,12,0,0,0,0,0,0,4.5,26.8,4.5,14.0,True,2,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Crystal Palace,90,0,0,0,1,30,0,0,0,0,0,0,3.3,26.6,4.4,2.0,False,6,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Wolves,70,0,1,2,0,11,1,0,0,0,0,0,4.4,27.0,13.4,4.0,True,3,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Spurs,90,0,0,1,0,20,0,0,0,0,0,0,4.6,17.6,20.3,8.0,False,2,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Arsenal,90,0,1,1,0,16,0,0,0,0,0,0,4.1,27.2,14.2,0.0,True,5,3.0,4.0,-1.0
+Kenny Tete,DEF,Fulham,Liverpool,54,0,0,1,0,0,0,0,0,0,0,0,0.7,7.0,0.2,0.0,False,1,3.0,5.0,-2.0
+Kenny Tete,DEF,Fulham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Kenny Tete,DEF,Fulham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Kenny Tete,DEF,Fulham,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Kenny Tete,DEF,Fulham,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Kenny Tete,DEF,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

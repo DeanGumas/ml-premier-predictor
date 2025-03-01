@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Moussa Djenepo,MID,Southampton,Spurs,71,0,1,4,0,16,0,0,0,0,0,0,4.7,22.6,12.2,12.0,False,5,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Leeds,90,0,0,2,0,18,0,0,0,0,0,0,4.8,17.8,29.7,0.0,True,2,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Leicester,90,0,0,1,0,20,0,0,0,0,0,0,2.9,19.0,6.0,4.0,False,2,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Man Utd,88,0,0,1,0,8,0,0,0,0,0,0,2.6,11.8,12.2,2.0,True,2,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Chelsea,17,0,0,0,0,2,0,0,0,0,0,0,0.7,6.2,0.3,0.0,True,1,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Wolves,34,0,0,0,0,3,0,0,0,0,0,0,0.8,4.6,1.8,2.0,False,1,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Aston Villa,90,0,0,1,0,9,0,0,0,0,0,0,1.2,11.2,0.3,0.0,False,2,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Man City,24,0,0,0,0,3,0,0,0,0,0,0,0.4,3.2,1.1,0.0,False,1,2.0,5.0,-3.0
+Moussa Djenepo,MID,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Bournemouth,2,0,0,0,0,2,0,0,0,0,0,0,2.3,3.0,0.7,19.0,False,1,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Crystal Palace,16,0,0,0,0,4,0,0,0,0,0,0,0.4,2.2,1.4,0.0,False,1,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Brighton,45,0,0,2,0,1,0,0,0,0,0,0,1.8,4.6,10.9,2.0,True,1,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Aston Villa,6,0,0,0,0,4,0,0,0,0,0,0,3.8,7.0,14.0,17.0,True,1,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Man City,21,0,1,1,0,19,0,0,0,0,0,0,3.5,20.2,10.5,4.0,True,4,2.0,5.0,-3.0
+Moussa Djenepo,MID,Southampton,Crystal Palace,28,0,0,1,0,4,0,0,0,0,0,0,1.8,3.2,10.8,4.0,True,1,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Newcastle,63,0,0,1,0,7,0,0,0,0,0,0,0.8,5.2,0.3,2.0,False,2,2.0,4.0,-2.0
+Moussa Djenepo,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Fulham,17,0,0,0,0,-3,1,0,0,0,0,0,1.2,0.0,11.0,2.0,True,0,2.0,2.0,0.0
+Moussa Djenepo,MID,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Moussa Djenepo,MID,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

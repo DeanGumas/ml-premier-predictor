@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Callum Wilson,FWD,Newcastle,Nott'm Forest,89,1,0,0,1,25,0,0,0,0,0,0,10.9,34.2,25.3,49.0,True,6,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Brighton,86,0,0,0,1,2,0,0,0,0,0,0,1.8,1.0,14.8,2.0,False,2,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Man City,69,1,0,3,0,26,0,0,0,0,0,0,11.1,34.2,0.4,76.0,True,6,4.0,5.0,-1.0
+Callum Wilson,FWD,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Fulham,65,1,0,0,1,22,0,0,0,0,0,0,7.6,27.4,0.2,48.0,False,6,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Brentford,83,0,1,1,0,14,0,0,0,0,0,0,7.8,14.6,31.8,32.0,True,5,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Man Utd,77,0,0,0,1,4,0,0,0,0,0,0,1.7,3.2,0.5,13.0,False,2,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Everton,86,0,0,0,1,5,0,0,0,0,0,0,6.2,5.0,12.1,45.0,True,2,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Spurs,87,1,0,1,0,22,1,0,0,0,0,0,10.4,38.2,13.5,52.0,False,5,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Aston Villa,85,2,2,0,1,67,0,0,0,0,0,0,18.7,81.8,22.8,82.0,True,19,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Southampton,45,0,0,0,0,0,0,0,0,0,0,0,0.6,0.0,1.1,5.0,False,1,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Chelsea,14,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.6,0.0,True,1,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Leeds,26,0,0,0,0,-1,1,0,0,0,0,0,0.2,0.0,1.0,2.0,True,0,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Arsenal,67,0,0,0,1,-3,1,0,0,0,0,0,1.5,0.0,0.3,15.0,False,1,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Fulham,90,0,1,0,1,10,0,0,0,0,0,0,12.2,21.2,11.8,89.0,True,5,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Crystal Palace,68,0,0,0,1,-4,0,0,0,0,0,0,3.6,4.2,0.9,31.0,False,2,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,West Ham,90,1,0,1,0,24,0,0,0,0,0,0,8.4,37.2,11.5,35.0,True,7,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Liverpool,26,0,0,0,0,0,0,0,0,0,0,0,3.3,5.4,10.3,17.0,True,1,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Man City,61,0,0,1,0,7,0,0,0,0,0,0,1.8,0.2,11.8,6.0,False,2,4.0,5.0,-1.0
+Callum Wilson,FWD,Newcastle,Wolves,22,0,0,1,0,1,0,0,0,0,0,0,0.2,0.0,1.3,2.0,True,1,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Man Utd,10,1,0,0,0,26,0,0,0,0,0,0,6.7,33.2,0.3,33.0,True,6,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,West Ham,63,2,0,1,0,51,0,0,0,0,0,0,11.8,63.2,0.7,54.0,False,13,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Brentford,45,0,1,0,0,13,0,0,0,0,0,0,6.4,18.4,34.0,12.0,False,4,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Aston Villa,34,0,0,2,0,0,0,0,0,0,0,0,0.1,0.0,0.0,2.0,False,1,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Spurs,24,1,0,0,0,30,0,0,0,0,0,0,6.9,37.2,10.5,21.0,True,5,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Everton,86,2,0,1,0,47,0,0,0,0,0,0,11.3,68.4,0.7,44.0,False,13,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Southampton,45,2,0,0,0,45,0,0,0,0,0,0,16.0,66.0,0.3,94.0,True,12,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Arsenal,77,0,0,2,0,3,0,0,0,0,0,0,1.5,1.0,10.3,4.0,True,2,4.0,4.0,0.0
+Callum Wilson,FWD,Newcastle,Leeds,72,2,0,1,0,53,1,0,0,0,0,0,14.7,70.4,10.7,66.0,False,12,4.0,2.0,2.0
+Callum Wilson,FWD,Newcastle,Brighton,90,1,1,1,0,39,0,0,0,0,0,0,14.4,54.4,31.2,58.0,True,12,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Leicester,67,0,0,0,1,-4,0,0,0,0,0,0,2.6,0.0,0.3,31.0,True,2,4.0,3.0,1.0
+Callum Wilson,FWD,Newcastle,Chelsea,21,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,4.0,0.0

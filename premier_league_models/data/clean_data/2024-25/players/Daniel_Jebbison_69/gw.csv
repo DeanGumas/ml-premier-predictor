@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Daniel Jebbison,FWD,Bournemouth,Nott'm Forest,21,0,0,0,0,4,0,0,0,0,0,0,1.6,3.2,10.6,2.0,False,1,4.0,4.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Newcastle,5,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,4.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Daniel Jebbison,FWD,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Daniel Jebbison,FWD,Bournemouth,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Daniel Jebbison,FWD,Bournemouth,Chelsea,7,0,0,1,0,3,0,0,0,0,0,0,1.5,2.2,10.6,2.0,False,1,4.0,4.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Newcastle,8,0,0,0,0,-1,1,0,0,0,0,0,4.1,4.0,10.6,26.0,False,0,4.0,4.0,0.0
+Daniel Jebbison,FWD,Bournemouth,Nott'm Forest,2,0,0,0,0,4,0,0,0,0,0,0,0.7,5.2,1.8,0.0,True,1,4.0,4.0,0.0

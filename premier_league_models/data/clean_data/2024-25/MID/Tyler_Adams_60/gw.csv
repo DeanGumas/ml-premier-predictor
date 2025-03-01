@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Tyler Adams,MID,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Tyler Adams,MID,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Tyler Adams,MID,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Tyler Adams,MID,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Tyler Adams,MID,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Tyler Adams,MID,Bournemouth,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Tyler Adams,MID,Bournemouth,Aston Villa,9,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.1,0.0,False,1,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Man City,24,0,0,1,0,1,1,0,0,0,0,0,2.1,10.4,10.3,0.0,True,0,4.0,4.0,0.0
+Tyler Adams,MID,Bournemouth,Brentford,66,0,0,3,0,14,0,0,0,0,0,0,3.6,18.4,13.8,4.0,False,2,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Brighton,64,0,0,2,0,19,0,0,0,0,0,0,2.0,12.8,4.9,2.0,True,2,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Wolves,90,0,0,2,0,8,0,0,0,0,0,0,2.3,17.0,0.8,5.0,False,2,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Spurs,90,0,0,0,1,7,1,0,0,0,0,0,7.2,26.8,20.9,24.0,True,2,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,West Ham,22,0,0,1,0,-2,0,0,0,0,0,0,0.6,0.2,2.1,4.0,True,1,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Man Utd,88,0,0,0,1,17,0,0,0,0,0,0,1.8,16.8,1.5,0.0,False,3,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Crystal Palace,28,0,0,0,0,7,0,0,0,0,0,0,0.9,6.8,2.0,0.0,True,1,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Everton,20,0,0,0,0,7,1,0,0,0,0,0,1.0,8.2,1.3,0.0,True,0,4.0,3.0,1.0
+Tyler Adams,MID,Bournemouth,Chelsea,90,0,0,2,0,10,0,0,0,0,0,0,2.7,12.4,12.8,2.0,False,2,4.0,4.0,0.0
+Tyler Adams,MID,Bournemouth,Newcastle,90,0,1,1,0,24,1,0,0,0,0,0,4.1,28.4,12.9,0.0,False,5,4.0,4.0,0.0
+Tyler Adams,MID,Bournemouth,Nott'm Forest,90,0,2,0,1,31,0,0,0,0,0,0,7.6,54.0,21.9,0.0,True,9,4.0,4.0,0.0

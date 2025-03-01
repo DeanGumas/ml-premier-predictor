@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Amari'i Bell,DEF,Luton,Brighton,90,0,0,4,0,10,0,0,0,0,0,0,2.2,21.2,0.7,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Chelsea,90,0,0,3,0,14,0,0,0,0,0,0,3.1,30.4,0.9,0.0,False,1,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,West Ham,90,0,0,2,0,15,0,0,0,0,0,0,1.5,13.8,1.4,0.0,True,1,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Fulham,90,0,0,1,0,4,0,0,0,0,0,0,4.5,12.4,0.0,33.0,False,2,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Wolves,90,0,0,1,0,14,0,0,0,0,0,0,3.2,19.2,13.1,0.0,True,2,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Everton,90,0,0,1,0,8,0,0,0,0,0,0,0.8,7.2,0.6,0.0,False,2,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Burnley,20,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,2.0,2.0,0.0
+Amari'i Bell,DEF,Luton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Amari'i Bell,DEF,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Amari'i Bell,DEF,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Amari'i Bell,DEF,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Crystal Palace,90,0,0,1,0,10,0,0,0,0,0,0,6.7,29.2,29.0,9.0,True,2,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Brentford,90,0,0,3,0,18,0,0,0,0,0,0,2.4,23.0,0.8,0.0,False,1,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Arsenal,90,0,0,4,0,11,0,0,0,0,0,0,3.4,20.4,13.3,0.0,True,0,2.0,5.0,-3.0
+Amari'i Bell,DEF,Luton,Man City,90,0,0,2,0,7,0,0,0,0,0,0,1.9,7.8,10.8,0.0,True,1,2.0,5.0,-3.0
+Amari'i Bell,DEF,Luton,Newcastle,75,0,0,0,1,29,0,0,0,0,0,0,2.6,14.8,11.3,0.0,True,7,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Sheffield Utd,90,0,0,2,0,9,0,0,0,0,0,0,2.2,21.4,0.8,0.0,False,1,2.0,2.0,0.0
+Amari'i Bell,DEF,Luton,Chelsea,90,0,0,3,0,12,0,0,0,0,0,0,2.6,13.4,12.5,0.0,True,1,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Burnley,90,0,0,1,0,14,0,0,0,0,0,0,1.9,16.2,2.3,0.0,False,2,2.0,2.0,0.0
+Amari'i Bell,DEF,Luton,Brighton,90,0,0,0,1,24,0,0,0,0,0,0,2.1,19.6,1.7,0.0,True,6,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Newcastle,90,0,0,4,0,11,0,0,0,0,0,0,1.6,13.8,2.2,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Sheffield Utd,90,0,0,3,0,29,0,0,0,0,0,0,3.8,32.6,4.9,0.0,True,3,2.0,2.0,0.0
+Amari'i Bell,DEF,Luton,Man Utd,90,0,0,2,0,6,0,0,0,0,0,0,3.2,22.2,2.2,8.0,True,1,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Liverpool,90,0,0,4,0,12,0,0,0,0,0,0,3.0,19.4,11.0,0.0,False,0,2.0,4.0,-2.0
+Amari'i Bell,DEF,Luton,Aston Villa,5,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Amari'i Bell,DEF,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Amari'i Bell,DEF,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Amari'i Bell,DEF,Luton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Amari'i Bell,DEF,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Amari'i Bell,DEF,Luton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

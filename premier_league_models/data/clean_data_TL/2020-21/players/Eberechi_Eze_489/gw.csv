@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Eberechi Eze,MID,Crystal Palace,Southampton,9,0,0,0,0,3,0,0,0,0,0,0,1.7,4.4,8.8,4.0,True,2020-09-12T14:00:00Z,1
+Eberechi Eze,MID,Crystal Palace,Man Utd,15,0,0,1,0,4,0,0,0,0,0,0,1.2,9.4,0.8,2.0,False,2020-09-19T16:30:00Z,1
+Eberechi Eze,MID,Crystal Palace,Everton,74,0,0,2,0,12,0,0,0,0,0,0,5.2,8.2,14.5,29.0,True,2020-09-26T14:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Chelsea,90,0,0,4,0,4,0,0,0,0,0,0,0.4,0.0,3.9,0.0,False,2020-10-03T11:30:00Z,2
+Eberechi Eze,MID,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-18T13:00:00Z,0
+Eberechi Eze,MID,Crystal Palace,Fulham,14,0,0,1,0,2,0,0,0,0,0,0,6.1,5.4,11.3,44.0,False,2020-10-24T14:00:00Z,1
+Eberechi Eze,MID,Crystal Palace,Wolves,25,0,0,0,0,2,0,0,0,0,0,0,0.7,3.2,1.6,2.0,False,2020-10-30T20:00:00Z,1
+Eberechi Eze,MID,Crystal Palace,Leeds,90,1,1,1,0,46,0,0,0,0,0,0,10.5,67.0,28.2,10.0,True,2020-11-07T15:00:00Z,13
+Eberechi Eze,MID,Crystal Palace,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,3.1,13.2,15.3,2.0,False,2020-11-23T17:30:00Z,2
+Eberechi Eze,MID,Crystal Palace,Newcastle,90,0,0,2,0,5,0,0,0,0,0,0,3.2,10.2,5.5,16.0,True,2020-11-27T20:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,West Brom,90,0,1,1,0,29,0,0,0,0,0,0,9.4,33.2,52.0,9.0,False,2020-12-06T12:00:00Z,5
+Eberechi Eze,MID,Crystal Palace,Spurs,88,0,1,1,0,22,0,0,0,0,0,0,9.9,14.0,73.3,12.0,True,2020-12-13T14:15:00Z,7
+Eberechi Eze,MID,Crystal Palace,West Ham,75,0,0,1,0,9,0,0,0,0,0,0,1.6,2.8,8.8,4.0,False,2020-12-16T20:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Liverpool,68,0,0,5,0,6,0,0,0,0,0,0,2.7,7.8,16.8,2.0,True,2020-12-19T12:30:00Z,2
+Eberechi Eze,MID,Crystal Palace,Aston Villa,90,0,0,3,0,11,1,0,0,0,0,0,6.9,18.2,15.8,35.0,False,2020-12-26T15:00:00Z,1
+Eberechi Eze,MID,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-28T15:00:00Z,0
+Eberechi Eze,MID,Crystal Palace,Sheffield Utd,50,1,0,0,0,20,1,0,0,0,0,0,5.8,37.8,13.3,7.0,True,2021-01-02T15:00:00Z,5
+Eberechi Eze,MID,Crystal Palace,Arsenal,90,0,0,0,1,14,0,0,0,0,0,0,5.6,17.0,37.5,1.0,False,2021-01-14T20:00:00Z,3
+Eberechi Eze,MID,Crystal Palace,Man City,90,0,0,4,0,2,0,0,0,0,0,0,0.4,0.0,1.7,4.0,False,2021-01-17T19:15:00Z,2
+Eberechi Eze,MID,Crystal Palace,West Ham,90,0,0,3,0,17,0,0,0,0,0,0,3.4,15.2,18.8,0.0,True,2021-01-26T18:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Wolves,90,1,0,0,1,31,0,0,0,0,0,0,7.2,35.6,11.3,25.0,True,2021-01-30T15:00:00Z,11
+Eberechi Eze,MID,Crystal Palace,Newcastle,90,0,1,1,0,27,0,0,0,0,0,0,7.3,29.8,43.2,0.0,False,2021-02-02T20:15:00Z,7
+Eberechi Eze,MID,Crystal Palace,Leeds,90,0,0,2,0,11,0,0,0,0,0,0,7.6,11.6,42.1,22.0,False,2021-02-08T20:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Burnley,90,0,0,3,0,11,0,0,0,0,0,0,3.3,5.8,24.5,3.0,True,2021-02-13T15:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Brighton,90,0,0,1,0,7,0,0,0,0,0,0,0.7,5.8,0.8,0.0,False,2021-02-22T20:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Fulham,78,0,0,0,1,5,0,0,0,0,0,0,0.3,1.4,1.3,0.0,True,2021-02-28T12:00:00Z,3
+Eberechi Eze,MID,Crystal Palace,Man Utd,83,0,0,0,1,10,0,0,0,0,0,0,0.9,6.0,2.8,0.0,True,2021-03-03T20:15:00Z,3
+Eberechi Eze,MID,Crystal Palace,Spurs,45,0,0,1,0,0,0,0,0,0,0,0,0.2,0.0,2.3,0.0,False,2021-03-07T19:15:00Z,1
+Eberechi Eze,MID,Crystal Palace,West Brom,73,0,0,0,1,10,1,0,0,0,0,0,3.3,9.6,15.9,7.0,True,2021-03-13T15:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Everton,90,0,0,1,0,9,0,0,0,0,0,0,4.5,11.8,4.8,28.0,False,2021-04-05T17:00:00Z,2
+Eberechi Eze,MID,Crystal Palace,Chelsea,58,0,0,3,0,1,0,0,0,0,0,0,0.3,0.0,2.0,2.0,True,2021-04-10T16:30:00Z,1
+Eberechi Eze,MID,Crystal Palace,Leicester,90,0,1,2,0,27,0,0,0,0,0,0,6.8,25.6,42.2,0.0,False,2021-04-26T19:00:00Z,7
+Eberechi Eze,MID,Crystal Palace,Man City,90,0,0,2,0,12,0,0,0,0,0,0,4.1,8.4,28.3,4.0,True,2021-05-01T11:30:00Z,2
+Eberechi Eze,MID,Crystal Palace,Sheffield Utd,90,1,1,0,1,47,0,0,0,0,0,0,12.5,62.4,33.8,29.0,False,2021-05-08T14:00:00Z,14
+Eberechi Eze,MID,Crystal Palace,Southampton,90,0,0,3,0,13,0,0,0,0,0,0,5.4,10.4,43.2,0.0,False,2021-05-11T19:15:00Z,2
+Eberechi Eze,MID,Crystal Palace,Aston Villa,90,0,2,2,0,29,0,0,0,0,0,0,13.2,25.0,26.7,80.0,True,2021-05-16T11:00:00Z,10
+Eberechi Eze,MID,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-19T18:00:00Z,0
+Eberechi Eze,MID,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-23T15:00:00Z,0

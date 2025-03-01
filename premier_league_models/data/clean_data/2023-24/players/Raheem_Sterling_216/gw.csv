@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Raheem Sterling,MID,Chelsea,Liverpool,80,0,0,1,0,8,0,0,0,0,0,0,4.9,13.0,26.0,10.0,True,2,3.0,4.0,-1.0
+Raheem Sterling,MID,Chelsea,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,8.3,15.0,30.5,37.0,False,2,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Luton,90,2,1,0,1,52,0,0,0,0,0,0,17.8,72.4,26.3,79.0,True,19,3.0,2.0,1.0
+Raheem Sterling,MID,Chelsea,Nott'm Forest,90,0,0,1,0,9,0,0,0,0,0,0,7.1,3.2,26.9,41.0,True,2,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Bournemouth,90,0,0,0,1,3,1,0,0,0,0,0,7.1,2.8,37.6,31.0,False,2,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Aston Villa,90,0,0,1,0,-1,0,0,0,0,0,0,6.4,9.6,1.2,53.0,True,2,3.0,4.0,-1.0
+Raheem Sterling,MID,Chelsea,Fulham,25,0,0,0,0,-3,1,0,0,0,0,0,0.6,0.0,0.8,6.0,False,0,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Burnley,82,1,2,1,0,40,0,0,0,0,0,0,10.5,38.8,19.3,47.0,False,16,3.0,2.0,1.0
+Raheem Sterling,MID,Chelsea,Arsenal,83,0,0,1,0,6,0,0,0,0,0,0,3.9,9.4,15.5,14.0,True,2,3.0,5.0,-2.0
+Raheem Sterling,MID,Chelsea,Brentford,90,0,0,2,0,13,0,0,0,0,0,0,5.0,7.4,18.3,24.0,True,2,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Spurs,90,0,1,1,0,13,0,0,0,0,0,0,7.3,21.8,22.4,29.0,False,5,3.0,4.0,-1.0
+Raheem Sterling,MID,Chelsea,Man City,90,1,0,4,0,16,1,0,0,0,0,0,9.6,40.2,14.3,41.0,True,6,3.0,5.0,-2.0
+Raheem Sterling,MID,Chelsea,Newcastle,86,1,0,4,0,16,1,0,0,0,0,0,7.0,39.6,6.8,24.0,False,6,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Brighton,65,0,0,1,0,4,0,0,0,0,0,0,1.9,3.4,7.8,8.0,True,2,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Man Utd,90,0,0,2,0,6,0,0,0,0,0,0,3.7,4.2,25.0,8.0,False,2,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Everton,24,0,0,1,0,2,0,0,0,0,0,0,2.7,3.8,16.1,7.0,False,1,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Sheffield Utd,74,0,1,0,1,18,0,0,0,0,0,0,9.2,30.2,30.9,31.0,True,6,3.0,2.0,1.0
+Raheem Sterling,MID,Chelsea,Wolves,90,0,1,2,0,16,1,0,0,0,0,0,8.7,25.8,32.6,29.0,False,4,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Raheem Sterling,MID,Chelsea,Fulham,76,0,1,0,1,7,0,0,0,0,0,0,3.8,4.4,3.4,30.0,True,6,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Liverpool,90,0,0,4,0,2,0,0,0,0,0,0,1.2,7.0,2.6,2.0,False,2,3.0,4.0,-1.0
+Raheem Sterling,MID,Chelsea,Wolves,71,0,0,3,0,-4,0,0,0,0,0,0,1.4,0.0,3.5,14.0,True,2,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Crystal Palace,11,0,0,0,0,3,0,0,0,0,0,0,2.3,3.6,14.4,5.0,False,1,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Man City,63,1,0,0,1,21,0,0,0,0,0,0,8.5,39.6,0.7,45.0,False,8,3.0,5.0,-2.0
+Raheem Sterling,MID,Chelsea,Brentford,11,0,0,0,0,1,0,0,0,0,0,0,2.4,5.2,10.8,8.0,False,1,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Newcastle,70,0,0,1,0,0,1,0,0,0,0,0,4.1,0.8,13.8,26.0,True,1,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Burnley,17,0,1,1,0,12,0,0,0,0,0,0,6.1,19.0,16.8,25.0,True,4,3.0,2.0,1.0
+Raheem Sterling,MID,Chelsea,Man Utd,19,0,0,0,0,1,0,0,0,0,0,0,1.3,0.4,2.2,10.0,True,1,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Raheem Sterling,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Arsenal,24,0,0,1,0,-3,0,0,0,0,0,0,1.1,0.6,1.4,9.0,False,1,3.0,5.0,-2.0
+Raheem Sterling,MID,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Raheem Sterling,MID,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Raheem Sterling,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Nott'm Forest,17,1,0,1,0,26,0,0,0,0,0,0,7.2,38.6,12.3,21.0,False,6,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Brighton,21,0,0,1,0,-2,1,0,0,0,0,0,0.9,1.4,0.1,7.0,False,0,3.0,3.0,0.0
+Raheem Sterling,MID,Chelsea,Bournemouth,63,1,0,1,0,28,0,0,0,0,0,0,10.1,41.6,33.4,26.0,True,9,3.0,3.0,0.0

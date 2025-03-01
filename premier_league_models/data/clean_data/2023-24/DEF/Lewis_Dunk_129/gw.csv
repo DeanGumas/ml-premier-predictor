@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Lewis Dunk,DEF,Brighton,Luton,90,0,0,1,0,10,0,0,0,0,0,0,2.4,6.0,3.1,15.0,True,2,3.0,2.0,1.0
+Lewis Dunk,DEF,Brighton,Wolves,90,0,0,1,0,16,0,0,0,0,0,0,1.8,16.8,0.8,0.0,False,2,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,West Ham,90,0,0,3,0,15,0,0,0,0,0,0,7.6,22.0,17.9,36.0,True,1,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Newcastle,90,0,0,1,0,14,0,0,0,0,0,0,3.3,12.8,12.4,8.0,True,2,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Man Utd,90,0,0,1,0,17,0,0,0,0,0,0,1.8,18.0,0.3,0.0,False,2,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Bournemouth,90,0,0,1,0,12,1,0,0,0,0,0,3.8,22.6,0.7,15.0,True,1,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Aston Villa,90,0,0,6,0,11,1,0,0,0,0,0,2.9,23.4,3.9,2.0,False,-2,3.0,4.0,-1.0
+Lewis Dunk,DEF,Brighton,Liverpool,90,1,0,2,0,27,0,0,0,0,0,0,10.9,52.6,15.1,41.0,True,8,3.0,4.0,-1.0
+Lewis Dunk,DEF,Brighton,Man City,90,0,0,2,0,20,0,0,0,0,0,0,2.2,20.6,1.1,0.0,False,1,3.0,5.0,-2.0
+Lewis Dunk,DEF,Brighton,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,3.1,28.2,1.8,1.0,True,2,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Everton,90,0,0,1,0,11,1,0,0,0,0,0,4.5,30.4,3.4,11.0,False,1,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Lewis Dunk,DEF,Brighton,Nott'm Forest,72,0,0,2,0,6,0,1,0,0,0,0,3.7,21.6,2.3,13.0,False,-2,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Burnley,84,0,0,1,0,16,0,0,0,0,0,0,4.8,23.2,24.9,0.0,True,2,3.0,2.0,1.0
+Lewis Dunk,DEF,Brighton,Arsenal,90,0,0,2,0,13,0,0,0,0,0,0,3.9,33.6,2.3,3.0,False,1,3.0,5.0,-2.0
+Lewis Dunk,DEF,Brighton,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,2.5,17.4,3.4,4.0,False,2,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Spurs,90,0,0,2,0,10,1,0,0,0,0,0,7.2,20.0,3.4,49.0,True,0,3.0,4.0,-1.0
+Lewis Dunk,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Wolves,90,0,0,0,1,26,0,0,0,0,0,0,2.3,18.4,2.8,2.0,True,6,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Luton,90,0,0,4,0,14,0,0,0,0,0,0,3.2,29.6,0.1,2.0,False,0,3.0,2.0,1.0
+Lewis Dunk,DEF,Brighton,Crystal Palace,90,1,0,1,0,32,0,0,0,0,0,0,11.2,57.4,21.3,33.0,True,9,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Spurs,90,0,0,2,0,7,1,0,0,0,0,0,1.0,10.0,0.3,0.0,False,0,3.0,4.0,-1.0
+Lewis Dunk,DEF,Brighton,Sheffield Utd,90,0,1,0,1,40,0,0,0,0,0,0,9.5,41.6,29.8,24.0,False,12,3.0,2.0,1.0
+Lewis Dunk,DEF,Brighton,Everton,90,1,0,1,0,30,0,0,0,0,0,0,12.1,56.8,21.5,43.0,True,10,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Fulham,58,0,0,2,0,9,0,0,0,0,0,0,3.9,20.4,1.2,17.0,False,0,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Nott'm Forest,90,0,0,0,1,27,0,0,0,0,0,0,3.2,24.4,0.7,7.0,True,7,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Liverpool,90,0,0,2,0,22,0,0,0,0,0,0,8.0,45.6,0.8,34.0,False,1,3.0,4.0,-1.0
+Lewis Dunk,DEF,Brighton,Brentford,90,0,0,0,1,28,0,0,0,0,0,0,3.4,18.6,13.0,2.0,False,7,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Arsenal,90,0,0,3,0,15,0,0,0,0,0,0,3.8,24.2,14.0,0.0,True,1,3.0,5.0,-2.0
+Lewis Dunk,DEF,Brighton,Burnley,90,0,0,1,0,18,0,0,0,0,0,0,1.5,14.2,0.3,0.0,False,3,3.0,2.0,1.0
+Lewis Dunk,DEF,Brighton,Man City,90,0,0,4,0,13,0,0,0,0,0,0,3.6,16.8,0.3,19.0,True,0,3.0,5.0,-2.0
+Lewis Dunk,DEF,Brighton,Bournemouth,90,0,0,3,0,18,0,0,0,0,0,0,4.0,39.0,1.2,0.0,False,1,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Aston Villa,90,0,0,0,1,26,0,0,0,0,0,0,1.6,15.4,0.7,0.0,True,7,3.0,4.0,-1.0
+Lewis Dunk,DEF,Brighton,Newcastle,90,0,0,1,0,15,0,0,0,0,0,0,1.9,10.4,0.3,8.0,False,2,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Chelsea,45,0,0,1,0,8,1,0,0,0,0,0,1.1,11.0,0.3,0.0,True,0,3.0,3.0,0.0
+Lewis Dunk,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

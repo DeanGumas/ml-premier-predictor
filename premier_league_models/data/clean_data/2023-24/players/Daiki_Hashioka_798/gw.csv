@@ -1,0 +1,18 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Daiki Hashioka,DEF,Luton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Daiki Hashioka,DEF,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Daiki Hashioka,DEF,Luton,Aston Villa,37,0,0,1,0,5,0,0,0,0,0,0,0.6,6.2,0.2,0.0,True,1,2.0,4.0,-2.0
+Daiki Hashioka,DEF,Luton,Crystal Palace,28,0,0,0,0,1,0,0,0,0,0,0,0.8,3.4,0.1,4.0,False,1,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Bournemouth,67,0,0,3,0,9,0,0,0,0,0,0,1.2,11.4,0.2,0.0,False,1,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Spurs,45,0,0,2,0,7,0,0,0,0,0,0,1.5,12.2,0.5,2.0,False,0,2.0,4.0,-2.0
+Daiki Hashioka,DEF,Luton,Arsenal,90,0,0,2,0,10,0,0,1,0,0,0,2.7,8.8,16.2,2.0,False,-1,2.0,5.0,-3.0
+Daiki Hashioka,DEF,Luton,Bournemouth,61,0,0,1,0,7,0,0,0,0,0,0,0.6,3.2,2.6,0.0,True,2,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Man City,90,0,0,5,0,6,0,0,1,0,0,0,2.7,26.8,0.1,0.0,False,-2,2.0,5.0,-3.0
+Daiki Hashioka,DEF,Luton,Brentford,19,0,0,1,0,4,0,0,0,0,0,0,0.4,4.4,0.0,0.0,True,1,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Wolves,65,0,0,2,0,8,0,0,0,0,0,0,2.9,11.4,17.9,0.0,False,1,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Daiki Hashioka,DEF,Luton,Fulham,90,0,0,4,0,15,0,0,0,0,0,0,2.8,13.6,14.1,0.0,True,0,2.0,3.0,-1.0

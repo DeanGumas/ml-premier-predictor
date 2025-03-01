@@ -1,0 +1,23 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Newcastle,71,0,0,0,1,7,0,0,0,0,0,0,4.9,11.2,2.8,35.0,True,2,4.0,4.0,0.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Everton,64,0,0,2,0,3,0,0,0,0,0,0,0.6,0.0,0.8,7.0,False,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Chelsea,67,0,0,0,1,0,0,0,0,0,1,0,5.0,3.2,12.0,35.0,True,0,4.0,4.0,0.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Liverpool,75,0,0,3,0,6,0,0,0,0,0,0,3.4,3.0,23.9,7.0,False,2,4.0,5.0,-1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Southampton,75,1,0,1,0,34,0,0,0,0,0,0,6.4,34.8,1.2,28.0,True,9,4.0,2.0,2.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Leicester,80,0,0,1,0,7,0,0,0,0,0,0,3.2,1.4,10.5,20.0,False,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Arsenal,81,0,1,0,1,17,0,0,0,0,0,0,3.0,1.4,12.2,16.0,True,5,4.0,4.0,0.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Aston Villa,26,1,0,1,0,28,0,0,0,0,0,0,5.7,33.4,0.6,23.0,False,8,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Man City,77,1,0,0,1,32,0,0,0,0,0,0,7.5,38.6,0.8,36.0,True,7,4.0,4.0,0.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Brentford,90,1,0,3,0,35,0,0,0,0,0,0,9.0,41.4,23.3,25.0,False,8,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Brighton,90,0,0,2,0,2,0,0,0,0,0,0,6.0,3.0,3.4,54.0,True,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Wolves,76,0,3,2,0,43,0,0,0,0,0,0,6.5,11.8,11.6,42.0,False,12,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Spurs,84,0,0,0,1,7,0,0,0,0,0,0,9.0,11.4,21.5,57.0,True,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Ipswich,73,0,0,1,0,4,0,0,0,0,0,0,2.9,0.0,13.6,18.0,False,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,West Ham,79,0,0,0,1,13,0,0,0,0,0,0,8.6,7.4,32.7,46.0,True,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Man Utd,70,0,0,0,1,10,0,0,0,0,0,0,2.0,5.4,7.1,7.0,False,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Crystal Palace,28,0,0,0,0,5,0,0,0,0,0,0,2.4,2.4,0.8,21.0,True,1,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Fulham,81,1,0,2,0,32,0,0,0,0,0,0,9.6,33.4,2.2,60.0,False,8,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Everton,81,0,0,0,1,6,0,0,0,0,0,0,5.8,0.4,21.1,36.0,True,2,4.0,3.0,1.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

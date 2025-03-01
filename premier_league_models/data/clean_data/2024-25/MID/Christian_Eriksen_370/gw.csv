@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Christian Eriksen,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Liverpool,4,0,0,0,0,3,0,0,0,0,0,0,0.4,0.2,4.1,0.0,True,1,3.0,5.0,-2.0
+Christian Eriksen,MID,Man Utd,Southampton,72,0,0,0,1,15,1,0,0,0,0,0,4.4,11.6,30.7,2.0,False,2,3.0,2.0,1.0
+Christian Eriksen,MID,Man Utd,Crystal Palace,75,0,0,0,1,14,0,0,0,0,0,0,6.2,11.6,46.1,4.0,False,3,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Spurs,18,0,0,1,0,6,0,0,0,0,0,0,3.1,9.4,19.8,2.0,True,1,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Aston Villa,90,0,0,0,1,13,1,0,0,0,0,0,4.0,7.4,32.4,0.0,False,2,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Brentford,90,0,0,1,0,17,0,0,0,0,0,0,8.2,19.4,53.4,9.0,True,2,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,West Ham,78,0,0,1,0,15,0,0,0,0,0,0,3.0,7.0,21.2,2.0,False,2,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Christian Eriksen,MID,Man Utd,Leicester,11,0,0,0,0,4,0,0,0,0,0,0,1.5,3.0,11.8,0.0,True,1,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Ipswich,67,0,0,1,0,10,0,0,0,0,0,0,1.4,5.8,6.8,1.0,False,2,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Christian Eriksen,MID,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Christian Eriksen,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Christian Eriksen,MID,Man Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Christian Eriksen,MID,Man Utd,Wolves,27,0,0,1,0,2,0,0,0,0,0,0,1.0,2.4,5.7,2.0,False,1,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Newcastle,90,0,0,2,0,15,0,0,0,0,0,0,3.4,14.8,17.1,2.0,True,2,3.0,4.0,-1.0
+Christian Eriksen,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Christian Eriksen,MID,Man Utd,Southampton,7,0,1,0,0,16,0,0,0,0,0,0,3.2,17.6,14.2,0.0,True,4,3.0,2.0,1.0
+Christian Eriksen,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Christian Eriksen,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

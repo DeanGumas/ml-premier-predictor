@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Arsenal,70,0,0,2,0,8,0,0,0,0,0,0,1.2,8.6,1.1,2.0,False,2,3.0,5.0,-2.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Sheffield Utd,90,0,0,1,0,14,0,0,0,0,0,0,3.4,7.2,23.6,3.0,True,2,3.0,2.0,1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Man Utd,80,0,0,3,0,5,0,0,0,0,0,0,1.1,2.8,0.8,7.0,False,2,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Chelsea,45,0,0,0,0,3,0,0,0,0,0,0,0.2,1.4,0.1,0.0,False,1,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Aston Villa,8,0,0,0,0,-3,1,0,0,0,0,0,0.0,0.2,0.0,0.0,True,0,3.0,4.0,-1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,West Ham,45,0,0,2,0,3,0,0,0,0,0,0,1.2,9.4,2.5,0.0,False,1,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Brighton,62,0,0,3,0,3,0,0,0,0,0,0,0.5,0.0,2.3,4.0,True,2,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Fulham,32,0,0,2,0,3,0,0,0,0,0,0,0.2,1.6,0.6,0.0,False,1,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Wolves,27,0,0,0,0,3,0,0,0,0,0,0,0.4,0.2,3.3,0.0,False,1,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Spurs,22,0,0,0,0,2,0,0,0,0,0,0,0.9,0.0,1.6,8.0,True,1,3.0,4.0,-1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Bournemouth,1,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Newcastle,89,0,0,1,0,9,0,0,0,0,0,0,1.2,11.2,1.0,0.0,False,2,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Man Utd,86,0,0,1,0,14,0,0,0,0,0,0,1.4,10.0,2.2,2.0,True,2,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Brentford,90,1,0,3,0,33,1,0,0,0,0,0,6.4,41.6,13.8,9.0,False,8,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Arsenal,90,0,0,2,0,16,0,0,0,0,0,0,3.0,20.8,4.3,5.0,True,2,3.0,5.0,-2.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Bournemouth,18,0,0,0,0,6,0,0,0,0,0,0,1.2,10.0,1.8,0.0,False,1,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Newcastle,12,0,0,0,0,4,0,0,0,0,0,0,1.6,5.0,11.2,0.0,True,1,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,West Ham,90,0,0,0,1,13,0,0,0,0,0,0,5.5,27.6,5.8,22.0,True,3,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Aston Villa,90,0,0,4,0,16,0,0,0,0,0,0,1.9,14.4,1.5,3.0,False,2,3.0,4.0,-1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Liverpool,11,0,0,1,0,4,1,0,0,0,0,0,1.5,4.4,10.3,0.0,True,0,3.0,4.0,-1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Brighton,60,0,0,1,0,14,0,0,0,0,0,0,1.6,10.0,6.0,0.0,False,2,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Fulham,90,0,1,1,0,25,0,0,0,0,0,0,6.4,36.4,21.4,6.0,True,5,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Spurs,80,0,0,3,0,4,1,0,0,0,0,0,1.5,12.6,2.7,0.0,False,1,3.0,4.0,-1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Wolves,88,1,0,2,0,36,0,0,0,0,0,0,14.0,50.4,35.0,55.0,True,9,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Everton,79,0,0,2,0,12,0,0,0,0,0,0,1.9,6.4,13.0,0.0,False,2,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Man City,73,0,0,2,0,11,0,0,0,0,0,0,3.8,11.4,26.8,0.0,True,2,3.0,5.0,-2.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Sheffield Utd,90,0,1,1,0,27,0,0,0,0,0,0,9.2,37.8,48.8,5.0,False,5,3.0,2.0,1.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Chelsea,90,0,0,3,0,4,0,0,0,0,0,0,2.9,7.4,15.6,6.0,True,2,3.0,3.0,0.0
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,Burnley,79,0,0,1,0,10,0,0,0,0,0,0,4.0,19.2,20.5,0.0,False,2,3.0,2.0,1.0

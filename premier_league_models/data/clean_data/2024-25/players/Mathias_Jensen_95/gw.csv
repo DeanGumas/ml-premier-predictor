@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mathias Jensen,MID,Brentford,Crystal Palace,83,0,0,1,0,11,0,0,0,0,0,0,2.9,11.2,17.9,0.0,True,2,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Liverpool,65,0,0,1,0,4,1,0,0,0,0,0,3.8,3.8,32.8,1.0,False,1,3.0,5.0,-2.0
+Mathias Jensen,MID,Brentford,Southampton,90,0,1,1,0,24,0,0,0,0,0,0,6.2,23.8,34.1,4.0,True,6,3.0,2.0,1.0
+Mathias Jensen,MID,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Mathias Jensen,MID,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Ipswich,12,0,0,1,0,5,0,0,0,0,0,0,1.8,1.8,15.8,0.0,True,1,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Fulham,18,0,0,2,0,3,0,0,0,0,0,0,0.3,2.2,0.3,0.0,False,1,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Bournemouth,78,0,0,2,0,12,0,0,0,0,0,0,1.8,4.6,4.3,9.0,True,2,3.0,4.0,-1.0
+Mathias Jensen,MID,Brentford,Everton,90,0,0,0,1,12,0,0,0,0,0,0,2.5,8.6,11.3,5.0,False,3,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Leicester,41,0,0,1,0,5,0,0,0,0,0,0,1.1,6.0,3.0,2.0,True,1,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Mathias Jensen,MID,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Mathias Jensen,MID,Brentford,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Mathias Jensen,MID,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Mathias Jensen,MID,Brentford,Arsenal,15,0,0,0,0,3,0,0,0,0,0,0,0.5,1.4,3.8,0.0,True,1,3.0,4.0,-1.0
+Mathias Jensen,MID,Brentford,Southampton,70,0,0,0,1,15,0,0,0,0,0,0,3.0,10.0,17.5,2.0,False,3,3.0,2.0,1.0
+Mathias Jensen,MID,Brentford,Man City,67,0,0,1,0,22,0,0,0,0,0,0,6.4,15.0,47.3,2.0,True,2,3.0,4.0,-1.0
+Mathias Jensen,MID,Brentford,Liverpool,9,0,0,2,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,3.0,5.0,-2.0
+Mathias Jensen,MID,Brentford,Crystal Palace,36,0,0,1,0,6,0,0,0,0,0,0,1.6,11.4,2.2,2.0,False,1,3.0,3.0,0.0

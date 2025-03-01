@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Rúben Gato Alves Dias,DEF,Man City,Chelsea,90,0,0,0,1,27,0,0,0,0,0,0,1.5,14.2,0.5,0.0,False,6,4.0,4.0,0.0
+Rúben Gato Alves Dias,DEF,Man City,Ipswich,90,0,0,1,0,8,1,0,0,0,0,0,2.8,19.2,8.5,0.0,True,1,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,West Ham,90,0,0,1,0,3,0,0,1,0,0,0,4.3,16.0,13.6,13.0,False,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Brentford,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.4,0.0,0.0,True,1,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Arsenal,90,0,0,2,0,5,1,0,0,0,0,0,7.1,17.0,33.7,20.0,True,0,4.0,4.0,0.0
+Rúben Gato Alves Dias,DEF,Man City,Newcastle,90,0,0,1,0,6,1,0,0,0,0,0,1.9,12.6,4.8,2.0,False,1,4.0,4.0,0.0
+Rúben Gato Alves Dias,DEF,Man City,Fulham,90,0,0,2,0,5,0,0,0,0,0,0,3.8,27.0,5.6,5.0,True,1,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Wolves,90,0,0,1,0,12,0,0,0,0,0,0,5.0,19.0,16.3,15.0,False,2,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Southampton,90,0,0,0,1,30,0,0,0,0,0,0,4.7,21.6,17.9,7.0,True,7,4.0,2.0,2.0
+Rúben Gato Alves Dias,DEF,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Rúben Gato Alves Dias,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Liverpool,90,0,0,2,0,7,0,0,0,0,0,0,3.6,23.6,11.4,1.0,False,1,4.0,5.0,-1.0
+Rúben Gato Alves Dias,DEF,Man City,Nott'm Forest,90,0,0,0,1,26,0,0,0,0,0,0,1.8,13.0,3.3,2.0,True,6,4.0,4.0,0.0
+Rúben Gato Alves Dias,DEF,Man City,Crystal Palace,90,0,0,2,0,7,0,0,0,0,0,0,4.5,37.2,3.5,4.0,False,1,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Man Utd,90,0,0,2,0,5,0,0,0,0,0,0,1.9,10.6,1.5,7.0,True,1,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Ipswich,90,0,0,0,1,27,0,0,0,0,0,0,2.1,18.6,2.1,0.0,False,6,4.0,3.0,1.0
+Rúben Gato Alves Dias,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

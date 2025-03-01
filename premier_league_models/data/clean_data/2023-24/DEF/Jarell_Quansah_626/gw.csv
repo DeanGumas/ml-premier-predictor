@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jarell Quansah,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Newcastle,13,0,0,0,0,2,0,0,0,0,0,0,0.2,2.2,0.1,0.0,False,1,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Aston Villa,19,0,0,0,0,3,0,0,0,0,0,0,0.4,3.8,0.1,0.0,True,1,4.0,4.0,0.0
+Jarell Quansah,DEF,Liverpool,Wolves,82,0,0,1,0,22,0,0,0,0,0,0,2.6,23.6,1.9,0.0,False,2,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jarell Quansah,DEF,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jarell Quansah,DEF,Liverpool,Brentford,1,0,0,0,0,5,0,0,0,0,0,0,0.5,4.4,0.3,0.0,True,1,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Jarell Quansah,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jarell Quansah,DEF,Liverpool,Crystal Palace,56,0,0,0,0,4,0,0,0,0,0,0,0.2,1.0,1.4,0.0,False,1,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Jarell Quansah,DEF,Liverpool,Burnley,90,0,0,0,1,21,0,0,0,0,0,0,1.4,8.2,1.9,4.0,False,6,4.0,2.0,2.0
+Jarell Quansah,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Jarell Quansah,DEF,Liverpool,Burnley,90,0,0,1,0,13,1,0,0,0,0,0,2.5,19.6,1.3,4.0,True,1,4.0,2.0,2.0
+Jarell Quansah,DEF,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Luton,90,0,0,1,0,12,0,0,0,0,0,0,1.3,12.4,0.8,0.0,True,2,4.0,2.0,2.0
+Jarell Quansah,DEF,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Man City,90,0,0,1,0,15,0,0,0,0,0,0,2.8,19.8,1.3,7.0,True,2,4.0,5.0,-1.0
+Jarell Quansah,DEF,Liverpool,Brighton,90,0,0,1,0,14,0,0,0,0,0,0,3.9,23.0,13.8,2.0,True,2,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jarell Quansah,DEF,Liverpool,Man Utd,90,0,0,2,0,14,0,0,0,0,0,0,1.2,9.4,2.6,0.0,False,1,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Fulham,90,0,0,1,0,19,0,0,0,0,0,0,2.2,21.0,0.9,0.0,False,2,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Everton,27,0,0,0,0,4,0,0,0,0,0,0,2.1,6.4,14.7,0.0,False,1,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,West Ham,90,0,0,2,0,19,0,0,0,0,0,0,2.5,23.0,2.0,0.0,False,1,4.0,3.0,1.0
+Jarell Quansah,DEF,Liverpool,Spurs,90,0,0,2,0,19,0,0,0,0,0,0,1.9,16.4,0.8,2.0,True,1,4.0,4.0,0.0
+Jarell Quansah,DEF,Liverpool,Aston Villa,90,1,0,3,0,35,0,0,0,0,0,0,9.1,73.0,0.9,17.0,False,9,4.0,4.0,0.0
+Jarell Quansah,DEF,Liverpool,Wolves,90,1,0,0,1,42,0,0,0,0,0,0,14.6,64.4,14.0,68.0,True,15,4.0,3.0,1.0

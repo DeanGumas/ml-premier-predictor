@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Edinson Cavani,FWD,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-17T19:00:00Z,0
+Edinson Cavani,FWD,Man Utd,Chelsea,32,0,0,0,0,2,0,0,0,0,0,0,2.4,0.0,0.0,24.0,True,2020-10-24T16:30:00Z,1
+Edinson Cavani,FWD,Man Utd,Arsenal,15,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.5,0.0,True,2020-11-01T16:30:00Z,1
+Edinson Cavani,FWD,Man Utd,Everton,8,1,0,0,0,26,0,0,0,0,0,0,5.6,34.0,1.3,21.0,False,2020-11-07T12:30:00Z,5
+Edinson Cavani,FWD,Man Utd,West Brom,27,0,0,0,0,-1,1,0,0,0,0,0,3.9,0.2,0.6,38.0,True,2020-11-21T20:00:00Z,0
+Edinson Cavani,FWD,Man Utd,Southampton,45,2,1,0,0,68,0,0,0,0,0,0,16.2,90.4,15.3,56.0,False,2020-11-29T14:00:00Z,15
+Edinson Cavani,FWD,Man Utd,West Ham,45,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,1.4,0.0,False,2020-12-05T17:30:00Z,1
+Edinson Cavani,FWD,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-12T17:30:00Z,0
+Edinson Cavani,FWD,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-17T20:00:00Z,0
+Edinson Cavani,FWD,Man Utd,Leeds,19,0,0,1,0,0,0,0,0,0,0,0,3.3,8.4,0.4,24.0,True,2020-12-20T16:30:00Z,1
+Edinson Cavani,FWD,Man Utd,Leicester,15,0,1,1,0,16,0,0,0,0,0,0,3.4,18.4,13.5,2.0,False,2020-12-26T12:30:00Z,4
+Edinson Cavani,FWD,Man Utd,Wolves,90,0,0,0,1,-4,0,0,0,0,0,0,1.5,0.0,3.0,15.0,True,2020-12-29T20:00:00Z,2
+Edinson Cavani,FWD,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-01T20:00:00Z,0
+Edinson Cavani,FWD,Man Utd,Burnley,90,0,0,0,1,9,0,0,0,0,0,0,7.3,6.2,21.8,45.0,False,2021-01-12T20:15:00Z,2
+Edinson Cavani,FWD,Man Utd,Liverpool,29,0,0,0,0,3,0,0,0,0,0,0,0.3,2.4,0.2,0.0,False,2021-01-17T16:30:00Z,1
+Edinson Cavani,FWD,Man Utd,Fulham,90,1,0,1,0,29,0,0,0,0,0,0,7.8,39.8,2.4,36.0,False,2021-01-20T20:15:00Z,7
+Edinson Cavani,FWD,Man Utd,Sheffield Utd,24,0,0,1,0,1,0,0,0,0,0,0,0.7,1.0,0.3,6.0,True,2021-01-27T20:15:00Z,1
+Edinson Cavani,FWD,Man Utd,Arsenal,90,0,0,0,1,-3,0,0,0,0,0,0,2.7,0.0,15.1,15.0,False,2021-01-30T17:30:00Z,2
+Edinson Cavani,FWD,Man Utd,Southampton,45,1,0,0,0,25,0,0,0,0,0,0,5.9,31.4,2.5,25.0,True,2021-02-02T20:15:00Z,5
+Edinson Cavani,FWD,Man Utd,Everton,90,1,0,3,0,37,0,0,0,0,0,0,11.5,40.2,27.6,47.0,True,2021-02-06T20:00:00Z,8
+Edinson Cavani,FWD,Man Utd,West Brom,90,0,0,1,0,6,0,0,0,0,0,0,0.8,1.0,3.3,4.0,False,2021-02-14T14:00:00Z,2
+Edinson Cavani,FWD,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-21T19:00:00Z,0
+Edinson Cavani,FWD,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-28T16:30:00Z,0
+Edinson Cavani,FWD,Man Utd,Crystal Palace,75,0,0,0,1,4,0,0,0,0,0,0,2.8,0.0,12.8,17.0,False,2021-03-03T20:15:00Z,2
+Edinson Cavani,FWD,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-07T16:30:00Z,0
+Edinson Cavani,FWD,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-14T19:15:00Z,0
+Edinson Cavani,FWD,Man Utd,Brighton,81,0,0,1,0,3,1,0,0,0,0,0,0.9,0.8,1.8,6.0,True,2021-04-04T18:30:00Z,1
+Edinson Cavani,FWD,Man Utd,Spurs,90,1,1,1,0,43,1,0,0,0,0,0,10.8,42.4,27.6,38.0,False,2021-04-11T15:30:00Z,11
+Edinson Cavani,FWD,Man Utd,Burnley,45,1,0,1,0,25,0,0,0,0,0,0,7.0,33.6,0.9,35.0,True,2021-04-18T15:00:00Z,6
+Edinson Cavani,FWD,Man Utd,Leeds,4,0,0,0,0,3,0,0,0,0,0,0,1.9,2.0,11.1,6.0,False,2021-04-25T13:00:00Z,1
+Edinson Cavani,FWD,Man Utd,Aston Villa,25,1,0,0,0,26,0,0,0,0,0,0,7.2,34.0,1.1,37.0,False,2021-05-09T13:05:00Z,6
+Edinson Cavani,FWD,Man Utd,Leicester,24,0,0,1,0,1,0,0,0,0,0,0,0.2,0.0,0.6,2.0,True,2021-05-11T17:00:00Z,1
+Edinson Cavani,FWD,Man Utd,Liverpool,90,0,1,4,0,9,1,0,0,0,0,0,5.0,16.6,26.7,7.0,True,2021-05-13T19:15:00Z,4
+Edinson Cavani,FWD,Man Utd,Fulham,86,1,0,1,0,35,0,0,0,0,0,0,5.9,40.6,11.5,7.0,True,2021-05-18T17:00:00Z,9
+Edinson Cavani,FWD,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-23T15:00:00Z,0

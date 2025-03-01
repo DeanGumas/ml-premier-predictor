@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jefferson Lerma Solís,MID,Bournemouth,Aston Villa,90,1,0,0,1,30,0,0,0,0,0,0,5.9,42.0,0.2,17.0,True,10,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Man City,90,0,0,4,0,8,0,0,1,0,0,0,0.7,7.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Jefferson Lerma Solís,MID,Bournemouth,Arsenal,90,0,0,3,0,13,0,0,0,0,0,0,1.6,8.4,2.3,5.0,True,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Liverpool,90,0,0,9,0,8,0,0,0,0,0,0,1.0,4.0,0.3,6.0,False,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Wolves,90,0,0,0,1,13,0,0,0,0,0,0,1.8,10.6,4.8,3.0,True,3,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Nott'm Forest,90,0,0,2,0,13,0,0,0,0,0,0,2.0,10.4,7.5,2.0,False,2,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Newcastle,90,0,0,1,0,7,0,0,0,0,0,0,2.2,19.0,2.6,0.0,False,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Brentford,90,0,0,0,1,9,1,0,0,0,0,0,5.6,11.4,4.8,40.0,True,2,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Leicester,90,0,0,1,0,13,0,0,0,0,0,0,2.6,12.0,12.4,2.0,True,2,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Fulham,90,1,0,2,0,23,0,0,0,0,0,0,8.6,47.8,0.6,38.0,False,7,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Southampton,90,0,0,1,0,7,0,0,0,0,0,0,1.9,7.8,6.2,5.0,True,2,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,West Ham,90,0,0,2,0,7,1,0,0,0,0,0,2.5,5.4,13.8,6.0,False,1,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Spurs,90,0,0,3,0,6,0,0,0,0,0,0,2.8,14.2,11.0,3.0,True,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Leeds,90,0,0,4,0,10,1,0,0,0,0,0,5.9,12.0,10.5,36.0,False,1,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Everton,90,0,0,0,1,14,0,0,0,0,0,0,2.7,12.4,12.7,2.0,True,3,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Chelsea,90,0,0,2,0,8,0,0,0,0,0,0,2.2,3.4,14.0,5.0,False,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Crystal Palace,90,0,0,2,0,8,0,0,0,0,0,0,2.8,22.6,5.3,0.0,True,2,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Man Utd,83,0,0,2,0,13,0,0,0,0,0,0,1.5,10.0,3.4,2.0,False,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Brentford,90,0,0,2,0,12,0,0,0,0,0,0,1.8,13.8,4.3,0.0,False,2,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Nott'm Forest,90,0,0,1,0,12,0,0,0,0,0,0,2.3,21.0,2.4,0.0,True,2,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Brighton,90,0,0,1,0,17,0,0,0,0,0,0,5.9,33.2,22.2,4.0,False,2,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Newcastle,90,0,0,1,0,19,0,0,0,0,0,0,4.0,26.2,11.7,2.0,True,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Wolves,45,0,0,0,0,6,0,0,0,0,0,0,1.1,10.4,0.3,0.0,False,1,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Man City,90,1,0,4,0,28,0,0,0,0,0,0,6.7,34.8,3.5,29.0,True,7,2.0,5.0,-3.0
+Jefferson Lerma Solís,MID,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Liverpool,80,0,0,0,1,9,0,0,0,0,0,0,1.1,9.4,1.1,0.0,True,3,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Aston Villa,90,0,0,3,0,16,1,0,0,0,0,0,3.4,22.6,4.9,6.0,False,1,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Fulham,90,0,0,1,0,5,1,0,0,0,0,0,4.4,9.8,25.4,9.0,True,1,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Brighton,90,0,0,2,0,20,0,0,0,0,0,0,5.3,16.4,28.3,8.0,True,2,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Leicester,90,0,0,0,1,10,0,0,0,0,0,0,0.6,3.6,2.8,0.0,False,3,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Spurs,90,0,0,2,0,10,0,0,0,0,0,0,2.2,9.8,1.8,10.0,False,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,West Ham,74,0,0,4,0,15,0,0,0,0,0,0,4.8,19.6,21.3,7.0,True,2,2.0,3.0,-1.0
+Jefferson Lerma Solís,MID,Bournemouth,Southampton,90,0,0,0,1,9,1,0,0,0,0,0,2.8,9.0,12.6,6.0,False,2,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Leeds,90,2,0,1,0,51,0,0,0,0,0,0,13.9,75.4,12.4,51.0,True,15,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Chelsea,90,0,0,3,0,14,0,0,0,0,0,0,2.6,10.2,12.3,3.0,True,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Crystal Palace,90,0,0,2,0,11,1,0,0,0,0,0,3.4,20.0,11.5,2.0,False,1,2.0,2.0,0.0
+Jefferson Lerma Solís,MID,Bournemouth,Man Utd,90,0,0,1,0,18,0,0,0,0,0,0,1.5,11.0,2.4,2.0,True,2,2.0,4.0,-2.0
+Jefferson Lerma Solís,MID,Bournemouth,Everton,90,0,0,1,0,8,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,2.0,2.0,0.0

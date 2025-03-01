@@ -1,0 +1,14 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jaden Philogene-Bidace,MID,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-06T17:30:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-12T20:00:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-21T19:30:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-04T15:30:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-10T14:00:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-21T19:15:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-25T18:00:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-01T19:00:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-09T13:05:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-13T17:00:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-16T11:00:00Z,0
+Jaden Philogene-Bidace,MID,Aston Villa,Spurs,1,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.5,0.0,False,2021-05-19T17:00:00Z,1
+Jaden Philogene-Bidace,MID,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-23T15:00:00Z,0

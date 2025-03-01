@@ -1,0 +1,23 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jens Cajuste,MID,Ipswich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jens Cajuste,MID,Ipswich,Fulham,20,0,0,0,0,6,0,0,0,0,0,0,1.7,5.4,11.7,0.0,True,1,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Southampton,60,0,0,1,0,5,0,0,0,0,0,0,1.7,3.0,13.3,1.0,False,2,3.0,2.0,1.0
+Jens Cajuste,MID,Ipswich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Brentford,90,0,0,3,0,11,0,0,0,0,0,0,1.8,10.4,7.1,0.0,False,2,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Leicester,9,0,0,1,0,2,1,0,0,0,0,0,0.1,1.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Spurs,90,0,0,1,0,7,0,0,0,0,0,0,1.0,4.6,0.9,4.0,False,2,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Man Utd,64,0,0,1,0,10,0,0,0,0,0,0,0.3,0.0,4.0,1.0,True,2,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Nott'm Forest,73,0,0,1,0,2,1,0,0,0,0,0,0.7,4.8,1.9,0.0,False,1,3.0,4.0,-1.0
+Jens Cajuste,MID,Ipswich,Crystal Palace,65,0,0,1,0,13,0,0,0,0,0,0,2.1,4.8,13.7,2.0,True,2,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Bournemouth,1,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,4.0,-1.0
+Jens Cajuste,MID,Ipswich,Wolves,74,0,0,1,0,19,0,0,0,0,0,0,2.3,10.6,12.4,0.0,False,2,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Newcastle,61,0,0,4,0,10,0,0,0,0,0,0,2.0,0.0,15.6,6.0,True,2,3.0,4.0,-1.0
+Jens Cajuste,MID,Ipswich,Arsenal,79,0,0,1,0,8,0,0,0,0,0,0,1.3,11.2,2.2,0.0,False,2,3.0,4.0,-1.0
+Jens Cajuste,MID,Ipswich,Chelsea,76,0,0,0,1,9,0,0,0,0,0,0,1.4,13.0,1.4,0.0,True,3,3.0,4.0,-1.0
+Jens Cajuste,MID,Ipswich,Fulham,72,0,0,1,0,9,0,0,0,0,0,0,2.0,15.2,2.3,2.0,False,2,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Brighton,70,0,0,1,0,9,0,0,0,0,0,0,0.5,4.4,0.8,0.0,True,2,3.0,3.0,0.0
+Jens Cajuste,MID,Ipswich,Man City,63,0,0,5,0,8,0,0,0,0,0,0,2.2,8.8,11.6,2.0,True,2,3.0,4.0,-1.0
+Jens Cajuste,MID,Ipswich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

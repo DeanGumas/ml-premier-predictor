@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Paul Onuachu,FWD,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Paul Onuachu,FWD,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Paul Onuachu,FWD,Southampton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Paul Onuachu,FWD,Southampton,Arsenal,16,0,0,1,0,4,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Paul Onuachu,FWD,Southampton,Leicester,22,0,0,2,0,0,0,0,0,0,0,0,1.7,0.6,10.1,6.0,True,1,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Man City,3,0,0,0,0,5,0,0,0,0,0,0,2.7,3.2,0.1,24.0,False,1,2.0,4.0,-2.0
+Paul Onuachu,FWD,Southampton,Everton,1,0,0,0,0,-3,1,0,0,0,0,0,0.0,0.0,0.1,0.0,True,0,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Wolves,17,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,1,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Liverpool,51,0,0,1,0,7,0,0,0,0,0,0,0.4,3.8,0.2,0.0,True,1,2.0,5.0,-3.0
+Paul Onuachu,FWD,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Paul Onuachu,FWD,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,West Ham,90,0,0,1,0,-6,0,0,0,0,0,0,8.6,0.0,12.7,74.0,True,2,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Crystal Palace,64,0,0,2,0,5,0,0,0,0,0,0,2.5,8.4,11.0,6.0,False,2,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Brentford,54,0,0,1,0,2,0,0,0,0,0,0,2.4,4.6,1.9,17.0,True,1,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Man Utd,7,0,0,2,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Paul Onuachu,FWD,Southampton,Nott'm Forest,32,1,0,0,0,29,0,0,0,0,0,0,9.4,35.0,2.4,57.0,False,5,2.0,4.0,-2.0
+Paul Onuachu,FWD,Southampton,Newcastle,90,0,0,3,0,6,0,0,0,0,0,0,4.6,14.2,26.1,6.0,True,2,2.0,4.0,-2.0

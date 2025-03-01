@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jacob Bruun Larsen,MID,Burnley,Man City,29,0,0,1,0,0,0,0,0,0,0,0,0.7,0.0,0.6,9.0,True,1,2.0,5.0,-3.0
+Jacob Bruun Larsen,MID,Burnley,Aston Villa,9,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,1.1,2.0,True,1,2.0,4.0,-2.0
+Jacob Bruun Larsen,MID,Burnley,Spurs,22,0,0,0,0,3,0,0,0,0,0,0,4.2,6.2,21.3,14.0,True,1,2.0,4.0,-2.0
+Jacob Bruun Larsen,MID,Burnley,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Man Utd,17,0,0,0,0,3,0,0,0,0,0,0,3.8,4.4,0.6,33.0,True,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Newcastle,32,0,0,1,0,2,0,0,0,0,0,0,1.3,3.0,3.2,7.0,False,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Luton,15,1,0,1,0,24,0,0,0,0,0,0,4.0,33.0,0.3,7.0,False,6,2.0,2.0,0.0
+Jacob Bruun Larsen,MID,Burnley,Chelsea,11,0,0,0,0,3,0,0,0,0,0,0,0.6,3.2,0.8,2.0,True,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Brentford,14,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,1.4,0.0,False,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Bournemouth,22,0,0,1,0,3,0,0,0,0,0,0,1.9,3.4,11.6,4.0,False,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Crystal Palace,1,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Arsenal,10,0,0,0,0,0,0,0,0,0,0,0,0.1,0.2,0.8,0.0,False,1,2.0,5.0,-3.0
+Jacob Bruun Larsen,MID,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Sheffield Utd,64,1,0,0,1,27,0,0,0,0,0,0,11.9,38.6,45.6,35.0,True,8,2.0,2.0,0.0
+Jacob Bruun Larsen,MID,Burnley,Wolves,69,0,0,1,0,5,0,0,0,0,0,0,3.5,2.0,26.5,6.0,False,2,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Everton,81,0,0,2,0,8,0,0,0,0,0,0,6.6,10.2,39.1,17.0,True,2,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Fulham,45,0,0,0,0,0,0,0,0,0,0,0,1.6,1.6,8.8,6.0,False,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Liverpool,5,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,1.0,True,1,2.0,4.0,-2.0
+Jacob Bruun Larsen,MID,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jacob Bruun Larsen,MID,Burnley,Luton,6,0,0,1,0,2,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1,2.0,2.0,0.0
+Jacob Bruun Larsen,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Jacob Bruun Larsen,MID,Burnley,Fulham,3,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Liverpool,4,0,0,0,0,3,0,0,0,0,0,0,0.2,1.4,0.2,0.0,False,1,2.0,4.0,-2.0
+Jacob Bruun Larsen,MID,Burnley,Arsenal,10,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.8,1.0,True,1,2.0,5.0,-3.0
+Jacob Bruun Larsen,MID,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Bournemouth,68,0,0,1,0,8,0,0,0,0,0,0,4.9,4.6,24.1,20.0,True,2,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,West Ham,45,0,0,0,0,1,0,0,0,0,0,0,2.4,4.0,3.0,17.0,False,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Brentford,68,1,0,0,1,28,0,0,0,0,0,0,12.7,43.4,24.3,59.0,True,11,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Chelsea,45,0,0,1,0,4,0,0,0,0,0,0,5.5,3.2,29.1,23.0,False,1,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Wolves,72,1,0,1,0,23,0,0,0,0,0,0,11.1,45.8,22.7,42.0,True,10,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Everton,68,0,0,1,0,10,0,0,0,0,0,0,2.6,5.4,15.9,5.0,False,2,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Brighton,85,0,0,1,0,3,0,0,0,0,0,0,3.7,1.6,15.9,19.0,True,2,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Sheffield Utd,58,1,0,1,0,21,0,0,0,0,0,0,8.6,43.0,18.4,25.0,False,6,2.0,2.0,0.0
+Jacob Bruun Larsen,MID,Burnley,Man Utd,71,0,0,0,1,8,0,0,0,0,0,0,5.0,9.0,17.1,24.0,False,3,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Newcastle,61,0,0,4,0,5,0,0,0,0,0,0,6.6,17.6,25.3,23.0,True,2,2.0,3.0,-1.0
+Jacob Bruun Larsen,MID,Burnley,Spurs,80,1,0,1,0,24,1,0,0,0,0,0,9.1,41.0,15.6,34.0,False,7,2.0,4.0,-2.0
+Jacob Bruun Larsen,MID,Burnley,Nott'm Forest,45,0,0,2,0,6,0,0,0,0,0,0,6.4,9.6,41.3,13.0,True,1,2.0,3.0,-1.0

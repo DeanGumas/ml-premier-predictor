@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Max Lowe,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-14T17:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-21T17:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-27T11:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-04T13:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Fulham,18,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.1,0.0,True,2020-10-18T11:00:00Z,1
+Max Lowe,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-24T19:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Man City,80,0,0,1,0,5,0,0,0,0,0,0,1.5,11.2,1.8,2.0,True,2020-10-31T12:30:00Z,2
+Max Lowe,DEF,Sheffield Utd,Chelsea,90,0,0,4,0,2,0,0,0,0,0,0,2.3,14.2,1.4,7.0,False,2020-11-07T17:30:00Z,0
+Max Lowe,DEF,Sheffield Utd,West Ham,90,0,0,1,0,11,0,0,0,0,0,0,2.9,24.8,2.6,2.0,True,2020-11-22T14:00:00Z,2
+Max Lowe,DEF,Sheffield Utd,West Brom,90,0,0,1,0,10,0,0,0,0,0,0,3.4,7.6,3.9,22.0,False,2020-11-28T20:00:00Z,2
+Max Lowe,DEF,Sheffield Utd,Leicester,45,0,0,1,0,-2,1,0,0,0,0,0,1.2,11.6,0.7,0.0,True,2020-12-06T14:15:00Z,0
+Max Lowe,DEF,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-13T12:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-17T20:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-20T12:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-26T20:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-29T18:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-02T15:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-12T18:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-17T14:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-27T20:15:00Z,0
+Max Lowe,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-30T15:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,West Brom,46,0,0,0,0,9,0,0,0,0,0,0,4.7,14.2,26.7,6.0,True,2021-02-02T18:00:00Z,1
+Max Lowe,DEF,Sheffield Utd,Chelsea,90,0,0,2,0,11,0,0,0,0,0,0,2.3,14.4,2.6,6.0,True,2021-02-07T19:15:00Z,1
+Max Lowe,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-15T18:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-20T20:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-28T19:15:00Z,0
+Max Lowe,DEF,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-03T18:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-06T15:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-14T14:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-03T14:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-11T18:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-17T19:15:00Z,0
+Max Lowe,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-24T19:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-02T18:15:00Z,0
+Max Lowe,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-08T14:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-16T18:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-19T17:00:00Z,0
+Max Lowe,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-23T15:00:00Z,0

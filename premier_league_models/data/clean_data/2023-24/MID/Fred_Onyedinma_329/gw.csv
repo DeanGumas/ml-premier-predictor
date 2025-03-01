@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Fred Onyedinma,MID,Luton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Fred Onyedinma,MID,Luton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Fred Onyedinma,MID,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Fred Onyedinma,MID,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Fred Onyedinma,MID,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Fred Onyedinma,MID,Luton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Fred Onyedinma,MID,Luton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Fred Onyedinma,MID,Luton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Fred Onyedinma,MID,Luton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Fred Onyedinma,MID,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Fred Onyedinma,MID,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Fred Onyedinma,MID,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Spurs,16,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Fred Onyedinma,MID,Luton,Arsenal,74,0,0,2,0,1,1,0,0,0,0,0,1.4,3.2,2.4,8.0,False,1,2.0,5.0,-3.0
+Fred Onyedinma,MID,Luton,Bournemouth,28,0,0,0,0,1,0,0,0,0,0,0,5.4,6.6,5.3,42.0,True,1,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Man City,87,0,0,4,0,9,0,0,0,0,0,0,2.5,11.8,10.7,2.0,False,2,2.0,5.0,-3.0
+Fred Onyedinma,MID,Luton,Brentford,55,0,0,4,0,1,0,0,0,0,0,0,1.5,9.6,1.4,4.0,True,1,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Wolves,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Everton,69,0,0,1,0,1,0,0,0,0,0,0,1.6,4.6,11.4,0.0,True,2,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,West Ham,72,0,0,2,0,3,0,0,0,0,0,0,1.7,0.4,1.3,15.0,False,2,2.0,3.0,-1.0
+Fred Onyedinma,MID,Luton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

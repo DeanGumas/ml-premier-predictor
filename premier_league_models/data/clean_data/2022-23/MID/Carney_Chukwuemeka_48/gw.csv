@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Carney Chukwuemeka,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Wolves,4,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Brentford,28,0,0,0,0,3,0,0,0,0,0,0,4.1,5.6,11.9,23.0,False,1,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Man Utd,11,0,0,1,0,3,0,0,0,0,0,0,0.2,1.6,0.3,0.0,True,1,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Nott'm Forest,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Man City,68,0,0,1,0,6,0,0,0,0,0,0,6.3,19.2,18.2,26.0,True,2,4.0,5.0,-1.0
+Carney Chukwuemeka,MID,Chelsea,Fulham,11,0,0,0,0,4,0,0,0,0,0,0,1.7,3.6,11.3,2.0,False,1,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Crystal Palace,62,0,0,0,1,10,0,0,0,0,0,0,2.1,6.4,7.2,7.0,True,3,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Liverpool,8,0,0,0,0,3,0,0,0,0,0,0,0.8,1.2,0.3,6.0,False,1,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Leeds,15,0,0,0,0,7,0,0,0,0,0,0,1.1,8.4,0.5,2.0,True,1,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Leicester,8,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,1.4,0.0,False,1,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Everton,4,0,0,1,0,3,0,0,0,0,0,0,0.1,0.4,1.0,0.0,True,1,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Carney Chukwuemeka,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Carney Chukwuemeka,MID,Chelsea,Man City,9,0,0,0,0,4,0,0,0,0,0,0,1.4,3.4,10.5,0.0,False,1,4.0,5.0,-1.0
+Carney Chukwuemeka,MID,Chelsea,Man Utd,81,0,0,4,0,14,0,0,0,0,0,0,2.0,7.4,7.0,6.0,False,2,4.0,4.0,0.0
+Carney Chukwuemeka,MID,Chelsea,Newcastle,30,0,0,0,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,4.0,0.0

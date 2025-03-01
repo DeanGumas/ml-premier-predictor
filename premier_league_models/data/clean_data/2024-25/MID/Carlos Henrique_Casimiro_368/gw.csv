@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Carlos Henrique Casimiro,MID,Man Utd,Fulham,90,0,0,0,1,19,0,0,0,0,0,0,8.0,26.8,39.9,13.0,True,3,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Brighton,90,0,0,2,0,13,0,0,0,0,0,0,3.3,12.6,4.7,16.0,False,2,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Liverpool,45,0,0,2,0,5,0,0,0,0,0,0,0.1,0.0,0.5,0.0,True,1,3.0,5.0,-2.0
+Carlos Henrique Casimiro,MID,Man Utd,Southampton,3,0,0,0,0,3,0,0,0,0,0,0,0.8,3.0,4.9,0.0,False,1,3.0,2.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Spurs,45,0,0,2,0,13,0,0,0,0,0,0,5.1,11.6,25.3,14.0,True,1,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Aston Villa,5,0,0,0,0,5,0,0,0,0,0,0,1.3,2.6,10.4,0.0,False,1,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Brentford,87,0,0,1,0,23,0,0,0,0,0,0,10.1,37.2,49.3,14.0,True,2,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,West Ham,90,1,0,2,0,46,0,0,0,0,0,0,15.1,64.4,32.9,54.0,False,10,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Chelsea,90,0,0,1,0,6,1,0,0,0,0,0,2.4,16.6,5.3,2.0,True,1,3.0,4.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Leicester,78,0,0,0,1,15,0,0,0,0,0,0,4.4,23.4,16.0,5.0,True,3,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Ipswich,55,0,0,1,0,6,0,0,0,0,0,0,1.9,8.2,10.8,0.0,False,1,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Everton,65,0,0,0,1,15,0,0,0,0,0,0,2.0,17.2,3.1,0.0,True,3,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Wolves,27,0,0,1,0,12,0,0,0,0,0,0,6.6,14.0,29.1,23.0,False,1,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Newcastle,63,0,0,2,0,14,0,0,0,0,0,0,2.5,11.6,4.5,9.0,True,2,3.0,4.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Carlos Henrique Casimiro,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

@@ -1,0 +1,9 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Josh Acheampong,DEF,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Josh Acheampong,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Josh Acheampong,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Josh Acheampong,DEF,Chelsea,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Josh Acheampong,DEF,Chelsea,Crystal Palace,90,0,0,1,0,5,0,0,0,0,0,0,1.7,8.4,1.3,7.0,False,2,4.0,3.0,1.0
+Josh Acheampong,DEF,Chelsea,Bournemouth,70,0,0,2,0,0,0,0,0,0,0,0,1.0,4.2,0.2,6.0,True,1,4.0,4.0,0.0
+Josh Acheampong,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Josh Acheampong,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0

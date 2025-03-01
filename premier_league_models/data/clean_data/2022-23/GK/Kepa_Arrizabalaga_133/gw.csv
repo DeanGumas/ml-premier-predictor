@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kepa Arrizabalaga,GK,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Crystal Palace,90,0,0,1,0,12,0,0,0,2,0,0,1.8,17.6,0.0,0.0,False,2,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Wolves,90,0,0,0,1,26,0,0,0,2,0,0,1.7,17.4,0.0,0.0,True,6,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Aston Villa,90,0,0,0,1,37,0,0,0,7,0,0,5.4,54.2,0.0,0.0,False,10,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Brentford,90,0,0,0,1,31,0,0,0,5,0,0,3.9,38.4,0.1,0.0,False,8,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Man Utd,90,0,0,1,0,19,0,0,0,5,0,0,3.4,33.8,0.0,0.0,True,3,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Brighton,45,0,0,3,0,6,0,0,0,1,0,0,1.4,13.6,0.0,0.0,False,0,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Bournemouth,90,0,0,0,1,33,0,0,0,4,0,0,2.6,26.0,0.0,0.0,True,9,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Nott'm Forest,90,0,0,1,0,16,0,0,0,4,0,0,3.2,32.0,0.0,0.0,False,3,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Man City,90,0,0,1,0,16,0,0,0,2,0,0,1.2,11.8,0.0,0.0,True,2,4.0,5.0,-1.0
+Kepa Arrizabalaga,GK,Chelsea,Fulham,90,0,0,2,0,10,0,0,0,1,0,0,1.1,11.0,0.0,0.0,False,1,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Crystal Palace,90,0,0,0,1,30,0,0,0,5,0,0,3.8,38.0,0.0,0.0,True,10,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Liverpool,90,0,0,0,1,31,0,0,0,3,0,0,2.6,25.6,0.0,0.0,False,9,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Fulham,90,0,0,0,1,35,0,0,0,4,0,0,3.0,30.2,0.0,0.0,True,10,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,West Ham,90,0,0,1,0,9,0,0,0,1,0,0,1.2,12.2,0.0,0.0,False,2,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Southampton,90,0,0,1,0,18,1,0,0,3,0,0,2.9,29.2,0.0,0.0,True,2,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Spurs,90,0,0,2,0,11,0,0,0,1,0,0,1.2,12.2,0.0,0.0,False,1,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Leeds,90,0,0,0,1,24,0,0,0,2,0,0,2.0,20.0,0.0,0.0,True,6,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Leicester,90,0,0,1,0,20,0,0,0,5,0,0,3.6,36.0,0.0,0.0,False,3,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Everton,90,0,0,2,0,15,0,0,0,1,0,0,0.9,9.2,0.0,0.0,True,1,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Aston Villa,90,0,0,2,0,8,0,0,0,0,0,0,0.1,1.4,0.0,0.0,True,1,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Liverpool,90,0,0,0,1,25,0,0,0,3,0,0,1.3,13.0,0.0,0.0,True,7,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Wolves,90,0,0,1,0,16,0,0,0,3,0,0,2.8,28.0,0.0,0.0,False,3,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Brighton,90,0,0,2,0,29,0,0,0,9,0,0,6.8,68.4,0.0,0.0,True,6,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Brentford,90,0,0,2,0,9,0,0,0,0,0,0,0.4,4.0,0.0,0.0,True,1,4.0,3.0,1.0
+Kepa Arrizabalaga,GK,Chelsea,Arsenal,90,0,0,3,0,19,0,0,0,6,0,0,4.8,47.6,0.0,0.0,False,3,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Bournemouth,90,0,0,1,0,19,0,0,0,3,0,0,2.2,21.8,0.0,0.0,False,3,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Kepa Arrizabalaga,GK,Chelsea,Man City,90,0,0,1,0,11,0,0,0,1,0,0,0.8,8.2,0.0,0.0,False,2,4.0,5.0,-1.0
+Kepa Arrizabalaga,GK,Chelsea,Man Utd,90,0,0,4,0,25,0,0,0,5,0,0,4.5,45.4,0.0,0.0,False,1,4.0,4.0,0.0
+Kepa Arrizabalaga,GK,Chelsea,Newcastle,90,0,0,1,0,15,0,0,0,3,0,0,0.0,0.0,0.0,0.0,True,3,4.0,4.0,0.0

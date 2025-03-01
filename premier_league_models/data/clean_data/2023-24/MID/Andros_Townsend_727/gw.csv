@@ -1,0 +1,31 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Andros Townsend,MID,Luton,Nott'm Forest,18,0,1,1,0,13,0,0,0,0,0,0,0.2,2.0,0.3,0.0,False,4,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Aston Villa,33,0,0,1,0,12,0,0,0,0,0,0,5.3,9.0,41.6,2.0,False,1,2.0,4.0,-2.0
+Andros Townsend,MID,Luton,Liverpool,60,0,0,0,1,4,0,0,0,0,0,0,0.7,6.0,1.3,0.0,True,3,2.0,4.0,-2.0
+Andros Townsend,MID,Luton,Man Utd,60,0,0,1,0,12,0,0,0,0,0,0,2.6,11.0,1.9,13.0,False,2,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Crystal Palace,60,0,0,0,1,4,0,0,0,0,0,0,0.1,0.0,2.1,0.0,True,3,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Brentford,30,0,0,1,0,3,0,0,0,0,0,0,1.5,2.6,10.4,2.0,False,1,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Arsenal,61,0,1,3,0,17,0,0,0,0,0,0,3.2,17.6,12.3,2.0,True,5,2.0,5.0,-3.0
+Andros Townsend,MID,Luton,Man City,71,0,1,2,0,22,0,0,0,0,0,0,4.7,24.4,15.2,7.0,True,5,2.0,5.0,-3.0
+Andros Townsend,MID,Luton,Newcastle,80,1,0,0,1,30,0,0,0,0,0,0,10.7,43.0,18.7,45.0,True,11,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Sheffield Utd,83,0,0,2,0,7,0,0,0,0,0,0,5.5,12.4,26.8,16.0,False,2,2.0,2.0,0.0
+Andros Townsend,MID,Luton,Chelsea,61,0,0,2,0,7,0,0,0,0,0,0,2.3,4.0,16.8,2.0,True,2,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Burnley,63,0,0,1,0,9,0,0,0,0,0,0,2.9,7.6,17.8,4.0,False,2,2.0,2.0,0.0
+Andros Townsend,MID,Luton,Brighton,22,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.2,0.0,True,1,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Sheffield Utd,22,0,0,1,0,0,0,0,0,0,0,0,2.7,5.8,5.8,15.0,True,1,2.0,2.0,0.0
+Andros Townsend,MID,Luton,Man Utd,22,0,0,0,0,2,1,0,0,0,0,0,3.0,3.8,24.0,2.0,True,0,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Liverpool,32,0,0,3,0,4,0,0,0,0,0,0,1.0,3.2,0.5,6.0,False,1,2.0,4.0,-2.0
+Andros Townsend,MID,Luton,Aston Villa,52,0,0,2,0,1,0,0,0,0,0,0,0.2,0.0,0.7,4.0,True,1,2.0,4.0,-2.0
+Andros Townsend,MID,Luton,Crystal Palace,3,0,1,0,0,14,0,0,0,0,0,0,3.3,19.2,14.1,0.0,False,4,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Bournemouth,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,False,1,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Nott'm Forest,30,0,0,0,0,4,0,0,0,0,0,0,2.5,6.8,1.6,17.0,True,1,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Spurs,90,0,0,2,0,9,0,0,0,0,0,0,3.5,13.8,19.4,2.0,False,2,2.0,4.0,-2.0
+Andros Townsend,MID,Luton,Arsenal,80,0,0,2,0,9,0,0,0,0,0,0,2.9,9.0,19.6,0.0,False,2,2.0,5.0,-3.0
+Andros Townsend,MID,Luton,Bournemouth,61,0,0,1,0,10,0,0,0,0,0,0,5.0,7.6,40.3,2.0,True,2,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Man City,58,0,0,1,0,0,0,0,0,0,0,0,1.1,8.0,1.2,2.0,False,1,2.0,5.0,-3.0
+Andros Townsend,MID,Luton,Brentford,19,0,0,1,0,3,0,0,0,0,0,0,0.2,2.0,0.3,0.0,True,1,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Everton,10,0,0,0,0,3,0,0,0,0,0,0,0.5,0.0,0.3,5.0,True,1,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Andros Townsend,MID,Luton,Fulham,14,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.1,0.0,True,1,2.0,3.0,-1.0

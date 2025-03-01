@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Dango Ouattara,MID,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Dango Ouattara,MID,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Dango Ouattara,MID,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Chelsea,62,0,0,0,1,5,0,0,0,0,0,0,5.8,10.2,5.8,42.0,True,3,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Brighton,27,0,0,1,0,5,0,0,0,0,0,0,2.4,3.8,10.7,9.0,False,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Arsenal,31,0,0,1,0,4,0,0,0,0,0,0,1.7,5.6,2.3,9.0,True,1,3.0,5.0,-2.0
+Dango Ouattara,MID,Bournemouth,Everton,56,0,0,2,0,3,0,0,0,0,0,0,2.6,6.2,14.6,5.0,False,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Wolves,15,0,0,1,0,6,0,0,0,0,0,0,1.7,5.6,11.1,0.0,True,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Burnley,21,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0,0.2,0.0,True,0,3.0,2.0,1.0
+Dango Ouattara,MID,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Dango Ouattara,MID,Bournemouth,Newcastle,9,0,0,0,0,4,0,0,0,0,0,0,3.5,7.0,10.5,17.0,True,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Dango Ouattara,MID,Bournemouth,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,4.0,-1.0
+Dango Ouattara,MID,Bournemouth,Crystal Palace,11,0,0,0,0,-1,1,0,0,0,0,0,0.9,1.2,0.3,7.0,False,0,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Man Utd,2,0,0,0,0,1,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Nott'm Forest,81,0,0,2,0,8,0,0,0,0,0,0,6.5,26.4,17.2,21.0,False,2,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Fulham,90,0,0,0,1,21,0,0,0,0,0,0,3.0,20.0,1.6,8.0,True,3,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Spurs,45,0,0,1,0,6,0,0,0,0,0,0,2.5,6.2,14.7,4.0,False,1,3.0,4.0,-1.0
+Dango Ouattara,MID,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Dango Ouattara,MID,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Nott'm Forest,19,0,0,0,0,7,0,0,0,0,0,0,0.7,6.0,0.5,0.0,True,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Fulham,21,0,0,0,0,4,0,0,0,0,0,0,2.7,8.4,11.0,8.0,False,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Newcastle,12,0,0,1,0,3,0,0,0,0,0,0,1.3,4.0,4.8,4.0,False,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Man City,22,0,0,0,0,4,0,0,0,0,0,0,2.4,6.8,10.8,6.0,True,1,3.0,5.0,-2.0
+Dango Ouattara,MID,Bournemouth,Burnley,1,0,0,0,0,2,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,3.0,2.0,1.0
+Dango Ouattara,MID,Bournemouth,Sheffield Utd,45,1,1,1,0,41,0,0,0,0,0,0,16.6,59.8,41.6,65.0,True,12,3.0,2.0,1.0
+Dango Ouattara,MID,Bournemouth,Luton,90,0,0,3,0,13,0,0,0,0,0,0,2.5,14.2,2.8,8.0,True,2,3.0,2.0,1.0
+Dango Ouattara,MID,Bournemouth,Everton,16,0,0,1,0,6,0,0,0,0,0,0,0.7,6.2,0.3,0.0,True,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Crystal Palace,63,0,0,0,1,4,0,0,0,0,0,0,1.9,5.8,11.1,2.0,True,3,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Luton,31,0,0,2,0,4,0,0,0,0,0,0,3.4,11.2,15.1,8.0,False,1,3.0,2.0,1.0
+Dango Ouattara,MID,Bournemouth,Man Utd,69,0,0,2,0,7,0,0,0,0,0,0,2.0,3.0,13.3,4.0,True,2,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Aston Villa,81,0,0,3,0,4,0,0,0,0,0,0,5.4,9.4,2.4,42.0,False,2,3.0,4.0,-1.0
+Dango Ouattara,MID,Bournemouth,Wolves,16,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.3,0.0,False,1,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Brighton,90,0,1,0,1,19,0,0,0,0,0,0,6.0,31.4,24.8,4.0,True,6,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Arsenal,90,0,0,3,0,15,0,0,0,0,0,0,2.6,20.4,1.7,4.0,False,2,3.0,5.0,-2.0
+Dango Ouattara,MID,Bournemouth,Brentford,66,0,0,0,1,1,1,0,0,0,0,0,2.8,3.2,4.7,20.0,True,2,3.0,3.0,0.0
+Dango Ouattara,MID,Bournemouth,Chelsea,31,0,0,0,0,5,0,0,0,0,0,0,5.6,12.4,10.9,33.0,False,1,3.0,3.0,0.0

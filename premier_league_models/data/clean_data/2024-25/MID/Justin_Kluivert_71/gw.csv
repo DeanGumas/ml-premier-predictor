@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Justin Kluivert,MID,Bournemouth,Nott'm Forest,26,0,0,0,0,0,1,0,0,0,0,0,1.5,1.8,6.7,6.0,False,0,4.0,4.0,0.0
+Justin Kluivert,MID,Bournemouth,Newcastle,71,0,0,0,1,2,0,0,0,0,0,0,3.9,1.8,25.9,11.0,True,3,4.0,4.0,0.0
+Justin Kluivert,MID,Bournemouth,Everton,90,0,1,2,0,22,0,0,0,0,0,0,7.9,34.0,37.1,8.0,False,5,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Chelsea,74,0,0,0,1,7,1,0,0,0,0,0,6.3,9.8,11.3,42.0,True,2,4.0,4.0,0.0
+Justin Kluivert,MID,Bournemouth,Liverpool,45,0,0,3,0,0,1,0,0,0,0,0,2.9,0.0,0.4,29.0,False,0,4.0,5.0,-1.0
+Justin Kluivert,MID,Bournemouth,Southampton,29,0,0,0,0,3,0,0,0,0,0,0,2.5,2.6,11.1,11.0,True,1,4.0,2.0,2.0
+Justin Kluivert,MID,Bournemouth,Leicester,45,0,0,1,0,4,0,0,0,0,0,0,3.1,3.2,5.1,23.0,False,1,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Arsenal,27,1,1,0,0,33,0,0,0,0,0,0,8.0,49.2,11.7,19.0,True,11,4.0,4.0,0.0
+Justin Kluivert,MID,Bournemouth,Aston Villa,63,0,0,0,1,3,1,0,0,0,0,0,1.3,0.8,2.4,10.0,False,2,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Man City,77,0,0,0,1,8,0,0,0,0,0,0,6.8,11.0,30.3,27.0,True,3,4.0,4.0,0.0
+Justin Kluivert,MID,Bournemouth,Brentford,75,1,0,3,0,30,0,0,0,0,0,0,8.5,39.6,18.0,27.0,False,7,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Brighton,74,0,0,2,0,5,0,0,0,0,0,0,5.7,2.6,21.9,32.0,True,2,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Wolves,76,3,0,2,0,76,0,0,0,0,0,0,21.8,112.8,31.2,74.0,False,20,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Spurs,63,0,0,0,1,6,0,0,0,0,0,0,2.7,8.8,0.8,17.0,True,3,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Ipswich,62,0,0,1,0,11,0,0,0,0,0,0,8.0,9.6,35.8,35.0,False,2,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,West Ham,79,0,0,0,1,7,0,0,0,0,0,0,2.3,5.8,3.4,14.0,True,3,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Man Utd,77,1,0,0,1,22,0,0,0,0,0,0,5.5,27.6,3.1,24.0,False,8,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Crystal Palace,71,0,0,0,1,1,1,0,0,0,0,0,5.0,2.6,33.0,14.0,True,2,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Everton,69,0,0,0,1,3,0,0,0,0,0,0,3.1,5.0,2.8,23.0,True,3,4.0,3.0,1.0
+Justin Kluivert,MID,Bournemouth,Chelsea,68,1,0,1,0,28,0,0,0,0,0,0,7.6,37.4,1.6,37.0,False,8,4.0,4.0,0.0
+Justin Kluivert,MID,Bournemouth,Newcastle,90,3,1,1,0,79,1,0,0,0,0,0,20.6,122.0,38.5,45.0,False,22,4.0,4.0,0.0
+Justin Kluivert,MID,Bournemouth,Nott'm Forest,87,1,1,0,1,45,0,0,0,0,0,0,10.1,58.2,19.0,24.0,True,13,4.0,4.0,0.0

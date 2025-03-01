@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Luca Koleosho,MID,Burnley,Man City,60,0,0,2,0,4,0,0,0,0,0,0,2.8,0.2,21.7,6.0,True,2,2.0,5.0,-3.0
+Luca Koleosho,MID,Burnley,Aston Villa,67,0,0,3,0,4,0,0,0,0,0,0,2.5,2.8,16.9,5.0,True,2,2.0,4.0,-2.0
+Luca Koleosho,MID,Burnley,Spurs,67,0,1,5,0,12,0,0,0,0,0,0,4.6,19.0,11.1,16.0,True,5,2.0,4.0,-2.0
+Luca Koleosho,MID,Burnley,Nott'm Forest,75,0,0,1,0,5,0,0,0,0,0,0,3.9,7.6,23.6,8.0,False,2,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Man Utd,72,0,0,1,0,3,0,0,0,0,0,0,1.2,0.0,2.9,10.0,True,2,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Newcastle,57,0,0,1,0,8,0,0,0,0,0,0,2.1,3.4,11.2,6.0,False,1,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Luton,74,0,0,0,1,4,0,0,0,0,0,0,4.9,3.0,13.1,33.0,False,3,2.0,2.0,0.0
+Luca Koleosho,MID,Burnley,Chelsea,29,0,0,2,0,4,0,0,0,0,0,0,2.9,8.2,14.0,7.0,True,1,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Brentford,45,0,0,2,0,6,0,0,0,0,0,0,1.4,5.0,1.4,8.0,False,1,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Bournemouth,80,0,0,2,0,-1,0,0,0,0,0,0,1.0,0.0,1.8,8.0,False,2,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Crystal Palace,77,0,0,1,0,0,0,0,0,0,0,0,5.0,5.6,12.8,32.0,True,2,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Arsenal,79,0,0,3,0,3,0,0,0,0,0,0,0.5,0.0,1.1,5.0,False,2,2.0,5.0,-3.0
+Luca Koleosho,MID,Burnley,West Ham,80,0,1,0,1,9,0,0,0,0,0,0,2.9,0.0,1.7,27.0,True,6,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Sheffield Utd,75,1,0,0,1,16,0,0,0,0,0,0,7.8,29.6,13.8,35.0,True,8,2.0,2.0,0.0
+Luca Koleosho,MID,Burnley,Wolves,35,0,0,0,0,3,0,0,0,0,0,0,1.0,2.4,0.8,7.0,False,1,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Luca Koleosho,MID,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Luca Koleosho,MID,Burnley,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Luca Koleosho,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Luca Koleosho,MID,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Luca Koleosho,MID,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Luca Koleosho,MID,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Luca Koleosho,MID,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luca Koleosho,MID,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Luca Koleosho,MID,Burnley,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Norberto Bercique Gomes Betuncal,FWD,Everton,Sheffield Utd,90,0,0,2,0,10,0,0,0,0,0,0,5.8,16.6,18.2,23.0,False,2,3.0,2.0,1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Arsenal,65,0,0,0,1,5,0,0,0,0,0,0,1.3,0.0,10.8,2.0,True,2,3.0,5.0,-2.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Brentford,62,0,0,1,0,0,0,0,0,0,0,0,4.4,4.0,12.9,27.0,False,2,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Luton,30,0,0,0,0,-3,0,0,0,0,0,0,2.7,0.0,10.6,21.0,True,1,3.0,2.0,1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Bournemouth,7,0,0,0,0,-3,0,0,0,0,0,0,0.7,0.0,0.3,9.0,True,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Liverpool,29,0,0,2,0,5,0,0,0,0,0,0,1.7,4.2,10.3,2.0,False,1,3.0,4.0,-1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Brighton,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Crystal Palace,13,0,0,0,0,1,0,0,0,0,0,0,0.5,0.0,0.5,6.0,False,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Nott'm Forest,81,0,0,0,1,-1,0,0,0,0,0,0,2.2,0.0,11.1,11.0,False,2,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Newcastle,5,1,0,0,0,23,1,0,0,0,0,0,5.0,33.0,0.4,17.0,True,4,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Chelsea,23,0,0,0,0,3,0,0,0,0,0,0,2.1,3.0,1.1,17.0,True,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Burnley,8,0,0,0,0,-1,0,0,0,0,0,0,3.8,3.0,0.0,35.0,False,1,3.0,2.0,1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Spurs,11,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Man City,64,0,0,2,0,2,0,0,0,0,0,0,1.2,0.2,1.4,10.0,True,2,3.0,5.0,-2.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Wolves,16,0,0,0,0,-1,0,0,0,0,0,0,0.1,0.4,0.4,0.0,False,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Aston Villa,27,0,0,0,0,-1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,4.0,-1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Fulham,9,0,0,0,0,3,0,0,0,0,0,0,5.3,1.0,30.3,22.0,False,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Spurs,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,4.0,-1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Man City,12,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,3.0,5.0,-2.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Crystal Palace,18,0,0,0,0,1,0,0,0,0,0,0,0.2,0.0,0.3,4.0,True,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Brighton,22,0,0,1,0,-1,1,0,0,0,0,0,2.2,0.6,0.6,21.0,False,0,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,West Ham,73,1,0,1,0,13,0,0,0,0,1,0,12.3,43.4,12.1,67.0,True,4,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Man Utd,60,0,0,2,0,9,0,0,0,0,0,0,3.4,9.2,13.3,11.0,False,2,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Bournemouth,11,1,0,1,0,27,0,0,0,0,0,0,9.0,36.0,0.3,54.0,False,8,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Newcastle,60,0,0,1,0,2,0,0,0,0,0,0,0.5,2.0,1.5,1.0,False,2,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Burnley,7,0,0,0,0,0,0,0,0,0,0,0,0.6,2.0,0.0,4.0,True,1,3.0,2.0,1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Chelsea,90,0,0,6,0,-3,0,0,0,0,0,0,5.6,0.2,0.8,55.0,False,2,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Nott'm Forest,33,0,0,0,0,4,0,0,0,0,0,0,0.3,0.0,1.5,2.0,True,1,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Luton,10,0,0,0,0,0,0,0,0,0,0,0,0.4,0.0,0.6,4.0,False,1,3.0,2.0,1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Norberto Bercique Gomes Betuncal,FWD,Everton,Arsenal,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,5.0,-2.0

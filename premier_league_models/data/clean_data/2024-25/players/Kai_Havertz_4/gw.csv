@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kai Havertz,FWD,Arsenal,Wolves,90,1,1,0,1,48,0,0,0,0,0,0,12.5,54.8,24.1,46.0,True,12,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Aston Villa,90,0,0,0,1,-2,0,0,0,0,0,0,2.0,0.0,6.1,15.0,False,2,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Brighton,90,1,0,1,0,34,0,0,0,0,0,0,10.2,47.0,24.8,30.0,True,8,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Spurs,90,0,0,0,1,9,0,0,0,0,0,0,6.1,19.2,5.4,36.0,False,2,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Man City,90,0,0,2,0,8,0,0,0,0,0,0,3.2,15.0,0.0,17.0,False,2,4.0,4.0,0.0
+Kai Havertz,FWD,Arsenal,Leicester,90,1,0,2,0,25,0,0,0,0,0,0,14.4,35.6,8.5,100.0,True,6,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Southampton,90,1,0,1,0,34,0,0,0,0,0,0,13.5,37.6,14.9,82.0,True,8,4.0,2.0,2.0
+Kai Havertz,FWD,Arsenal,Bournemouth,90,0,0,2,0,4,0,0,0,0,0,0,1.7,3.6,3.3,10.0,False,2,4.0,4.0,0.0
+Kai Havertz,FWD,Arsenal,Liverpool,90,0,0,2,0,3,0,0,0,0,0,0,4.7,4.4,25.3,17.0,True,2,4.0,5.0,-1.0
+Kai Havertz,FWD,Arsenal,Newcastle,90,0,0,1,0,4,1,0,0,0,0,0,2.1,5.6,11.8,4.0,False,1,4.0,4.0,0.0
+Kai Havertz,FWD,Arsenal,Chelsea,90,0,0,1,0,2,1,0,0,0,0,0,2.7,12.0,13.2,2.0,False,1,4.0,4.0,0.0
+Kai Havertz,FWD,Arsenal,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Kai Havertz,FWD,Arsenal,West Ham,90,1,0,2,0,28,0,0,0,0,0,0,6.0,31.4,4.7,24.0,False,6,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Man Utd,90,0,0,0,1,2,0,0,0,0,0,0,4.3,4.8,3.1,35.0,True,2,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Fulham,73,0,1,1,0,9,0,0,0,0,0,0,4.4,9.8,14.8,19.0,False,5,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Everton,90,0,0,0,1,8,0,0,0,0,0,0,5.6,7.0,26.0,23.0,True,2,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Crystal Palace,57,1,0,1,0,34,0,0,0,0,0,0,9.3,42.4,13.2,37.0,False,6,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Ipswich,90,1,0,0,1,33,1,0,0,0,0,0,12.5,42.0,21.0,62.0,True,7,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Spurs,90,0,0,1,0,-8,1,0,0,0,0,0,5.0,0.0,3.3,47.0,True,1,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Aston Villa,90,1,0,2,0,27,0,0,0,0,0,0,7.4,32.2,17.4,24.0,True,7,4.0,3.0,1.0
+Kai Havertz,FWD,Arsenal,Wolves,90,0,0,0,1,-6,0,0,0,0,0,0,4.5,7.4,1.4,36.0,False,2,4.0,3.0,1.0

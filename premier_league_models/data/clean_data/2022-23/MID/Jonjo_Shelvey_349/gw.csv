@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jonjo Shelvey,MID,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jonjo Shelvey,MID,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Jonjo Shelvey,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jonjo Shelvey,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,1,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Aston Villa,7,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.1,0.0,True,1,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Southampton,26,0,0,1,0,2,0,0,0,0,0,0,0.3,2.0,0.7,0.0,False,1,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jonjo Shelvey,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Fulham,34,0,0,1,0,9,0,0,0,0,0,0,3.4,7.8,25.9,0.0,False,1,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Man City,71,0,0,1,0,6,0,0,0,0,0,0,0.9,9.0,0.4,0.0,True,2,4.0,5.0,-1.0
+Jonjo Shelvey,MID,Newcastle,West Ham,66,0,0,0,1,16,0,0,0,0,0,0,4.6,17.8,28.3,0.0,False,3,4.0,3.0,1.0
+Jonjo Shelvey,MID,Newcastle,Everton,90,0,0,2,0,6,0,0,0,0,0,0,1.0,3.0,2.7,4.0,True,2,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Spurs,90,0,0,3,0,11,0,0,0,0,0,0,2.9,9.2,16.7,3.0,False,2,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Newcastle,90,0,0,2,0,2,1,0,0,0,0,0,0.0,0.0,2.0,2.0,True,1,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Leeds,34,0,0,0,0,8,0,0,0,0,0,0,2.8,6.0,20.2,2.0,False,1,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Aston Villa,64,0,0,1,0,1,1,0,0,0,0,0,0.3,0.0,5.0,0.0,False,1,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jonjo Shelvey,MID,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jonjo Shelvey,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonjo Shelvey,MID,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Jonjo Shelvey,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

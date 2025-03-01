@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Bernardo Veiga de Carvalho e Silva,MID,Man City,West Ham,12,0,0,0,0,3,0,0,0,0,0,0,0.9,4.4,2.7,2.0,False,1,5.0,3.0,2.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Bournemouth,25,0,0,0,0,1,0,0,0,0,0,0,0.8,1.6,2.0,4.0,True,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Newcastle,90,1,1,3,0,46,0,0,0,0,0,0,13.4,61.8,35.2,37.0,False,13,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Crystal Palace,90,1,0,2,0,37,0,0,0,0,0,0,15.4,44.8,53.8,55.0,True,9,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Nott'm Forest,90,0,1,0,1,23,0,0,0,0,0,0,5.6,25.4,18.0,13.0,True,6,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Aston Villa,72,0,0,0,1,8,0,0,0,0,0,0,2.0,4.8,9.3,6.0,False,3,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Wolves,71,0,1,0,1,23,0,0,0,0,0,0,6.3,25.6,35.2,2.0,False,6,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Man Utd,90,0,1,3,0,22,0,0,0,0,0,0,11.4,31.6,40.1,42.0,True,5,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Southampton,77,0,0,0,1,11,0,0,0,0,0,0,1.2,4.8,2.8,4.0,True,3,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Liverpool,90,0,0,1,0,7,0,0,0,0,0,0,2.6,16.6,3.8,6.0,False,2,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Brighton,90,0,2,1,0,26,0,0,0,0,0,0,4.8,25.0,15.0,8.0,True,9,5.0,3.0,2.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Leicester,90,0,0,0,1,10,0,0,0,0,0,0,5.7,10.2,21.9,25.0,False,3,5.0,3.0,2.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Fulham,90,0,0,1,0,12,1,0,0,0,0,0,5.5,13.6,19.6,22.0,True,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Brentford,90,0,0,2,0,21,0,0,0,0,0,0,8.8,16.2,41.8,30.0,True,2,5.0,3.0,2.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Everton,86,0,0,1,0,7,1,0,0,0,0,0,3.5,11.4,16.0,8.0,True,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Chelsea,59,0,0,0,0,12,0,0,0,0,0,0,5.4,13.2,16.4,24.0,False,1,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Man Utd,90,0,0,2,0,9,0,0,0,0,0,0,1.8,8.0,4.4,6.0,False,2,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Spurs,9,0,0,0,0,3,0,0,0,0,0,0,0.2,1.8,0.3,0.0,True,1,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Wolves,13,0,0,0,0,8,0,0,0,0,0,0,2.7,4.4,15.0,8.0,True,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Spurs,83,0,0,1,0,3,0,0,0,0,0,0,2.7,13.8,3.7,9.0,False,2,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Aston Villa,90,0,0,1,0,15,0,0,0,0,0,0,2.6,8.4,13.0,5.0,True,2,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Arsenal,90,0,0,1,0,10,1,0,0,0,0,0,2.8,10.2,15.6,2.0,False,1,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Nott'm Forest,90,1,0,1,0,25,0,0,0,0,0,0,7.3,42.4,20.1,10.0,False,10,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Newcastle,25,1,0,0,0,22,0,0,0,0,0,0,5.8,36.2,0.8,21.0,True,6,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Crystal Palace,78,0,0,0,1,8,0,0,0,0,0,0,2.5,1.8,15.0,8.0,False,3,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Liverpool,7,0,0,0,0,3,0,0,0,0,0,0,0.4,1.2,0.8,2.0,True,1,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Southampton,34,0,0,1,0,-2,0,0,0,0,0,0,3.0,4.2,2.0,24.0,False,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Leicester,90,0,0,1,0,11,1,0,0,0,0,0,3.5,10.8,20.1,4.0,True,1,5.0,3.0,2.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Arsenal,90,0,0,1,0,6,0,0,0,0,0,0,4.4,6.0,16.7,21.0,True,2,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Fulham,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,West Ham,90,0,0,0,1,13,0,0,0,0,0,0,4.1,11.8,17.3,12.0,True,3,5.0,3.0,2.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Leeds,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Everton,12,0,0,0,0,3,0,0,0,0,0,0,0.2,0.6,1.2,0.0,False,1,5.0,2.0,3.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Brighton,83,0,0,1,0,15,1,0,0,0,0,0,5.8,19.0,35.2,4.0,False,1,5.0,3.0,2.0
+Bernardo Veiga de Carvalho e Silva,MID,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0

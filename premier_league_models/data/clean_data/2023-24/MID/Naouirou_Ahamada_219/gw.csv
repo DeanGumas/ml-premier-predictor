@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Naouirou Ahamada,MID,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Naouirou Ahamada,MID,Crystal Palace,Arsenal,16,0,0,0,0,6,0,0,0,0,0,0,0.7,4.4,2.6,0.0,True,1,3.0,5.0,-2.0
+Naouirou Ahamada,MID,Crystal Palace,Brentford,19,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.7,0.0,False,1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Aston Villa,1,0,0,2,0,3,0,0,0,0,0,0,0.2,1.2,1.0,0.0,False,1,3.0,4.0,-1.0
+Naouirou Ahamada,MID,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Spurs,20,0,0,0,0,4,0,0,0,0,0,0,0.2,1.6,0.0,0.0,True,1,3.0,4.0,-1.0
+Naouirou Ahamada,MID,Crystal Palace,Burnley,20,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.3,0.0,False,1,3.0,2.0,1.0
+Naouirou Ahamada,MID,Crystal Palace,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Luton,10,0,0,1,0,1,0,0,0,0,0,0,0.6,0.6,1.3,4.0,False,1,3.0,2.0,1.0
+Naouirou Ahamada,MID,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Bournemouth,21,0,0,1,0,3,0,0,0,0,0,0,1.5,0.8,11.1,3.0,True,1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Liverpool,6,0,0,1,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Naouirou Ahamada,MID,Crystal Palace,Man City,9,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,1,3.0,5.0,-2.0
+Naouirou Ahamada,MID,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Arsenal,14,0,0,2,0,5,0,0,0,0,0,0,0.6,5.6,0.3,0.0,False,1,3.0,5.0,-2.0
+Naouirou Ahamada,MID,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Naouirou Ahamada,MID,Crystal Palace,Brighton,10,0,0,1,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Chelsea,11,0,0,2,0,6,0,0,0,0,0,0,0.8,3.2,0.1,5.0,True,1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Everton,18,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Burnley,24,0,0,0,0,3,0,0,0,0,0,0,2.2,4.8,0.4,17.0,True,1,3.0,2.0,1.0
+Naouirou Ahamada,MID,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Naouirou Ahamada,MID,Crystal Palace,Luton,20,0,0,1,0,-2,0,0,0,0,0,0,1.4,2.6,1.2,10.0,True,1,3.0,2.0,1.0
+Naouirou Ahamada,MID,Crystal Palace,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Man City,8,0,0,0,0,2,0,0,0,0,0,0,2.0,2.4,0.2,17.0,True,1,3.0,5.0,-2.0
+Naouirou Ahamada,MID,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Naouirou Ahamada,MID,Crystal Palace,West Ham,29,0,0,1,0,8,1,0,0,0,0,0,1.0,8.8,1.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Fulham,5,0,0,0,0,2,0,0,0,0,0,0,0.2,1.2,0.8,0.0,False,1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Wolves,70,0,0,1,0,-3,0,1,0,0,0,0,0.9,2.8,3.3,3.0,False,-1,3.0,3.0,0.0
+Naouirou Ahamada,MID,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0

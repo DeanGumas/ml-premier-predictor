@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ian Maatsen,DEF,Aston Villa,West Ham,16,0,0,0,0,5,0,0,0,0,0,0,1.9,8.8,10.5,0.0,False,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Arsenal,14,0,0,1,0,0,0,0,0,0,0,0,2.0,4.4,15.1,0.0,True,1,3.0,4.0,-1.0
+Ian Maatsen,DEF,Aston Villa,Leicester,11,0,0,0,0,2,0,0,0,0,0,0,0.4,2.0,0.0,2.0,False,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Everton,21,0,0,0,0,9,0,0,0,0,0,0,4.3,3.4,36.0,4.0,True,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Wolves,45,0,0,0,0,1,0,0,0,0,0,0,1.2,4.0,1.8,6.0,True,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Ipswich,6,0,0,0,0,3,0,0,0,0,0,0,0.2,1.4,1.0,0.0,False,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Man Utd,5,0,0,0,0,4,0,0,0,0,0,0,2.0,3.0,14.7,2.0,True,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Bournemouth,19,0,0,1,0,-2,0,0,0,0,0,0,1.1,5.2,4.2,2.0,True,1,3.0,4.0,-1.0
+Ian Maatsen,DEF,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Liverpool,16,0,0,1,0,4,0,0,0,0,0,0,2.0,6.2,11.4,2.0,False,1,3.0,5.0,-2.0
+Ian Maatsen,DEF,Aston Villa,Crystal Palace,68,0,0,2,0,7,1,0,0,0,0,0,6.1,9.8,23.2,28.0,True,0,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Ian Maatsen,DEF,Aston Villa,Brentford,2,0,0,0,0,3,0,0,0,0,0,0,0.5,2.2,0.3,2.0,True,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Southampton,58,0,0,0,0,5,0,0,0,0,0,0,3.2,14.6,11.3,6.0,True,1,3.0,2.0,1.0
+Ian Maatsen,DEF,Aston Villa,Nott'm Forest,1,0,0,1,0,-1,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1,3.0,4.0,-1.0
+Ian Maatsen,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Ian Maatsen,DEF,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Ian Maatsen,DEF,Aston Villa,Brighton,7,0,0,0,0,4,0,0,0,0,0,0,0.3,1.0,0.2,2.0,True,1,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Leicester,14,0,1,0,0,16,0,0,0,0,0,0,3.3,19.2,11.3,2.0,True,4,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ian Maatsen,DEF,Aston Villa,Arsenal,45,0,0,1,0,-1,1,0,0,0,0,0,2.8,6.8,0.5,21.0,False,0,3.0,4.0,-1.0
+Ian Maatsen,DEF,Aston Villa,West Ham,52,0,0,1,0,1,0,0,0,0,0,0,2.8,9.0,12.0,7.0,True,1,3.0,3.0,0.0

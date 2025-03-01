@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+William Osula,FWD,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+William Osula,FWD,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+William Osula,FWD,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Fulham,7,0,0,1,0,1,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+William Osula,FWD,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.0,2.0,False,1,4.0,4.0,0.0
+William Osula,FWD,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+William Osula,FWD,Newcastle,Nott'm Forest,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,4.0,0.0
+William Osula,FWD,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+William Osula,FWD,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Leicester,17,0,0,0,0,2,0,0,0,0,0,0,1.2,1.2,10.3,0.0,True,1,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.4,2.0,0.0,2.0,True,1,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Wolves,12,0,0,0,0,4,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,4.0,3.0,1.0
+William Osula,FWD,Newcastle,Bournemouth,1,0,0,2,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,4.0,4.0,0.0
+William Osula,FWD,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

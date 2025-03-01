@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Conor Chaplin,MID,Ipswich,Liverpool,64,0,0,1,0,12,0,0,0,0,0,0,0.9,4.2,2.5,2.0,True,2,3.0,5.0,-2.0
+Conor Chaplin,MID,Ipswich,Man City,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,3.0,4.0,-1.0
+Conor Chaplin,MID,Ipswich,Fulham,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.4,0.0,True,1,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Brighton,5,0,0,0,0,6,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Southampton,17,0,0,0,0,3,0,0,0,0,0,0,0.5,1.6,3.3,0.0,False,1,3.0,2.0,1.0
+Conor Chaplin,MID,Ipswich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,West Ham,7,0,0,0,0,4,0,0,0,0,0,0,1.6,2.2,13.8,0.0,False,1,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Everton,27,0,0,0,0,5,0,0,0,0,0,0,2.5,3.6,4.6,17.0,True,1,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Brentford,72,0,1,3,0,21,0,0,0,0,0,0,5.9,24.0,29.3,6.0,False,5,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Leicester,80,0,0,0,1,1,1,0,0,0,0,0,0.9,0.0,8.6,5.0,True,2,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Man Utd,8,0,0,0,0,3,0,0,0,0,0,0,2.7,5.0,5.1,17.0,True,1,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Nott'm Forest,73,0,0,1,0,4,0,0,0,0,0,0,0.7,4.2,2.4,0.0,False,2,3.0,4.0,-1.0
+Conor Chaplin,MID,Ipswich,Crystal Palace,24,0,0,0,0,4,0,0,0,0,0,0,1.3,2.6,10.8,0.0,True,1,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Bournemouth,90,1,0,2,0,25,0,0,0,0,0,0,7.6,39.2,4.4,32.0,True,7,3.0,4.0,-1.0
+Conor Chaplin,MID,Ipswich,Wolves,74,0,1,1,0,15,0,0,0,0,0,0,1.1,0.0,5.1,7.0,False,5,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Newcastle,61,0,0,4,0,6,0,0,0,0,0,0,3.7,6.8,30.0,0.0,True,2,3.0,4.0,-1.0
+Conor Chaplin,MID,Ipswich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Conor Chaplin,MID,Ipswich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Conor Chaplin,MID,Ipswich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Conor Chaplin,MID,Ipswich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Conor Chaplin,MID,Ipswich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

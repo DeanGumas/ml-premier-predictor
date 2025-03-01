@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Andreas Hoelgebaum Pereira,MID,Fulham,Liverpool,88,0,0,2,0,5,0,0,0,0,0,0,3.2,0.6,19.8,12.0,True,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Wolves,85,0,0,0,1,6,0,0,0,0,0,0,3.2,4.8,25.4,2.0,False,3,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Brentford,90,0,1,2,0,26,0,0,0,0,0,0,13.1,35.2,61.7,34.0,True,8,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Arsenal,78,0,0,1,0,3,0,0,0,0,0,0,4.8,4.0,42.5,1.0,False,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Brighton,77,0,1,1,0,20,0,0,0,0,0,0,3.1,6.8,19.6,5.0,True,6,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Spurs,60,0,0,1,0,4,0,0,0,0,0,0,0.5,1.6,2.7,1.0,False,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Nott'm Forest,82,0,0,2,0,7,1,0,0,0,0,0,6.3,10.4,37.3,15.0,False,1,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Newcastle,90,0,0,4,0,5,0,0,0,0,0,0,4.6,9.6,16.1,20.0,True,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,West Ham,76,1,0,2,0,20,1,0,0,0,0,0,8.0,33.8,16.2,30.0,False,6,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Bournemouth,86,0,1,2,0,15,0,0,0,0,0,0,7.3,22.4,45.1,5.0,True,5,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Aston Villa,86,0,0,0,1,13,0,0,0,0,0,0,10.7,12.4,63.1,31.0,True,3,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Leeds,90,0,2,2,0,33,0,0,0,0,0,0,13.1,46.2,63.4,21.0,False,10,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Everton,75,0,0,0,1,10,0,0,0,0,0,0,11.2,15.8,93.1,3.0,True,3,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Man City,87,1,0,1,0,18,1,0,0,0,0,0,5.5,37.4,0.2,17.0,False,6,2.0,5.0,-3.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Man Utd,90,0,0,2,0,5,0,0,0,0,0,0,2.6,4.6,17.8,4.0,True,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Crystal Palace,84,0,0,0,1,10,0,0,0,0,0,0,14.3,18.2,88.8,36.0,False,3,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Southampton,90,0,1,1,0,10,0,0,0,0,0,0,1.4,0.0,6.7,10.0,True,5,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Leicester,58,0,0,0,0,6,0,0,0,0,0,0,3.2,10.0,16.0,6.0,False,1,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Chelsea,90,0,1,1,0,14,1,0,0,0,0,0,4.6,18.2,21.6,6.0,True,4,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Newcastle,76,0,0,0,1,2,1,0,0,0,0,0,4.6,4.2,33.9,8.0,False,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Spurs,90,0,0,1,0,16,0,0,0,0,0,0,7.2,12.4,50.5,9.0,True,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Chelsea,90,0,0,0,1,0,1,0,0,0,0,0,1.9,0.0,5.8,14.0,False,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Nott'm Forest,90,0,1,0,1,22,0,0,0,0,0,0,9.3,22.0,60.3,11.0,True,6,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Brighton,81,0,0,0,1,4,0,0,0,0,0,0,2.9,6.0,15.8,7.0,False,3,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Wolves,90,0,0,1,0,-1,1,0,0,0,0,0,3.9,5.8,20.8,12.0,True,1,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Brentford,90,0,2,3,0,20,0,0,0,0,0,0,3.4,3.0,9.5,21.0,False,8,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Arsenal,75,0,0,3,0,6,0,0,0,0,0,0,4.0,1.0,27.3,12.0,True,2,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Bournemouth,81,1,0,2,0,18,1,0,0,0,0,0,9.7,34.8,28.3,34.0,False,6,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,West Ham,84,0,0,1,0,4,0,0,0,0,0,0,5.2,10.0,9.1,33.0,True,2,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Everton,78,0,0,1,0,9,0,0,0,0,0,0,4.4,5.8,20.5,18.0,False,2,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Leeds,85,1,0,1,0,27,0,0,0,0,0,0,10.8,43.6,11.2,53.0,True,10,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Aston Villa,67,0,0,1,0,1,0,0,0,0,0,0,0.4,0.0,5.4,4.0,False,2,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Man City,57,0,0,2,0,2,0,0,0,0,0,0,0.9,0.0,9.5,0.0,True,1,2.0,5.0,-3.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Andreas Hoelgebaum Pereira,MID,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0

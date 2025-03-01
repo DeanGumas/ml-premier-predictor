@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Manor Solomon,MID,Fulham,Liverpool,24,0,0,1,0,1,0,0,0,0,0,0,0.3,2.2,0.3,0.0,True,1,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Manor Solomon,MID,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Chelsea,7,0,0,0,0,2,0,0,0,0,0,0,0.0,0.2,0.2,0.0,True,1,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Spurs,10,0,0,0,0,4,0,0,0,0,0,0,1.1,3.4,0.5,7.0,True,1,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Chelsea,15,0,0,0,0,5,0,0,0,0,0,0,1.7,6.4,10.5,0.0,False,1,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Nott'm Forest,18,1,0,0,0,22,0,0,0,0,0,0,5.3,35.8,0.6,17.0,True,6,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Brighton,8,1,0,0,0,24,0,0,0,0,0,0,5.3,35.6,0.8,17.0,False,6,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Wolves,45,1,0,0,0,24,0,0,0,0,0,0,6.3,39.6,12.3,11.0,True,7,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Brentford,74,1,0,2,0,25,0,0,0,0,0,0,8.3,45.6,4.0,33.0,False,7,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Arsenal,75,0,0,3,0,9,0,0,0,0,0,0,2.8,11.6,13.3,3.0,True,2,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Bournemouth,90,0,0,2,0,12,0,0,0,0,0,0,5.4,18.0,30.3,6.0,False,2,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,West Ham,45,0,0,0,0,3,0,0,0,0,0,0,1.0,5.6,4.5,0.0,True,1,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Leeds,4,0,0,0,0,1,0,0,0,0,0,0,0.2,1.2,0.8,0.0,True,1,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Aston Villa,66,0,0,1,0,3,0,0,0,0,0,0,0.6,0.4,1.7,4.0,False,2,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Man City,14,0,0,0,0,6,0,0,0,0,0,0,0.6,3.2,1.0,2.0,True,1,2.0,5.0,-3.0
+Manor Solomon,MID,Fulham,Liverpool,11,0,0,0,0,2,0,0,0,0,0,0,0.5,0.4,4.1,0.0,False,1,2.0,4.0,-2.0
+Manor Solomon,MID,Fulham,Leicester,8,0,0,1,0,4,0,0,0,0,0,0,0.2,1.2,0.3,0.0,True,1,2.0,3.0,-1.0
+Manor Solomon,MID,Fulham,Southampton,12,0,0,0,0,5,0,0,0,0,0,0,1.2,4.4,0.5,7.0,False,1,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Crystal Palace,10,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,2.0,2.0,0.0
+Manor Solomon,MID,Fulham,Man Utd,24,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0

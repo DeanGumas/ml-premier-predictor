@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jordan Pickford,GK,Everton,Chelsea,90,0,0,1,0,20,0,0,0,5,0,0,3.5,35.0,0.0,0.0,True,3,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Aston Villa,90,0,0,2,0,11,0,0,0,1,0,0,1.2,12.0,0.0,0.0,False,1,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Nott'm Forest,90,0,1,1,0,30,0,0,0,4,0,0,5.7,43.8,13.0,0.0,True,7,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Brentford,90,0,0,1,0,15,1,0,0,4,0,0,3.7,37.4,0.0,0.0,False,2,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Leeds,90,0,0,1,0,17,0,0,0,4,0,0,3.4,34.0,0.0,0.0,False,3,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Liverpool,90,0,0,0,1,33,1,0,0,8,0,0,6.1,60.8,0.0,0.0,True,9,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Southampton,90,0,0,1,0,19,1,0,0,5,0,0,4.2,42.0,0.0,0.0,False,2,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Man Utd,90,0,0,2,0,12,0,0,0,2,0,0,1.3,12.8,0.0,0.0,True,1,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Spurs,90,0,0,2,0,14,0,0,0,5,0,0,3.6,35.8,0.0,0.0,False,2,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Newcastle,90,0,0,1,0,14,0,0,0,3,0,0,2.7,26.8,0.0,0.0,False,3,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Crystal Palace,90,0,0,0,1,23,0,0,0,2,0,0,1.4,14.4,0.0,0.0,True,6,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Fulham,90,0,0,0,1,35,0,0,0,6,0,0,6.3,53.2,10.0,0.0,False,11,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Leicester,90,0,0,2,0,21,0,0,0,6,0,0,3.9,39.4,0.0,0.0,True,3,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Bournemouth,90,0,0,3,0,15,0,0,0,5,0,0,3.1,31.0,0.0,0.0,False,2,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Wolves,90,0,0,2,0,14,0,0,0,2,0,0,2.1,20.8,0.0,0.0,True,1,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Man City,90,0,0,1,0,13,0,0,0,2,0,0,1.9,19.2,0.0,0.0,False,2,2.0,5.0,-3.0
+Jordan Pickford,GK,Everton,Brighton,90,0,0,4,0,16,0,0,0,4,0,0,2.8,28.2,0.0,0.0,True,1,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Southampton,90,0,0,2,0,16,0,0,0,3,0,0,2.4,24.2,0.0,0.0,True,2,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,West Ham,90,0,0,2,0,11,0,0,0,2,0,0,1.5,15.2,0.0,0.0,False,1,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Arsenal,90,0,0,0,1,21,1,0,0,2,0,0,1.4,14.2,0.0,0.0,True,5,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Liverpool,90,0,0,2,0,12,1,0,0,4,0,0,2.6,26.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Leeds,90,0,0,0,1,21,0,0,0,0,0,0,0.8,7.6,0.0,0.0,True,6,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Aston Villa,90,0,0,2,0,14,0,0,0,3,0,0,2.2,22.4,0.0,0.0,True,2,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Arsenal,90,0,0,4,0,9,0,0,0,1,0,0,1.1,11.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Nott'm Forest,90,0,0,2,0,13,0,0,0,2,0,0,1.9,19.2,0.0,0.0,False,1,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Brentford,90,0,0,0,1,26,0,0,0,3,0,0,1.7,16.6,0.0,0.0,True,8,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Chelsea,90,0,0,2,0,18,0,0,0,5,0,0,3.7,37.4,0.0,0.0,False,2,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Spurs,90,0,0,1,0,7,0,0,0,0,0,0,0.3,3.0,0.0,0.0,True,2,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Man Utd,90,0,0,2,0,27,0,0,0,9,0,0,7.2,71.8,0.0,0.0,False,4,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Fulham,90,0,0,3,0,18,0,0,0,4,0,0,1.9,19.0,0.0,0.0,True,2,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Crystal Palace,90,0,0,0,1,27,0,0,0,2,0,0,1.1,10.8,0.0,0.0,False,6,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Newcastle,90,0,0,4,0,14,0,0,0,3,0,0,2.1,21.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Jordan Pickford,GK,Everton,Leicester,90,0,0,2,0,30,0,0,0,3,0,1,4.9,48.8,0.0,0.0,False,10,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Brighton,90,0,0,1,0,16,0,0,0,4,0,0,3.4,34.2,0.0,0.0,False,3,2.0,3.0,-1.0
+Jordan Pickford,GK,Everton,Man City,90,0,0,3,0,9,0,0,0,1,0,0,0.7,7.0,0.0,0.0,True,1,2.0,5.0,-3.0
+Jordan Pickford,GK,Everton,Wolves,90,0,0,1,0,16,0,0,0,4,0,0,3.5,35.2,0.0,0.0,False,3,2.0,2.0,0.0
+Jordan Pickford,GK,Everton,Bournemouth,90,0,0,0,1,19,1,0,0,1,0,0,0.0,0.0,0.0,0.0,True,5,2.0,2.0,0.0

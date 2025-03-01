@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Oscar Bobb,MID,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Oscar Bobb,MID,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Oscar Bobb,MID,Man City,Fulham,1,0,0,0,0,5,0,0,0,0,0,0,0.5,2.4,0.8,2.0,True,1,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Wolves,45,0,1,1,0,13,0,0,0,0,0,0,2.0,5.0,14.9,0.0,False,4,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,5.0,0.0
+Oscar Bobb,MID,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Bournemouth,5,0,1,0,0,18,0,0,0,0,0,0,5.6,21.6,28.3,6.0,True,4,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Oscar Bobb,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Oscar Bobb,MID,Man City,Aston Villa,17,0,0,1,0,2,0,0,0,0,0,0,0.2,1.4,0.8,0.0,False,1,5.0,4.0,1.0
+Oscar Bobb,MID,Man City,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Oscar Bobb,MID,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Sheffield Utd,38,0,0,0,0,1,0,0,0,0,0,0,3.0,4.6,9.9,15.0,True,1,5.0,2.0,3.0
+Oscar Bobb,MID,Man City,Newcastle,8,1,0,0,0,26,0,0,0,0,0,0,8.0,37.2,2.1,41.0,False,8,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Oscar Bobb,MID,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Brentford,60,0,0,0,1,12,0,0,0,0,0,0,6.3,11.2,36.6,15.0,True,3,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Oscar Bobb,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,5.0,0.0
+Oscar Bobb,MID,Man City,Aston Villa,10,0,0,0,0,2,0,0,0,0,0,0,1.7,0.4,10.5,6.0,True,1,5.0,4.0,1.0
+Oscar Bobb,MID,Man City,Crystal Palace,90,0,0,2,0,15,0,0,0,0,0,0,3.6,9.6,18.5,8.0,False,2,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Luton,9,0,0,1,0,7,0,0,0,0,0,0,3.1,6.2,12.3,12.0,True,1,5.0,2.0,3.0
+Oscar Bobb,MID,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Nott'm Forest,1,0,0,0,0,2,0,0,0,0,0,0,1.5,4.4,10.6,0.0,False,1,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Fulham,8,0,0,0,0,3,0,0,0,0,0,0,0.5,1.4,1.5,2.0,False,1,5.0,3.0,2.0
+Oscar Bobb,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Oscar Bobb,MID,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0

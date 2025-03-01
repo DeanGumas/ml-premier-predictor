@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mohamed Elyounoussi,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Leeds,60,0,0,2,0,3,0,0,0,0,0,0,0.9,0.0,3.8,8.0,True,2,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Leicester,90,0,0,1,0,1,1,0,0,0,0,0,1.0,1.2,1.0,8.0,False,1,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Man Utd,62,0,0,1,0,9,0,0,0,0,0,0,4.6,9.2,29.2,8.0,True,2,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Chelsea,90,0,0,1,0,17,0,0,0,0,0,0,7.9,30.8,1.7,46.0,True,2,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Wolves,55,0,0,1,0,4,0,0,0,0,0,0,1.1,5.0,2.0,4.0,False,1,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Aston Villa,78,0,0,1,0,0,0,0,0,0,0,0,2.3,4.2,1.8,17.0,False,2,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Man City,24,0,0,0,0,1,0,0,0,0,0,0,0.2,0.0,0.8,3.0,False,1,2.0,5.0,-3.0
+Mohamed Elyounoussi,MID,Southampton,West Ham,90,0,0,1,0,14,0,0,0,0,0,0,7.8,18.4,15.8,44.0,True,2,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Bournemouth,90,0,0,0,1,8,0,0,0,0,0,0,1.5,6.0,2.9,6.0,False,3,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Arsenal,90,0,1,1,0,16,0,0,0,0,0,0,5.9,27.0,29.7,2.0,True,5,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Crystal Palace,73,0,0,1,0,3,1,0,0,0,0,0,3.1,7.0,1.7,22.0,False,1,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Newcastle,90,0,0,4,0,3,0,0,0,0,0,0,5.8,5.8,16.3,36.0,True,2,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Liverpool,90,0,0,3,0,9,0,0,0,0,0,0,9.0,21.2,45.5,23.0,False,2,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Brighton,77,0,0,3,0,8,0,0,0,0,0,0,7.2,15.2,18.7,38.0,True,2,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Fulham,89,0,0,2,0,12,1,0,0,0,0,0,3.2,9.0,22.4,1.0,False,1,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Nott'm Forest,90,0,0,1,0,4,0,0,0,0,0,0,2.4,5.8,8.2,10.0,True,2,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Everton,84,0,0,1,0,6,0,0,0,0,0,0,3.6,4.4,16.9,15.0,False,2,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Aston Villa,29,0,0,1,0,2,0,0,0,0,0,0,1.2,1.6,10.4,0.0,True,1,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Brentford,45,0,0,2,0,5,0,0,0,0,0,0,1.0,5.2,0.6,4.0,False,1,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Chelsea,86,0,0,0,1,7,0,0,0,0,0,0,0.9,5.6,2.3,1.0,False,3,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Leeds,81,0,0,1,0,8,0,0,0,0,0,0,3.5,6.8,25.9,2.0,False,2,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Leicester,40,0,0,0,0,2,0,0,0,0,0,0,0.5,4.2,0.3,0.0,True,1,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Brentford,57,0,0,1,0,4,0,0,0,0,0,0,0.7,2.2,2.5,2.0,True,1,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Spurs,69,0,0,2,0,12,0,0,0,0,0,0,3.3,12.0,16.9,4.0,True,2,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,West Ham,53,0,0,1,0,3,0,0,0,0,0,0,0.8,4.8,1.3,2.0,False,1,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Man City,60,0,0,2,0,11,0,0,0,0,0,0,1.2,6.6,1.0,4.0,True,2,2.0,5.0,-3.0
+Mohamed Elyounoussi,MID,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Arsenal,90,0,0,3,0,11,0,0,0,0,0,0,5.7,21.6,0.8,35.0,False,2,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Bournemouth,60,0,0,1,0,7,0,0,0,0,0,0,2.3,8.8,14.1,0.0,True,2,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Newcastle,19,0,0,2,0,2,0,0,0,0,0,0,0.8,1.2,0.3,6.0,False,1,2.0,4.0,-2.0
+Mohamed Elyounoussi,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Fulham,17,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,2.0,0.0
+Mohamed Elyounoussi,MID,Southampton,Brighton,70,1,0,3,0,19,1,0,0,0,0,0,7.4,34.2,2.4,37.0,False,6,2.0,3.0,-1.0
+Mohamed Elyounoussi,MID,Southampton,Liverpool,63,0,0,2,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,2.0,4.0,-2.0

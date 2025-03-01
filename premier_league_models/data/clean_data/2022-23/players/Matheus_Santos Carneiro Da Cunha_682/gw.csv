@@ -1,0 +1,22 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Aston Villa,24,0,0,1,0,1,0,0,0,0,0,0,1.8,9.2,0.3,8.0,False,1,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,West Ham,63,0,0,0,1,3,0,0,0,0,0,0,1.3,0.0,1.6,12.0,True,2,2.0,3.0,-1.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Man City,45,0,0,2,0,5,0,0,0,0,0,0,2.7,6.0,20.9,0.0,False,1,2.0,5.0,-3.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Liverpool,59,0,0,0,0,4,0,0,0,0,0,0,2.6,8.0,2.3,16.0,True,1,2.0,4.0,-2.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Southampton,58,0,0,1,0,-3,0,0,0,0,0,0,0.1,0.0,0.6,4.0,False,1,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Bournemouth,69,0,0,1,0,4,0,0,0,0,0,0,6.0,0.8,12.8,46.0,True,2,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Fulham,59,0,0,0,0,0,0,0,0,0,0,0,1.8,8.6,1.0,8.0,False,1,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Spurs,23,0,0,0,0,-1,0,0,0,0,0,0,0.3,0.0,0.6,4.0,True,1,2.0,4.0,-2.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Leeds,33,1,0,2,0,30,0,0,0,0,0,0,6.8,33.2,10.2,25.0,True,8,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Nott'm Forest,80,0,0,1,0,7,0,0,0,0,0,0,1.4,4.4,2.2,7.0,False,2,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Chelsea,74,0,0,0,1,5,0,0,0,0,0,0,3.3,1.2,0.9,31.0,True,2,2.0,4.0,-2.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Brentford,88,0,0,0,1,-1,0,0,0,0,0,0,4.2,5.8,12.2,24.0,True,2,2.0,3.0,-1.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Leicester,90,1,0,2,0,33,1,0,0,0,0,0,7.8,44.4,13.3,20.0,False,8,2.0,3.0,-1.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Crystal Palace,67,0,0,0,1,7,0,0,0,0,0,0,0.3,0.2,0.3,2.0,True,2,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Aston Villa,67,0,0,0,1,15,0,0,0,0,0,0,2.2,11.4,5.0,6.0,True,2,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Man Utd,60,0,0,1,0,10,0,0,0,0,0,0,1.1,6.4,0.6,4.0,False,2,2.0,4.0,-2.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Everton,2,0,0,1,0,3,0,0,0,0,0,0,1.4,3.4,10.3,0.0,True,1,2.0,2.0,0.0
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0

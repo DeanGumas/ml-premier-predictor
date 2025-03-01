@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Marcus Tavernier,MID,Bournemouth,Nott'm Forest,90,0,0,1,0,14,0,0,0,0,0,0,7.9,10.2,41.4,27.0,False,2,4.0,4.0,0.0
+Marcus Tavernier,MID,Bournemouth,Newcastle,84,1,0,1,0,32,0,0,0,0,0,0,13.0,46.4,48.8,35.0,True,9,4.0,4.0,0.0
+Marcus Tavernier,MID,Bournemouth,Everton,90,0,0,2,0,6,0,0,0,0,0,0,13.3,21.0,30.8,81.0,False,2,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Chelsea,82,0,0,0,1,9,0,0,0,0,0,0,7.4,14.8,34.7,24.0,True,3,4.0,4.0,0.0
+Marcus Tavernier,MID,Bournemouth,Liverpool,90,0,0,3,0,17,0,0,0,0,0,0,6.0,16.0,41.8,2.0,False,2,4.0,5.0,-1.0
+Marcus Tavernier,MID,Bournemouth,Southampton,75,0,1,1,0,18,1,0,0,0,0,0,5.7,22.4,25.6,9.0,True,4,4.0,2.0,2.0
+Marcus Tavernier,MID,Bournemouth,Leicester,90,0,0,1,0,5,0,0,0,0,0,0,4.9,11.8,30.4,7.0,False,2,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Arsenal,62,0,0,0,1,5,0,0,0,0,0,0,4.8,9.0,14.4,25.0,True,3,4.0,4.0,0.0
+Marcus Tavernier,MID,Bournemouth,Aston Villa,26,0,1,1,0,12,1,0,0,0,0,0,4.7,18.8,26.2,2.0,False,3,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Man City,89,0,0,1,0,9,0,0,0,0,0,0,2.7,7.6,18.8,1.0,True,2,4.0,4.0,0.0
+Marcus Tavernier,MID,Bournemouth,Brentford,23,0,0,0,0,8,0,0,0,0,0,0,3.1,11.4,19.7,0.0,False,1,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Brighton,90,0,0,2,0,9,0,0,0,0,0,0,4.1,11.6,20.2,9.0,True,2,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Wolves,90,0,1,2,0,19,0,0,0,0,0,0,6.4,35.0,23.4,6.0,False,5,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Spurs,84,0,1,0,1,18,0,0,0,0,0,0,9.4,27.2,41.1,26.0,True,6,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Ipswich,73,0,0,1,0,6,0,0,0,0,0,0,3.7,0.0,16.3,21.0,False,2,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Marcus Tavernier,MID,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Marcus Tavernier,MID,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Marcus Tavernier,MID,Bournemouth,Nott'm Forest,10,0,2,0,0,25,0,0,0,0,0,0,4.0,19.8,12.4,8.0,True,7,4.0,4.0,0.0

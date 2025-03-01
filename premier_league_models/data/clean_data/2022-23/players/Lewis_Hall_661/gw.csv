@@ -1,0 +1,27 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Lewis Hall,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Lewis Hall,MID,Chelsea,Newcastle,72,0,0,1,0,8,0,0,0,0,0,0,3.9,12.8,24.5,2.0,False,2,4.0,4.0,0.0
+Lewis Hall,MID,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Man City,22,0,0,0,0,5,0,0,0,0,0,0,3.2,9.8,16.0,6.0,True,1,4.0,5.0,-1.0
+Lewis Hall,MID,Chelsea,Fulham,78,0,0,2,0,4,1,0,0,0,0,0,5.3,15.4,1.3,36.0,False,1,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Crystal Palace,77,0,0,0,1,10,0,0,0,0,0,0,3.3,9.8,15.0,8.0,True,3,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Liverpool,54,0,0,0,0,2,0,0,0,0,0,0,0.8,1.6,2.4,4.0,False,1,4.0,4.0,0.0
+Lewis Hall,MID,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Lewis Hall,MID,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Lewis Hall,MID,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Lewis Hall,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Lewis Hall,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Lewis Hall,MID,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Lewis Hall,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Lewis Hall,MID,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Nott'm Forest,90,0,0,2,0,20,0,0,0,0,0,0,6.6,16.6,44.1,5.0,True,2,4.0,2.0,2.0
+Lewis Hall,MID,Chelsea,Man City,80,0,0,1,0,18,0,0,0,0,0,0,8.5,22.4,30.5,32.0,False,2,4.0,5.0,-1.0
+Lewis Hall,MID,Chelsea,Man Utd,90,0,0,4,0,33,0,0,0,0,0,0,9.1,24.8,40.5,26.0,False,5,4.0,4.0,0.0
+Lewis Hall,MID,Chelsea,Newcastle,90,0,0,1,0,18,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,4.0,4.0,0.0

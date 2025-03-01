@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Wilfried Zaha,MID,Crystal Palace,Arsenal,90,0,0,2,0,16,0,0,0,0,0,0,7.6,13.6,30.4,32.0,True,2,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Liverpool,90,1,0,1,0,13,0,0,0,0,0,0,10.5,43.2,11.8,50.0,False,7,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Aston Villa,81,2,0,1,0,39,1,0,0,0,1,0,15.8,78.0,34.8,45.0,True,12,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Wilfried Zaha,MID,Crystal Palace,Brentford,90,1,0,1,0,18,0,0,0,0,0,0,9.7,33.8,2.2,61.0,True,7,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Newcastle,90,0,0,0,1,4,0,0,0,0,0,0,6.4,12.8,11.8,39.0,False,3,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Chelsea,90,0,0,2,0,9,0,0,0,0,0,0,6.2,18.6,18.5,25.0,True,2,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Leeds,90,0,1,1,0,9,0,0,0,0,0,0,8.4,20.8,12.1,51.0,True,5,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Leicester,76,0,0,0,1,5,0,0,0,0,0,0,3.2,1.8,14.5,16.0,False,3,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Wolves,90,1,0,1,0,25,0,0,0,0,0,0,12.8,53.8,14.5,60.0,True,8,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Everton,90,0,0,3,0,-6,1,0,0,0,0,0,2.0,4.8,6.5,9.0,False,1,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Southampton,90,0,0,0,1,8,1,0,0,0,0,0,5.1,11.6,17.8,22.0,True,2,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,West Ham,90,1,1,1,0,29,0,0,0,0,0,0,11.9,55.0,13.6,50.0,False,12,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Nott'm Forest,90,0,0,1,0,-10,0,0,0,0,1,0,6.2,0.0,24.8,38.0,False,0,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Fulham,90,0,0,3,0,1,0,0,0,0,0,0,0.4,1.4,2.2,0.0,True,2,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Bournemouth,90,0,0,0,1,8,0,0,0,0,0,0,5.7,13.2,23.8,20.0,False,3,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Spurs,90,0,0,4,0,3,0,0,0,0,0,0,6.6,8.0,23.9,34.0,True,2,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Chelsea,90,0,0,1,0,-2,0,0,0,0,0,0,5.3,16.2,10.5,26.0,False,2,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Man Utd,90,0,0,1,0,5,0,0,0,0,0,0,2.5,5.2,6.9,13.0,True,2,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Newcastle,64,0,0,0,1,6,0,0,0,0,0,0,3.3,6.2,22.4,4.0,True,3,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Aston Villa,90,0,0,1,0,-4,1,0,0,0,0,0,0.8,0.0,0.8,10.0,False,1,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Man City,90,0,0,1,0,3,0,0,0,0,0,0,2.7,3.2,1.1,23.0,True,2,2.0,5.0,-3.0
+Wilfried Zaha,MID,Crystal Palace,Brighton,90,0,0,1,0,4,0,0,0,0,0,0,4.8,9.4,13.5,25.0,False,2,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Arsenal,90,0,0,4,0,-3,0,0,0,0,0,0,6.8,7.4,14.6,46.0,False,2,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Leicester,45,0,0,0,0,0,0,0,0,0,0,0,6.4,2.8,2.8,58.0,True,1,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,West Ham,83,1,0,3,0,22,0,0,0,0,0,0,10.2,34.4,18.6,49.0,True,7,2.0,3.0,-1.0
+Wilfried Zaha,MID,Crystal Palace,Spurs,90,0,0,1,0,10,1,0,0,0,0,0,4.2,10.2,13.1,19.0,False,1,2.0,4.0,-2.0
+Wilfried Zaha,MID,Crystal Palace,Bournemouth,50,0,0,0,0,4,0,0,0,0,0,0,3.9,0.0,17.3,23.0,True,1,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Wilfried Zaha,MID,Crystal Palace,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0

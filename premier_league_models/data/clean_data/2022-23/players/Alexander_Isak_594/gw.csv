@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Alexander Isak,FWD,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Liverpool,63,1,0,1,0,26,0,0,0,0,0,0,5.3,34.2,0.8,18.0,False,7,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Crystal Palace,90,0,0,0,1,-3,0,0,0,0,0,0,9.6,9.4,10.8,76.0,True,2,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Bournemouth,90,1,0,1,0,35,0,0,0,0,0,0,12.9,46.8,23.3,59.0,True,9,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alexander Isak,FWD,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alexander Isak,FWD,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Fulham,19,1,0,0,0,26,0,0,0,0,0,0,8.1,35.6,10.8,35.0,True,8,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Crystal Palace,21,0,0,0,0,-2,0,0,0,0,0,0,3.6,4.0,10.5,21.0,False,1,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alexander Isak,FWD,Newcastle,Bournemouth,90,0,0,1,0,3,0,0,0,0,0,0,6.9,10.2,26.9,32.0,False,2,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Liverpool,63,0,0,2,0,5,0,0,0,0,0,0,2.0,3.8,2.0,14.0,True,2,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Man City,28,0,0,1,0,7,0,0,0,0,0,0,5.2,8.0,4.3,40.0,False,1,4.0,5.0,-1.0
+Alexander Isak,FWD,Newcastle,Wolves,67,1,0,0,1,26,1,0,0,0,0,0,8.9,40.6,1.4,47.0,True,7,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Nott'm Forest,90,2,0,1,0,54,0,0,0,0,0,0,15.9,75.0,13.0,71.0,False,13,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Man Utd,79,0,0,0,1,7,0,0,0,0,0,0,9.5,13.4,35.0,47.0,True,2,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,West Ham,26,1,0,0,0,27,0,0,0,0,0,0,4.8,35.2,1.7,11.0,False,6,4.0,3.0,1.0
+Alexander Isak,FWD,Newcastle,Brentford,86,1,0,1,0,20,1,0,0,0,0,0,6.5,30.8,7.9,26.0,False,5,4.0,3.0,1.0
+Alexander Isak,FWD,Newcastle,Aston Villa,90,0,0,3,0,4,0,0,0,0,0,0,4.3,8.2,6.3,28.0,False,2,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Spurs,65,2,0,1,0,52,0,0,0,0,0,0,11.9,65.0,2.3,52.0,True,13,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Everton,16,0,0,1,0,6,0,0,0,0,0,0,2.2,3.4,0.7,18.0,False,1,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Southampton,90,0,1,1,0,32,0,0,0,0,0,0,7.9,29.6,45.8,4.0,True,7,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Arsenal,90,0,0,2,0,6,0,0,0,0,0,0,3.8,5.2,13.4,19.0,True,2,4.0,4.0,0.0
+Alexander Isak,FWD,Newcastle,Leeds,90,0,1,2,0,12,0,0,0,0,0,0,2.7,7.2,6.1,14.0,False,5,4.0,2.0,2.0
+Alexander Isak,FWD,Newcastle,Brighton,90,0,0,1,0,6,0,0,0,0,0,0,4.8,9.4,11.5,27.0,True,2,4.0,3.0,1.0
+Alexander Isak,FWD,Newcastle,Leicester,90,0,0,0,1,2,1,0,0,0,0,0,4.3,0.0,9.6,34.0,True,1,4.0,3.0,1.0
+Alexander Isak,FWD,Newcastle,Chelsea,87,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,4.0,4.0,0.0

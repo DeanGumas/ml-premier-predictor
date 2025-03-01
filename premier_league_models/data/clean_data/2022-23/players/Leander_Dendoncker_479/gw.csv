@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Leander Dendoncker,MID,Wolves,Leeds,90,0,0,2,0,21,0,0,0,0,0,0,7.8,24.4,16.5,37.0,False,2,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Fulham,90,0,0,0,1,12,0,0,0,0,0,0,1.4,10.0,2.2,2.0,True,3,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Spurs,32,0,0,1,0,5,0,0,0,0,0,0,1.7,4.4,10.3,2.0,False,1,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Newcastle,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Leander Dendoncker,MID,Wolves,Southampton,23,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Nott'm Forest,13,0,0,0,0,3,0,0,0,0,0,0,0.4,1.8,2.3,0.0,False,1,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Chelsea,12,0,0,0,0,3,0,0,0,0,0,0,1.3,2.4,10.8,0.0,True,1,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Fulham,21,0,0,1,0,3,0,0,0,0,0,0,0.3,0.2,0.4,2.0,False,1,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Brentford,62,0,0,0,1,14,0,0,0,0,0,0,3.9,15.6,11.0,12.0,True,3,2.0,3.0,-1.0
+Leander Dendoncker,MID,Wolves,Newcastle,68,0,0,4,0,9,0,0,0,0,0,0,1.3,9.8,2.9,0.0,False,2,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Man Utd,89,0,0,1,0,8,0,0,0,0,0,0,1.3,12.2,0.5,0.0,True,2,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Brighton,7,0,0,0,0,4,0,0,0,0,0,0,0.6,6.2,0.0,0.0,False,1,2.0,3.0,-1.0
+Leander Dendoncker,MID,Wolves,Liverpool,4,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.2,0.0,True,1,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Wolves,23,0,0,0,0,8,0,0,0,0,0,0,4.2,8.6,31.3,2.0,True,1,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Southampton,2,0,0,0,0,3,0,0,0,0,0,0,0.2,1.6,0.3,0.0,False,1,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Leicester,8,0,0,0,0,3,0,0,0,0,0,0,0.2,0.8,0.7,0.0,True,1,2.0,3.0,-1.0
+Leander Dendoncker,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Leander Dendoncker,MID,Wolves,Arsenal,23,0,0,2,0,3,0,0,0,0,0,0,0.8,5.2,0.4,2.0,True,1,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Leander Dendoncker,MID,Wolves,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Chelsea,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Leander Dendoncker,MID,Wolves,Nott'm Forest,15,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Newcastle,90,0,0,0,1,16,0,0,0,0,0,0,1.8,15.6,1.3,1.0,True,3,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Brentford,65,0,0,1,0,8,0,0,0,0,0,0,1.3,10.0,1.2,2.0,False,2,2.0,3.0,-1.0
+Leander Dendoncker,MID,Wolves,Fulham,90,0,0,0,1,13,0,0,0,0,0,0,1.1,6.0,2.9,2.0,True,3,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Man Utd,63,0,0,1,0,9,0,0,0,0,0,0,0.5,4.0,0.7,0.0,False,2,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Leander Dendoncker,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Liverpool,3,0,0,1,0,4,0,0,0,0,0,0,0.3,3.2,0.1,0.0,False,1,2.0,4.0,-2.0
+Leander Dendoncker,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

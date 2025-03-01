@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Joseph Gomez,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Crystal Palace,27,0,0,0,0,11,0,0,0,0,0,0,1.1,9.4,1.3,0.0,True,1,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Man Utd,90,0,0,2,0,17,0,0,0,0,0,0,2.3,21.0,2.3,0.0,False,1,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Bournemouth,90,0,0,0,1,26,0,0,0,0,0,0,2.0,17.8,2.6,0.0,True,6,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Newcastle,90,0,0,1,0,13,0,0,0,0,0,0,2.3,9.8,2.2,11.0,True,2,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Everton,90,0,0,0,1,34,0,0,0,0,0,0,4.1,29.4,11.3,0.0,False,9,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Arsenal,45,0,0,1,0,5,1,0,0,0,0,0,1.4,12.6,1.1,0.0,False,0,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Man City,90,0,0,0,1,26,0,0,0,0,0,0,2.2,22.0,0.3,0.0,True,8,4.0,5.0,-1.0
+Joseph Gomez,DEF,Liverpool,West Ham,90,0,0,0,1,23,0,0,0,0,0,0,0.5,4.4,0.3,0.0,True,6,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Nott'm Forest,90,0,0,1,0,9,1,0,0,0,0,0,2.5,20.8,3.8,0.0,False,1,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Leeds,90,0,0,2,0,10,0,0,0,0,0,0,2.5,18.8,1.7,4.0,True,1,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Spurs,3,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Southampton,90,0,0,1,0,16,0,0,0,0,0,0,1.7,16.2,0.9,0.0,True,2,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Aston Villa,11,0,0,0,0,2,0,0,0,0,0,0,0.2,1.8,0.1,0.0,False,1,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Leicester,4,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Brighton,21,0,0,1,0,4,0,0,0,0,0,0,0.8,7.4,0.1,0.0,False,1,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Chelsea,90,0,0,0,1,30,0,0,0,0,0,0,2.8,24.8,1.1,2.0,True,7,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Wolves,90,0,0,3,0,11,1,0,0,0,0,0,2.8,23.6,2.8,2.0,False,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Everton,90,0,0,0,1,30,0,0,0,0,0,0,2.5,22.2,1.8,1.0,True,8,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Newcastle,90,0,0,0,1,27,0,0,0,0,0,0,2.4,17.0,7.2,0.0,False,6,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Joseph Gomez,DEF,Liverpool,Chelsea,90,0,0,0,1,25,0,0,0,0,0,0,2.6,16.8,2.5,7.0,False,6,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Joseph Gomez,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Joseph Gomez,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Joseph Gomez,DEF,Liverpool,Southampton,90,0,0,4,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

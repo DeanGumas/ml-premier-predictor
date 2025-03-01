@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Aaron Hickey,DEF,Brentford,Leicester,83,0,0,2,0,8,0,0,0,0,0,0,0.4,1.8,2.2,0.0,False,1,3.0,3.0,0.0
+Aaron Hickey,DEF,Brentford,Man Utd,79,0,0,0,1,19,0,0,0,0,0,0,3.2,8.8,2.2,21.0,True,6,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Fulham,59,0,0,2,0,3,0,0,0,0,0,0,0.2,2.0,0.3,0.0,False,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Everton,90,0,0,1,0,10,1,0,0,0,0,0,4.5,12.6,13.9,18.0,True,1,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Crystal Palace,78,0,0,1,0,17,1,0,0,0,0,0,2.4,22.8,1.4,0.0,False,1,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Leeds,90,0,0,2,0,7,1,0,0,0,0,0,2.2,17.2,4.4,0.0,True,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Arsenal,90,0,0,3,0,14,0,0,0,0,0,0,2.0,17.6,2.5,0.0,True,1,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Bournemouth,29,0,0,0,0,-2,1,0,0,0,0,0,0.3,1.8,1.5,0.0,False,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Newcastle,82,0,1,4,0,14,0,0,0,0,0,0,2.2,14.2,1.6,6.0,False,3,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Aaron Hickey,DEF,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Aaron Hickey,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Aaron Hickey,DEF,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Southampton,60,0,0,0,1,19,0,0,0,0,0,0,1.1,2.6,1.5,7.0,True,6,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Crystal Palace,75,0,0,1,0,13,0,0,0,0,0,0,2.8,9.0,1.8,17.0,True,2,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Fulham,90,0,1,1,0,18,0,0,0,0,0,0,1.5,10.4,1.1,3.0,True,5,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Everton,73,0,0,1,0,16,0,0,0,0,0,0,3.6,14.2,16.0,6.0,False,2,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Southampton,90,0,0,0,1,15,1,0,0,0,0,0,0.9,9.0,0.2,0.0,False,5,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Leicester,90,0,0,1,0,23,0,0,0,0,0,0,3.4,26.4,7.3,0.0,True,4,3.0,3.0,0.0
+Aaron Hickey,DEF,Brentford,Brighton,90,0,0,3,0,0,1,0,0,0,0,0,0.0,0.0,0.1,0.0,False,0,3.0,3.0,0.0
+Aaron Hickey,DEF,Brentford,Man Utd,15,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.8,1.0,False,1,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Newcastle,73,0,0,2,0,11,0,0,0,0,0,0,0.3,2.4,0.5,0.0,True,1,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Wolves,73,0,0,2,0,9,0,0,0,0,0,0,0.8,4.2,1.5,2.0,False,1,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Aston Villa,90,0,0,1,0,6,0,0,0,0,0,0,1.5,4.8,0.8,9.0,True,2,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Nott'm Forest,90,0,0,1,0,14,0,0,0,0,0,0,2.3,8.8,11.3,3.0,True,2,3.0,2.0,1.0
+Aaron Hickey,DEF,Brentford,Liverpool,87,0,0,1,0,5,0,0,0,0,0,0,1.6,4.2,11.3,0.0,False,2,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,West Ham,84,0,0,0,1,23,1,0,0,0,0,0,3.7,10.2,21.9,5.0,True,5,3.0,3.0,0.0
+Aaron Hickey,DEF,Brentford,Spurs,88,0,1,1,0,23,0,0,0,0,0,0,3.2,18.6,13.7,0.0,False,5,3.0,4.0,-1.0
+Aaron Hickey,DEF,Brentford,Man City,69,0,0,0,1,20,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,6,3.0,5.0,-2.0

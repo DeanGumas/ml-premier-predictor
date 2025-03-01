@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Diego Carlos Santos Silva,DEF,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Wolves,90,0,0,1,0,7,0,0,0,0,0,0,2.2,20.0,1.9,0.0,True,2,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Ipswich,90,0,0,2,0,1,0,0,0,0,0,0,1.1,9.4,1.6,0.0,False,1,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Man Utd,78,0,0,0,1,28,0,0,0,0,0,0,1.6,14.6,0.9,0.0,True,6,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Fulham,90,0,0,1,0,8,0,0,0,0,0,0,1.5,14.8,0.3,0.0,False,2,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Spurs,30,0,0,3,0,-14,0,0,0,0,0,0,0.5,0.4,0.7,4.0,False,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Liverpool,90,0,0,2,0,-1,0,0,0,0,0,0,3.9,5.4,0.1,33.0,False,1,3.0,5.0,-2.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Crystal Palace,90,0,0,2,0,4,1,0,0,0,0,0,2.8,20.2,1.8,6.0,True,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Southampton,90,0,0,0,1,25,0,0,0,0,0,0,2.9,19.6,0.1,9.0,True,7,3.0,2.0,1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Nott'm Forest,90,0,0,2,0,9,0,0,0,0,0,0,2.6,25.6,0.8,0.0,False,1,3.0,4.0,-1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Brighton,90,0,0,2,0,2,0,0,0,0,0,0,2.4,20.6,1.0,2.0,True,1,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Diego Carlos Santos Silva,DEF,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Diego Carlos Santos Silva,DEF,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ryan Fredericks,DEF,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Ryan Fredericks,DEF,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Wolves,21,0,0,0,0,3,0,0,0,0,0,0,0.5,4.2,0.3,0.0,True,1,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Nott'm Forest,45,0,0,0,0,3,0,0,0,0,0,0,0.6,4.8,1.2,0.0,False,1,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Leicester,71,0,0,1,0,3,1,0,0,0,0,0,0.7,0.8,3.7,2.0,True,1,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Fulham,90,0,0,2,0,8,0,0,0,0,0,0,0.8,7.6,0.5,0.0,False,1,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Southampton,82,0,0,1,0,11,0,0,0,0,0,0,3.3,12.4,18.3,2.0,True,2,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,West Ham,56,0,0,1,0,7,0,0,0,0,0,0,1.0,4.8,0.8,4.0,False,1,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Spurs,12,0,0,1,0,3,0,0,0,0,0,0,0.2,2.0,0.3,0.0,True,1,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Leeds,72,0,0,3,0,6,0,0,0,0,0,0,0.8,7.6,0.3,0.0,False,1,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Newcastle,11,0,0,0,0,6,0,0,0,0,0,0,0.8,6.0,0.0,2.0,True,1,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Man City,31,0,0,0,0,4,0,0,0,0,0,0,0.5,2.6,0.7,2.0,True,1,2.0,5.0,-3.0
+Ryan Fredericks,DEF,Bournemouth,Arsenal,26,0,0,2,0,5,0,0,0,0,0,0,1.2,11.2,0.6,0.0,False,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Liverpool,10,0,0,0,0,4,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ryan Fredericks,DEF,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Ryan Fredericks,DEF,Bournemouth,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Ryan Fredericks,DEF,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0

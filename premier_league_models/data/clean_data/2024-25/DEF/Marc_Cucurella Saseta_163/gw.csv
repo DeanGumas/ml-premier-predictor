@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Marc Cucurella Saseta,DEF,Chelsea,Man City,79,0,0,1,0,16,0,0,0,0,0,0,2.4,18.0,4.0,2.0,True,2,4.0,4.0,0.0
+Marc Cucurella Saseta,DEF,Chelsea,Wolves,82,0,0,2,0,7,1,0,0,0,0,0,1.4,9.2,5.2,0.0,False,0,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,2.4,17.6,4.3,2.0,True,2,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Bournemouth,90,0,0,0,1,21,1,0,0,0,0,0,1.2,2.2,3.7,6.0,False,5,4.0,4.0,0.0
+Marc Cucurella Saseta,DEF,Chelsea,West Ham,90,0,0,0,1,28,1,0,0,0,0,0,2.2,21.0,1.4,0.0,False,5,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Brighton,69,0,0,2,0,1,1,0,0,0,0,0,3.6,19.2,14.4,2.0,True,0,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Nott'm Forest,90,0,0,1,0,5,1,0,0,0,0,0,1.4,8.4,3.3,2.0,True,1,4.0,4.0,0.0
+Marc Cucurella Saseta,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Marc Cucurella Saseta,DEF,Chelsea,Newcastle,12,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.2,0.0,True,1,4.0,4.0,0.0
+Marc Cucurella Saseta,DEF,Chelsea,Man Utd,45,0,0,1,0,-1,0,0,0,0,0,0,2.3,7.2,11.3,4.0,False,1,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Arsenal,90,0,0,1,0,15,1,0,0,0,0,0,1.8,16.0,2.1,0.0,True,1,4.0,4.0,0.0
+Marc Cucurella Saseta,DEF,Chelsea,Leicester,90,0,0,1,0,11,0,0,0,0,0,0,4.0,13.4,18.7,8.0,False,2,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Aston Villa,90,0,1,0,1,38,0,0,0,0,0,0,2.8,20.2,6.0,2.0,True,11,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Southampton,78,0,0,1,0,6,0,0,0,0,0,0,2.5,5.6,12.9,6.0,False,2,4.0,2.0,2.0
+Marc Cucurella Saseta,DEF,Chelsea,Spurs,90,0,1,2,0,14,0,0,0,0,0,0,5.7,17.8,34.5,5.0,False,4,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Brentford,90,1,0,1,0,19,0,1,0,0,0,0,7.4,38.8,14.3,21.0,True,5,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Fulham,90,0,0,2,0,3,0,0,0,0,0,0,4.7,10.0,12.6,24.0,True,1,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Ipswich,90,0,0,2,0,6,0,0,0,0,0,0,2.4,5.4,6.8,12.0,False,1,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Crystal Palace,90,0,0,1,0,12,0,0,0,0,0,0,2.5,17.6,5.1,2.0,False,2,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Bournemouth,90,0,0,2,0,-1,0,0,0,0,0,0,2.4,2.8,12.9,8.0,True,1,4.0,4.0,0.0
+Marc Cucurella Saseta,DEF,Chelsea,Wolves,90,1,0,1,0,25,0,0,0,0,0,0,9.2,41.4,11.3,39.0,True,9,4.0,3.0,1.0
+Marc Cucurella Saseta,DEF,Chelsea,Man City,90,0,0,3,0,2,0,0,0,0,0,0,2.8,9.0,14.5,4.0,False,1,4.0,4.0,0.0

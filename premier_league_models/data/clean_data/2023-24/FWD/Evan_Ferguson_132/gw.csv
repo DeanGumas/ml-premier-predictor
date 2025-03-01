@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Evan Ferguson,FWD,Brighton,Luton,12,1,0,1,0,25,0,0,0,0,0,0,8.0,32.2,10.6,37.0,True,5,3.0,2.0,1.0
+Evan Ferguson,FWD,Brighton,Wolves,23,0,0,0,0,-1,0,0,0,0,0,0,0.8,2.0,1.5,4.0,False,1,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,West Ham,90,0,0,3,0,-2,0,0,0,0,0,0,8.4,10.2,3.5,70.0,True,2,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Newcastle,80,3,0,0,1,81,0,0,0,0,0,0,15.9,103.4,3.1,52.0,True,17,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Man Utd,5,0,0,0,0,1,0,0,0,0,0,0,2.2,3.2,1.9,17.0,False,1,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Bournemouth,45,0,0,1,0,3,0,0,0,0,0,0,2.6,6.2,11.1,9.0,True,1,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Aston Villa,45,0,0,3,0,-3,0,0,0,0,0,0,0.0,0.0,1.7,0.0,False,1,3.0,4.0,-1.0
+Evan Ferguson,FWD,Brighton,Liverpool,59,0,0,2,0,1,0,0,0,0,0,0,1.7,4.4,11.2,1.0,True,1,3.0,4.0,-1.0
+Evan Ferguson,FWD,Brighton,Man City,74,0,0,1,0,3,0,0,0,0,0,0,0.4,0.4,1.1,2.0,False,2,3.0,5.0,-2.0
+Evan Ferguson,FWD,Brighton,Fulham,77,1,0,1,0,23,0,0,0,0,0,0,6.1,35.2,2.1,24.0,True,8,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Everton,67,0,0,1,0,6,0,0,0,0,0,0,1.5,1.0,12.1,2.0,False,2,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Evan Ferguson,FWD,Brighton,Nott'm Forest,76,1,0,2,0,32,1,0,0,0,0,0,6.5,41.4,2.3,21.0,False,5,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Chelsea,90,0,0,3,0,5,0,0,0,0,0,0,2.8,3.4,0.9,24.0,False,2,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Brentford,21,0,0,0,0,2,0,0,0,0,0,0,0.4,0.2,1.3,2.0,True,1,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Burnley,90,0,0,1,0,8,0,0,0,0,0,0,4.3,5.0,11.3,27.0,True,2,3.0,2.0,1.0
+Evan Ferguson,FWD,Brighton,Arsenal,59,0,0,1,0,1,0,0,0,0,0,0,1.0,6.6,1.0,2.0,False,1,3.0,5.0,-2.0
+Evan Ferguson,FWD,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Spurs,21,0,1,2,0,11,0,0,0,0,0,0,0.4,1.0,0.6,2.0,True,4,3.0,4.0,-1.0
+Evan Ferguson,FWD,Brighton,West Ham,23,0,0,0,0,3,0,0,0,0,0,0,1.2,0.0,0.8,13.0,False,1,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Wolves,25,0,0,0,0,1,0,0,0,0,0,0,0.6,0.0,1.2,5.0,True,1,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Luton,45,0,0,1,0,1,0,0,0,0,0,0,0.2,2.4,0.0,0.0,False,1,3.0,2.0,1.0
+Evan Ferguson,FWD,Brighton,Crystal Palace,68,0,0,0,1,4,0,0,0,0,0,0,2.5,0.4,7.5,17.0,True,2,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Spurs,7,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,3.0,4.0,-1.0
+Evan Ferguson,FWD,Brighton,Sheffield Utd,24,0,0,0,0,2,0,0,0,0,0,0,2.0,3.0,0.3,17.0,False,1,3.0,2.0,1.0
+Evan Ferguson,FWD,Brighton,Everton,74,0,0,1,0,8,0,0,0,0,0,0,2.8,9.2,11.5,7.0,True,2,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Fulham,90,0,0,3,0,-6,0,0,0,0,0,0,3.7,0.6,2.5,34.0,False,2,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Nott'm Forest,59,0,0,0,0,3,0,0,0,0,0,0,1.2,2.6,5.3,4.0,True,1,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Liverpool,7,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Evan Ferguson,FWD,Brighton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Evan Ferguson,FWD,Brighton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Evan Ferguson,FWD,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Evan Ferguson,FWD,Brighton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Evan Ferguson,FWD,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Evan Ferguson,FWD,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Luis Sinisterra Lucumí,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Southampton,6,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,1.5,0.0,False,1,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Chelsea,20,0,0,0,0,0,0,0,0,0,0,0,0.2,1.6,0.8,0.0,True,1,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Brighton,31,0,0,1,0,-2,0,0,0,0,0,0,0.7,0.0,1.0,7.0,False,1,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Everton,63,1,0,1,0,25,0,0,0,0,0,0,7.2,39.0,21.7,11.0,True,10,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Brentford,58,1,0,3,0,24,1,0,0,0,0,0,7.0,39.0,7.3,24.0,False,5,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Aston Villa,47,0,0,0,0,-1,0,1,0,0,0,0,0.8,0.6,1.5,6.0,True,-2,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Arsenal,88,0,0,1,0,12,0,0,0,0,0,0,9.3,13.0,27.3,53.0,True,2,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Leicester,74,0,0,2,0,4,0,0,0,0,0,0,2.2,4.2,6.4,11.0,False,2,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Fulham,63,0,0,1,0,14,0,0,0,0,0,0,2.4,5.6,13.9,4.0,True,2,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Luis Sinisterra Lucumí,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Brentford,21,0,0,0,0,2,0,0,0,0,0,0,0.5,2.0,0.6,2.0,True,1,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Nott'm Forest,56,0,0,1,0,-4,0,0,0,0,0,0,5.5,6.4,4.7,44.0,False,1,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Man Utd,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Arsenal,64,0,0,3,0,12,0,0,0,0,0,0,2.5,9.6,15.3,0.0,False,2,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Nott'm Forest,73,1,0,1,0,34,0,0,0,0,0,0,11.5,46.4,25.3,43.0,True,10,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Crystal Palace,59,0,0,3,0,2,0,0,0,0,0,0,5.3,8.0,12.6,32.0,True,1,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Liverpool,76,1,0,5,0,20,0,0,0,0,0,0,7.0,35.0,12.1,23.0,True,7,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,Fulham,25,0,0,1,0,3,0,0,0,0,0,0,1.5,2.0,4.5,8.0,False,1,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Leicester,31,1,0,0,0,19,0,0,0,0,0,0,6.8,30.2,1.2,37.0,True,6,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Luis Sinisterra Lucumí,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Luis Sinisterra Lucumí,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Luis Sinisterra Lucumí,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Luis Sinisterra Lucumí,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

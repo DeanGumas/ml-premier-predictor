@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cameron Archer,FWD,Southampton,Newcastle,19,0,0,0,0,4,0,0,0,0,0,0,2.3,1.0,0.1,22.0,False,1,2.0,4.0,-2.0
+Cameron Archer,FWD,Southampton,Nott'm Forest,18,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1,2.0,4.0,-2.0
+Cameron Archer,FWD,Southampton,Brentford,45,0,0,2,0,4,0,0,0,0,0,0,0.5,4.2,0.5,0.0,False,1,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Man Utd,61,0,0,2,0,-5,0,0,0,0,1,0,4.9,4.2,1.7,43.0,True,0,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Ipswich,58,0,0,0,0,-7,0,0,0,0,0,0,3.8,1.0,3.0,34.0,True,1,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Bournemouth,14,0,0,0,0,4,0,0,0,0,0,0,0.7,1.2,3.8,2.0,False,1,2.0,4.0,-2.0
+Cameron Archer,FWD,Southampton,Arsenal,63,1,0,3,0,32,0,0,0,0,0,0,5.3,34.2,1.6,17.0,False,7,2.0,4.0,-2.0
+Cameron Archer,FWD,Southampton,Leicester,67,1,0,1,0,31,0,0,0,0,0,0,11.2,31.2,1.4,79.0,True,9,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Man City,86,0,0,1,0,1,0,0,0,0,0,0,1.2,4.2,1.3,6.0,False,2,2.0,4.0,-2.0
+Cameron Archer,FWD,Southampton,Everton,90,0,0,0,1,7,0,0,0,0,0,0,2.5,3.6,11.2,10.0,True,2,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Wolves,72,0,0,2,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,2,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Liverpool,13,0,0,1,0,3,0,0,0,0,0,0,0.5,1.2,2.1,2.0,True,1,2.0,5.0,-3.0
+Cameron Archer,FWD,Southampton,Brighton,87,0,0,1,0,3,0,0,0,0,0,0,1.5,0.2,2.2,13.0,False,2,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Chelsea,71,0,0,3,0,6,0,0,0,0,0,0,2.1,3.6,3.7,14.0,True,2,2.0,4.0,-2.0
+Cameron Archer,FWD,Southampton,Aston Villa,72,0,0,1,0,1,0,0,0,0,0,0,2.1,0.0,5.2,16.0,False,2,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Spurs,8,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Fulham,45,0,0,0,0,3,0,0,0,0,0,0,0.4,0.2,0.1,4.0,False,1,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Crystal Palace,25,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,1.6,0.0,False,1,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Brentford,35,0,0,4,0,5,0,0,0,0,0,0,0.7,2.2,2.3,2.0,True,1,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Cameron Archer,FWD,Southampton,Nott'm Forest,57,0,0,3,0,1,0,0,0,0,0,0,2.2,3.0,14.8,4.0,False,1,2.0,4.0,-2.0
+Cameron Archer,FWD,Southampton,Newcastle,30,0,0,0,0,2,0,0,0,0,0,0,0.6,0.0,0.5,6.0,True,1,2.0,4.0,-2.0

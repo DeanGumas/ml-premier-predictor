@@ -1,0 +1,34 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Manuel Akanji,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Wolves,90,0,0,0,1,25,0,0,0,0,0,0,1.9,17.6,1.5,0.0,False,6,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Man Utd,90,0,0,3,0,19,0,0,0,0,0,0,3.4,15.0,1.0,18.0,True,1,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Southampton,90,0,0,0,1,31,0,0,0,0,0,0,4.4,16.8,1.6,26.0,True,7,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Liverpool,90,0,0,1,0,7,1,0,0,0,0,0,0.6,4.4,1.4,0.0,False,1,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,1.8,14.0,3.7,0.0,True,2,5.0,3.0,2.0
+Manuel Akanji,DEF,Man City,Leicester,71,0,0,0,1,22,0,0,0,0,0,0,3.3,8.6,10.2,14.0,False,6,5.0,3.0,2.0
+Manuel Akanji,DEF,Man City,Fulham,90,0,0,1,0,9,0,0,0,0,0,0,4.4,10.6,2.0,31.0,True,2,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Brentford,90,0,1,2,0,25,0,0,0,0,0,0,7.0,29.2,34.2,7.0,True,5,5.0,3.0,2.0
+Manuel Akanji,DEF,Man City,Leeds,90,0,0,1,0,14,0,0,0,0,0,0,1.8,14.8,1.3,2.0,False,2,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Everton,90,0,0,1,0,14,0,0,0,0,0,0,1.7,11.6,3.6,2.0,True,2,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Chelsea,45,0,0,0,0,12,0,0,0,0,0,0,1.0,8.8,1.3,0.0,False,1,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Man Utd,90,0,0,2,0,16,0,0,0,0,0,0,2.7,22.6,2.2,2.0,False,1,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Spurs,90,0,0,2,0,18,0,0,0,0,0,0,1.3,11.4,1.7,0.0,True,1,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Wolves,90,0,0,0,1,25,0,0,0,0,0,0,2.4,20.2,1.3,2.0,True,6,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Spurs,90,0,0,1,0,17,0,0,0,0,0,0,8.6,30.4,15.4,40.0,False,2,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Aston Villa,45,0,0,1,0,9,0,0,0,0,0,0,0.5,4.6,0.3,0.0,True,1,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Arsenal,29,0,0,0,0,4,0,0,0,0,0,0,0.9,4.0,0.0,5.0,False,1,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Bournemouth,90,0,0,1,0,14,1,0,0,0,0,0,2.1,15.0,4.3,2.0,False,1,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Newcastle,90,0,0,0,1,25,0,0,0,0,0,0,0.9,7.6,1.0,0.0,True,6,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Crystal Palace,90,0,0,0,1,25,0,0,0,0,0,0,4.0,20.6,14.8,5.0,False,9,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Liverpool,90,0,0,1,0,13,0,0,0,0,0,0,1.9,14.4,2.8,2.0,True,2,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Southampton,90,0,0,1,0,13,0,0,0,0,0,0,0.8,6.6,1.1,0.0,False,2,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Leicester,45,0,0,1,0,14,0,0,0,0,0,0,1.4,12.4,1.1,0.0,True,1,5.0,3.0,2.0
+Manuel Akanji,DEF,Man City,Arsenal,90,0,0,1,0,10,0,0,0,0,0,0,1.8,11.2,1.1,6.0,True,2,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Fulham,90,0,0,1,0,14,0,0,0,0,0,0,4.8,19.2,24.3,4.0,False,2,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,West Ham,13,0,0,0,0,3,0,0,0,0,0,0,0.2,1.6,0.5,0.0,True,1,5.0,3.0,2.0
+Manuel Akanji,DEF,Man City,Leeds,90,0,0,1,0,11,0,0,0,0,0,0,2.4,11.6,4.5,8.0,True,2,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Everton,90,0,0,0,1,27,0,0,0,0,0,0,2.3,11.8,6.8,4.0,False,6,5.0,2.0,3.0
+Manuel Akanji,DEF,Man City,Chelsea,56,0,0,0,0,12,0,0,0,0,0,0,1.1,9.0,1.5,0.0,True,1,5.0,4.0,1.0
+Manuel Akanji,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Manuel Akanji,DEF,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0

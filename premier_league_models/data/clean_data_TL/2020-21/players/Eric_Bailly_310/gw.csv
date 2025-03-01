@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Eric Bailly,DEF,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-19T16:30:00Z,0
+Eric Bailly,DEF,Man Utd,Brighton,8,0,0,1,0,3,0,0,0,0,0,0,0.1,1.2,0.0,0.0,False,2020-09-26T11:30:00Z,1
+Eric Bailly,DEF,Man Utd,Spurs,90,0,0,6,0,8,1,0,0,0,0,0,2.4,23.8,0.1,0.0,True,2020-10-04T15:30:00Z,-2
+Eric Bailly,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-17T19:00:00Z,0
+Eric Bailly,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-24T16:30:00Z,0
+Eric Bailly,DEF,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-01T16:30:00Z,0
+Eric Bailly,DEF,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-07T12:30:00Z,0
+Eric Bailly,DEF,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-21T20:00:00Z,0
+Eric Bailly,DEF,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-29T14:00:00Z,0
+Eric Bailly,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-05T17:30:00Z,0
+Eric Bailly,DEF,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-12T17:30:00Z,0
+Eric Bailly,DEF,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-17T20:00:00Z,0
+Eric Bailly,DEF,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-20T16:30:00Z,0
+Eric Bailly,DEF,Man Utd,Leicester,90,0,0,2,0,16,0,0,0,0,0,0,1.5,14.2,0.5,0.0,False,2020-12-26T12:30:00Z,1
+Eric Bailly,DEF,Man Utd,Wolves,90,0,0,0,1,30,0,0,0,0,0,0,3.3,12.2,0.9,20.0,True,2020-12-29T20:00:00Z,9
+Eric Bailly,DEF,Man Utd,Aston Villa,90,0,0,1,0,13,1,0,0,0,0,0,1.9,18.4,0.6,0.0,True,2021-01-01T20:00:00Z,1
+Eric Bailly,DEF,Man Utd,Burnley,90,0,0,0,1,27,0,0,0,0,0,0,2.8,27.2,0.5,0.0,False,2021-01-12T20:15:00Z,7
+Eric Bailly,DEF,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-17T16:30:00Z,0
+Eric Bailly,DEF,Man Utd,Fulham,90,0,0,1,0,22,0,0,0,0,0,0,3.2,29.0,2.5,0.0,False,2021-01-20T20:15:00Z,2
+Eric Bailly,DEF,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-27T20:15:00Z,0
+Eric Bailly,DEF,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-30T17:30:00Z,0
+Eric Bailly,DEF,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-02T20:15:00Z,0
+Eric Bailly,DEF,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-06T20:00:00Z,0
+Eric Bailly,DEF,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-14T14:00:00Z,0
+Eric Bailly,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-21T19:00:00Z,0
+Eric Bailly,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-28T16:30:00Z,0
+Eric Bailly,DEF,Man Utd,Crystal Palace,90,0,0,0,1,25,0,0,0,0,0,0,1.2,9.4,0.9,2.0,False,2021-03-03T20:15:00Z,8
+Eric Bailly,DEF,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-07T16:30:00Z,0
+Eric Bailly,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-14T19:15:00Z,0
+Eric Bailly,DEF,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-04T18:30:00Z,0
+Eric Bailly,DEF,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-11T15:30:00Z,0
+Eric Bailly,DEF,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-18T15:00:00Z,0
+Eric Bailly,DEF,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-25T13:00:00Z,0
+Eric Bailly,DEF,Man Utd,Aston Villa,12,0,0,0,0,4,0,0,0,0,0,0,0.5,4.6,0.0,0.0,False,2021-05-09T13:05:00Z,1
+Eric Bailly,DEF,Man Utd,Leicester,90,0,0,2,0,13,0,0,0,0,0,0,1.4,12.4,1.1,0.0,True,2021-05-11T17:00:00Z,1
+Eric Bailly,DEF,Man Utd,Liverpool,85,0,0,3,0,9,1,0,0,0,0,0,1.1,10.2,0.9,0.0,True,2021-05-13T19:15:00Z,0
+Eric Bailly,DEF,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-18T17:00:00Z,0
+Eric Bailly,DEF,Man Utd,Wolves,90,0,0,1,0,8,0,0,0,0,0,0,1.7,13.0,0.3,4.0,False,2021-05-23T15:00:00Z,2

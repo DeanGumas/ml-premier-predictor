@@ -1,0 +1,23 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+João Félix Sequeira,FWD,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+João Félix Sequeira,FWD,Chelsea,Fulham,57,0,0,2,0,-8,0,1,0,0,0,0,0.0,0.0,0.0,0.0,False,-2,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+João Félix Sequeira,FWD,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,West Ham,90,1,0,1,0,35,0,0,0,0,0,0,11.9,50.6,35.8,33.0,False,9,4.0,3.0,1.0
+João Félix Sequeira,FWD,Chelsea,Southampton,90,0,0,1,0,-5,0,0,0,0,0,0,3.3,4.2,13.4,15.0,True,2,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Spurs,82,0,0,2,0,4,0,0,0,0,0,0,3.2,7.8,10.4,14.0,False,2,4.0,4.0,0.0
+João Félix Sequeira,FWD,Chelsea,Leeds,67,0,0,0,1,-1,0,0,0,0,0,0,2.9,1.8,14.7,12.0,True,2,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Leicester,45,0,0,1,0,-5,0,0,0,0,0,0,0.6,0.0,2.3,10.0,False,1,4.0,3.0,1.0
+João Félix Sequeira,FWD,Chelsea,Everton,85,1,0,1,0,31,0,0,0,0,0,0,9.7,38.6,6.4,52.0,True,8,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Aston Villa,90,0,0,2,0,12,0,0,0,0,0,0,8.6,19.6,17.6,49.0,True,2,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Liverpool,84,0,0,0,1,7,0,0,0,0,0,0,2.4,0.2,2.6,21.0,True,2,4.0,4.0,0.0
+João Félix Sequeira,FWD,Chelsea,Wolves,67,0,0,1,0,8,0,0,0,0,0,0,5.0,10.0,16.8,23.0,False,2,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Brighton,33,0,0,1,0,3,0,0,0,0,0,0,0.5,2.2,0.5,2.0,True,1,4.0,3.0,1.0
+João Félix Sequeira,FWD,Chelsea,Brentford,11,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.8,0.0,True,1,4.0,3.0,1.0
+João Félix Sequeira,FWD,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+João Félix Sequeira,FWD,Chelsea,Bournemouth,6,1,0,0,0,26,0,0,0,0,0,0,5.1,33.0,0.5,17.0,False,7,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Nott'm Forest,72,0,0,2,0,-4,1,0,0,0,0,0,3.3,0.0,8.1,26.0,True,1,4.0,2.0,2.0
+João Félix Sequeira,FWD,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+João Félix Sequeira,FWD,Chelsea,Man Utd,26,1,0,2,0,25,0,0,0,0,0,0,5.3,35.0,5.3,13.0,False,5,4.0,4.0,0.0
+João Félix Sequeira,FWD,Chelsea,Newcastle,31,0,0,0,0,-5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,4.0,0.0

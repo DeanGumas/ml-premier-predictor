@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Brennan Johnson,FWD,Nott'm Forest,Newcastle,90,0,0,2,0,3,0,0,0,0,0,0,0.6,0.0,0.9,6.0,False,2,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,West Ham,90,0,0,0,1,5,1,0,0,0,0,0,3.3,1.6,14.3,17.0,True,1,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Everton,90,1,0,1,0,32,0,0,0,0,0,0,7.6,38.0,10.8,27.0,False,9,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Spurs,90,0,0,2,0,5,1,0,0,0,0,0,3.1,1.6,3.3,26.0,True,1,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Man City,57,0,0,4,0,1,0,0,0,0,0,0,0.0,0.0,0.6,1.0,False,1,2.0,5.0,-3.0
+Brennan Johnson,FWD,Nott'm Forest,Bournemouth,84,1,0,2,0,28,0,0,0,0,0,0,8.7,34.2,12.0,41.0,True,7,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Fulham,90,0,0,3,0,6,0,0,0,0,0,0,1.5,1.4,11.3,2.0,True,2,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Leicester,90,0,0,4,0,5,0,0,0,0,0,0,4.9,11.0,13.4,25.0,False,2,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Aston Villa,90,0,0,1,0,6,0,0,0,0,0,0,3.0,4.4,15.6,10.0,True,2,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Wolves,90,0,0,1,0,-2,0,0,0,0,1,0,4.5,6.6,1.8,37.0,False,0,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Brighton,85,0,0,0,1,4,0,0,0,0,0,0,0.3,0.0,0.3,4.0,False,2,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Liverpool,26,0,0,0,0,-2,0,0,0,0,0,0,2.0,3.0,0.0,17.0,True,1,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Arsenal,34,0,0,2,0,1,0,0,0,0,0,0,0.0,0.0,0.1,2.0,False,1,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Brentford,90,0,0,2,0,6,0,0,0,0,0,0,6.1,9.2,12.2,40.0,True,2,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Crystal Palace,90,0,1,0,1,18,0,0,0,0,0,0,4.5,8.4,11.5,25.0,True,5,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Man Utd,90,0,0,3,0,2,0,0,0,0,0,0,3.9,2.4,1.8,35.0,False,2,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Chelsea,81,0,0,1,0,5,0,0,0,0,0,0,7.0,9.4,11.3,49.0,True,2,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Southampton,83,0,1,0,1,12,1,0,0,0,0,0,6.5,24.2,31.1,10.0,False,4,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Leicester,85,2,0,0,1,57,1,0,0,0,0,0,11.6,69.4,10.9,36.0,True,12,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Bournemouth,90,0,1,1,0,17,0,0,0,0,0,0,9.5,23.8,26.4,45.0,False,5,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Leeds,90,1,0,0,1,34,0,0,0,0,0,0,8.8,46.4,24.5,17.0,True,9,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Fulham,90,0,0,2,0,5,0,0,0,0,0,0,2.4,3.4,15.1,5.0,False,2,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Man City,90,0,0,1,0,6,0,0,0,0,0,0,3.0,4.2,11.0,15.0,True,2,2.0,5.0,-3.0
+Brennan Johnson,FWD,Nott'm Forest,West Ham,85,0,0,4,0,6,0,0,0,0,0,0,3.5,5.2,22.2,8.0,False,2,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Everton,90,2,0,2,0,55,0,0,0,0,0,0,13.8,71.2,10.2,57.0,True,13,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Spurs,66,0,0,3,0,9,0,0,0,0,0,0,5.4,9.2,17.8,27.0,False,2,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Newcastle,90,0,0,2,0,3,0,0,0,0,0,0,3.7,8.2,2.9,26.0,True,2,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Wolves,90,1,0,1,0,21,1,0,0,0,0,0,10.0,32.4,2.6,65.0,True,7,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Leeds,90,0,0,2,0,-3,1,0,0,0,0,0,1.8,0.4,11.2,6.0,False,1,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Aston Villa,90,0,0,2,0,-2,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,2,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Man Utd,90,0,0,2,0,1,0,0,0,0,0,0,0.3,0.0,0.8,2.0,True,2,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Liverpool,14,0,0,0,0,0,0,0,0,0,0,0,2.2,0.0,14.0,8.0,False,1,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Brighton,85,0,0,1,0,-4,0,0,0,0,1,0,6.2,16.2,25.8,20.0,True,0,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Brentford,65,0,0,0,1,12,0,0,0,0,0,0,2.6,11.4,14.2,0.0,False,2,2.0,3.0,-1.0
+Brennan Johnson,FWD,Nott'm Forest,Southampton,80,0,2,2,0,24,0,0,0,0,0,0,4.9,21.4,11.4,16.0,True,8,2.0,2.0,0.0
+Brennan Johnson,FWD,Nott'm Forest,Chelsea,9,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Arsenal,11,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Brennan Johnson,FWD,Nott'm Forest,Crystal Palace,90,0,0,1,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,2.0,2.0,0.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Pape Matar Sarr,MID,Spurs,Brentford,15,0,0,0,0,4,0,0,0,0,0,0,3.0,10.8,1.9,17.0,False,1,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Man Utd,75,1,0,0,1,36,0,0,0,0,0,0,12.4,39.2,14.6,70.0,True,10,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Bournemouth,58,0,1,0,0,15,0,0,0,0,0,0,6.9,26.2,25.3,17.0,False,4,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Burnley,67,0,0,1,0,8,1,0,0,0,0,0,5.1,8.2,12.3,30.0,False,1,4.0,2.0,2.0
+Pape Matar Sarr,MID,Spurs,Sheffield Utd,79,0,0,1,0,11,0,0,0,0,0,0,7.4,14.0,32.3,28.0,True,2,4.0,2.0,2.0
+Pape Matar Sarr,MID,Spurs,Arsenal,90,0,0,2,0,4,1,0,0,0,0,0,1.9,10.2,3.8,5.0,False,1,4.0,5.0,-1.0
+Pape Matar Sarr,MID,Spurs,Liverpool,82,0,0,1,0,16,0,0,0,0,0,0,3.3,16.0,8.5,8.0,True,2,4.0,4.0,0.0
+Pape Matar Sarr,MID,Spurs,Luton,90,0,0,0,1,23,0,0,0,0,0,0,6.3,20.4,40.3,2.0,False,3,4.0,2.0,2.0
+Pape Matar Sarr,MID,Spurs,Fulham,61,0,0,0,1,12,0,0,0,0,0,0,2.0,3.2,14.3,2.0,True,3,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Crystal Palace,90,0,0,1,0,14,0,0,0,0,0,0,2.6,14.0,8.1,4.0,False,2,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Chelsea,60,0,1,1,0,18,1,0,0,0,0,0,5.5,22.8,25.7,6.0,True,4,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Wolves,62,0,0,0,1,10,0,0,0,0,0,0,1.0,6.6,3.8,0.0,False,3,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Pape Matar Sarr,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Pape Matar Sarr,MID,Spurs,West Ham,6,0,0,0,0,4,0,0,0,0,0,0,0.8,1.2,1.1,6.0,True,1,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Newcastle,72,0,0,0,1,13,0,0,0,0,0,0,4.3,13.6,24.9,4.0,True,3,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Nott'm Forest,90,0,0,0,1,11,1,0,0,0,0,0,2.3,14.2,8.4,0.0,False,2,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Everton,72,0,0,0,1,12,0,0,0,0,0,0,3.0,8.6,2.1,19.0,True,3,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Brighton,64,0,0,3,0,18,0,0,0,0,0,0,1.5,8.0,6.8,0.0,False,2,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Bournemouth,31,1,0,0,0,22,0,0,0,0,0,0,6.5,37.2,10.8,17.0,True,6,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Everton,26,0,0,1,0,3,0,0,0,0,0,0,0.6,3.8,1.7,0.0,False,1,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Brighton,79,1,0,1,0,25,1,0,0,0,0,0,6.4,33.2,5.1,26.0,True,8,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Wolves,70,0,0,2,0,10,0,0,0,0,0,0,2.4,4.2,16.3,3.0,True,2,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Crystal Palace,8,0,0,0,0,2,0,0,0,0,0,0,0.4,3.0,0.9,0.0,True,1,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Aston Villa,69,0,1,0,1,19,1,0,0,0,0,0,3.9,19.0,19.9,0.0,False,5,4.0,4.0,0.0
+Pape Matar Sarr,MID,Spurs,Fulham,65,0,0,3,0,4,0,0,0,0,0,0,0.9,5.0,1.8,2.0,False,2,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Luton,67,0,0,1,0,11,0,0,0,0,0,0,2.8,6.6,4.0,17.0,True,2,4.0,2.0,2.0
+Pape Matar Sarr,MID,Spurs,West Ham,20,0,0,0,0,6,0,0,0,0,0,0,0.9,5.8,2.1,1.0,False,1,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Nott'm Forest,45,0,0,1,0,6,0,0,0,0,0,0,0.8,6.0,2.0,0.0,True,1,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Newcastle,33,0,0,1,0,5,0,0,0,0,0,0,0.9,4.2,4.8,0.0,False,1,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Arsenal,45,0,0,0,0,6,0,0,0,0,0,0,3.0,12.8,16.8,0.0,True,1,4.0,5.0,-1.0
+Pape Matar Sarr,MID,Spurs,Chelsea,62,0,0,1,0,8,0,0,0,0,0,0,3.1,6.0,18.9,6.0,False,2,4.0,3.0,1.0
+Pape Matar Sarr,MID,Spurs,Liverpool,74,0,0,4,0,6,1,0,0,0,0,0,0.9,0.6,6.4,2.0,False,1,4.0,4.0,0.0
+Pape Matar Sarr,MID,Spurs,Burnley,87,0,0,1,0,15,1,0,0,0,0,0,5.1,10.6,17.5,23.0,True,1,4.0,2.0,2.0
+Pape Matar Sarr,MID,Spurs,Man City,84,0,0,1,0,9,1,0,0,0,0,0,1.0,2.8,4.9,2.0,True,1,4.0,5.0,-1.0
+Pape Matar Sarr,MID,Spurs,Sheffield Utd,65,0,0,0,1,11,0,0,0,0,0,0,1.3,8.0,5.2,0.0,False,3,4.0,2.0,2.0

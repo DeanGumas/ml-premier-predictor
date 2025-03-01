@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Marcos Alonso,DEF,Chelsea,Brighton,90,0,0,1,0,14,0,0,0,0,0,0,2.4,17.8,3.7,2.0,False,2020-09-14T19:15:00Z,2
+Marcos Alonso,DEF,Chelsea,Liverpool,90,0,0,2,0,14,0,0,0,0,0,0,2.3,9.4,11.8,2.0,True,2020-09-20T15:30:00Z,1
+Marcos Alonso,DEF,Chelsea,West Brom,45,0,0,3,0,8,1,0,0,0,0,0,3.8,9.8,12.6,16.0,False,2020-09-26T16:30:00Z,-1
+Marcos Alonso,DEF,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-03T11:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-17T14:00:00Z,0
+Marcos Alonso,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-24T16:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-31T15:00:00Z,0
+Marcos Alonso,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-07T17:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-21T12:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-29T16:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-05T20:00:00Z,0
+Marcos Alonso,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-12T20:00:00Z,0
+Marcos Alonso,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-15T18:00:00Z,0
+Marcos Alonso,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-21T20:00:00Z,0
+Marcos Alonso,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-26T17:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-28T17:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-03T16:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-16T17:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-19T20:15:00Z,0
+Marcos Alonso,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-27T18:00:00Z,0
+Marcos Alonso,DEF,Chelsea,Burnley,90,1,0,0,1,31,0,0,0,0,0,0,11.1,41.0,22.0,48.0,True,2021-01-31T12:00:00Z,14
+Marcos Alonso,DEF,Chelsea,Spurs,90,0,0,0,1,25,0,0,0,0,0,0,5.2,14.4,13.9,24.0,False,2021-02-04T20:00:00Z,6
+Marcos Alonso,DEF,Chelsea,Sheffield Utd,28,0,0,0,0,3,0,0,0,0,0,0,1.3,7.2,1.8,4.0,False,2021-02-07T19:15:00Z,1
+Marcos Alonso,DEF,Chelsea,Newcastle,90,0,0,0,1,28,0,0,0,0,0,0,13.3,25.4,23.7,84.0,True,2021-02-15T20:00:00Z,7
+Marcos Alonso,DEF,Chelsea,Southampton,90,0,0,1,0,6,1,0,0,0,0,0,4.9,11.8,23.1,14.0,False,2021-02-20T12:30:00Z,1
+Marcos Alonso,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-28T16:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-04T20:15:00Z,0
+Marcos Alonso,DEF,Chelsea,Everton,90,0,0,0,1,29,0,0,0,0,0,0,10.4,20.2,52.2,32.0,True,2021-03-08T18:00:00Z,8
+Marcos Alonso,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-13T12:30:00Z,0
+Marcos Alonso,DEF,Chelsea,West Brom,90,0,1,5,0,15,0,0,0,0,0,0,6.7,11.4,3.8,52.0,True,2021-04-03T11:30:00Z,3
+Marcos Alonso,DEF,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-10T16:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Brighton,66,0,0,0,1,19,0,0,0,0,0,0,0.8,5.4,2.2,0.0,True,2021-04-20T19:15:00Z,6
+Marcos Alonso,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-24T16:30:00Z,0
+Marcos Alonso,DEF,Chelsea,Fulham,9,0,0,0,0,3,0,0,0,0,0,0,2.2,0.2,10.0,12.0,True,2021-05-01T16:30:00Z,1
+Marcos Alonso,DEF,Chelsea,Man City,90,1,0,1,0,30,0,0,0,0,0,0,11.2,50.2,23.3,38.0,False,2021-05-08T16:30:00Z,8
+Marcos Alonso,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-12T19:15:00Z,0
+Marcos Alonso,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-18T19:15:00Z,0
+Marcos Alonso,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-23T15:00:00Z,0

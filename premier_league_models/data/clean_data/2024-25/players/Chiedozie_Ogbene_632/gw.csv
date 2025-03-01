@@ -1,0 +1,22 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Chiedozie Ogbene,MID,Ipswich,Fulham,87,0,0,1,0,7,0,0,0,0,0,0,3.3,11.0,16.2,6.0,True,2,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Brighton,31,0,0,0,0,5,0,0,0,0,0,0,0.8,3.0,0.8,4.0,False,1,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Chiedozie Ogbene,MID,Ipswich,Aston Villa,68,0,0,2,0,10,0,0,0,0,0,0,2.0,6.8,11.3,2.0,True,2,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,West Ham,17,0,0,0,0,5,0,0,0,0,0,0,0.3,2.0,1.1,0.0,False,1,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Brentford,34,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.8,0.0,False,1,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Chiedozie Ogbene,MID,Ipswich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Chiedozie Ogbene,MID,Ipswich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Chiedozie Ogbene,MID,Ipswich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Chiedozie Ogbene,MID,Ipswich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Chiedozie Ogbene,MID,Ipswich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chiedozie Ogbene,MID,Ipswich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Chiedozie Ogbene,MID,Ipswich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

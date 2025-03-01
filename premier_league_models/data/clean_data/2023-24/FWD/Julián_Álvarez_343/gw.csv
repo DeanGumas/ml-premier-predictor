@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Julián Álvarez,FWD,Man City,Burnley,90,0,1,0,1,25,0,0,0,0,0,0,14.3,30.6,84.8,28.0,False,5,5.0,2.0,3.0
+Julián Álvarez,FWD,Man City,Newcastle,90,1,0,0,1,33,1,0,0,0,0,0,8.7,38.4,27.5,21.0,True,7,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Sheffield Utd,90,0,0,1,0,7,0,0,0,0,0,0,13.2,13.4,54.9,64.0,False,2,5.0,2.0,3.0
+Julián Álvarez,FWD,Man City,Fulham,89,1,2,1,0,51,0,0,0,0,0,0,6.0,33.4,3.0,24.0,True,14,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,West Ham,90,0,2,1,0,37,0,0,0,0,0,0,11.3,40.4,61.7,11.0,False,9,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Nott'm Forest,56,0,0,0,0,4,0,0,0,0,0,0,3.7,9.0,5.1,23.0,True,1,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Wolves,90,1,0,2,0,29,1,0,0,0,0,0,10.3,46.6,36.2,20.0,False,8,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Arsenal,67,0,0,0,1,7,0,0,0,0,0,0,1.6,1.6,2.3,12.0,False,2,5.0,5.0,0.0
+Julián Álvarez,FWD,Man City,Brighton,90,1,0,1,0,34,0,0,0,0,0,0,6.5,33.8,6.8,24.0,True,9,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Man Utd,86,0,0,0,1,14,0,0,0,0,0,0,5.9,9.2,34.6,15.0,False,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Bournemouth,70,0,0,0,1,14,0,0,0,0,0,0,7.9,8.4,59.4,11.0,True,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Chelsea,78,0,1,3,0,19,0,0,0,0,0,0,6.6,8.6,23.0,34.0,False,5,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Liverpool,90,0,0,1,0,12,0,0,0,0,0,0,6.5,8.0,49.0,8.0,True,2,5.0,4.0,1.0
+Julián Álvarez,FWD,Man City,Spurs,86,0,1,2,0,27,0,0,0,0,0,0,13.2,27.2,91.0,14.0,True,5,5.0,4.0,1.0
+Julián Álvarez,FWD,Man City,Aston Villa,67,0,0,0,1,2,0,0,0,0,0,0,0.2,1.4,1.0,0.0,False,2,5.0,4.0,1.0
+Julián Álvarez,FWD,Man City,Luton,90,0,1,1,0,15,0,0,0,0,0,0,5.7,27.4,18.2,11.0,False,5,5.0,2.0,3.0
+Julián Álvarez,FWD,Man City,Crystal Palace,90,0,0,2,0,3,0,0,0,0,0,0,6.4,7.6,37.4,19.0,True,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Everton,90,1,0,1,0,37,0,0,0,0,0,0,19.5,57.4,55.2,82.0,False,8,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Sheffield Utd,90,1,0,0,1,33,0,0,0,0,0,0,8.6,28.0,10.2,48.0,True,7,5.0,2.0,3.0
+Julián Álvarez,FWD,Man City,Newcastle,90,0,0,2,0,15,0,0,0,0,0,0,13.0,18.0,47.3,65.0,False,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Burnley,86,2,0,0,1,56,0,0,0,0,0,0,12.0,66.2,3.6,50.0,True,13,5.0,2.0,3.0
+Julián Álvarez,FWD,Man City,Brentford,90,0,0,1,0,8,0,0,0,0,0,0,11.2,23.2,20.1,69.0,False,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Everton,76,0,0,0,1,4,0,0,0,0,0,0,6.5,7.6,47.3,10.0,True,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Chelsea,63,0,0,1,0,19,0,0,0,0,0,0,8.6,9.8,51.6,25.0,True,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Brentford,88,0,1,0,1,23,0,0,0,0,0,0,7.0,18.0,42.3,10.0,True,5,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Bournemouth,15,0,0,0,0,3,0,0,0,0,0,0,0.9,0.2,1.0,8.0,False,1,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Man Utd,31,0,1,0,0,12,0,0,0,0,0,0,5.0,20.4,23.9,6.0,True,4,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Liverpool,68,0,0,1,0,4,0,0,0,0,0,0,2.3,0.4,2.5,20.0,False,2,5.0,4.0,1.0
+Julián Álvarez,FWD,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,5.0,0.0
+Julián Álvarez,FWD,Man City,Aston Villa,90,0,0,1,0,-4,0,0,0,0,0,0,11.8,10.6,15.8,92.0,True,2,5.0,4.0,1.0
+Julián Álvarez,FWD,Man City,Crystal Palace,73,0,0,1,0,5,0,0,0,0,0,0,3.8,2.8,4.8,30.0,False,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Luton,90,0,1,1,0,23,0,0,0,0,0,0,12.8,28.8,49.3,50.0,True,5,5.0,2.0,3.0
+Julián Álvarez,FWD,Man City,Brighton,90,1,0,0,1,28,0,0,0,0,0,0,8.2,31.8,5.9,44.0,False,6,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Nott'm Forest,88,0,0,0,1,10,0,0,0,0,0,0,3.3,3.8,25.5,4.0,False,2,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Wolves,8,1,0,0,0,27,0,0,0,0,0,0,5.2,33.0,2.0,17.0,True,5,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Fulham,8,1,0,0,0,24,0,0,0,0,0,0,5.4,32.0,0.5,21.0,False,5,5.0,3.0,2.0
+Julián Álvarez,FWD,Man City,Spurs,1,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.5,2.0,False,1,5.0,4.0,1.0
+Julián Álvarez,FWD,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0

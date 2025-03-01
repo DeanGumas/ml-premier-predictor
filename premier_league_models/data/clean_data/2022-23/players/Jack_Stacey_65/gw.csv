@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Stacey,DEF,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Man City,90,0,0,4,0,5,1,0,0,0,0,0,1.1,6.6,4.6,0.0,False,-1,2.0,5.0,-3.0
+Jack Stacey,DEF,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Nott'm Forest,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Newcastle,3,0,0,0,0,6,0,0,0,0,0,0,0.5,5.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Leicester,18,0,0,0,0,3,0,0,0,0,0,0,0.6,4.6,1.0,0.0,True,1,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Leeds,17,0,0,1,0,3,0,0,0,0,0,0,0.8,3.8,0.2,4.0,False,1,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Chelsea,45,0,0,2,0,3,0,0,0,0,0,0,0.1,0.0,0.2,2.0,False,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Man Utd,27,0,0,1,0,2,1,0,0,0,0,0,1.0,7.2,0.3,2.0,False,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Brentford,90,0,0,2,0,6,0,0,0,0,0,0,1.7,14.8,2.3,0.0,False,1,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Jack Stacey,DEF,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Stacey,DEF,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Leeds,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,1,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Stacey,DEF,Bournemouth,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stacey,DEF,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0

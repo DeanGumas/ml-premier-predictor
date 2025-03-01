@@ -1,0 +1,10 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Odeluga Offiah,DEF,Brighton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Odeluga Offiah,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Odeluga Offiah,DEF,Brighton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Odeluga Offiah,DEF,Brighton,Man City,45,0,0,1,0,4,0,0,0,0,0,0,0.2,1.2,0.9,0.0,True,1,3.0,5.0,-2.0
+Odeluga Offiah,DEF,Brighton,Bournemouth,73,0,0,2,0,10,0,0,0,0,0,0,0.9,3.6,3.5,2.0,False,1,3.0,3.0,0.0
+Odeluga Offiah,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Odeluga Offiah,DEF,Brighton,Newcastle,3,0,0,0,0,4,0,0,0,0,0,0,0.4,1.2,0.3,2.0,False,1,3.0,3.0,0.0
+Odeluga Offiah,DEF,Brighton,Chelsea,5,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.8,0.0,True,1,3.0,3.0,0.0
+Odeluga Offiah,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

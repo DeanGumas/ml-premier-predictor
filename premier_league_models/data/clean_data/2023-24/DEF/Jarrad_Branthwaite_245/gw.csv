@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jarrad Branthwaite,DEF,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jarrad Branthwaite,DEF,Everton,Wolves,90,0,0,1,0,11,1,0,0,0,0,0,4.8,15.8,1.8,30.0,True,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Sheffield Utd,90,0,0,2,0,18,1,0,0,0,0,0,1.8,17.8,0.2,0.0,False,0,3.0,2.0,1.0
+Jarrad Branthwaite,DEF,Everton,Arsenal,90,0,0,1,0,14,0,0,0,0,0,0,2.8,27.8,0.0,0.0,True,2,3.0,5.0,-2.0
+Jarrad Branthwaite,DEF,Everton,Brentford,90,0,0,1,0,11,1,0,0,0,0,0,2.6,21.6,4.8,0.0,False,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Luton,90,0,0,2,0,12,0,0,0,0,0,0,1.8,15.0,0.8,2.0,True,1,3.0,2.0,1.0
+Jarrad Branthwaite,DEF,Everton,Bournemouth,90,0,0,0,1,19,0,0,0,0,0,0,3.4,19.4,11.0,4.0,True,6,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Liverpool,90,0,0,2,0,18,0,0,0,0,0,0,3.6,26.2,10.2,0.0,False,1,3.0,4.0,-1.0
+Jarrad Branthwaite,DEF,Everton,West Ham,90,0,0,0,1,26,0,0,0,0,0,0,3.0,27.6,0.6,2.0,False,8,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Brighton,90,0,0,1,0,5,1,0,0,0,0,0,0.9,9.2,0.1,0.0,True,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Crystal Palace,90,0,0,2,0,11,0,0,0,0,0,0,2.2,21.2,0.4,0.0,False,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Man Utd,90,0,0,3,0,19,0,0,0,0,0,0,2.1,18.8,0.2,2.0,True,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Nott'm Forest,90,0,0,0,1,27,0,0,0,0,0,0,2.1,16.6,0.4,4.0,False,9,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Newcastle,90,0,0,0,1,28,0,0,0,0,0,0,3.6,17.2,11.0,8.0,True,6,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Chelsea,90,0,0,0,1,22,1,0,0,0,0,0,1.5,15.0,0.0,0.0,True,5,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jarrad Branthwaite,DEF,Everton,Spurs,90,0,0,2,0,14,0,0,0,0,0,0,1.8,13.4,0.7,4.0,False,1,3.0,4.0,-1.0
+Jarrad Branthwaite,DEF,Everton,Man City,90,0,0,3,0,12,1,0,0,0,0,0,1.5,14.6,0.2,0.0,True,0,3.0,5.0,-2.0
+Jarrad Branthwaite,DEF,Everton,Wolves,90,0,0,3,0,15,0,0,0,0,0,0,2.3,17.2,0.8,5.0,False,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Aston Villa,90,0,0,0,1,21,0,0,0,0,0,0,2.1,20.6,0.1,0.0,True,6,3.0,4.0,-1.0
+Jarrad Branthwaite,DEF,Everton,Fulham,90,0,0,0,1,20,1,0,0,0,0,0,3.3,29.0,0.0,4.0,False,5,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Spurs,90,1,0,2,0,23,0,0,0,0,0,0,7.6,37.4,1.1,37.0,True,8,3.0,4.0,-1.0
+Jarrad Branthwaite,DEF,Everton,Man City,90,0,0,2,0,12,0,0,0,0,0,0,2.7,26.4,0.1,0.0,False,1,3.0,5.0,-2.0
+Jarrad Branthwaite,DEF,Everton,Crystal Palace,90,0,0,1,0,16,0,0,0,0,0,0,2.1,17.6,1.1,2.0,True,2,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Brighton,90,1,0,1,0,26,0,0,0,0,0,0,8.4,65.2,0.1,19.0,False,9,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,West Ham,90,0,0,3,0,12,0,0,0,0,0,0,1.7,16.0,0.8,0.0,True,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Man Utd,90,0,0,2,0,15,0,0,0,0,0,0,1.7,13.4,1.1,2.0,False,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Bournemouth,90,0,0,2,0,15,0,0,0,0,0,0,2.5,21.4,1.2,2.0,False,1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Newcastle,90,0,0,1,0,13,0,0,0,0,0,0,3.1,26.4,0.8,4.0,False,2,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Burnley,90,0,0,0,1,22,0,0,0,0,0,0,1.9,15.4,0.6,3.0,True,6,3.0,2.0,1.0
+Jarrad Branthwaite,DEF,Everton,Chelsea,56,0,0,4,0,2,0,0,0,0,0,0,1.6,2.0,3.3,11.0,False,-1,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Nott'm Forest,90,0,0,0,1,25,1,0,0,0,0,0,2.9,23.6,0.7,5.0,True,5,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Liverpool,90,1,0,0,1,40,0,0,0,0,0,0,9.3,69.6,0.0,23.0,True,15,3.0,4.0,-1.0
+Jarrad Branthwaite,DEF,Everton,Brentford,90,0,0,0,1,23,0,0,0,0,0,0,2.4,17.0,0.6,6.0,True,6,3.0,3.0,0.0
+Jarrad Branthwaite,DEF,Everton,Luton,90,0,1,1,0,22,0,0,0,0,0,0,4.0,24.8,11.2,4.0,False,5,3.0,2.0,1.0
+Jarrad Branthwaite,DEF,Everton,Sheffield Utd,90,0,0,0,1,23,0,0,0,0,0,0,2.0,17.4,0.8,2.0,True,6,3.0,2.0,1.0
+Jarrad Branthwaite,DEF,Everton,Arsenal,90,0,0,2,0,9,0,0,0,0,0,0,3.2,31.8,0.4,0.0,False,1,3.0,5.0,-2.0

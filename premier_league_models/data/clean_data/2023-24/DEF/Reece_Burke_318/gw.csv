@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Reece Burke,DEF,Luton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Chelsea,76,0,0,3,0,9,0,0,0,0,0,0,2.9,16.4,10.7,2.0,False,1,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,West Ham,90,0,0,2,0,13,0,0,0,0,0,0,3.9,14.4,11.7,13.0,True,1,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Fulham,81,0,0,1,0,11,0,0,0,0,0,0,2.7,20.0,0.5,6.0,False,2,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Wolves,90,0,0,1,0,9,0,0,0,0,0,0,1.7,7.6,2.7,7.0,True,2,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Everton,45,0,0,1,0,6,0,0,0,0,0,0,1.1,10.4,0.1,0.0,False,1,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Burnley,69,0,1,2,0,16,1,0,0,0,0,0,5.7,24.0,12.2,21.0,True,3,2.0,2.0,0.0
+Reece Burke,DEF,Luton,Spurs,90,0,0,1,0,9,0,0,0,0,0,0,5.1,27.6,21.6,2.0,True,2,2.0,4.0,-2.0
+Reece Burke,DEF,Luton,Nott'm Forest,54,0,0,1,0,6,0,0,0,0,0,0,2.5,10.8,14.3,0.0,False,1,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Reece Burke,DEF,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Reece Burke,DEF,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Reece Burke,DEF,Luton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Reece Burke,DEF,Luton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Reece Burke,DEF,Luton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Reece Burke,DEF,Luton,Brighton,90,0,0,0,1,25,0,0,0,0,0,0,1.7,15.0,0.3,2.0,True,6,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Newcastle,11,0,0,0,0,4,0,0,0,0,0,0,0.5,4.2,0.5,0.0,False,1,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Sheffield Utd,67,0,0,2,0,8,0,0,0,0,0,0,2.8,4.4,2.3,21.0,True,1,2.0,2.0,0.0
+Reece Burke,DEF,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Reece Burke,DEF,Luton,Aston Villa,90,0,1,3,0,18,1,0,0,0,0,0,8.7,32.6,11.4,43.0,True,3,2.0,4.0,-2.0
+Reece Burke,DEF,Luton,Crystal Palace,90,0,0,1,0,10,1,0,0,0,0,0,3.0,28.6,1.4,0.0,False,1,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Bournemouth,90,0,0,4,0,12,0,0,0,0,0,0,3.5,31.2,0.1,4.0,False,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Nott'm Forest,90,0,1,1,0,31,0,0,0,0,0,0,5.8,43.0,12.8,2.0,True,7,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Spurs,45,0,0,0,0,1,1,0,0,0,0,0,1.9,2.6,14.3,2.0,False,0,2.0,4.0,-2.0
+Reece Burke,DEF,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Reece Burke,DEF,Luton,Bournemouth,90,0,0,1,0,12,0,0,0,0,0,0,1.9,18.0,0.8,0.0,True,2,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Man City,90,0,0,5,0,9,0,0,0,0,0,0,2.0,20.4,0.0,0.0,False,0,2.0,5.0,-3.0
+Reece Burke,DEF,Luton,Brentford,45,0,0,2,0,5,0,0,0,0,0,0,0.3,2.4,0.8,0.0,True,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Wolves,90,0,1,2,0,25,0,0,0,0,0,0,7.0,43.6,22.8,4.0,False,4,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Everton,90,0,0,1,0,13,0,0,0,0,0,0,4.8,15.8,30.2,2.0,True,2,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,West Ham,86,0,0,3,0,8,1,0,0,0,0,0,1.4,13.4,0.9,0.0,False,0,2.0,3.0,-1.0
+Reece Burke,DEF,Luton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

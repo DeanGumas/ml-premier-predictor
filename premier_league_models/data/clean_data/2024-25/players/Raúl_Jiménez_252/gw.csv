@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Raúl Jiménez,FWD,Fulham,Man Utd,12,0,0,1,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Leicester,10,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Ipswich,11,0,0,0,0,6,0,0,0,0,0,0,2.3,5.2,0.3,17.0,False,1,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,West Ham,72,1,0,0,1,29,0,0,0,0,0,0,12.1,42.4,22.1,56.0,True,9,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Newcastle,73,1,0,1,0,26,0,0,0,0,0,0,10.6,38.0,4.7,63.0,True,6,3.0,4.0,-1.0
+Raúl Jiménez,FWD,Fulham,Nott'm Forest,82,1,0,0,1,37,0,0,0,0,0,0,8.1,35.8,3.4,42.0,False,9,3.0,4.0,-1.0
+Raúl Jiménez,FWD,Fulham,Man City,76,0,1,2,0,23,0,0,0,0,0,0,8.0,18.2,33.7,28.0,False,5,3.0,4.0,-1.0
+Raúl Jiménez,FWD,Fulham,Aston Villa,90,1,0,3,0,25,0,0,0,0,0,0,9.3,37.2,1.8,54.0,True,7,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Everton,90,0,0,0,1,10,0,0,0,0,0,0,8.2,11.2,37.3,33.0,False,2,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Brentford,72,0,0,1,0,7,0,0,0,0,0,0,2.9,4.6,4.1,20.0,True,2,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Crystal Palace,74,0,1,0,1,16,0,0,0,0,0,0,4.4,13.6,19.0,11.0,False,5,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Wolves,70,0,0,2,0,3,0,0,0,0,0,0,1.8,0.0,3.5,15.0,True,2,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Spurs,77,0,0,1,0,4,0,0,0,0,0,0,6.4,3.4,3.4,57.0,False,2,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Brighton,10,0,0,0,0,2,0,0,0,0,0,0,0.4,4.2,0.1,0.0,True,1,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Arsenal,78,1,0,1,0,34,1,0,0,0,0,0,5.4,35.0,1.7,17.0,True,8,3.0,4.0,-1.0
+Raúl Jiménez,FWD,Fulham,Liverpool,67,0,0,1,0,3,0,0,0,0,0,0,0.8,1.2,0.8,6.0,False,2,3.0,5.0,-2.0
+Raúl Jiménez,FWD,Fulham,Southampton,28,0,0,0,0,-1,1,0,0,0,0,0,1.6,4.2,4.4,7.0,True,0,3.0,2.0,1.0
+Raúl Jiménez,FWD,Fulham,Chelsea,73,0,0,1,0,5,0,0,0,0,0,0,3.3,3.0,0.8,29.0,False,2,3.0,4.0,-1.0
+Raúl Jiménez,FWD,Fulham,Bournemouth,67,1,0,1,0,38,0,0,0,0,0,0,9.6,43.8,4.0,48.0,True,9,3.0,4.0,-1.0
+Raúl Jiménez,FWD,Fulham,Ipswich,90,2,0,2,0,58,0,0,0,0,0,0,14.9,73.0,3.7,72.0,True,13,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,West Ham,90,0,0,3,0,-5,1,0,0,0,0,0,4.2,0.0,11.9,35.0,False,1,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Leicester,70,0,0,0,1,7,0,0,0,0,0,0,3.8,8.8,16.0,13.0,False,2,3.0,3.0,0.0
+Raúl Jiménez,FWD,Fulham,Man Utd,63,0,0,0,1,3,0,0,0,0,0,0,1.7,0.0,11.8,7.0,True,2,3.0,3.0,0.0

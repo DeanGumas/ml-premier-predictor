@@ -1,0 +1,20 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mykhailo Mudryk,MID,Chelsea,Liverpool,35,0,0,0,0,7,0,0,0,0,0,0,3.2,14.6,4.8,13.0,False,1,4.0,4.0,0.0
+Mykhailo Mudryk,MID,Chelsea,Fulham,45,0,0,0,0,3,0,0,0,0,0,0,0.6,0.8,1.1,4.0,True,1,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,West Ham,66,0,0,1,0,10,0,0,0,0,0,0,1.3,4.6,1.9,6.0,False,2,4.0,3.0,1.0
+Mykhailo Mudryk,MID,Chelsea,Southampton,26,0,0,0,0,-2,0,0,0,0,0,0,0.5,0.0,0.2,7.0,True,1,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,Spurs,7,0,0,0,0,-3,0,0,0,0,0,0,0.0,0.0,0.5,1.0,False,1,4.0,4.0,0.0
+Mykhailo Mudryk,MID,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,Leicester,81,0,1,1,0,11,0,0,0,0,0,0,5.0,20.0,21.0,9.0,False,5,4.0,3.0,1.0
+Mykhailo Mudryk,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,Aston Villa,56,0,0,2,0,-5,0,0,0,0,0,0,3.8,5.0,3.2,30.0,True,1,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,Liverpool,12,0,0,0,0,4,0,0,0,0,0,0,1.6,3.4,10.5,2.0,True,1,4.0,4.0,0.0
+Mykhailo Mudryk,MID,Chelsea,Wolves,22,0,0,0,0,2,0,0,0,0,0,0,0.3,3.0,0.3,0.0,False,1,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,Brighton,90,0,1,2,0,14,0,0,0,0,0,0,5.2,17.0,12.0,23.0,True,5,4.0,3.0,1.0
+Mykhailo Mudryk,MID,Chelsea,Brentford,45,0,0,1,0,12,0,0,0,0,0,0,3.0,5.4,18.7,6.0,True,1,4.0,3.0,1.0
+Mykhailo Mudryk,MID,Chelsea,Arsenal,19,0,0,0,0,7,0,0,0,0,0,0,5.0,9.0,38.8,2.0,False,1,4.0,4.0,0.0
+Mykhailo Mudryk,MID,Chelsea,Bournemouth,62,0,0,1,0,2,1,0,0,0,0,0,0.5,0.0,4.0,2.0,False,1,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Mykhailo Mudryk,MID,Chelsea,Man City,21,0,0,0,0,3,0,0,0,0,0,0,2.3,0.0,14.0,9.0,False,1,4.0,5.0,-1.0
+Mykhailo Mudryk,MID,Chelsea,Man Utd,63,0,0,2,0,8,0,0,0,0,0,0,5.9,18.0,15.4,26.0,False,2,4.0,4.0,0.0
+Mykhailo Mudryk,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

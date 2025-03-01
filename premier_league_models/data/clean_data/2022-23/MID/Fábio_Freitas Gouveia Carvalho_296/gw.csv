@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Fulham,12,0,0,0,0,1,0,0,0,0,0,0,0.2,0.0,0.3,4.0,False,1,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Crystal Palace,11,0,0,0,0,0,0,0,0,0,0,0,0.4,0.0,0.6,5.0,True,1,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Man Utd,17,0,1,0,0,12,0,0,0,0,0,0,4.5,4.8,1.2,39.0,False,4,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Bournemouth,45,1,0,0,0,23,0,0,0,0,0,0,6.3,37.4,2.8,23.0,True,6,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Newcastle,19,1,0,0,0,25,0,0,0,0,0,0,7.8,33.8,4.8,39.0,True,6,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Everton,45,0,0,0,0,4,0,0,0,0,0,0,0.5,2.2,2.8,0.0,False,1,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Brighton,45,0,0,2,0,2,0,0,0,0,0,0,1.6,1.2,2.3,12.0,True,1,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Man City,17,0,0,0,0,2,0,0,0,0,0,0,0.1,0.6,0.0,0.0,True,1,4.0,5.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,West Ham,56,0,0,0,0,6,0,0,0,0,0,0,2.9,7.4,17.8,4.0,True,1,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Nott'm Forest,61,0,0,1,0,-2,0,0,0,0,0,0,4.9,0.0,2.1,47.0,False,2,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Southampton,3,0,0,0,0,3,0,0,0,0,0,0,0.3,1.6,1.0,0.0,True,1,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Bournemouth,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Leicester,6,0,0,0,0,1,0,0,0,0,0,0,0.1,0.2,0.4,0.0,False,1,4.0,3.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Freitas Gouveia Carvalho,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

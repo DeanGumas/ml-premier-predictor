@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Joe Worrall,DEF,Nott'm Forest,Newcastle,90,0,0,2,0,9,1,0,0,0,0,0,1.6,16.0,0.4,0.0,False,0,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,West Ham,90,0,0,0,1,24,0,0,0,0,0,0,2.0,19.4,0.7,0.0,True,7,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Everton,90,0,0,1,0,9,1,0,0,0,0,0,1.7,16.2,0.6,0.0,False,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Spurs,90,0,0,2,0,12,1,0,0,0,0,0,3.5,26.2,3.2,6.0,True,0,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Man City,90,0,0,6,0,11,0,0,0,0,0,0,1.5,15.0,0.3,0.0,False,-1,2.0,5.0,-3.0
+Joe Worrall,DEF,Nott'm Forest,Bournemouth,90,0,0,3,0,13,0,0,0,0,0,0,2.4,19.6,2.3,2.0,True,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Fulham,27,0,0,0,0,7,0,0,0,0,0,0,2.9,6.4,20.7,2.0,True,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Brighton,4,0,0,0,0,5,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Liverpool,26,0,0,0,0,0,1,0,0,0,0,0,0.2,2.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Arsenal,26,0,0,1,0,3,0,0,0,0,0,0,1.4,11.6,0.6,2.0,False,1,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Crystal Palace,90,0,0,0,1,23,0,0,0,0,0,0,1.7,12.8,0.5,4.0,True,7,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Man Utd,90,0,0,3,0,11,0,0,0,0,0,0,2.7,21.8,0.4,5.0,False,1,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Chelsea,90,0,0,1,0,12,0,0,0,0,0,0,1.5,14.4,0.4,0.0,True,2,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Southampton,90,0,0,0,1,19,0,0,0,0,0,0,1.4,14.0,0.1,0.0,False,6,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Leicester,90,0,0,0,1,23,0,0,0,0,0,0,1.5,14.8,0.4,0.0,True,6,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Bournemouth,90,0,0,1,0,9,1,0,0,0,0,0,3.1,26.4,0.9,4.0,False,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Fulham,83,0,0,2,0,15,0,0,0,0,0,0,1.5,12.4,0.5,2.0,False,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Man City,90,0,0,1,0,11,1,0,0,0,0,0,2.7,26.4,0.1,0.0,True,1,2.0,5.0,-3.0
+Joe Worrall,DEF,Nott'm Forest,West Ham,90,0,0,4,0,14,0,0,0,0,0,0,1.5,15.2,0.1,0.0,False,0,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Everton,90,0,0,2,0,17,0,0,0,0,0,0,3.8,33.4,0.9,4.0,True,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Spurs,90,1,0,3,0,23,0,0,0,0,0,0,10.3,51.2,10.5,41.0,False,7,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Wolves,23,0,0,1,0,3,0,0,0,0,0,0,0.6,5.6,0.7,0.0,True,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Aston Villa,64,0,0,1,0,6,0,0,0,0,0,0,2.0,6.2,10.2,4.0,False,2,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Liverpool,60,0,0,3,0,11,0,0,0,0,0,0,2.9,10.6,10.6,8.0,False,1,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Brighton,76,0,0,1,0,13,0,0,0,0,0,0,1.6,16.0,0.3,0.0,True,2,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Brentford,90,0,0,2,0,15,0,0,0,0,0,0,2.1,19.0,0.4,2.0,False,1,2.0,3.0,-1.0
+Joe Worrall,DEF,Nott'm Forest,Southampton,26,0,0,1,0,5,0,0,0,0,0,0,0.5,3.0,0.3,2.0,True,1,2.0,2.0,0.0
+Joe Worrall,DEF,Nott'm Forest,Chelsea,90,0,0,2,0,8,0,0,0,0,0,0,2.2,22.2,0.2,0.0,False,1,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Arsenal,90,0,0,0,1,20,0,0,0,0,0,0,1.5,11.2,0.1,4.0,True,6,2.0,4.0,-2.0
+Joe Worrall,DEF,Nott'm Forest,Crystal Palace,90,0,0,1,0,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,2.0,2.0,0.0

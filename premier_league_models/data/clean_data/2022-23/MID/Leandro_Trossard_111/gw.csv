@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Leandro Trossard,MID,Brighton,Man Utd,74,0,0,1,0,7,1,0,0,0,0,0,6.9,8.0,40.9,20.0,False,1,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Newcastle,74,0,0,0,1,4,0,0,0,0,0,0,3.6,1.8,3.2,31.0,True,3,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,West Ham,90,1,0,0,1,25,0,0,0,0,0,0,14.3,35.6,26.3,81.0,False,8,3.0,3.0,0.0
+Leandro Trossard,MID,Brighton,Leeds,78,0,1,0,1,15,0,0,0,0,0,0,7.3,19.0,21.8,32.0,True,6,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Fulham,90,0,0,2,0,7,0,0,0,0,0,0,5.3,11.4,16.8,25.0,False,2,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Leicester,88,1,1,2,0,44,0,0,0,0,0,0,13.3,52.6,53.3,27.0,True,12,3.0,3.0,0.0
+Leandro Trossard,MID,Brighton,Liverpool,86,3,0,3,0,56,0,0,0,0,0,0,18.8,105.0,9.2,74.0,False,20,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Spurs,90,0,0,1,0,7,0,0,0,0,0,0,7.4,4.8,26.8,42.0,True,2,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Brentford,68,0,0,2,0,12,0,0,0,0,0,0,8.0,10.6,37.8,32.0,False,2,3.0,3.0,0.0
+Leandro Trossard,MID,Brighton,Nott'm Forest,90,0,0,0,1,8,0,0,0,0,0,0,10.0,16.6,35.9,47.0,True,3,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Man City,90,1,0,3,0,21,0,0,0,0,0,0,10.4,41.0,3.3,60.0,False,7,3.0,5.0,-2.0
+Leandro Trossard,MID,Brighton,Chelsea,86,1,0,1,0,19,0,0,0,0,0,0,15.6,39.0,1.9,115.0,True,7,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Wolves,81,0,1,2,0,16,0,0,0,0,0,0,6.5,19.2,23.9,22.0,False,5,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Aston Villa,90,0,0,2,0,10,0,0,0,0,0,0,5.5,11.0,29.4,15.0,True,2,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Southampton,82,0,0,1,0,4,0,0,0,0,0,0,4.0,3.8,24.4,12.0,False,2,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Arsenal,59,0,0,3,0,-1,0,0,0,0,0,0,4.4,5.4,0.9,38.0,True,1,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Man Utd,8,0,0,0,0,5,0,0,0,0,0,0,0.7,4.2,0.7,2.0,True,1,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Everton,31,0,0,1,0,3,0,0,0,0,0,0,3.1,4.4,1.3,25.0,False,1,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Brentford,28,1,0,1,0,21,0,0,0,0,0,0,8.6,35.0,14.2,37.0,True,6,3.0,3.0,0.0
+Leandro Trossard,MID,Brighton,Man City,14,0,0,1,0,2,0,0,0,0,0,0,2.0,1.4,12.3,6.0,True,1,3.0,5.0,-2.0
+Leandro Trossard,MID,Brighton,Aston Villa,67,0,0,2,0,8,0,0,0,0,0,0,3.6,9.8,22.3,4.0,False,2,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Leicester,69,0,1,0,1,21,0,0,0,0,0,0,5.9,21.8,18.5,19.0,False,6,3.0,3.0,0.0
+Leandro Trossard,MID,Brighton,Everton,71,0,1,0,1,17,0,0,0,0,0,0,4.6,16.6,16.8,13.0,True,6,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Bournemouth,21,0,0,1,0,4,0,0,0,0,0,0,0.2,0.4,1.9,0.0,True,1,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Fulham,76,0,3,0,1,46,0,0,0,0,0,0,11.8,57.8,44.9,15.0,False,15,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Crystal Palace,64,0,1,1,0,19,0,0,0,0,0,0,7.1,22.4,44.5,4.0,True,5,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Leeds,90,0,1,1,0,23,0,0,0,0,0,0,7.4,23.4,44.5,6.0,True,5,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Liverpool,10,0,0,1,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,West Ham,23,0,0,0,0,2,0,0,0,0,0,0,0.8,3.0,2.9,2.0,False,1,3.0,3.0,0.0
+Leandro Trossard,MID,Brighton,Southampton,33,0,0,1,0,4,0,0,0,0,0,0,2.6,1.8,15.3,9.0,True,1,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Man City,30,0,1,1,0,12,0,0,0,0,0,0,3.3,17.6,11.0,4.0,False,4,3.0,5.0,-2.0
+Leandro Trossard,MID,Brighton,Chelsea,58,0,0,0,0,6,0,0,0,0,0,0,4.8,7.8,33.7,6.0,True,1,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Newcastle,10,0,0,0,0,4,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Leandro Trossard,MID,Brighton,Brighton,70,0,0,3,0,3,0,0,0,0,0,0,5.7,2.8,29.4,25.0,True,2,3.0,3.0,0.0
+Leandro Trossard,MID,Brighton,Nott'm Forest,69,0,0,1,0,4,0,0,0,0,0,0,2.8,2.0,17.1,9.0,False,2,3.0,2.0,1.0
+Leandro Trossard,MID,Brighton,Wolves,79,0,2,0,1,33,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,9,3.0,2.0,1.0

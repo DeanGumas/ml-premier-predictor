@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Diogo Dalot Teixeira,DEF,Man Utd,Brighton,90,0,0,2,0,10,0,0,0,0,0,0,10.1,17.8,27.6,56.0,True,1,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Brentford,90,0,0,4,0,12,0,0,0,0,0,0,7.1,16.2,31.6,23.0,False,0,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Liverpool,85,0,0,1,0,12,1,0,0,0,0,0,5.1,20.4,20.7,10.0,True,1,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Southampton,90,0,1,0,1,35,1,0,0,0,0,0,8.1,46.8,29.8,4.0,False,11,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Leicester,90,0,0,0,1,29,1,0,0,0,0,0,3.1,15.2,12.1,4.0,False,8,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Arsenal,90,0,0,1,0,12,0,0,0,0,0,0,3.4,14.4,15.4,4.0,True,2,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Man City,90,0,0,6,0,11,1,0,0,0,0,0,2.6,13.0,12.7,0.0,False,-2,4.0,5.0,-1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Everton,90,0,0,1,0,13,0,0,0,0,0,0,4.3,21.8,3.2,18.0,False,2,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Newcastle,90,0,0,0,1,32,0,0,0,0,0,0,4.9,19.0,28.3,2.0,True,9,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Spurs,90,0,0,0,1,26,0,0,0,0,0,0,8.7,14.0,34.0,39.0,True,6,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Chelsea,90,0,0,1,0,10,0,0,0,0,0,0,3.3,13.2,16.2,4.0,False,2,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,West Ham,90,0,0,0,1,36,0,0,0,0,0,0,9.1,31.2,49.4,10.0,True,9,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Aston Villa,90,0,0,3,0,14,1,0,0,0,0,0,2.4,12.6,7.6,4.0,False,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Bournemouth,21,0,0,0,0,5,0,0,0,0,0,0,4.4,7.0,10.4,27.0,True,1,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Leeds,81,0,1,2,0,27,0,0,0,0,0,0,5.9,36.4,16.9,6.0,True,6,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Leeds,72,0,0,0,1,22,0,0,0,0,0,0,0.8,5.2,1.5,1.0,False,6,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Leicester,90,0,0,0,1,23,0,0,0,0,0,0,4.0,19.8,12.8,7.0,True,6,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Liverpool,90,0,0,7,0,21,0,0,0,0,0,0,8.1,38.2,25.3,17.0,False,-1,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Newcastle,90,0,0,2,0,14,0,0,0,0,0,0,2.9,13.4,11.3,4.0,False,1,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Brentford,90,0,0,0,1,26,0,0,0,0,0,0,3.4,14.2,15.7,4.0,True,6,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Nott'm Forest,90,1,0,0,1,37,0,0,0,0,0,0,9.3,41.0,24.4,28.0,False,14,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Spurs,90,0,0,2,0,17,0,0,0,0,0,0,1.8,14.0,3.9,0.0,False,1,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Aston Villa,90,0,0,0,1,31,0,0,0,0,0,0,2.3,17.4,6.0,0.0,True,9,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Brighton,90,0,0,1,0,9,1,0,0,0,0,0,0.8,6.6,1.5,0.0,False,1,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,West Ham,3,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.3,0.0,False,1,4.0,3.0,1.0
+Diogo Dalot Teixeira,DEF,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Diogo Dalot Teixeira,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Diogo Dalot Teixeira,DEF,Man Utd,Fulham,90,0,0,1,0,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,4.0,2.0,2.0

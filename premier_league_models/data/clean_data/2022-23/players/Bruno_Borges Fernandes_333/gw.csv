@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Bruno Borges Fernandes,MID,Man Utd,Brighton,89,0,0,2,0,14,0,0,0,0,0,0,5.4,10.8,35.0,8.0,True,2,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,Brentford,90,0,0,4,0,8,1,0,0,0,0,0,5.6,9.0,24.7,22.0,False,1,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,Liverpool,90,0,0,1,0,6,1,0,0,0,0,0,7.2,21.6,29.3,21.0,True,1,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Southampton,90,1,0,0,1,24,0,0,0,0,0,0,13.9,43.2,3.9,92.0,False,8,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Leicester,90,0,0,0,1,12,0,0,0,0,0,0,6.4,21.4,38.4,4.0,False,3,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,Arsenal,90,0,1,1,0,21,0,0,0,0,0,0,8.5,32.6,31.3,21.0,True,7,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Man City,90,0,0,6,0,3,1,0,0,0,0,0,2.6,4.2,2.9,19.0,False,1,4.0,5.0,-1.0
+Bruno Borges Fernandes,MID,Man Utd,Everton,90,0,0,1,0,10,0,0,0,0,0,0,5.1,8.2,36.6,6.0,False,2,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Newcastle,90,0,0,0,1,10,1,0,0,0,0,0,7.3,16.6,42.2,14.0,True,2,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Spurs,90,1,0,0,1,42,0,0,0,0,0,0,21.9,61.0,115.2,43.0,True,11,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Chelsea,90,0,0,1,0,7,0,0,0,0,0,0,6.5,14.2,39.0,12.0,False,2,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,West Ham,90,0,0,0,1,18,1,0,0,0,0,0,4.8,14.2,21.3,12.0,True,2,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Fulham,90,0,1,1,0,24,0,0,0,0,0,0,9.9,15.2,52.2,32.0,False,6,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Nott'm Forest,90,0,0,0,1,19,0,0,0,0,0,0,10.5,16.0,41.0,48.0,True,3,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Wolves,90,0,1,0,1,21,0,0,0,0,0,0,11.7,34.4,51.0,32.0,False,6,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Bournemouth,90,0,1,0,1,23,0,0,0,0,0,0,11.4,32.0,46.0,36.0,True,6,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Man City,90,1,0,1,0,23,0,0,0,0,0,0,5.5,33.8,10.6,11.0,True,9,4.0,5.0,-1.0
+Bruno Borges Fernandes,MID,Man Utd,Crystal Palace,90,1,0,1,0,44,0,0,0,0,0,0,14.2,55.0,52.3,35.0,False,10,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Arsenal,90,0,1,3,0,24,0,0,0,0,0,0,5.3,33.6,15.0,4.0,False,5,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Crystal Palace,90,1,0,1,0,35,0,0,0,0,0,0,13.4,59.2,53.3,21.0,True,10,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Leeds,90,0,0,2,0,11,0,0,0,0,0,0,9.4,21.2,49.8,23.0,True,2,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Leeds,90,0,0,0,1,13,0,0,0,0,0,0,9.5,21.4,27.0,47.0,False,3,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Leicester,90,0,2,0,1,51,0,0,0,0,0,0,20.9,66.0,117.3,26.0,True,12,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,Liverpool,90,0,0,7,0,6,0,0,0,0,0,0,3.1,1.0,15.5,14.0,False,2,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Southampton,90,0,0,0,1,17,0,0,0,0,0,0,6.2,17.0,26.9,18.0,True,3,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Newcastle,90,0,0,2,0,12,0,0,0,0,0,0,4.4,16.0,25.8,2.0,False,2,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Brentford,90,0,0,0,1,15,1,0,0,0,0,0,7.1,14.8,49.3,7.0,True,2,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,Everton,90,0,0,0,1,20,0,0,0,0,0,0,13.7,31.4,74.3,31.0,True,3,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Nott'm Forest,90,0,0,0,1,24,0,0,0,0,0,0,17.4,30.6,79.5,64.0,False,3,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Spurs,90,0,1,2,0,25,0,0,0,0,0,0,10.3,29.4,42.4,31.0,False,5,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Aston Villa,90,1,0,0,1,31,0,0,0,0,0,0,11.9,44.6,21.9,52.0,True,11,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Brighton,90,0,0,1,0,17,0,0,0,0,0,0,10.4,19.4,62.1,22.0,False,2,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,West Ham,90,0,0,1,0,13,0,0,0,0,0,0,8.7,14.8,63.9,8.0,False,2,4.0,3.0,1.0
+Bruno Borges Fernandes,MID,Man Utd,Wolves,90,0,1,0,1,26,0,0,0,0,0,0,14.4,31.2,66.0,47.0,True,6,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Bournemouth,90,0,0,0,1,12,0,0,0,0,0,0,9.9,16.8,53.7,28.0,False,3,4.0,2.0,2.0
+Bruno Borges Fernandes,MID,Man Utd,Chelsea,85,1,0,0,1,29,0,0,0,0,0,0,8.7,36.2,15.7,35.0,True,8,4.0,4.0,0.0
+Bruno Borges Fernandes,MID,Man Utd,Fulham,83,1,0,1,0,38,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,10,4.0,2.0,2.0

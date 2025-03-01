@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Anthony Martial,FWD,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,Liverpool,45,0,1,1,0,19,0,0,0,0,0,0,5.4,24.4,24.0,6.0,True,4,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Man City,31,2,0,2,0,50,0,0,0,0,0,0,12.1,66.2,0.8,54.0,False,10,4.0,5.0,-1.0
+Anthony Martial,FWD,Man Utd,Everton,28,0,1,1,0,16,0,0,0,0,0,0,3.3,16.6,14.3,2.0,False,4,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,Aston Villa,25,0,0,0,0,3,0,0,0,0,0,0,0.4,0.4,1.3,2.0,False,1,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Fulham,71,0,0,1,0,-2,0,0,0,0,0,0,5.2,7.4,12.7,32.0,False,2,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Nott'm Forest,64,1,0,0,1,26,0,0,0,0,0,0,7.6,38.0,2.4,36.0,True,6,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Wolves,80,0,0,0,1,1,0,0,0,0,0,0,4.9,0.8,13.3,35.0,False,2,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Bournemouth,68,0,0,0,1,-2,0,0,0,0,0,0,0.9,0.0,3.8,11.0,True,2,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Man City,45,0,0,0,0,0,0,0,0,0,0,0,0.7,0.0,0.5,7.0,True,1,4.0,5.0,-1.0
+Anthony Martial,FWD,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Newcastle,28,0,0,2,0,3,0,0,0,0,0,0,0.7,1.6,0.8,5.0,False,1,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Brentford,19,0,0,0,0,3,0,0,0,0,0,0,0.4,1.8,2.0,0.0,True,1,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,Everton,30,1,0,0,0,27,0,0,0,0,0,0,7.0,36.0,16.6,17.0,True,5,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Nott'm Forest,71,0,1,0,1,6,0,0,0,0,0,0,4.5,6.0,14.3,25.0,False,5,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Spurs,29,0,0,1,0,1,0,0,0,0,0,0,0.8,2.2,1.9,4.0,False,1,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Aston Villa,4,0,0,0,0,2,0,0,0,0,0,0,1.8,7.2,10.3,0.0,True,1,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Brighton,83,0,0,0,1,6,0,0,0,0,0,0,4.3,6.6,12.2,24.0,False,2,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,West Ham,33,0,0,0,0,-2,0,0,0,0,0,0,3.7,4.0,3.3,30.0,False,1,4.0,3.0,1.0
+Anthony Martial,FWD,Man Utd,Wolves,68,1,0,0,1,34,0,0,0,0,0,0,10.2,41.2,24.0,37.0,True,8,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Bournemouth,56,0,0,0,0,7,0,0,0,0,0,0,2.8,7.8,5.9,14.0,False,1,4.0,2.0,2.0
+Anthony Martial,FWD,Man Utd,Chelsea,69,1,0,0,1,30,0,0,0,0,0,0,8.7,37.0,14.6,35.0,True,7,4.0,4.0,0.0
+Anthony Martial,FWD,Man Utd,Fulham,23,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,2.0,2.0

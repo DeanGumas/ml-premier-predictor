@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+João Palhinha Gonçalves,MID,Fulham,Liverpool,90,0,0,2,0,10,0,0,0,0,0,0,5.4,15.0,1.2,38.0,True,2,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Wolves,90,0,0,0,1,10,1,0,0,0,0,0,0.7,6.0,0.7,0.0,False,2,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Brentford,90,1,0,2,0,23,1,0,0,0,0,0,6.4,45.6,1.0,17.0,True,6,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Arsenal,87,0,0,2,0,4,1,0,0,0,0,0,1.6,11.8,0.1,4.0,False,1,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,5.6,20.6,1.8,34.0,True,2,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Spurs,84,0,0,2,0,19,1,0,0,0,0,0,2.1,16.4,4.4,0.0,False,1,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Nott'm Forest,90,1,0,2,0,25,1,0,0,0,0,0,7.1,43.2,3.3,24.0,False,8,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,West Ham,90,0,0,3,0,10,0,0,0,0,0,0,1.5,12.4,2.8,0.0,False,2,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Bournemouth,90,0,0,2,0,10,0,0,0,0,0,0,2.6,9.8,3.8,12.0,True,2,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Aston Villa,90,0,0,0,1,7,0,0,0,0,0,0,2.4,13.6,2.8,8.0,True,3,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Leeds,90,0,0,2,0,11,0,0,0,0,0,0,2.8,14.8,1.3,12.0,False,2,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Everton,90,0,0,0,1,14,0,0,0,0,0,0,2.0,18.6,1.5,0.0,True,3,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Man City,90,0,0,2,0,10,0,0,0,0,0,0,1.1,9.8,0.7,0.0,False,2,2.0,5.0,-3.0
+João Palhinha Gonçalves,MID,Fulham,Man Utd,90,0,0,2,0,7,0,0,0,0,0,0,4.7,23.0,2.7,21.0,True,2,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Crystal Palace,74,0,0,0,1,8,0,0,0,0,0,0,3.2,6.0,2.7,23.0,False,3,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Southampton,90,1,0,1,0,35,0,0,0,0,0,0,10.4,60.2,2.7,41.0,True,10,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Leicester,90,0,0,0,1,4,1,0,0,0,0,0,1.6,13.4,1.1,1.0,False,2,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Chelsea,90,0,0,1,0,11,0,0,0,0,0,0,1.9,16.4,2.2,0.0,True,2,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Newcastle,90,0,0,1,0,12,0,0,0,0,0,0,4.2,25.6,10.4,6.0,False,2,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Spurs,90,0,0,1,0,-4,1,0,0,0,0,0,2.9,10.0,3.0,16.0,True,1,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Chelsea,90,0,0,0,1,9,1,0,0,0,0,0,4.5,16.0,21.5,7.0,False,2,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Nott'm Forest,90,0,0,0,1,12,0,0,0,0,0,0,1.5,9.4,1.0,5.0,True,3,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Brighton,90,0,0,0,1,8,1,0,0,0,0,0,0.8,7.0,0.9,0.0,False,2,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Wolves,90,0,0,1,0,11,1,0,0,0,0,0,2.5,13.2,2.4,9.0,True,1,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Bournemouth,87,0,0,2,0,12,0,0,0,0,0,0,0.9,6.6,2.8,0.0,False,2,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,West Ham,90,0,0,1,0,11,0,0,0,0,0,0,4.6,13.2,25.6,7.0,True,2,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Everton,90,0,0,1,0,13,0,0,0,0,0,0,1.4,6.0,2.3,6.0,False,2,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Leeds,90,0,0,1,0,0,1,0,1,0,0,0,2.7,12.6,12.3,2.0,True,-1,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Aston Villa,90,0,0,1,0,2,1,0,0,0,0,0,1.5,13.6,1.1,0.0,False,1,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Man City,90,0,0,2,0,17,0,0,0,0,0,0,1.5,13.4,1.3,0.0,True,2,2.0,5.0,-3.0
+João Palhinha Gonçalves,MID,Fulham,Liverpool,90,0,0,1,0,14,0,0,0,0,0,0,6.0,24.2,2.0,34.0,False,2,2.0,4.0,-2.0
+João Palhinha Gonçalves,MID,Fulham,Leicester,90,0,0,3,0,13,0,0,0,0,0,0,4.1,24.0,13.3,4.0,True,2,2.0,3.0,-1.0
+João Palhinha Gonçalves,MID,Fulham,Southampton,76,0,0,0,1,9,0,0,0,0,0,0,1.6,7.4,3.1,5.0,False,3,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Crystal Palace,90,0,0,2,0,0,1,0,0,0,0,0,0.4,1.6,2.0,0.0,True,1,2.0,2.0,0.0
+João Palhinha Gonçalves,MID,Fulham,Man Utd,90,0,0,2,0,13,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0

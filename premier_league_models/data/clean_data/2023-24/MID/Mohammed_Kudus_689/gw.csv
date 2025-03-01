@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mohammed Kudus,MID,West Ham,Luton,1,0,0,1,0,5,0,0,0,0,0,0,0.3,3.0,0.0,0.0,False,1,3.0,2.0,1.0
+Mohammed Kudus,MID,West Ham,Man City,23,0,0,2,0,7,0,0,0,0,0,0,0.4,4.2,0.0,0.0,True,1,3.0,5.0,-2.0
+Mohammed Kudus,MID,West Ham,Liverpool,16,0,0,1,0,4,0,0,0,0,0,0,0.4,2.2,1.5,0.0,False,1,3.0,4.0,-1.0
+Mohammed Kudus,MID,West Ham,Sheffield Utd,18,0,0,0,0,9,0,0,0,0,0,0,1.3,6.6,0.8,6.0,True,1,3.0,2.0,1.0
+Mohammed Kudus,MID,West Ham,Newcastle,14,1,0,0,0,23,0,0,0,0,0,0,5.6,36.2,11.0,9.0,True,7,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Aston Villa,23,0,0,2,0,1,0,0,0,0,0,0,2.3,5.4,0.9,17.0,False,1,3.0,4.0,-1.0
+Mohammed Kudus,MID,West Ham,Everton,90,0,0,1,0,3,1,0,0,0,0,0,2.4,5.0,7.3,12.0,True,1,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Brentford,90,1,1,3,0,29,0,0,0,0,0,0,9.7,38.6,23.4,35.0,False,11,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Nott'm Forest,90,0,0,2,0,11,1,0,0,0,0,0,4.4,7.2,28.4,8.0,True,1,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Burnley,90,0,2,1,0,28,0,0,0,0,0,0,7.3,30.6,31.7,11.0,False,10,3.0,2.0,1.0
+Mohammed Kudus,MID,West Ham,Crystal Palace,90,1,0,1,0,25,0,0,0,0,0,0,9.7,47.8,21.5,28.0,True,9,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Spurs,87,0,0,1,0,9,0,0,0,0,0,0,3.6,9.6,15.8,11.0,False,2,3.0,4.0,-1.0
+Mohammed Kudus,MID,West Ham,Fulham,63,0,0,4,0,8,0,0,0,0,0,0,1.8,7.2,10.5,0.0,False,2,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Wolves,86,2,0,0,1,51,0,0,0,0,0,0,12.6,79.6,16.9,29.0,True,16,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Man Utd,90,1,0,0,1,28,1,0,0,0,0,0,7.2,45.2,6.2,21.0,True,9,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Arsenal,90,0,0,0,1,5,0,0,0,0,0,0,1.3,7.6,1.3,4.0,False,3,3.0,5.0,-2.0
+Mohammed Kudus,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Mohammed Kudus,MID,West Ham,Bournemouth,90,0,1,1,0,18,0,0,0,0,0,0,3.4,11.0,17.1,6.0,True,5,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Man Utd,90,0,0,3,0,13,0,0,0,0,0,0,6.5,20.6,15.8,29.0,False,2,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Arsenal,90,0,0,6,0,0,1,0,0,0,0,0,5.1,7.4,4.4,39.0,True,1,3.0,5.0,-2.0
+Mohammed Kudus,MID,West Ham,Nott'm Forest,90,0,0,2,0,8,1,0,0,0,0,0,2.7,4.0,6.6,16.0,False,1,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Brentford,90,0,1,2,0,17,0,0,0,0,0,0,7.8,19.4,32.5,26.0,True,5,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Everton,90,0,1,1,0,20,0,0,0,0,0,0,10.3,32.2,35.5,35.0,False,5,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Burnley,90,0,0,2,0,9,0,0,0,0,0,0,6.1,12.4,30.4,18.0,True,2,3.0,2.0,1.0
+Mohammed Kudus,MID,West Ham,Aston Villa,90,0,0,1,0,-1,1,0,0,0,0,0,3.3,0.0,12.5,20.0,True,1,3.0,4.0,-1.0
+Mohammed Kudus,MID,West Ham,Newcastle,90,1,1,4,0,50,0,0,0,0,0,0,13.0,69.4,30.1,30.0,False,12,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Spurs,90,0,0,1,0,13,0,0,0,0,0,0,3.5,14.8,7.7,12.0,True,2,3.0,4.0,-1.0
+Mohammed Kudus,MID,West Ham,Wolves,90,0,0,1,0,-3,0,0,0,0,0,0,2.3,2.2,3.7,17.0,False,2,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Fulham,90,0,0,2,0,15,0,0,0,0,0,0,7.2,16.6,36.3,19.0,True,2,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Crystal Palace,84,0,0,5,0,-4,0,0,0,0,0,0,0.9,0.0,2.9,6.0,False,2,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Liverpool,90,0,1,2,0,17,0,0,0,0,0,0,7.2,31.2,17.3,23.0,True,5,3.0,4.0,-1.0
+Mohammed Kudus,MID,West Ham,Chelsea,90,0,0,5,0,17,0,0,0,0,0,0,4.4,24.4,4.3,15.0,False,2,3.0,3.0,0.0
+Mohammed Kudus,MID,West Ham,Luton,90,0,1,1,0,25,0,0,0,0,0,0,8.2,22.8,35.6,24.0,True,5,3.0,2.0,1.0
+Mohammed Kudus,MID,West Ham,Man City,90,1,0,3,0,16,0,0,0,0,0,0,8.6,42.8,3.0,40.0,False,7,3.0,5.0,-2.0

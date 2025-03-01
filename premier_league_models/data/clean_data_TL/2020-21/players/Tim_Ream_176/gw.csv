@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Tim Ream,DEF,Fulham,Arsenal,90,0,0,3,0,16,0,0,0,0,0,0,1.7,16.4,0.8,0.0,True,2020-09-12T11:30:00Z,1
+Tim Ream,DEF,Fulham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-19T14:00:00Z,0
+Tim Ream,DEF,Fulham,Aston Villa,90,0,0,3,0,16,0,0,0,0,0,0,1.4,11.8,1.8,0.0,True,2020-09-28T16:45:00Z,1
+Tim Ream,DEF,Fulham,Wolves,90,0,0,1,0,16,0,0,0,0,0,0,2.3,22.6,0.2,0.0,False,2020-10-04T13:00:00Z,2
+Tim Ream,DEF,Fulham,Sheffield Utd,90,0,0,1,0,16,0,0,0,0,0,0,1.9,18.4,0.5,0.0,False,2020-10-18T11:00:00Z,2
+Tim Ream,DEF,Fulham,Crystal Palace,90,0,0,2,0,14,0,0,0,0,0,0,1.5,13.4,1.4,0.0,True,2020-10-24T14:00:00Z,1
+Tim Ream,DEF,Fulham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-02T17:30:00Z,0
+Tim Ream,DEF,Fulham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-07T20:00:00Z,0
+Tim Ream,DEF,Fulham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-22T12:00:00Z,0
+Tim Ream,DEF,Fulham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-30T17:30:00Z,0
+Tim Ream,DEF,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-05T15:00:00Z,0
+Tim Ream,DEF,Fulham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-13T16:30:00Z,0
+Tim Ream,DEF,Fulham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-16T20:00:00Z,0
+Tim Ream,DEF,Fulham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-19T20:00:00Z,0
+Tim Ream,DEF,Fulham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-26T15:00:00Z,0
+Tim Ream,DEF,Fulham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-13T20:15:00Z,0
+Tim Ream,DEF,Fulham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-16T17:30:00Z,0
+Tim Ream,DEF,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-20T20:15:00Z,0
+Tim Ream,DEF,Fulham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-27T19:30:00Z,0
+Tim Ream,DEF,Fulham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-30T15:00:00Z,0
+Tim Ream,DEF,Fulham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-03T18:00:00Z,0
+Tim Ream,DEF,Fulham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-06T17:30:00Z,0
+Tim Ream,DEF,Fulham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-14T19:00:00Z,0
+Tim Ream,DEF,Fulham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-17T18:00:00Z,0
+Tim Ream,DEF,Fulham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-20T20:00:00Z,0
+Tim Ream,DEF,Fulham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-28T12:00:00Z,0
+Tim Ream,DEF,Fulham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-04T18:00:00Z,0
+Tim Ream,DEF,Fulham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-07T14:00:00Z,0
+Tim Ream,DEF,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-13T20:00:00Z,0
+Tim Ream,DEF,Fulham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-19T20:00:00Z,0
+Tim Ream,DEF,Fulham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-04T15:30:00Z,0
+Tim Ream,DEF,Fulham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-09T19:00:00Z,0
+Tim Ream,DEF,Fulham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-18T12:30:00Z,0
+Tim Ream,DEF,Fulham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-01T16:30:00Z,0
+Tim Ream,DEF,Fulham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-10T19:00:00Z,0
+Tim Ream,DEF,Fulham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-15T14:00:00Z,0
+Tim Ream,DEF,Fulham,Man Utd,90,0,0,1,0,13,0,0,0,0,0,0,1.9,16.6,0.1,2.0,False,2021-05-18T17:00:00Z,2
+Tim Ream,DEF,Fulham,Newcastle,90,0,0,2,0,12,0,0,0,0,0,0,3.8,34.4,3.3,0.0,True,2021-05-23T15:00:00Z,1

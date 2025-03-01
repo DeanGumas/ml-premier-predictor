@@ -1,0 +1,38 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Hannes Delcroix,DEF,Burnley,Aston Villa,90,0,0,3,0,18,0,0,0,0,0,0,6.5,20.0,23.9,21.0,True,1,2.0,4.0,-2.0
+Hannes Delcroix,DEF,Burnley,Spurs,45,0,0,3,0,0,1,0,0,0,0,0,2.7,5.2,0.5,21.0,True,-1,2.0,4.0,-2.0
+Hannes Delcroix,DEF,Burnley,Nott'm Forest,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Luton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,2.0,2.0,0.0
+Hannes Delcroix,DEF,Burnley,Chelsea,90,0,0,4,0,11,0,0,0,0,0,0,1.5,15.0,0.2,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Brentford,10,0,0,1,0,4,0,0,0,0,0,0,0.4,3.8,0.6,0.0,False,1,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Hannes Delcroix,DEF,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Hannes Delcroix,DEF,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Everton,69,0,0,2,0,13,0,0,0,0,0,0,2.5,12.4,12.3,0.0,True,1,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Hannes Delcroix,DEF,Burnley,Aston Villa,73,0,0,3,0,9,0,0,0,0,0,0,0.7,6.4,0.3,0.0,False,1,2.0,4.0,-2.0
+Hannes Delcroix,DEF,Burnley,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Hannes Delcroix,DEF,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Hannes Delcroix,DEF,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Liverpool,90,0,0,3,0,5,0,0,0,0,0,0,2.2,16.8,5.5,0.0,False,1,2.0,4.0,-2.0
+Hannes Delcroix,DEF,Burnley,Arsenal,90,0,0,5,0,15,0,0,0,0,0,0,3.3,18.8,14.4,0.0,True,0,2.0,5.0,-3.0
+Hannes Delcroix,DEF,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,West Ham,22,0,0,1,0,4,1,0,0,0,0,0,1.1,11.2,0.1,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Hannes Delcroix,DEF,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hannes Delcroix,DEF,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Hannes Delcroix,DEF,Burnley,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Romain Perraud,DEF,Southampton,Spurs,18,0,0,0,0,2,0,0,0,0,0,0,2.5,0.0,1.0,24.0,False,1,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.5,0.0,True,1,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Chelsea,72,0,1,1,0,26,0,0,0,0,0,0,6.5,28.6,24.7,12.0,True,7,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Wolves,72,0,0,1,0,13,0,0,0,0,0,0,2.6,17.0,5.3,4.0,False,2,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Aston Villa,45,0,0,1,0,4,0,0,0,0,0,0,3.2,19.2,10.3,2.0,False,1,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Everton,30,0,0,0,0,3,0,0,0,0,0,0,2.9,5.4,16.0,8.0,True,1,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Man City,90,0,0,4,0,9,0,0,0,0,0,0,2.6,7.8,1.4,17.0,False,0,2.0,5.0,-3.0
+Romain Perraud,DEF,Southampton,West Ham,90,1,0,1,0,18,0,0,0,0,0,0,5.5,43.0,2.8,9.0,True,8,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Bournemouth,87,0,1,0,1,33,1,0,0,0,0,0,8.0,31.6,26.8,22.0,False,11,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Arsenal,90,0,0,1,0,7,0,0,0,0,0,0,4.3,6.6,21.8,15.0,True,2,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Crystal Palace,73,0,0,1,0,8,0,0,0,0,0,0,4.8,10.4,15.7,22.0,False,2,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Newcastle,90,1,0,4,0,24,0,0,0,0,0,0,10.7,44.6,9.3,53.0,True,6,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Liverpool,90,0,0,3,0,17,0,0,0,0,0,0,5.8,9.8,24.4,24.0,False,1,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Brighton,53,0,0,2,0,-9,0,0,1,0,0,0,0.0,0.0,1.3,0.0,True,-2,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Fulham,13,0,0,1,0,1,0,0,0,0,0,0,0.2,0.0,0.0,2.0,False,1,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Nott'm Forest,63,0,0,1,0,6,1,0,0,0,0,0,1.6,7.6,6.3,2.0,True,1,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Everton,5,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Aston Villa,28,0,0,1,0,1,0,0,0,0,0,0,0.2,1.4,0.8,0.0,True,1,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Brentford,90,0,0,3,0,12,0,0,0,0,0,0,3.9,15.4,2.4,21.0,False,1,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Wolves,73,0,0,1,0,5,0,0,0,0,0,0,2.4,1.4,11.3,11.0,True,2,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Chelsea,90,0,0,0,1,21,1,0,0,0,0,0,1.6,13.6,1.3,1.0,False,5,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Leeds,70,0,0,0,1,14,0,0,0,0,0,0,0.4,2.8,1.3,0.0,False,6,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Man Utd,90,0,0,0,1,24,0,0,0,0,0,0,4.0,16.0,18.7,5.0,False,6,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Brentford,90,0,0,2,0,12,0,0,0,0,0,0,2.6,12.0,7.9,6.0,True,1,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Spurs,90,0,0,3,0,15,0,0,0,0,0,0,3.8,14.0,14.9,9.0,True,1,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,West Ham,90,0,0,1,0,14,0,0,0,0,0,0,5.4,20.8,10.3,23.0,False,2,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Man City,10,0,0,0,0,1,0,0,0,0,0,0,0.2,1.4,0.1,0.0,True,1,2.0,5.0,-3.0
+Romain Perraud,DEF,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Arsenal,90,0,0,3,0,7,1,0,0,0,0,0,3.7,22.2,14.9,0.0,False,0,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Bournemouth,35,0,0,0,0,10,0,0,0,0,0,0,1.4,8.0,0.3,6.0,True,1,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Romain Perraud,DEF,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Romain Perraud,DEF,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Romain Perraud,DEF,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

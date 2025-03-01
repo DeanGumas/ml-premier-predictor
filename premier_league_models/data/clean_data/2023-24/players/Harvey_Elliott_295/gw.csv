@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Harvey Elliott,MID,Liverpool,Chelsea,13,0,0,0,0,6,0,0,0,0,0,0,2.2,6.6,11.6,4.0,False,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Bournemouth,14,0,0,0,0,2,0,0,0,0,0,0,0.2,0.4,1.1,0.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Newcastle,32,0,0,0,0,3,0,0,0,0,0,0,0.4,2.2,1.7,0.0,False,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Aston Villa,26,0,0,0,0,4,0,0,0,0,0,0,0.7,3.0,1.9,2.0,True,1,4.0,4.0,0.0
+Harvey Elliott,MID,Liverpool,Wolves,34,0,1,0,0,13,1,0,0,0,0,0,2.5,0.4,13.4,11.0,False,3,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Harvey Elliott,MID,Liverpool,Brighton,45,0,0,1,0,2,0,0,0,0,0,0,1.6,1.8,11.9,2.0,False,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Everton,28,0,0,0,0,10,0,0,0,0,0,0,2.0,6.2,5.1,9.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Nott'm Forest,31,0,0,0,0,3,0,0,0,0,0,0,0.9,0.0,1.2,9.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Luton,24,0,1,1,0,17,0,0,0,0,0,0,5.7,23.4,29.9,4.0,False,4,4.0,2.0,2.0
+Harvey Elliott,MID,Liverpool,Brentford,7,0,0,0,0,2,0,0,0,0,0,0,1.0,2.6,0.4,7.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Man City,5,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,5.0,-1.0
+Harvey Elliott,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Sheffield Utd,23,0,0,0,0,5,0,0,0,0,0,0,2.4,4.8,15.6,4.0,False,1,4.0,2.0,2.0
+Harvey Elliott,MID,Liverpool,Crystal Palace,16,1,0,0,0,23,0,0,0,0,0,0,4.8,33.2,3.8,11.0,False,6,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Man Utd,12,0,0,0,0,3,0,0,0,0,0,0,1.5,7.4,1.0,7.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Arsenal,22,0,0,0,0,8,0,0,0,0,0,0,2.0,7.0,11.3,2.0,True,1,4.0,5.0,-1.0
+Harvey Elliott,MID,Liverpool,Burnley,66,0,0,0,1,17,0,0,0,0,0,0,5.8,12.6,28.0,17.0,False,3,4.0,2.0,2.0
+Harvey Elliott,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Bournemouth,63,0,0,0,1,17,0,0,0,0,0,0,2.4,9.0,7.7,7.0,False,3,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Chelsea,21,0,0,1,0,7,0,0,0,0,0,0,2.7,8.0,12.1,7.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Arsenal,32,0,0,2,0,2,0,0,0,0,0,0,0.5,2.4,2.9,0.0,False,1,4.0,5.0,-1.0
+Harvey Elliott,MID,Liverpool,Burnley,45,0,2,0,0,28,0,0,0,0,0,0,3.9,20.0,13.3,6.0,True,10,4.0,2.0,2.0
+Harvey Elliott,MID,Liverpool,Brentford,7,0,0,0,0,4,0,0,0,0,0,0,1.3,4.6,1.3,7.0,False,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Luton,90,1,0,1,0,40,0,0,0,0,0,0,21.5,55.6,91.2,68.0,True,10,4.0,2.0,2.0
+Harvey Elliott,MID,Liverpool,Nott'm Forest,75,0,0,0,1,12,0,0,0,0,0,0,3.9,9.6,18.4,11.0,False,3,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Man City,90,0,0,1,0,13,0,0,0,0,0,0,3.8,11.0,21.9,5.0,True,2,4.0,5.0,-1.0
+Harvey Elliott,MID,Liverpool,Brighton,7,0,0,0,0,2,0,0,0,0,0,0,0.9,0.0,0.9,10.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Sheffield Utd,30,0,0,0,0,11,0,0,0,0,0,0,5.6,13.2,34.8,8.0,True,1,4.0,2.0,2.0
+Harvey Elliott,MID,Liverpool,Man Utd,21,0,1,0,0,12,0,0,0,0,0,0,4.1,6.4,7.3,27.0,False,4,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Crystal Palace,8,0,0,0,0,5,0,0,0,0,0,0,4.3,5.4,2.3,35.0,True,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Fulham,90,0,1,1,0,19,0,0,0,0,0,0,4.3,18.0,15.9,9.0,False,5,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Everton,27,0,0,0,0,5,0,0,0,0,0,0,2.8,8.2,13.0,7.0,False,1,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,West Ham,90,0,0,2,0,7,0,0,0,0,0,0,5.2,9.6,12.1,30.0,False,2,4.0,3.0,1.0
+Harvey Elliott,MID,Liverpool,Spurs,82,1,1,2,0,47,0,0,0,0,0,0,18.3,71.0,64.4,48.0,True,12,4.0,4.0,0.0
+Harvey Elliott,MID,Liverpool,Aston Villa,74,0,1,1,0,21,1,0,0,0,0,0,5.4,21.0,29.0,4.0,False,4,4.0,4.0,0.0
+Harvey Elliott,MID,Liverpool,Wolves,80,0,1,0,1,29,0,0,0,0,0,0,12.9,32.6,83.6,13.0,True,6,4.0,3.0,1.0

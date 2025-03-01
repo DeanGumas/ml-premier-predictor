@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Morgan Gibbs-White,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-14T17:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-21T19:15:00Z,0
+Morgan Gibbs-White,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-27T18:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-04T13:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-19T19:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-25T16:30:00Z,0
+Morgan Gibbs-White,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-30T20:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-08T14:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-23T20:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-29T19:15:00Z,0
+Morgan Gibbs-White,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-06T19:15:00Z,0
+Morgan Gibbs-White,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-12T12:30:00Z,0
+Morgan Gibbs-White,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-15T18:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-21T17:30:00Z,0
+Morgan Gibbs-White,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-27T19:15:00Z,0
+Morgan Gibbs-White,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-29T20:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-02T17:30:00Z,0
+Morgan Gibbs-White,MID,Wolves,Everton,63,0,0,1,0,6,0,0,0,0,0,0,0.8,2.0,3.8,2.0,True,2021-01-12T20:15:00Z,2
+Morgan Gibbs-White,MID,Wolves,West Brom,30,0,0,0,0,9,0,0,0,0,0,0,4.2,9.2,33.0,0.0,True,2021-01-16T12:30:00Z,1
+Morgan Gibbs-White,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-27T18:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-30T15:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-02T18:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Leicester,2,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,2021-02-07T14:00:00Z,1
+Morgan Gibbs-White,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-14T12:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-19T20:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-27T20:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-02T20:00:00Z,0
+Morgan Gibbs-White,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-06T17:30:00Z,0
+Morgan Gibbs-White,MID,Wolves,Liverpool,6,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.2,0.0,True,2021-03-15T20:00:00Z,1
+Morgan Gibbs-White,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-05T19:15:00Z,0
+Morgan Gibbs-White,MID,Wolves,Fulham,16,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,0.8,2.0,False,2021-04-09T19:00:00Z,1
+Morgan Gibbs-White,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-17T19:15:00Z,0
+Morgan Gibbs-White,MID,Wolves,Burnley,21,0,0,1,0,2,0,0,0,0,0,0,0.3,0.8,2.0,0.0,True,2021-04-25T11:00:00Z,1
+Morgan Gibbs-White,MID,Wolves,West Brom,10,0,0,0,0,4,0,0,0,0,0,0,0.3,2.2,0.3,0.0,False,2021-05-03T17:00:00Z,1
+Morgan Gibbs-White,MID,Wolves,Brighton,90,1,0,1,0,28,0,0,0,0,0,0,11.8,39.4,12.8,66.0,True,2021-05-09T11:00:00Z,10
+Morgan Gibbs-White,MID,Wolves,Spurs,72,0,0,2,0,16,0,0,0,0,0,0,5.9,14.0,42.7,2.0,False,2021-05-16T13:05:00Z,2
+Morgan Gibbs-White,MID,Wolves,Everton,67,0,0,1,0,6,0,0,0,0,0,0,2.6,6.4,3.2,16.0,False,2021-05-19T17:00:00Z,2
+Morgan Gibbs-White,MID,Wolves,Man Utd,30,0,0,0,0,8,1,0,0,0,0,0,4.9,9.4,14.0,26.0,True,2021-05-23T15:00:00Z,0

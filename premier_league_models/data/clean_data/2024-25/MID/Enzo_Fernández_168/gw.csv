@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Enzo Fernández,MID,Chelsea,Man City,90,0,0,2,0,16,0,0,0,0,0,0,4.6,9.6,10.0,26.0,True,2,4.0,4.0,0.0
+Enzo Fernández,MID,Chelsea,Wolves,90,0,0,2,0,15,0,0,0,0,0,0,5.0,20.8,25.4,4.0,False,2,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Crystal Palace,90,0,0,1,0,11,0,0,0,0,0,0,4.5,13.2,27.5,4.0,True,2,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Enzo Fernández,MID,Chelsea,West Ham,83,0,0,0,1,15,0,0,0,0,0,0,3.7,6.4,30.1,0.0,False,3,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Brighton,78,0,0,2,0,6,1,0,0,0,0,0,2.7,7.8,19.2,0.0,True,1,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Nott'm Forest,80,0,0,1,0,19,0,0,0,0,0,0,6.2,15.6,25.8,21.0,True,2,4.0,4.0,0.0
+Enzo Fernández,MID,Chelsea,Liverpool,37,0,0,0,0,4,0,0,0,0,0,0,1.9,5.6,11.4,2.0,False,1,4.0,5.0,-1.0
+Enzo Fernández,MID,Chelsea,Newcastle,18,0,0,0,0,3,0,0,0,0,0,0,1.7,6.2,10.9,0.0,True,1,4.0,4.0,0.0
+Enzo Fernández,MID,Chelsea,Man Utd,19,0,0,0,0,3,0,0,0,0,0,0,0.3,0.8,1.0,1.0,False,1,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Arsenal,22,0,1,0,0,20,0,0,0,0,0,0,5.3,28.0,25.0,0.0,True,4,4.0,4.0,0.0
+Enzo Fernández,MID,Chelsea,Leicester,90,1,1,1,0,49,0,0,0,0,0,0,15.3,68.4,39.8,45.0,False,12,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Aston Villa,90,1,0,0,1,30,0,0,0,0,0,0,9.7,43.4,32.3,21.0,True,9,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Southampton,90,0,1,1,0,34,0,0,0,0,0,0,9.7,33.2,55.8,8.0,False,5,4.0,2.0,2.0
+Enzo Fernández,MID,Chelsea,Spurs,90,1,0,3,0,37,0,0,0,0,0,0,8.6,43.2,17.3,25.0,False,9,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Brentford,90,0,1,1,0,22,0,0,0,0,0,0,9.6,31.4,38.1,26.0,True,5,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Everton,90,0,0,0,1,23,0,0,0,0,0,0,7.3,20.0,40.0,13.0,False,3,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Fulham,90,0,0,2,0,22,0,0,0,0,0,0,6.6,18.0,40.6,7.0,True,2,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Ipswich,90,0,0,2,0,13,1,0,0,0,0,0,9.2,15.2,61.7,15.0,False,1,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Crystal Palace,90,0,0,1,0,4,1,0,0,0,0,0,1.6,2.6,7.7,6.0,False,1,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Bournemouth,90,0,0,2,0,24,0,0,0,0,0,0,12.5,25.6,83.0,16.0,True,2,4.0,4.0,0.0
+Enzo Fernández,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Enzo Fernández,MID,Chelsea,Man City,90,0,0,3,0,15,0,0,0,0,0,0,4.2,14.8,22.8,4.0,False,2,4.0,4.0,0.0

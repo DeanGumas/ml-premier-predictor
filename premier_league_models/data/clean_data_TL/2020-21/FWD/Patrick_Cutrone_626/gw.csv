@@ -1,0 +1,22 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Patrick Cutrone,FWD,Wolves,Everton,12,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-12T20:15:00Z,1
+Patrick Cutrone,FWD,Wolves,West Brom,11,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.0,4.0,True,2021-01-16T12:30:00Z,1
+Patrick Cutrone,FWD,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-27T18:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-30T15:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-02T18:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-07T14:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-14T12:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-19T20:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-27T20:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-02T20:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-06T17:30:00Z,0
+Patrick Cutrone,FWD,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-15T20:00:00Z,0
+Patrick Cutrone,FWD,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-05T19:15:00Z,0
+Patrick Cutrone,FWD,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-09T19:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-17T19:15:00Z,0
+Patrick Cutrone,FWD,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-25T11:00:00Z,0
+Patrick Cutrone,FWD,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-03T17:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-09T11:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-16T13:05:00Z,0
+Patrick Cutrone,FWD,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-19T17:00:00Z,0
+Patrick Cutrone,FWD,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-23T15:00:00Z,0

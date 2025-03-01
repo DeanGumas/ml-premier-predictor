@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Myles Lewis-Skelly,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Man City,1,0,0,1,0,0,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Myles Lewis-Skelly,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Myles Lewis-Skelly,MID,Arsenal,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Myles Lewis-Skelly,MID,Arsenal,Liverpool,14,0,0,1,0,5,0,0,0,0,0,0,0.6,3.2,0.4,2.0,True,1,4.0,5.0,-1.0
+Myles Lewis-Skelly,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Myles Lewis-Skelly,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Myles Lewis-Skelly,MID,Arsenal,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Myles Lewis-Skelly,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Everton,68,0,0,0,1,15,0,0,0,0,0,0,2.4,8.4,15.8,0.0,True,3,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Crystal Palace,57,0,0,1,0,5,0,0,0,0,0,0,0.5,4.0,1.4,0.0,False,1,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Ipswich,90,0,0,0,1,22,0,0,0,0,0,0,5.7,18.6,34.0,4.0,True,3,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Brentford,12,0,0,0,0,3,0,0,0,0,0,0,0.3,3.2,0.1,0.0,False,1,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Spurs,86,0,0,1,0,16,1,0,0,0,0,0,1.9,13.6,5.8,0.0,True,1,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Aston Villa,90,0,0,2,0,21,0,0,0,0,0,0,1.9,9.2,6.0,4.0,True,2,4.0,3.0,1.0
+Myles Lewis-Skelly,MID,Arsenal,Wolves,42,0,0,0,0,-1,0,1,0,0,0,0,0.4,0.6,1.6,2.0,False,-2,4.0,3.0,1.0

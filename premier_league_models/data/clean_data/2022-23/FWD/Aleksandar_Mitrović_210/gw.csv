@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Aleksandar Mitrović,FWD,Fulham,Liverpool,90,2,0,2,0,57,0,0,0,0,0,0,15.5,82.0,14.7,58.0,True,13,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Wolves,90,0,0,0,1,-5,1,0,0,0,1,0,5.1,5.8,11.3,34.0,False,-1,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Brentford,90,1,0,2,0,14,0,0,0,0,0,0,17.8,47.8,1.3,129.0,True,6,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Arsenal,90,1,0,2,0,27,0,0,0,0,0,0,9.1,38.8,11.1,41.0,False,7,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Brighton,90,1,0,1,0,30,0,0,0,0,0,0,10.1,48.2,20.8,32.0,True,9,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Spurs,90,1,0,2,0,25,1,0,0,0,0,0,9.4,39.8,10.7,43.0,False,5,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Nott'm Forest,89,0,0,2,0,1,0,0,0,0,0,0,8.2,6.6,6.9,68.0,False,2,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Newcastle,36,0,0,2,0,0,1,0,0,0,0,0,0.0,0.0,0.2,0.0,True,0,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Bournemouth,90,1,0,2,0,26,0,0,0,0,0,0,12.4,35.6,13.4,75.0,True,7,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Aston Villa,84,1,0,0,1,21,0,0,0,0,0,0,15.1,34.0,12.8,104.0,True,6,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Leeds,90,1,0,2,0,26,0,0,0,0,0,0,10.6,29.2,15.8,61.0,False,6,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Everton,90,0,0,0,1,-7,1,0,0,0,0,0,12.0,0.0,25.1,101.0,True,1,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Aleksandar Mitrović,FWD,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Crystal Palace,84,1,2,0,1,52,0,0,0,0,0,0,20.0,59.0,29.1,112.0,False,15,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Southampton,90,0,0,1,0,-6,0,0,0,0,1,0,2.8,4.0,2.3,22.0,True,0,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Leicester,90,1,0,0,1,23,1,0,0,0,0,0,7.8,36.2,1.3,40.0,False,5,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Newcastle,90,0,0,1,0,-16,0,0,0,0,1,0,1.6,0.0,2.0,17.0,False,0,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Spurs,90,0,0,1,0,-2,0,0,0,0,0,0,2.0,0.0,1.5,20.0,True,2,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Chelsea,90,0,0,0,1,3,0,0,0,0,0,0,2.6,4.0,5.2,17.0,False,2,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Nott'm Forest,83,0,0,0,1,-3,0,0,0,0,0,0,7.6,0.0,22.1,56.0,True,2,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Brentford,90,0,0,3,0,2,1,0,0,0,0,0,3.8,7.8,3.0,27.0,False,1,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Arsenal,90,0,0,3,0,-1,0,0,0,0,0,0,3.0,7.8,1.2,21.0,True,2,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Aleksandar Mitrović,FWD,Fulham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Aleksandar Mitrović,FWD,Fulham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aleksandar Mitrović,FWD,Fulham,Southampton,25,1,0,0,0,27,0,0,0,0,0,0,5.5,33.4,0.9,21.0,False,5,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Crystal Palace,90,2,0,2,0,49,0,0,0,0,0,0,11.1,64.8,3.8,42.0,True,13,2.0,2.0,0.0
+Aleksandar Mitrović,FWD,Fulham,Man Utd,79,0,0,2,0,-19,1,0,0,0,1,0,0.0,0.0,0.0,0.0,False,-1,2.0,4.0,-2.0

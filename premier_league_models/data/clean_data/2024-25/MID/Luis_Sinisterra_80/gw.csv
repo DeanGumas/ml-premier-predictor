@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Luis Sinisterra,MID,Bournemouth,Nott'm Forest,63,0,0,1,0,7,0,0,0,0,0,0,3.2,7.0,1.8,23.0,False,2,4.0,4.0,0.0
+Luis Sinisterra,MID,Bournemouth,Newcastle,18,0,0,1,0,7,0,0,0,0,0,0,4.0,10.0,10.8,19.0,True,1,4.0,4.0,0.0
+Luis Sinisterra,MID,Bournemouth,Everton,25,1,1,0,0,38,0,0,0,0,0,0,10.5,51.0,17.8,36.0,False,11,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Chelsea,22,0,0,1,0,3,0,0,0,0,0,0,1.8,2.2,10.3,5.0,True,1,4.0,4.0,0.0
+Luis Sinisterra,MID,Bournemouth,Liverpool,20,0,0,0,0,3,0,0,0,0,0,0,9.9,11.4,22.9,65.0,False,1,4.0,5.0,-1.0
+Luis Sinisterra,MID,Bournemouth,Southampton,1,0,0,0,0,4,0,0,0,0,0,0,2.1,4.0,0.0,17.0,True,1,4.0,2.0,2.0
+Luis Sinisterra,MID,Bournemouth,Leicester,27,0,0,0,0,12,0,0,0,0,0,0,5.2,9.8,32.4,10.0,False,1,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Arsenal,27,0,0,0,0,1,0,0,0,0,0,0,0.5,3.0,0.3,2.0,True,1,4.0,4.0,0.0
+Luis Sinisterra,MID,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Luis Sinisterra,MID,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Luis Sinisterra,MID,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Luis Sinisterra,MID,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Luis Sinisterra,MID,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

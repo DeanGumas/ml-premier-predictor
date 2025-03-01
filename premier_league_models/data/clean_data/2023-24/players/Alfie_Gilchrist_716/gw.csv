@@ -1,0 +1,35 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Alfie Gilchrist,DEF,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Alfie Gilchrist,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Alfie Gilchrist,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Alfie Gilchrist,DEF,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Alfie Gilchrist,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Alfie Gilchrist,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Alfie Gilchrist,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Crystal Palace,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Luton,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,3.0,2.0,1.0
+Alfie Gilchrist,DEF,Chelsea,Fulham,1,0,0,0,0,4,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Alfie Gilchrist,DEF,Chelsea,Wolves,9,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.8,0.0,True,1,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Crystal Palace,6,0,0,0,0,3,0,0,0,0,0,0,0.5,5.0,0.1,0.0,False,1,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Alfie Gilchrist,DEF,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Burnley,3,0,0,0,0,3,0,0,0,0,0,0,0.8,0.2,1.0,7.0,True,1,3.0,2.0,1.0
+Alfie Gilchrist,DEF,Chelsea,Man Utd,15,0,0,0,0,2,0,0,0,0,0,0,0.5,0.6,0.8,4.0,True,1,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Alfie Gilchrist,DEF,Chelsea,Everton,2,1,0,0,0,15,0,0,0,0,0,0,5.2,34.4,0.2,17.0,True,7,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Arsenal,77,0,0,5,0,10,1,0,0,0,0,0,1.6,12.6,3.7,0.0,False,-1,3.0,5.0,-2.0
+Alfie Gilchrist,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Alfie Gilchrist,DEF,Chelsea,Spurs,84,0,0,0,1,21,0,0,0,0,0,0,2.0,12.8,1.9,5.0,True,6,3.0,4.0,-1.0
+Alfie Gilchrist,DEF,Chelsea,West Ham,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Alfie Gilchrist,DEF,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

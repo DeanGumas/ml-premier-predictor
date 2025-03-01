@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Philip Billing,MID,Bournemouth,Nott'm Forest,6,0,0,0,0,1,0,0,0,0,0,0,0.4,2.0,0.0,2.0,False,1,4.0,4.0,0.0
+Philip Billing,MID,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Philip Billing,MID,Bournemouth,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Chelsea,15,0,0,1,0,4,0,0,0,0,0,0,1.0,3.2,4.7,2.0,True,1,4.0,4.0,0.0
+Philip Billing,MID,Bournemouth,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Philip Billing,MID,Bournemouth,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Philip Billing,MID,Bournemouth,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Philip Billing,MID,Bournemouth,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Philip Billing,MID,Bournemouth,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Wolves,13,0,0,0,0,3,0,0,0,0,0,0,0.7,6.4,0.4,0.0,False,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Spurs,5,0,0,0,0,8,0,0,0,0,0,0,3.0,7.6,20.8,2.0,True,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Ipswich,16,0,0,0,0,11,0,0,0,0,0,0,3.5,10.4,21.9,3.0,False,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,West Ham,10,0,0,1,0,5,0,0,0,0,0,0,3.3,5.4,20.5,7.0,True,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Man Utd,12,0,0,0,0,5,0,0,0,0,0,0,1.8,7.0,10.9,0.0,False,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Crystal Palace,19,0,0,0,0,1,0,0,0,0,0,0,1.1,0.2,4.4,6.0,True,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Fulham,72,0,0,2,0,12,1,0,0,0,0,0,5.6,11.8,18.8,25.0,False,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Everton,8,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,3.0,1.0
+Philip Billing,MID,Bournemouth,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Philip Billing,MID,Bournemouth,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Philip Billing,MID,Bournemouth,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

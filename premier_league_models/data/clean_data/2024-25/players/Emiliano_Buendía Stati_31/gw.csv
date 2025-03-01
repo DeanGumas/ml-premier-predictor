@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Emiliano Buendía Stati,MID,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Emiliano Buendía Stati,MID,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Everton,6,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.4,0.0,True,1,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Wolves,1,0,0,0,0,1,0,0,0,0,0,0,0.3,0.0,1.4,2.0,True,1,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Ipswich,6,0,0,0,0,4,0,0,0,0,0,0,0.6,0.2,4.8,1.0,False,1,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Fulham,7,0,0,0,0,6,0,0,0,0,0,0,0.3,2.6,0.4,0.0,False,1,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Emiliano Buendía Stati,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Emiliano Buendía Stati,MID,Aston Villa,Crystal Palace,8,0,0,0,0,1,1,0,0,0,0,0,1.3,1.2,11.3,0.0,True,0,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Chelsea,6,0,0,0,0,6,0,0,0,0,0,0,0.3,2.4,0.3,0.0,False,1,3.0,4.0,-1.0
+Emiliano Buendía Stati,MID,Aston Villa,Brentford,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.6,0.0,True,1,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Emiliano Buendía Stati,MID,Aston Villa,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Emiliano Buendía Stati,MID,Aston Villa,Man City,1,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,4.0,-1.0
+Emiliano Buendía Stati,MID,Aston Villa,Newcastle,10,0,0,1,0,6,0,0,0,0,0,0,1.4,9.2,2.8,2.0,False,1,3.0,4.0,-1.0
+Emiliano Buendía Stati,MID,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Leicester,14,0,0,0,0,-2,0,0,0,0,0,0,0.7,0.0,0.1,10.0,True,1,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Everton,9,0,0,0,0,5,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,3.0,3.0,0.0
+Emiliano Buendía Stati,MID,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Emiliano Buendía Stati,MID,Aston Villa,West Ham,18,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,0.8,1.0,True,1,3.0,3.0,0.0

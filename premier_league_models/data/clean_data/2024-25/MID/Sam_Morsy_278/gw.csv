@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Sam Morsy,MID,Ipswich,Liverpool,90,0,0,2,0,14,0,0,0,0,0,0,3.4,16.2,15.9,2.0,True,2,3.0,5.0,-2.0
+Sam Morsy,MID,Ipswich,Man City,90,0,0,4,0,14,1,0,0,0,0,0,2.7,23.8,2.8,0.0,False,1,3.0,4.0,-1.0
+Sam Morsy,MID,Ipswich,Fulham,90,0,0,1,0,13,1,0,0,0,0,0,3.3,14.4,18.1,0.0,True,1,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Brighton,83,0,0,0,1,3,1,0,0,0,0,0,1.6,13.0,3.3,0.0,False,2,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Southampton,90,1,0,1,0,33,0,0,0,0,0,0,7.3,47.8,16.5,9.0,False,9,3.0,2.0,1.0
+Sam Morsy,MID,Ipswich,Aston Villa,90,0,0,2,0,9,1,0,0,0,0,0,1.9,3.6,12.4,3.0,True,1,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,West Ham,90,0,0,4,0,12,0,0,0,0,0,0,1.1,4.4,4.7,2.0,False,2,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Everton,90,0,0,2,0,20,0,0,0,0,0,0,2.9,13.8,15.4,0.0,True,2,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Leicester,90,0,1,1,0,30,0,0,0,0,0,0,6.2,38.2,24.0,0.0,True,8,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Spurs,90,0,0,1,0,16,0,0,0,0,0,0,2.0,12.8,7.6,0.0,False,2,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Man Utd,90,0,0,1,0,17,0,0,0,0,0,0,3.3,9.6,21.1,2.0,True,2,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Nott'm Forest,90,0,0,1,0,15,0,0,0,0,0,0,1.0,7.0,3.3,0.0,False,2,3.0,4.0,-1.0
+Sam Morsy,MID,Ipswich,Crystal Palace,90,0,0,1,0,13,0,0,0,0,0,0,1.8,11.2,6.0,1.0,True,2,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Bournemouth,90,0,0,2,0,13,0,0,0,0,0,0,3.6,12.0,21.8,2.0,True,2,3.0,4.0,-1.0
+Sam Morsy,MID,Ipswich,Wolves,90,0,0,1,0,12,0,0,0,0,0,0,3.0,14.2,13.3,2.0,False,2,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Newcastle,90,0,0,4,0,14,1,0,0,0,0,0,4.2,14.2,27.4,0.0,True,1,3.0,4.0,-1.0
+Sam Morsy,MID,Ipswich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Sam Morsy,MID,Ipswich,Chelsea,90,0,0,0,1,4,1,0,0,0,0,0,1.8,17.2,0.6,0.0,True,2,3.0,4.0,-1.0
+Sam Morsy,MID,Ipswich,Fulham,90,0,0,2,0,6,1,0,0,0,0,0,0.3,0.0,5.1,0.0,False,1,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Brighton,19,0,0,1,0,3,0,0,0,0,0,0,0.4,3.4,0.9,0.0,True,1,3.0,3.0,0.0
+Sam Morsy,MID,Ipswich,Man City,90,0,0,6,0,12,0,0,0,0,0,0,0.8,2.4,3.0,3.0,True,2,3.0,4.0,-1.0
+Sam Morsy,MID,Ipswich,Liverpool,90,0,0,4,0,11,0,0,0,0,0,0,1.4,13.0,0.8,0.0,False,2,3.0,5.0,-2.0

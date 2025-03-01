@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Josh Cullen,MID,Burnley,Man City,90,0,0,3,0,12,0,0,0,0,0,0,1.0,3.8,6.5,0.0,True,2,2.0,5.0,-3.0
+Josh Cullen,MID,Burnley,Aston Villa,90,0,0,3,0,11,1,0,0,0,0,0,3.0,13.0,15.2,2.0,True,1,2.0,4.0,-2.0
+Josh Cullen,MID,Burnley,Spurs,90,0,1,5,0,20,0,0,0,0,0,0,4.1,21.2,17.5,2.0,True,5,2.0,4.0,-2.0
+Josh Cullen,MID,Burnley,Nott'm Forest,90,0,0,1,0,11,1,0,0,0,0,0,2.8,22.0,4.4,2.0,False,1,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Man Utd,90,0,0,1,0,15,0,0,0,0,0,0,5.7,19.6,37.3,0.0,True,2,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Newcastle,90,0,0,2,0,15,0,0,0,0,0,0,2.0,11.4,4.8,4.0,False,2,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Luton,90,0,0,1,0,16,0,0,0,0,0,0,3.3,18.6,6.5,8.0,False,2,2.0,2.0,0.0
+Josh Cullen,MID,Burnley,Chelsea,60,0,0,2,0,6,1,0,0,0,0,0,0.3,2.0,0.7,0.0,True,1,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Brentford,90,0,0,3,0,10,1,0,0,0,0,0,2.5,9.6,15.2,0.0,False,1,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Bournemouth,59,0,0,1,0,-1,1,0,0,0,0,0,0.7,5.4,1.8,0.0,False,0,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Josh Cullen,MID,Burnley,West Ham,5,0,0,2,0,4,0,0,0,0,0,0,0.7,2.2,4.3,0.0,True,1,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Josh Cullen,MID,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Josh Cullen,MID,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Josh Cullen,MID,Burnley,Luton,90,0,0,1,0,14,0,0,0,0,0,0,5.5,29.2,23.6,2.0,True,2,2.0,2.0,0.0
+Josh Cullen,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Josh Cullen,MID,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Josh Cullen,MID,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Josh Cullen,MID,Burnley,Crystal Palace,53,0,0,3,0,8,0,0,0,0,0,0,2.1,13.2,3.2,5.0,False,1,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Bournemouth,89,0,0,2,0,12,0,0,0,0,0,0,3.9,13.0,17.4,9.0,True,2,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,West Ham,90,0,1,2,0,25,0,0,0,0,0,0,4.2,17.0,23.1,2.0,False,6,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Brentford,90,0,0,1,0,14,0,0,0,0,0,0,2.7,11.6,11.0,4.0,True,2,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Chelsea,90,1,1,2,0,48,1,0,0,0,0,0,13.5,67.0,50.3,18.0,False,11,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Wolves,90,0,0,1,0,14,0,0,0,0,0,0,3.4,7.2,25.4,1.0,True,2,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Everton,90,0,0,1,0,22,0,0,0,0,0,0,5.8,23.6,34.6,0.0,False,2,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Brighton,90,0,0,1,0,12,1,0,0,0,0,0,5.1,16.0,25.2,10.0,True,1,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Sheffield Utd,90,0,1,1,0,25,0,0,0,0,0,0,7.0,40.4,27.9,2.0,False,5,2.0,2.0,0.0
+Josh Cullen,MID,Burnley,Man Utd,90,0,0,1,0,12,1,0,0,0,0,0,4.1,14.4,23.5,3.0,False,1,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Newcastle,90,0,0,4,0,17,0,0,0,0,0,0,5.0,16.6,26.8,7.0,True,2,2.0,3.0,-1.0
+Josh Cullen,MID,Burnley,Spurs,87,0,0,2,0,3,1,0,0,0,0,0,1.5,14.0,1.3,0.0,False,1,2.0,4.0,-2.0
+Josh Cullen,MID,Burnley,Nott'm Forest,82,1,0,2,0,30,0,0,0,0,0,0,9.0,46.0,19.2,25.0,True,9,2.0,3.0,-1.0

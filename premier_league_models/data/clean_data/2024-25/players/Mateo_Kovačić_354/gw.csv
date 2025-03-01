@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mateo Kovačić,MID,Man City,Chelsea,90,1,0,0,1,36,0,0,0,0,0,0,7.0,55.6,4.9,9.0,False,11,4.0,4.0,0.0
+Mateo Kovačić,MID,Man City,Ipswich,49,0,0,1,0,18,0,0,0,0,0,0,3.7,11.6,25.8,0.0,True,1,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,West Ham,90,0,0,1,0,22,0,0,0,0,0,0,2.6,16.4,9.4,0.0,False,2,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Brentford,45,0,0,1,0,5,1,0,0,0,0,0,0.4,0.2,4.1,0.0,True,0,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Arsenal,69,0,1,2,0,24,0,0,0,0,0,0,9.1,11.8,68.0,11.0,True,6,4.0,4.0,0.0
+Mateo Kovačić,MID,Man City,Newcastle,90,0,0,1,0,8,1,0,0,0,0,0,4.1,12.0,24.2,5.0,False,1,4.0,4.0,0.0
+Mateo Kovačić,MID,Man City,Fulham,90,2,0,2,0,50,0,0,0,0,0,0,11.5,76.0,10.6,28.0,True,15,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Wolves,85,0,0,1,0,14,0,0,0,0,0,0,3.5,10.8,20.4,4.0,False,2,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Southampton,90,0,0,0,1,10,1,0,0,0,0,0,4.3,18.2,8.8,16.0,True,2,4.0,2.0,2.0
+Mateo Kovačić,MID,Man City,Bournemouth,90,0,0,2,0,11,0,0,0,0,0,0,2.9,6.6,8.3,14.0,False,2,4.0,4.0,0.0
+Mateo Kovačić,MID,Man City,Brighton,90,0,0,2,0,27,0,0,0,0,0,0,10.2,26.2,59.2,17.0,False,3,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Mateo Kovačić,MID,Man City,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Mateo Kovačić,MID,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Man Utd,22,0,0,2,0,4,0,0,0,0,0,0,2.0,5.6,12.6,2.0,True,1,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Aston Villa,83,0,0,2,0,13,0,0,0,0,0,0,2.8,12.2,6.6,9.0,False,2,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Everton,84,0,0,1,0,16,0,0,0,0,0,0,4.3,15.0,22.8,5.0,True,2,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Leicester,90,0,0,0,1,16,0,0,0,0,0,0,3.8,10.8,25.1,2.0,False,3,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,West Ham,60,0,0,0,1,8,1,0,0,0,0,0,3.2,14.8,17.6,0.0,True,2,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Brentford,75,0,0,0,1,11,0,0,0,0,0,0,3.7,7.8,25.8,3.0,False,3,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Ipswich,71,1,1,0,1,51,0,0,0,0,0,0,12.1,65.4,44.9,11.0,False,13,4.0,3.0,1.0
+Mateo Kovačić,MID,Man City,Chelsea,90,0,0,1,0,14,1,0,0,0,0,0,4.7,13.4,29.3,4.0,True,1,4.0,4.0,0.0

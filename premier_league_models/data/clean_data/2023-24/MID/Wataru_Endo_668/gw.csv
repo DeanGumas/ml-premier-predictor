@@ -1,0 +1,38 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Wataru Endo,MID,Liverpool,Bournemouth,27,0,0,0,0,4,0,0,0,0,0,0,0.7,6.6,0.8,0.0,True,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Newcastle,57,0,0,1,0,7,0,0,0,0,0,0,0.8,7.2,1.0,0.0,False,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Aston Villa,3,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,1,4.0,4.0,0.0
+Wataru Endo,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,West Ham,2,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Spurs,17,0,0,1,0,2,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1,4.0,4.0,0.0
+Wataru Endo,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Nott'm Forest,10,0,0,0,0,3,0,0,0,0,0,0,0.1,1.4,0.0,0.0,True,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Wataru Endo,MID,Liverpool,Brentford,90,0,0,0,1,9,0,0,0,0,0,0,1.5,11.4,3.8,0.0,True,3,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Man City,5,0,0,0,0,-1,1,0,0,0,0,0,0.1,0.6,0.2,0.0,False,0,4.0,5.0,-1.0
+Wataru Endo,MID,Liverpool,Fulham,7,1,0,0,0,22,0,0,0,0,0,0,5.8,35.6,10.3,12.0,True,6,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Sheffield Utd,90,0,0,0,1,8,1,0,0,0,0,0,1.5,10.8,4.5,0.0,False,2,4.0,2.0,2.0
+Wataru Endo,MID,Liverpool,Crystal Palace,45,0,0,0,0,7,0,0,0,0,0,0,0.3,0.2,2.8,0.0,False,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Man Utd,90,0,0,0,1,5,1,0,0,0,0,0,1.8,9.2,5.2,4.0,True,2,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Arsenal,90,0,0,1,0,14,1,0,0,0,0,0,2.4,13.6,10.7,0.0,True,1,4.0,5.0,-1.0
+Wataru Endo,MID,Liverpool,Burnley,90,0,0,0,1,12,0,0,0,0,0,0,5.1,18.0,26.4,7.0,False,3,4.0,2.0,2.0
+Wataru Endo,MID,Liverpool,Newcastle,74,0,0,1,0,10,1,0,0,0,0,0,5.6,9.4,42.0,5.0,True,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Wataru Endo,MID,Liverpool,Burnley,90,0,0,1,0,9,1,0,0,0,0,0,4.8,17.0,26.7,4.0,True,1,4.0,2.0,2.0
+Wataru Endo,MID,Liverpool,Brentford,90,0,0,1,0,8,1,0,0,0,0,0,1.7,6.4,5.0,6.0,False,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Luton,90,0,0,1,0,19,0,0,0,0,0,0,6.3,21.6,39.2,2.0,True,2,4.0,2.0,2.0
+Wataru Endo,MID,Liverpool,Nott'm Forest,30,0,0,0,0,2,0,0,0,0,0,0,0.9,7.4,1.8,0.0,False,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Man City,90,0,0,1,0,16,0,0,0,0,0,0,3.1,18.4,12.3,0.0,True,2,4.0,5.0,-1.0
+Wataru Endo,MID,Liverpool,Brighton,90,0,0,1,0,7,1,0,0,0,0,0,1.7,10.8,4.0,2.0,True,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Wataru Endo,MID,Liverpool,Man Utd,68,0,0,2,0,6,0,0,0,0,0,0,2.0,7.6,12.7,0.0,False,2,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Crystal Palace,45,0,0,1,0,8,0,0,0,0,0,0,1.0,4.4,1.8,4.0,True,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Fulham,90,0,0,1,0,13,0,0,0,0,0,0,1.8,11.2,6.4,0.0,False,2,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Everton,27,0,0,0,0,8,0,0,0,0,0,0,0.3,1.0,2.2,0.0,False,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,West Ham,78,0,0,2,0,6,1,0,0,0,0,0,1.5,10.8,4.4,0.0,False,1,4.0,3.0,1.0
+Wataru Endo,MID,Liverpool,Spurs,64,0,0,0,1,13,0,0,0,0,0,0,1.6,3.8,12.6,0.0,True,3,4.0,4.0,0.0
+Wataru Endo,MID,Liverpool,Aston Villa,75,0,0,1,0,15,0,0,0,0,0,0,2.4,19.4,4.4,0.0,False,2,4.0,4.0,0.0
+Wataru Endo,MID,Liverpool,Wolves,90,0,0,0,1,13,1,0,0,0,0,0,5.1,17.2,27.2,7.0,True,2,4.0,3.0,1.0

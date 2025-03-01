@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Chris Richards,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Chris Richards,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Chris Richards,DEF,Crystal Palace,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Aston Villa,90,0,0,3,0,7,0,0,0,0,0,0,1.8,17.6,0.2,0.0,False,1,3.0,4.0,-1.0
+Chris Richards,DEF,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Man Utd,2,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Nott'm Forest,15,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.1,0.0,True,1,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Chris Richards,DEF,Crystal Palace,Burnley,4,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,3.0,2.0,1.0
+Chris Richards,DEF,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Chris Richards,DEF,Crystal Palace,West Ham,90,0,0,1,0,12,0,0,0,0,0,0,2.9,24.0,2.8,2.0,False,2,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Bournemouth,90,0,0,2,0,22,0,0,0,0,0,0,3.0,16.4,11.6,2.0,True,1,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Liverpool,90,0,0,2,0,11,1,0,0,0,0,0,2.4,21.8,0.6,2.0,True,0,3.0,4.0,-1.0
+Chris Richards,DEF,Crystal Palace,Man City,90,0,0,2,0,7,0,0,0,0,0,0,1.9,16.8,0.4,2.0,False,1,3.0,5.0,-2.0
+Chris Richards,DEF,Crystal Palace,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,1.9,18.0,0.7,0.0,True,2,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Chelsea,90,0,0,2,0,3,1,0,0,0,0,0,2.0,8.2,11.8,0.0,False,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Brentford,90,0,0,1,0,9,0,0,0,0,0,0,1.6,13.8,1.8,0.0,True,2,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Arsenal,90,0,0,5,0,9,0,0,0,0,0,0,1.6,9.2,0.4,6.0,False,0,3.0,5.0,-2.0
+Chris Richards,DEF,Crystal Palace,Sheffield Utd,90,0,0,2,0,11,0,0,0,0,0,0,2.2,19.2,2.7,0.0,True,1,3.0,2.0,1.0
+Chris Richards,DEF,Crystal Palace,Brighton,90,0,0,4,0,12,0,0,0,0,0,0,1.1,10.0,0.8,0.0,False,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Chelsea,90,0,0,3,0,14,0,0,0,0,0,0,3.1,26.8,0.1,4.0,True,1,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Everton,90,0,0,1,0,13,0,0,0,0,0,0,4.9,24.4,10.8,14.0,False,2,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Burnley,90,1,0,0,1,41,0,0,0,0,0,0,6.8,46.2,4.6,17.0,True,14,3.0,2.0,1.0
+Chris Richards,DEF,Crystal Palace,Spurs,90,0,0,3,0,15,0,0,0,0,0,0,2.1,20.4,0.8,0.0,False,1,3.0,4.0,-1.0
+Chris Richards,DEF,Crystal Palace,Luton,90,0,0,1,0,15,0,0,0,0,0,0,2.2,20.8,1.2,0.0,True,2,3.0,2.0,1.0
+Chris Richards,DEF,Crystal Palace,Nott'm Forest,90,0,0,1,0,12,0,0,0,0,0,0,1.9,17.4,1.8,0.0,False,2,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Chris Richards,DEF,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Chris Richards,DEF,Crystal Palace,West Ham,90,0,0,2,0,14,0,0,0,0,0,0,1.2,11.4,0.2,0.0,True,1,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Newcastle,90,0,0,0,1,24,1,0,0,0,0,0,5.0,16.0,11.1,23.0,True,5,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Fulham,90,0,0,1,0,17,0,0,0,0,0,0,3.1,24.4,1.0,6.0,False,2,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Man Utd,90,0,1,0,1,43,0,0,0,0,0,0,7.5,38.8,10.3,26.0,True,11,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Wolves,90,0,0,1,0,9,0,0,0,0,0,0,2.3,18.4,0.3,4.0,False,2,3.0,3.0,0.0
+Chris Richards,DEF,Crystal Palace,Aston Villa,90,0,0,0,1,29,0,0,0,0,0,0,2.3,12.0,11.4,0.0,True,6,3.0,4.0,-1.0

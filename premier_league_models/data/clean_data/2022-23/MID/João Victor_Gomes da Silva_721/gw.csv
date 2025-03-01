@@ -1,0 +1,19 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+João Victor Gomes da Silva,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+João Victor Gomes da Silva,MID,Wolves,Southampton,20,1,0,0,0,23,0,0,0,0,0,0,5.6,36.6,0.4,19.0,False,8,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Bournemouth,20,0,0,0,0,-2,1,0,0,0,0,0,0.6,5.6,0.8,0.0,True,0,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Liverpool,26,0,0,2,0,2,0,0,0,0,0,0,0.3,1.4,1.3,0.0,False,1,2.0,4.0,-2.0
+João Victor Gomes da Silva,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+João Victor Gomes da Silva,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+João Victor Gomes da Silva,MID,Wolves,Leeds,90,0,0,4,0,9,1,0,0,0,0,0,4.5,18.6,24.6,2.0,True,1,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Chelsea,90,0,0,0,1,6,1,0,0,0,0,0,4.1,22.6,12.6,6.0,True,2,2.0,4.0,-2.0
+João Victor Gomes da Silva,MID,Wolves,Brentford,72,0,0,0,1,10,1,0,0,0,0,0,2.1,13.2,6.1,2.0,True,2,2.0,3.0,-1.0
+João Victor Gomes da Silva,MID,Wolves,Leicester,90,0,0,2,0,14,0,0,0,0,0,0,2.6,13.0,13.1,0.0,False,2,2.0,3.0,-1.0
+João Victor Gomes da Silva,MID,Wolves,Crystal Palace,22,0,0,0,0,1,1,0,0,0,0,0,0.8,8.4,0.0,0.0,True,0,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Brighton,45,0,0,4,0,3,0,0,0,0,0,0,1.5,3.6,11.8,0.0,False,1,2.0,3.0,-1.0
+João Victor Gomes da Silva,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+João Victor Gomes da Silva,MID,Wolves,Everton,90,0,0,1,0,12,0,0,0,0,0,0,2.8,10.0,1.3,17.0,True,2,2.0,2.0,0.0
+João Victor Gomes da Silva,MID,Wolves,Arsenal,84,0,0,5,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,2.0,4.0,-2.0

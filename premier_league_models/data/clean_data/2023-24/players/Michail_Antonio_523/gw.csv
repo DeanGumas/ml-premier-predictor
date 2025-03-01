@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Michail Antonio,FWD,West Ham,Bournemouth,77,0,0,0,1,5,1,0,0,0,0,0,1.1,8.6,0.8,2.0,False,1,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Chelsea,75,1,0,1,0,32,0,0,0,0,0,0,5.7,31.4,3.2,22.0,True,9,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Brighton,78,1,0,0,1,29,0,0,0,0,0,0,10.3,45.8,10.9,46.0,False,7,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Luton,79,0,0,0,1,3,0,0,0,0,0,0,0.8,0.0,6.6,2.0,False,2,3.0,2.0,1.0
+Michail Antonio,FWD,West Ham,Man City,66,0,0,1,0,7,0,0,0,0,0,0,1.7,4.4,10.3,2.0,True,2,3.0,5.0,-2.0
+Michail Antonio,FWD,West Ham,Liverpool,73,0,0,2,0,-3,0,0,0,0,0,0,1.2,7.2,1.0,4.0,False,2,3.0,4.0,-1.0
+Michail Antonio,FWD,West Ham,Sheffield Utd,71,0,1,0,1,18,0,0,0,0,0,0,5.2,16.6,24.8,11.0,True,5,3.0,2.0,1.0
+Michail Antonio,FWD,West Ham,Newcastle,74,0,0,2,0,0,1,0,0,0,0,0,0.1,0.0,2.1,2.0,True,1,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Aston Villa,89,0,0,4,0,4,0,0,0,0,0,0,3.1,3.2,0.8,27.0,False,2,3.0,4.0,-1.0
+Michail Antonio,FWD,West Ham,Everton,56,0,0,1,0,7,0,0,0,0,0,0,0.9,4.2,1.2,4.0,True,1,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Brentford,63,0,1,2,0,13,0,0,0,0,0,0,6.3,21.4,25.2,16.0,False,5,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Nott'm Forest,11,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Michail Antonio,FWD,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Michail Antonio,FWD,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Michail Antonio,FWD,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Michail Antonio,FWD,West Ham,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Michail Antonio,FWD,West Ham,Nott'm Forest,75,0,0,1,0,-6,1,0,0,0,0,0,0.1,0.0,1.4,4.0,False,1,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Brentford,14,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Everton,10,0,0,0,0,1,1,0,0,0,0,0,0.6,0.2,3.3,2.0,False,0,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Burnley,45,0,0,0,0,-1,0,0,0,0,0,0,3.6,0.0,14.5,22.0,True,1,3.0,2.0,1.0
+Michail Antonio,FWD,West Ham,Aston Villa,65,1,0,0,1,32,0,0,0,0,0,0,9.0,40.2,11.5,38.0,True,9,3.0,4.0,-1.0
+Michail Antonio,FWD,West Ham,Newcastle,68,1,0,1,0,31,0,0,0,0,0,0,5.3,32.8,2.2,18.0,False,6,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Spurs,90,0,0,1,0,-7,1,0,0,0,0,0,4.1,6.6,0.8,34.0,True,1,3.0,4.0,-1.0
+Michail Antonio,FWD,West Ham,Wolves,45,0,0,0,0,1,0,0,0,0,0,0,3.2,9.2,2.1,21.0,False,1,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Fulham,81,0,0,2,0,1,0,0,0,0,0,0,1.0,0.0,4.3,6.0,True,2,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Crystal Palace,74,1,0,5,0,17,1,0,0,0,0,0,7.6,30.2,3.6,42.0,False,5,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Liverpool,90,1,0,2,0,29,0,0,0,0,0,0,6.2,37.4,0.8,24.0,True,7,3.0,4.0,-1.0
+Michail Antonio,FWD,West Ham,Chelsea,69,0,0,4,0,7,0,0,0,0,0,0,1.2,5.0,0.0,7.0,False,2,3.0,3.0,0.0
+Michail Antonio,FWD,West Ham,Luton,74,0,0,1,0,1,0,0,0,0,0,0,4.4,4.2,0.4,39.0,True,2,3.0,2.0,1.0
+Michail Antonio,FWD,West Ham,Man City,80,0,0,3,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,2,3.0,5.0,-2.0

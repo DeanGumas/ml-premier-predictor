@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cauley Woodrow,FWD,Luton,Brighton,2,0,0,1,0,7,0,0,0,0,0,0,3.2,7.0,20.5,4.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,West Ham,6,0,0,1,0,3,0,0,0,0,0,0,1.6,2.4,11.9,2.0,True,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Fulham,9,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.0,4.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Wolves,18,0,0,0,0,2,0,0,0,0,0,0,2.2,0.0,11.5,10.0,True,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Everton,7,0,0,0,0,7,0,0,0,0,0,0,0.4,4.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Cauley Woodrow,FWD,Luton,Spurs,23,0,0,0,0,5,0,0,0,0,0,0,2.1,9.6,4.8,7.0,True,1,2.0,4.0,-2.0
+Cauley Woodrow,FWD,Luton,Nott'm Forest,9,0,0,0,0,3,0,0,0,0,0,0,0.9,3.0,0.6,5.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Cauley Woodrow,FWD,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Cauley Woodrow,FWD,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Cauley Woodrow,FWD,Luton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Cauley Woodrow,FWD,Luton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Cauley Woodrow,FWD,Luton,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Cauley Woodrow,FWD,Luton,Brighton,7,0,0,0,0,1,0,0,0,0,0,0,0.2,0.0,0.6,2.0,True,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Newcastle,2,0,0,0,0,1,0,0,0,0,0,0,0.3,2.2,0.3,0.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Sheffield Utd,3,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,0.5,2.0,True,1,2.0,2.0,0.0
+Cauley Woodrow,FWD,Luton,Man Utd,67,0,0,2,0,4,1,0,0,0,0,0,2.6,2.2,5.4,18.0,True,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Liverpool,57,0,0,1,0,3,1,0,0,0,0,0,3.2,13.0,11.0,8.0,False,0,2.0,4.0,-2.0
+Cauley Woodrow,FWD,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Cauley Woodrow,FWD,Luton,Crystal Palace,9,1,0,0,0,28,0,0,0,0,0,0,5.5,36.2,1.3,17.0,False,8,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Bournemouth,17,0,0,1,0,2,0,0,0,0,0,0,0.2,1.4,0.3,0.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Nott'm Forest,45,0,0,0,0,1,0,0,0,0,0,0,0.1,1.0,0.1,0.0,True,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Spurs,7,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Cauley Woodrow,FWD,Luton,Arsenal,15,0,0,0,0,5,0,0,0,0,0,0,0.3,2.2,0.6,0.0,False,1,2.0,5.0,-3.0
+Cauley Woodrow,FWD,Luton,Bournemouth,10,0,1,0,0,19,0,0,0,0,0,0,5.7,28.0,28.8,0.0,True,4,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Man City,31,0,0,4,0,5,0,0,0,0,0,0,1.8,2.0,10.4,6.0,False,1,2.0,5.0,-3.0
+Cauley Woodrow,FWD,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Wolves,24,0,0,0,0,1,0,0,0,0,0,0,0.8,0.8,2.2,5.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Everton,20,0,0,0,0,5,0,0,0,0,0,0,2.7,7.6,15.1,4.0,True,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,West Ham,3,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.4,0.0,False,1,2.0,3.0,-1.0
+Cauley Woodrow,FWD,Luton,Fulham,14,0,0,0,0,2,0,0,0,0,0,0,1.3,3.0,0.5,9.0,True,1,2.0,3.0,-1.0

@@ -1,0 +1,33 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Diego Da Silva Costa,FWD,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Diego Da Silva Costa,FWD,Wolves,West Ham,32,0,0,0,0,0,0,0,0,0,0,0,1.1,0.0,2.2,10.0,False,1,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Chelsea,56,0,0,2,0,1,0,0,0,0,0,0,0.9,1.2,2.2,6.0,False,1,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Nott'm Forest,81,0,0,0,1,2,0,0,0,0,0,0,3.9,0.0,0.9,38.0,True,2,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Crystal Palace,74,0,0,2,0,0,0,0,0,0,0,0,4.0,5.0,11.6,23.0,False,2,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Leicester,79,0,0,4,0,1,0,0,0,0,0,0,18.4,3.0,11.6,169.0,True,2,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Brentford,90,0,0,1,0,-7,0,1,0,0,0,0,4.7,0.0,1.7,48.0,False,-1,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Everton,90,0,0,1,0,-3,1,0,0,0,0,0,3.1,0.2,11.9,19.0,False,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Man Utd,45,0,0,0,0,1,0,0,0,0,0,0,3.9,7.2,11.2,21.0,True,1,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Aston Villa,65,0,0,0,1,-1,1,0,0,0,0,0,1.0,0.0,0.8,12.0,False,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Diego Da Silva Costa,FWD,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Southampton,31,0,0,0,0,3,0,0,0,0,0,0,2.6,6.2,10.4,9.0,False,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Bournemouth,20,0,0,0,0,3,0,0,0,0,0,0,0.5,0.2,1.0,4.0,True,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Fulham,6,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.0,2.0,False,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Liverpool,11,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,1.8,0.0,False,1,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Spurs,27,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.3,0.0,True,1,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Nott'm Forest,25,0,0,0,0,2,0,0,0,0,0,0,1.8,3.2,10.8,4.0,False,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Chelsea,62,0,0,0,1,-3,0,0,0,0,0,0,2.1,1.4,0.5,19.0,True,2,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Brentford,72,1,0,0,1,31,0,0,0,0,0,0,13.0,48.6,24.0,57.0,True,9,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Leicester,57,0,0,1,0,-6,0,0,0,0,0,0,0.0,0.0,2.9,0.0,False,1,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Crystal Palace,88,0,0,0,1,5,1,0,0,0,0,0,4.7,10.6,13.5,23.0,True,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Brighton,45,0,0,4,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,2.0,3.0,-1.0
+Diego Da Silva Costa,FWD,Wolves,Aston Villa,82,0,0,0,1,-1,1,0,0,0,0,0,4.5,5.4,21.0,19.0,True,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Man Utd,77,0,0,1,0,2,1,0,0,0,0,0,0.5,0.0,2.1,4.0,False,1,2.0,4.0,-2.0
+Diego Da Silva Costa,FWD,Wolves,Everton,20,0,0,1,0,2,0,0,0,0,0,0,2.2,3.6,1.6,17.0,True,1,2.0,2.0,0.0
+Diego Da Silva Costa,FWD,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0

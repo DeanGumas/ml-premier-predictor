@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Victor da Silva,DEF,Burnley,Man City,90,0,0,3,0,6,0,0,0,0,0,0,2.2,8.8,11.4,2.0,True,1,2.0,5.0,-3.0
+Victor da Silva,DEF,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Victor da Silva,DEF,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Victor da Silva,DEF,Burnley,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Newcastle,2,0,0,0,0,4,0,0,0,0,0,0,0.9,1.6,0.3,7.0,False,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Victor da Silva,DEF,Burnley,Chelsea,60,0,0,2,0,2,0,0,0,0,0,0,0.0,0.0,0.8,0.0,True,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Bournemouth,90,0,0,2,0,8,0,0,0,0,0,0,3.1,7.6,23.1,0.0,False,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Crystal Palace,90,0,0,2,0,9,0,0,0,0,0,0,0.9,6.4,2.8,0.0,True,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Arsenal,87,0,0,3,0,12,0,0,0,0,0,0,1.3,9.0,1.6,2.0,False,1,2.0,5.0,-3.0
+Victor da Silva,DEF,Burnley,West Ham,90,0,0,2,0,10,0,0,0,0,0,0,1.0,2.6,2.4,5.0,True,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Sheffield Utd,90,0,0,0,1,25,0,0,0,0,0,0,3.0,9.8,5.3,15.0,True,6,2.0,2.0,0.0
+Victor da Silva,DEF,Burnley,Wolves,90,0,0,1,0,-1,0,0,0,0,0,0,1.2,5.8,1.8,4.0,False,2,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Brighton,90,0,0,1,0,6,0,0,0,0,0,0,1.7,13.8,1.4,2.0,False,2,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Everton,86,0,0,2,0,8,0,0,0,0,0,0,1.1,3.6,3.8,4.0,True,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Fulham,90,0,0,0,1,26,0,0,0,0,0,0,2.9,22.8,5.7,0.0,False,6,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Liverpool,90,0,0,2,0,5,0,0,0,0,0,0,1.3,7.4,5.3,0.0,True,1,2.0,4.0,-2.0
+Victor da Silva,DEF,Burnley,Aston Villa,90,0,0,3,0,11,0,0,0,0,0,0,2.5,11.0,14.3,0.0,False,1,2.0,4.0,-2.0
+Victor da Silva,DEF,Burnley,Luton,90,0,0,1,0,5,0,0,0,0,0,0,3.0,17.8,1.2,11.0,True,2,2.0,2.0,0.0
+Victor da Silva,DEF,Burnley,Man City,90,0,0,3,0,7,0,0,0,0,0,0,2.1,20.2,0.3,0.0,False,1,2.0,5.0,-3.0
+Victor da Silva,DEF,Burnley,Fulham,86,0,0,2,0,11,0,0,0,0,0,0,3.7,9.0,22.5,5.0,True,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Liverpool,10,0,0,0,0,2,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Victor da Silva,DEF,Burnley,Arsenal,11,0,0,0,0,6,0,0,0,0,0,0,1.0,4.0,0.7,5.0,True,1,2.0,5.0,-3.0
+Victor da Silva,DEF,Burnley,Crystal Palace,15,0,0,1,0,1,0,0,0,0,0,0,0.4,0.0,1.3,6.0,False,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Bournemouth,75,0,0,1,0,-2,1,0,0,0,0,0,2.7,0.0,2.5,28.0,True,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,West Ham,90,0,0,2,0,6,0,0,0,0,0,0,1.9,10.6,2.3,6.0,False,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Brentford,90,0,1,1,0,18,0,0,0,0,0,0,4.7,13.8,13.1,20.0,True,5,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Chelsea,90,0,0,2,0,9,0,0,0,0,0,0,2.5,15.8,9.1,0.0,False,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Wolves,90,0,0,1,0,22,0,0,0,0,0,0,6.2,18.8,17.6,26.0,True,4,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Everton,29,0,0,0,0,3,0,0,0,0,0,0,0.5,2.6,0.7,2.0,False,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Brighton,45,0,0,0,0,-1,0,0,0,0,0,0,0.8,4.6,1.0,2.0,True,1,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Sheffield Utd,69,0,1,1,0,13,0,0,0,0,0,0,7.6,25.0,24.5,26.0,False,5,2.0,2.0,0.0
+Victor da Silva,DEF,Burnley,Man Utd,90,0,0,1,0,3,0,0,0,0,0,0,2.3,10.4,5.3,7.0,False,2,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Newcastle,90,0,0,4,0,8,0,0,0,0,0,0,1.9,15.2,1.4,2.0,True,0,2.0,3.0,-1.0
+Victor da Silva,DEF,Burnley,Spurs,71,0,0,1,0,5,0,0,0,0,0,0,4.5,8.4,3.4,33.0,False,2,2.0,4.0,-2.0
+Victor da Silva,DEF,Burnley,Nott'm Forest,45,0,1,0,0,12,0,0,0,0,0,0,3.9,17.0,13.9,8.0,True,4,2.0,3.0,-1.0

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Crystal Palace,6,0,0,0,0,5,0,0,0,0,0,0,0.3,2.2,0.3,0.0,True,1,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Liverpool,24,0,0,1,0,2,0,0,0,0,0,0,0.4,0.6,1.7,2.0,False,1,3.0,5.0,-2.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Southampton,8,0,0,1,0,1,0,0,0,0,0,0,1.3,1.0,0.8,11.0,True,1,3.0,2.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Man City,18,0,0,0,0,5,0,0,0,0,0,0,0.2,2.0,0.1,0.0,False,1,3.0,4.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Spurs,86,0,0,3,0,18,0,0,0,0,0,0,4.0,9.8,22.1,8.0,False,2,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,West Ham,84,0,1,1,0,18,0,0,0,0,0,0,5.8,34.0,14.3,10.0,True,6,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Wolves,13,1,0,1,0,23,0,0,0,0,0,0,6.9,33.4,0.8,35.0,True,6,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Man Utd,16,0,0,0,0,1,0,0,0,0,0,0,0.7,0.0,0.1,9.0,False,1,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Ipswich,9,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Fulham,17,0,0,2,0,0,0,0,0,0,0,0,2.3,3.2,0.6,19.0,False,1,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Bournemouth,1,0,0,0,0,0,1,0,0,0,0,0,0.0,0.0,0.1,0.0,True,0,3.0,4.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Leicester,20,0,0,0,0,8,0,0,0,0,0,0,2.9,12.0,10.3,7.0,True,1,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Aston Villa,20,0,0,0,0,1,0,0,0,0,0,0,0.5,0.0,3.3,2.0,False,1,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Newcastle,72,0,0,2,0,12,0,0,0,0,0,0,3.0,8.0,4.9,17.0,True,2,3.0,4.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Chelsea,15,0,0,1,0,-2,0,0,0,0,0,0,0.7,0.0,0.5,9.0,False,1,3.0,4.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Nott'm Forest,9,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1,3.0,4.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Fábio Freitas Gouveia Carvalho,MID,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Nathan Broadhead,MID,Ipswich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Nathan Broadhead,MID,Ipswich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Nathan Broadhead,MID,Ipswich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nathan Broadhead,MID,Ipswich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Nott'm Forest,11,0,0,0,0,5,0,0,0,0,0,0,0.4,2.0,1.8,0.0,False,1,3.0,4.0,-1.0
+Nathan Broadhead,MID,Ipswich,Crystal Palace,24,0,0,0,0,7,0,0,0,0,0,0,0.7,4.4,0.4,2.0,True,1,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nathan Broadhead,MID,Ipswich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Newcastle,12,0,0,0,0,3,0,0,0,0,0,0,2.3,5.6,10.8,7.0,True,1,3.0,4.0,-1.0
+Nathan Broadhead,MID,Ipswich,Arsenal,10,0,0,0,0,4,0,0,0,0,0,0,0.9,3.2,3.7,2.0,False,1,3.0,4.0,-1.0
+Nathan Broadhead,MID,Ipswich,Chelsea,76,0,0,0,1,6,0,0,0,0,0,0,4.4,7.8,12.5,24.0,True,3,3.0,4.0,-1.0
+Nathan Broadhead,MID,Ipswich,Fulham,79,0,0,1,0,14,1,0,0,0,0,0,3.7,13.8,15.9,7.0,False,1,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Brighton,90,0,0,2,0,11,0,0,0,0,0,0,3.6,7.4,11.8,17.0,True,2,3.0,3.0,0.0
+Nathan Broadhead,MID,Ipswich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nathan Broadhead,MID,Ipswich,Liverpool,11,0,0,0,0,7,0,0,0,0,0,0,0.8,7.8,0.6,0.0,False,1,3.0,5.0,-2.0

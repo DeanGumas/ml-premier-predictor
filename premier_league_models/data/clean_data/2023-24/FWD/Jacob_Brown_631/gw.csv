@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jacob Brown,FWD,Luton,Brighton,26,0,1,3,0,10,0,0,0,0,0,0,2.9,5.2,0.3,23.0,False,4,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Chelsea,20,0,0,1,0,-2,1,0,0,0,0,0,0.5,0.0,0.3,9.0,False,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,West Ham,19,0,0,1,0,2,0,0,0,0,0,0,0.1,0.0,0.0,2.0,True,1,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Fulham,73,0,0,1,0,12,0,0,0,0,0,0,4.9,14.2,24.5,10.0,False,2,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Wolves,71,0,0,1,0,2,0,0,0,0,0,0,5.5,5.6,12.5,37.0,True,2,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Everton,90,0,0,1,0,3,0,0,0,0,0,0,0.7,3.2,1.9,2.0,False,2,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Burnley,68,0,0,1,0,4,1,0,0,0,0,0,5.7,6.0,30.5,20.0,True,1,2.0,2.0,0.0
+Jacob Brown,FWD,Luton,Spurs,65,0,0,1,0,-2,0,0,0,0,0,0,0.8,0.0,0.8,13.0,True,2,2.0,4.0,-2.0
+Jacob Brown,FWD,Luton,Nott'm Forest,71,0,0,1,0,1,0,0,0,0,0,0,3.2,2.2,2.3,27.0,False,2,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Aston Villa,57,0,0,2,0,-1,0,0,0,0,0,0,0.7,6.6,0.6,0.0,False,1,2.0,4.0,-2.0
+Jacob Brown,FWD,Luton,Liverpool,11,0,0,1,0,4,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Jacob Brown,FWD,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Crystal Palace,11,1,0,0,0,31,0,0,0,0,0,0,7.1,38.0,0.0,33.0,True,7,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Brentford,45,1,0,3,0,28,0,0,0,0,0,0,5.2,40.0,0.7,11.0,False,6,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Arsenal,60,0,0,3,0,3,1,0,0,0,0,0,1.1,4.0,2.6,4.0,True,1,2.0,5.0,-3.0
+Jacob Brown,FWD,Luton,Man City,90,0,0,2,0,5,0,0,0,0,0,0,1.0,3.6,1.9,4.0,True,2,2.0,5.0,-3.0
+Jacob Brown,FWD,Luton,Newcastle,90,0,0,0,1,5,0,0,0,0,0,0,7.2,12.4,32.2,27.0,True,2,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Sheffield Utd,90,0,0,2,0,5,0,0,0,0,0,0,2.1,15.0,2.4,4.0,False,2,2.0,2.0,0.0
+Jacob Brown,FWD,Luton,Chelsea,45,0,0,2,0,4,1,0,0,0,0,0,2.1,2.4,2.4,16.0,True,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jacob Brown,FWD,Luton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Newcastle,11,0,0,0,0,1,0,0,0,0,0,0,1.1,3.2,0.5,7.0,False,1,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jacob Brown,FWD,Luton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jacob Brown,FWD,Luton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jacob Brown,FWD,Luton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jacob Brown,FWD,Luton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Jacob Brown,FWD,Luton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Jacob Brown,FWD,Luton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jacob Brown,FWD,Luton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

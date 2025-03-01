@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Harry Toffolo,DEF,Nott'm Forest,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Harry Toffolo,DEF,Nott'm Forest,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Harry Toffolo,DEF,Nott'm Forest,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Harry Toffolo,DEF,Nott'm Forest,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Harry Toffolo,DEF,Nott'm Forest,Brentford,30,0,1,0,0,17,0,0,0,0,0,0,4.3,29.2,14.0,0.0,True,4,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Crystal Palace,90,0,0,0,1,26,0,0,0,0,0,0,5.8,29.8,17.4,11.0,False,6,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Luton,90,0,0,2,0,10,0,0,0,0,0,0,6.7,18.6,15.3,33.0,True,1,3.0,2.0,1.0
+Harry Toffolo,DEF,Nott'm Forest,Liverpool,21,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,3.0,4.0,-1.0
+Harry Toffolo,DEF,Nott'm Forest,Aston Villa,70,0,2,0,1,45,0,0,0,0,0,0,6.7,46.2,20.9,0.0,True,15,3.0,4.0,-1.0
+Harry Toffolo,DEF,Nott'm Forest,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,5.3,19.4,33.8,0.0,False,1,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Brighton,90,0,0,3,0,15,1,0,0,0,0,0,9.0,22.4,60.2,7.0,True,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Everton,81,0,0,1,0,13,0,0,0,0,0,0,3.7,21.8,15.3,0.0,True,2,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Fulham,90,0,0,5,0,20,0,0,0,0,0,0,1.9,17.4,1.8,0.0,False,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Wolves,90,1,0,1,0,12,0,0,0,0,0,0,11.1,35.0,5.2,71.0,False,8,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Spurs,90,0,0,2,0,2,1,0,0,0,0,0,5.9,4.6,15.4,39.0,True,0,3.0,4.0,-1.0
+Harry Toffolo,DEF,Nott'm Forest,Bournemouth,84,0,0,2,0,10,0,0,0,0,0,0,2.7,16.6,10.8,0.0,True,1,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Man Utd,3,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Arsenal,90,0,0,2,0,14,0,0,0,0,0,0,6.4,23.8,38.3,2.0,True,1,3.0,5.0,-2.0
+Harry Toffolo,DEF,Nott'm Forest,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Aston Villa,45,0,0,1,0,3,0,0,0,0,0,0,1.2,9.4,0.6,2.0,False,1,3.0,4.0,-1.0
+Harry Toffolo,DEF,Nott'm Forest,Liverpool,90,0,0,1,0,12,0,0,0,0,0,0,3.1,11.8,14.8,4.0,True,2,3.0,4.0,-1.0
+Harry Toffolo,DEF,Nott'm Forest,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,1.2,8.8,1.3,2.0,False,2,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Luton,90,0,0,1,0,11,1,0,0,0,0,0,1.9,18.2,0.9,0.0,False,1,3.0,2.0,1.0
+Harry Toffolo,DEF,Nott'm Forest,Crystal Palace,6,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.8,0.0,True,1,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Fulham,7,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Harry Toffolo,DEF,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Harry Toffolo,DEF,Nott'm Forest,Sheffield Utd,7,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.8,0.0,False,1,3.0,2.0,1.0
+Harry Toffolo,DEF,Nott'm Forest,Chelsea,18,0,0,2,0,5,0,0,0,0,0,0,0.3,2.8,0.1,0.0,True,0,3.0,3.0,0.0
+Harry Toffolo,DEF,Nott'm Forest,Burnley,90,0,0,1,0,10,0,0,0,0,0,0,1.7,16.8,0.6,0.0,False,2,3.0,2.0,1.0

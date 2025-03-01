@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ibrahima Diallo,MID,Southampton,Spurs,15,0,0,0,0,1,0,0,0,0,0,0,1.4,1.6,2.3,10.0,False,1,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Chelsea,90,0,0,1,0,6,0,0,0,0,0,0,2.1,6.8,11.8,2.0,True,2,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Wolves,55,0,0,1,0,-2,1,0,0,0,0,0,0.0,0.0,1.6,1.0,False,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Aston Villa,45,0,0,1,0,3,0,0,0,0,0,0,0.4,1.2,1.0,2.0,False,1,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Man City,90,0,0,4,0,11,0,0,0,0,0,0,0.7,3.6,3.3,0.0,False,2,2.0,5.0,-3.0
+Ibrahima Diallo,MID,Southampton,West Ham,16,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.3,1.0,True,1,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Bournemouth,2,0,0,0,0,2,0,0,0,0,0,0,0.2,0.6,1.1,0.0,False,1,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Arsenal,90,0,0,1,0,19,0,0,0,0,0,0,1.4,12.8,1.6,0.0,True,2,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Crystal Palace,45,0,0,1,0,3,0,0,0,0,0,0,0.9,7.6,1.0,0.0,False,1,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Brighton,45,0,0,2,0,5,0,0,0,0,0,0,0.9,0.2,0.8,8.0,True,1,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Everton,84,0,0,1,0,0,1,0,0,0,0,0,0.2,0.0,0.7,2.0,False,1,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Aston Villa,90,0,0,1,0,15,0,0,0,0,0,0,1.9,16.2,2.3,0.0,True,2,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Brentford,45,0,0,2,0,7,0,0,0,0,0,0,2.0,8.4,11.3,0.0,False,1,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Chelsea,3,0,0,0,0,4,0,0,0,0,0,0,0.5,4.4,0.3,0.0,False,1,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Leeds,27,0,0,1,0,3,1,0,0,0,0,0,2.6,12.6,11.8,2.0,False,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Brentford,57,0,0,1,0,9,0,0,0,0,0,0,2.1,6.4,14.8,0.0,True,1,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Man City,10,0,0,0,0,5,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,2.0,5.0,-3.0
+Ibrahima Diallo,MID,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Arsenal,4,0,0,2,0,1,1,0,0,0,0,0,0.1,1.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ibrahima Diallo,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ibrahima Diallo,MID,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ibrahima Diallo,MID,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

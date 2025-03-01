@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Saša Lukić,MID,Fulham,Man Utd,90,0,0,1,0,16,0,0,0,0,0,0,1.5,11.6,2.9,0.0,False,2,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Leicester,90,0,0,1,0,13,0,0,0,0,0,0,2.5,10.2,15.0,0.0,True,2,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Ipswich,86,0,0,1,0,10,1,0,0,0,0,0,1.5,9.4,3.8,2.0,False,1,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,West Ham,65,0,0,0,1,8,1,0,0,0,0,0,1.0,10.0,0.4,0.0,True,2,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Newcastle,45,0,0,0,0,4,1,0,0,0,0,0,2.3,6.0,16.5,0.0,True,0,3.0,4.0,-1.0
+Saša Lukić,MID,Fulham,Nott'm Forest,82,0,0,0,1,9,1,0,0,0,0,0,1.8,4.8,13.6,0.0,False,2,3.0,4.0,-1.0
+Saša Lukić,MID,Fulham,Man City,90,0,0,3,0,8,0,0,0,0,0,0,2.3,13.2,9.3,0.0,False,2,3.0,4.0,-1.0
+Saša Lukić,MID,Fulham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Wolves,90,0,0,4,0,11,0,0,0,0,0,0,2.1,17.0,4.3,0.0,True,2,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Spurs,61,0,0,1,0,10,1,0,0,0,0,0,4.2,7.6,34.4,0.0,False,1,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Arsenal,90,0,0,1,0,6,1,0,0,0,0,0,1.2,7.8,4.2,0.0,True,1,3.0,4.0,-1.0
+Saša Lukić,MID,Fulham,Liverpool,90,0,0,2,0,12,0,0,0,0,0,0,4.3,19.0,21.4,3.0,False,2,3.0,5.0,-2.0
+Saša Lukić,MID,Fulham,Southampton,15,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.8,0.0,True,1,3.0,2.0,1.0
+Saša Lukić,MID,Fulham,Chelsea,90,0,1,1,0,29,1,0,0,0,0,0,4.1,27.2,13.4,0.0,False,5,3.0,4.0,-1.0
+Saša Lukić,MID,Fulham,Bournemouth,90,0,0,2,0,11,0,0,0,0,0,0,2.3,17.4,4.1,1.0,True,2,3.0,4.0,-1.0
+Saša Lukić,MID,Fulham,Ipswich,78,0,0,2,0,10,0,0,0,0,0,0,1.3,2.6,9.3,1.0,True,2,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,West Ham,90,0,0,3,0,3,1,0,0,0,0,0,2.5,8.8,2.5,14.0,False,1,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Leicester,90,0,1,0,1,20,1,0,0,0,0,0,6.5,23.0,28.1,14.0,False,5,3.0,3.0,0.0
+Saša Lukić,MID,Fulham,Man Utd,82,0,0,1,0,17,0,0,0,0,0,0,1.8,8.2,7.4,2.0,True,2,3.0,3.0,0.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Oliver Skipp,MID,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,Arsenal,15,0,0,0,0,7,0,0,0,0,0,0,0.5,5.2,0.0,0.0,False,1,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,1,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Man Utd,1,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.5,0.0,False,1,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Newcastle,65,0,0,2,0,6,1,0,0,0,0,0,4.3,6.0,36.9,0.0,True,1,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Bournemouth,45,0,0,1,0,2,0,0,0,0,0,0,2.9,2.2,7.3,19.0,False,1,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,Aston Villa,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.4,0.0,True,1,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Crystal Palace,65,0,0,0,1,6,1,0,0,0,0,0,0.6,5.8,0.6,0.0,False,2,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Oliver Skipp,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Oliver Skipp,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,West Ham,88,0,0,0,1,13,1,0,0,0,0,0,3.3,15.4,13.3,4.0,True,2,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,Chelsea,90,1,0,0,1,29,0,0,0,0,0,0,5.6,44.8,1.9,9.0,True,9,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Wolves,90,0,0,1,0,11,0,0,0,0,0,0,2.1,4.8,12.9,3.0,False,2,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Nott'm Forest,90,0,0,1,0,12,1,0,0,0,0,0,1.5,10.2,2.8,2.0,True,1,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Southampton,90,0,0,3,0,10,1,0,0,0,0,0,4.4,19.4,24.1,0.0,False,1,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Everton,90,0,0,1,0,11,0,0,0,0,0,0,0.8,4.6,3.0,0.0,False,2,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Brighton,87,0,0,1,0,6,0,0,0,0,0,0,0.9,7.0,2.0,0.0,True,2,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,Bournemouth,76,0,0,2,0,9,0,0,0,0,0,0,3.4,13.8,12.9,7.0,True,2,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Newcastle,90,0,0,6,0,11,1,0,0,0,0,0,2.7,11.8,13.2,2.0,False,1,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Man Utd,90,0,0,2,0,9,0,0,0,0,0,0,1.5,12.6,2.7,0.0,True,2,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Liverpool,83,0,0,3,0,8,0,0,0,0,0,0,3.0,22.0,1.8,6.0,False,2,4.0,4.0,0.0
+Oliver Skipp,MID,Spurs,Crystal Palace,90,0,0,0,1,10,0,0,0,0,0,0,1.4,11.0,2.8,0.0,True,3,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Aston Villa,60,0,0,1,0,4,1,0,0,0,0,0,0.2,0.0,2.5,0.0,False,1,4.0,2.0,2.0
+Oliver Skipp,MID,Spurs,Brentford,90,0,0,3,0,8,0,0,0,0,0,0,0.6,1.2,4.4,0.0,True,2,4.0,3.0,1.0
+Oliver Skipp,MID,Spurs,Leeds,90,0,0,1,0,16,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2,4.0,2.0,2.0

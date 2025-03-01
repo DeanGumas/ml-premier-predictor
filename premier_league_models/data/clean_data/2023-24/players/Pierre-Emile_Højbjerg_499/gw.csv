@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Pierre-Emile Højbjerg,MID,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Man Utd,14,0,0,0,0,4,0,0,0,0,0,0,1.0,7.4,2.1,0.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Bournemouth,30,0,0,0,0,10,0,0,0,0,0,0,1.4,8.2,5.3,0.0,False,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Burnley,22,0,0,1,0,-1,1,0,0,0,0,0,0.2,1.2,0.9,0.0,False,0,4.0,2.0,2.0
+Pierre-Emile Højbjerg,MID,Spurs,Sheffield Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.3,0.8,0.6,2.0,True,1,4.0,2.0,2.0
+Pierre-Emile Højbjerg,MID,Spurs,Arsenal,12,0,0,0,0,3,0,0,0,0,0,0,0.2,1.2,1.2,0.0,False,1,4.0,5.0,-1.0
+Pierre-Emile Højbjerg,MID,Spurs,Liverpool,1,0,0,0,0,3,0,0,0,0,0,0,0.6,2.2,1.7,2.0,True,1,4.0,4.0,0.0
+Pierre-Emile Højbjerg,MID,Spurs,Luton,45,0,0,0,0,3,1,0,0,0,0,0,1.3,9.4,2.0,2.0,False,0,4.0,2.0,2.0
+Pierre-Emile Højbjerg,MID,Spurs,Fulham,90,0,0,0,1,9,1,0,0,0,0,0,2.7,11.4,6.1,9.0,True,2,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Crystal Palace,26,0,0,1,0,9,0,0,0,0,0,0,1.1,9.2,1.6,0.0,False,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Chelsea,45,0,0,3,0,7,0,0,0,0,0,0,3.9,21.0,1.4,17.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Wolves,90,0,0,2,0,13,0,0,0,0,0,0,3.0,15.2,15.0,0.0,False,2,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Aston Villa,58,0,0,2,0,11,0,0,0,0,0,0,2.9,15.0,4.9,9.0,True,1,4.0,4.0,0.0
+Pierre-Emile Højbjerg,MID,Spurs,Man City,45,0,0,1,0,6,0,0,0,0,0,0,1.1,5.6,1.3,4.0,False,1,4.0,5.0,-1.0
+Pierre-Emile Højbjerg,MID,Spurs,West Ham,66,0,0,1,0,11,0,0,0,0,0,0,3.3,13.0,15.6,4.0,True,2,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Newcastle,17,0,0,1,0,1,0,0,0,0,0,0,0.4,2.4,1.5,0.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Nott'm Forest,18,0,0,0,0,4,0,0,0,0,0,0,2.4,10.4,11.6,2.0,False,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Everton,27,0,0,1,0,5,0,0,0,0,0,0,0.5,5.0,0.0,0.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Brighton,90,0,0,4,0,18,0,0,0,0,0,0,3.1,16.4,6.8,8.0,False,2,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Bournemouth,32,0,0,1,0,11,0,0,0,0,0,0,2.6,8.6,12.9,4.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Man Utd,90,0,0,2,0,8,0,0,0,0,0,0,3.0,13.4,15.5,1.0,False,2,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Brentford,45,0,0,1,0,4,0,0,0,0,0,0,1.4,9.8,4.6,0.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Everton,88,0,0,1,0,10,0,0,0,0,0,0,2.4,15.8,3.3,5.0,False,2,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Brighton,10,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.8,1.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Wolves,5,0,0,0,0,2,0,0,0,0,0,0,0.4,1.8,2.1,0.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Crystal Palace,8,0,0,0,0,4,0,0,0,0,0,0,0.7,5.8,0.8,0.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Aston Villa,2,0,0,0,0,4,0,0,0,0,0,0,0.7,4.8,2.3,0.0,False,1,4.0,4.0,0.0
+Pierre-Emile Højbjerg,MID,Spurs,Fulham,24,0,0,0,0,12,0,0,0,0,0,0,2.0,7.4,12.1,0.0,False,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Luton,2,0,0,0,0,2,1,0,0,0,0,0,1.3,2.4,10.5,0.0,True,0,4.0,2.0,2.0
+Pierre-Emile Højbjerg,MID,Spurs,West Ham,8,0,0,0,0,4,0,0,0,0,0,0,0.6,2.0,1.6,2.0,False,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Nott'm Forest,45,0,0,0,0,7,0,0,0,0,0,0,3.1,11.0,3.8,16.0,True,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Newcastle,33,0,0,1,0,9,0,0,0,0,0,0,2.7,7.6,17.3,2.0,False,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Arsenal,63,0,0,3,0,6,0,0,1,0,0,0,1.6,9.6,5.9,0.0,True,0,4.0,5.0,-1.0
+Pierre-Emile Højbjerg,MID,Spurs,Chelsea,27,0,0,1,0,12,0,0,0,0,0,0,3.9,9.0,16.3,14.0,False,1,4.0,3.0,1.0
+Pierre-Emile Højbjerg,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Pierre-Emile Højbjerg,MID,Spurs,Burnley,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.8,0.0,True,1,4.0,2.0,2.0
+Pierre-Emile Højbjerg,MID,Spurs,Man City,84,0,0,1,0,9,0,0,0,0,0,0,2.9,12.6,14.8,2.0,True,2,4.0,5.0,-1.0
+Pierre-Emile Højbjerg,MID,Spurs,Sheffield Utd,24,0,0,0,0,11,0,0,0,0,0,0,0.8,5.2,0.8,2.0,False,1,4.0,2.0,2.0

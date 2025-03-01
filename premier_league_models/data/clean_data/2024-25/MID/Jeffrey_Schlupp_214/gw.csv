@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jeffrey Schlupp,MID,Crystal Palace,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,West Ham,9,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.7,0.0,True,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Chelsea,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,False,1,3.0,4.0,-1.0
+Jeffrey Schlupp,MID,Crystal Palace,Leicester,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.1,0.0,True,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Man Utd,1,0,0,0,0,6,0,0,0,0,0,0,2.4,5.2,14.3,4.0,True,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Everton,17,0,0,0,0,2,0,0,0,0,0,0,0.4,0.0,1.9,4.0,False,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Jeffrey Schlupp,MID,Crystal Palace,Nott'm Forest,16,0,0,0,0,5,0,0,0,0,0,0,2.6,8.0,1.2,17.0,False,1,3.0,4.0,-1.0
+Jeffrey Schlupp,MID,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Wolves,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Fulham,16,0,0,1,0,4,0,0,0,0,0,0,1.7,2.4,12.1,2.0,True,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Aston Villa,16,0,0,1,0,5,0,0,0,0,0,0,2.0,3.0,0.3,17.0,False,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Newcastle,6,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,1.3,0.0,True,1,3.0,4.0,-1.0
+Jeffrey Schlupp,MID,Crystal Palace,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jeffrey Schlupp,MID,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Arsenal,9,0,0,1,0,3,0,0,0,0,0,0,0.3,0.2,0.4,2.0,True,1,3.0,4.0,-1.0
+Jeffrey Schlupp,MID,Crystal Palace,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jeffrey Schlupp,MID,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jeffrey Schlupp,MID,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jeffrey Schlupp,MID,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,1.1,1.0,10.3,0.0,False,1,3.0,3.0,0.0
+Jeffrey Schlupp,MID,Crystal Palace,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

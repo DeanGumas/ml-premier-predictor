@@ -1,0 +1,23 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Konstantinos Tsimikas,DEF,Liverpool,Ipswich,11,0,0,0,0,3,0,0,0,0,0,0,0.3,1.4,1.2,0.0,False,1,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Man Utd,7,0,0,0,0,4,0,0,0,0,0,0,0.3,2.4,0.1,0.0,False,1,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Nott'm Forest,15,0,0,0,0,4,0,0,0,0,0,0,0.4,2.8,0.8,0.0,True,1,5.0,4.0,1.0
+Konstantinos Tsimikas,DEF,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Konstantinos Tsimikas,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Crystal Palace,78,0,0,0,1,26,0,0,0,0,0,0,2.2,11.0,8.8,2.0,False,6,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Konstantinos Tsimikas,DEF,Liverpool,Arsenal,27,0,0,0,0,4,0,0,0,0,0,0,1.0,7.6,2.0,0.0,False,1,5.0,4.0,1.0
+Konstantinos Tsimikas,DEF,Liverpool,Brighton,90,0,0,1,0,27,0,0,0,0,0,0,9.3,35.8,40.3,17.0,True,3,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Konstantinos Tsimikas,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Konstantinos Tsimikas,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Konstantinos Tsimikas,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Leicester,4,0,0,0,0,4,0,0,0,0,0,0,1.3,2.0,8.6,2.0,True,1,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,West Ham,16,0,0,0,0,5,0,0,0,0,0,0,1.3,12.4,0.4,0.0,False,1,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Nott'm Forest,25,0,1,0,0,15,0,0,0,0,0,0,4.1,22.0,16.7,2.0,False,4,5.0,4.0,1.0
+Konstantinos Tsimikas,DEF,Liverpool,Brentford,64,0,0,0,1,24,1,0,0,0,0,0,3.4,6.4,28.0,0.0,False,5,5.0,3.0,2.0
+Konstantinos Tsimikas,DEF,Liverpool,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0

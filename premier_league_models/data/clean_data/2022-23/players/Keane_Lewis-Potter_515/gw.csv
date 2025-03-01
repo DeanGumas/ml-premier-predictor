@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Keane Lewis-Potter,MID,Brentford,Leicester,31,0,0,0,0,3,0,0,0,0,0,0,0.7,5.2,0.2,2.0,False,1,3.0,3.0,0.0
+Keane Lewis-Potter,MID,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Fulham,30,0,0,1,0,4,0,0,0,0,0,0,3.7,3.2,10.2,24.0,False,1,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Everton,22,0,1,0,0,16,0,0,0,0,0,0,6.1,19.4,31.8,10.0,True,4,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Crystal Palace,67,0,0,1,0,3,0,0,0,0,0,0,1.1,1.4,1.5,8.0,False,2,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Leeds,58,0,0,1,0,-4,0,0,0,0,0,0,7.0,6.2,3.4,60.0,True,1,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Keane Lewis-Potter,MID,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Wolves,15,0,0,0,0,7,0,0,0,0,0,0,2.1,3.0,10.3,8.0,True,1,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Nott'm Forest,59,0,0,1,0,1,0,0,0,0,0,0,0.8,0.6,5.6,2.0,False,1,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Keane Lewis-Potter,MID,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Keane Lewis-Potter,MID,Brentford,Liverpool,16,0,0,0,0,2,0,0,0,0,0,0,0.2,2.0,0.1,0.0,True,1,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Bournemouth,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Crystal Palace,14,0,0,0,0,2,0,0,0,0,0,0,0.2,1.0,0.8,0.0,True,1,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Keane Lewis-Potter,MID,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Keane Lewis-Potter,MID,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Keane Lewis-Potter,MID,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Keane Lewis-Potter,MID,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Keane Lewis-Potter,MID,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0

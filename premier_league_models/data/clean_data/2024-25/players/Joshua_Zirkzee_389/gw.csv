@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Joshua Zirkzee,FWD,Man Utd,Fulham,29,1,0,0,0,33,0,0,0,0,0,0,5.2,33.2,1.8,17.0,True,8,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Brighton,45,0,0,1,0,5,0,0,0,0,0,0,2.6,11.4,11.0,4.0,False,1,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Liverpool,85,0,0,3,0,-6,1,0,0,0,0,0,4.4,0.8,4.0,39.0,True,1,3.0,5.0,-2.0
+Joshua Zirkzee,FWD,Man Utd,Southampton,90,0,0,0,1,8,0,0,0,0,0,0,9.5,15.4,24.3,55.0,False,2,3.0,2.0,1.0
+Joshua Zirkzee,FWD,Man Utd,Crystal Palace,60,0,0,0,1,11,0,0,0,0,0,0,4.5,5.2,28.6,11.0,False,2,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Spurs,45,0,0,1,0,6,0,0,0,0,0,0,2.6,8.4,0.7,17.0,True,1,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Aston Villa,26,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Brentford,16,0,0,0,0,0,0,0,0,0,0,0,0.5,0.2,2.4,2.0,True,1,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,West Ham,11,0,1,1,0,15,0,0,0,0,0,0,3.7,15.0,11.3,11.0,False,4,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Chelsea,6,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,0.3,2.0,True,1,3.0,4.0,-1.0
+Joshua Zirkzee,FWD,Man Utd,Leicester,15,0,0,0,0,3,0,0,0,0,0,0,0.7,0.8,0.8,5.0,True,1,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Ipswich,22,0,0,0,0,1,0,0,0,0,0,0,0.3,0.0,0.4,4.0,False,1,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Everton,90,2,0,0,1,57,0,0,0,0,0,0,12.9,67.4,25.6,36.0,True,13,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Arsenal,31,0,0,1,0,2,0,0,0,0,0,0,0.7,6.2,0.4,0.0,False,1,3.0,4.0,-1.0
+Joshua Zirkzee,FWD,Man Utd,Nott'm Forest,14,0,0,0,0,2,0,0,0,0,0,0,0.4,0.6,3.4,0.0,True,1,3.0,4.0,-1.0
+Joshua Zirkzee,FWD,Man Utd,Man City,12,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Joshua Zirkzee,FWD,Man Utd,Bournemouth,53,0,0,1,0,2,0,0,0,0,0,0,1.2,0.0,2.2,12.0,True,1,3.0,4.0,-1.0
+Joshua Zirkzee,FWD,Man Utd,Wolves,11,0,0,1,0,5,0,0,0,0,0,0,0.3,2.2,0.4,0.0,False,1,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Newcastle,32,0,0,2,0,8,0,0,0,0,0,0,0.9,8.0,1.3,0.0,True,1,3.0,4.0,-1.0
+Joshua Zirkzee,FWD,Man Utd,Liverpool,4,0,0,0,0,6,0,0,0,0,0,0,1.8,3.0,10.8,4.0,False,1,3.0,5.0,-2.0
+Joshua Zirkzee,FWD,Man Utd,Southampton,37,0,0,0,0,4,0,0,0,0,0,0,4.4,10.8,22.4,11.0,True,1,3.0,2.0,1.0
+Joshua Zirkzee,FWD,Man Utd,Brighton,83,0,1,3,0,13,0,0,0,0,0,0,2.3,5.0,2.2,16.0,True,5,3.0,3.0,0.0
+Joshua Zirkzee,FWD,Man Utd,Fulham,32,0,0,0,0,1,0,0,0,0,0,0,0.4,2.4,1.7,0.0,False,1,3.0,3.0,0.0

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kieran Trippier,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Kieran Trippier,DEF,Newcastle,Bournemouth,32,0,0,0,0,4,0,0,0,0,0,0,1.2,7.2,4.9,0.0,False,1,4.0,4.0,0.0
+Kieran Trippier,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Wolves,26,0,0,0,0,2,0,0,0,0,0,0,0.7,1.8,5.2,0.0,False,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Fulham,73,0,0,2,0,7,0,0,0,0,0,0,2.1,8.8,12.3,0.0,False,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Man City,77,0,0,1,0,5,0,0,0,0,0,0,2.6,10.0,7.2,9.0,True,2,4.0,4.0,0.0
+Kieran Trippier,DEF,Newcastle,Everton,70,0,0,0,1,28,0,0,0,0,0,0,5.5,16.8,36.1,2.0,False,8,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Kieran Trippier,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Kieran Trippier,DEF,Newcastle,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Kieran Trippier,DEF,Newcastle,West Ham,6,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,1.1,0.0,True,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Kieran Trippier,DEF,Newcastle,Brentford,7,0,0,1,0,0,0,0,0,0,0,0,0.2,0.8,0.9,0.0,False,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Leicester,26,0,0,0,0,9,0,0,0,0,0,0,1.4,6.6,7.2,0.0,True,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Ipswich,26,0,0,0,0,11,0,0,0,0,0,0,1.0,6.6,3.4,0.0,False,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Aston Villa,77,0,0,0,1,18,1,0,0,0,0,0,1.4,8.4,4.0,2.0,True,5,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Man Utd,57,0,0,0,0,13,0,0,0,0,0,0,2.5,9.4,15.2,0.0,False,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Wolves,5,0,0,0,0,3,0,0,0,0,0,0,0.3,3.0,0.2,0.0,True,1,4.0,3.0,1.0
+Kieran Trippier,DEF,Newcastle,Bournemouth,24,0,0,2,0,-4,0,0,0,0,0,0,1.9,4.2,14.3,0.0,True,0,4.0,4.0,0.0
+Kieran Trippier,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

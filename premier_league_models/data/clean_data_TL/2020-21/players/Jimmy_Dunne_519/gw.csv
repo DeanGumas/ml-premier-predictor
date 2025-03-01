@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jimmy Dunne,DEF,Burnley,Leicester,90,1,0,4,0,22,0,0,0,0,0,0,9.9,57.8,10.9,30.0,False,2020-09-20T18:00:00Z,6
+Jimmy Dunne,DEF,Burnley,Southampton,90,0,0,1,0,13,0,0,0,0,0,0,2.7,8.4,10.3,8.0,True,2020-09-26T19:00:00Z,2
+Jimmy Dunne,DEF,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-03T19:00:00Z,0
+Jimmy Dunne,DEF,Burnley,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-19T16:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-26T20:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-31T15:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-06T17:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-23T17:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-28T15:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-05T12:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-13T19:15:00Z,0
+Jimmy Dunne,DEF,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-17T18:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-21T17:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-27T12:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-29T18:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-12T20:15:00Z,0
+Jimmy Dunne,DEF,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-16T15:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-21T20:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-27T18:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-31T12:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-03T18:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-06T15:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-13T15:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-17T18:00:00Z,0
+Jimmy Dunne,DEF,Burnley,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-20T15:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-28T14:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-03T18:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-06T12:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-13T17:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-04T11:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-11T11:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-18T15:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-25T11:00:00Z,0
+Jimmy Dunne,DEF,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-03T19:15:00Z,0
+Jimmy Dunne,DEF,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-10T19:00:00Z,0
+Jimmy Dunne,DEF,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-15T11:30:00Z,0
+Jimmy Dunne,DEF,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-19T19:15:00Z,0
+Jimmy Dunne,DEF,Burnley,Sheffield Utd,90,0,0,1,0,15,1,0,0,0,0,0,5.7,13.4,0.9,43.0,False,2021-05-23T15:00:00Z,1

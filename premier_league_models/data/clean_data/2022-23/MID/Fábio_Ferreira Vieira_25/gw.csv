@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Fábio Ferreira Vieira,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Man Utd,16,0,0,1,0,4,0,0,0,0,0,0,1.6,4.8,1.2,10.0,False,1,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Brentford,90,1,0,0,1,31,0,0,0,0,0,0,6.0,38.0,15.3,7.0,False,10,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Spurs,10,0,0,0,0,3,0,0,0,0,0,0,3.9,5.8,15.0,18.0,True,1,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Liverpool,1,0,0,0,0,3,0,0,0,0,0,0,0.5,4.4,0.5,0.0,True,1,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Leeds,17,0,0,0,0,2,0,0,0,0,0,0,1.6,1.2,14.8,0.0,False,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Southampton,7,0,0,0,0,1,0,0,0,0,0,0,0.3,2.4,0.5,0.0,False,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Nott'm Forest,27,0,0,0,0,1,0,0,0,0,0,0,2.3,0.0,1.1,22.0,True,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Wolves,75,0,1,0,1,17,0,0,0,0,0,0,4.2,15.6,12.7,14.0,False,6,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,West Ham,2,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.1,0.0,True,1,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Everton,13,0,0,0,0,2,0,0,0,0,0,0,0.3,0.2,0.6,2.0,False,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Brentford,9,0,0,0,0,3,0,0,0,0,0,0,0.2,1.0,1.3,0.0,True,1,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Man City,7,0,0,0,0,2,0,0,0,0,0,0,0.3,0.6,0.6,2.0,True,1,4.0,5.0,-1.0
+Fábio Ferreira Vieira,MID,Arsenal,Aston Villa,11,0,1,0,0,16,0,0,0,0,0,0,3.1,17.6,13.8,0.0,False,4,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Everton,18,0,0,0,0,1,0,0,0,0,0,0,1.7,0.0,2.8,16.0,True,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Bournemouth,83,0,0,2,0,19,0,0,0,0,0,0,6.6,12.4,38.4,15.0,True,2,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Fulham,13,0,0,0,0,6,0,0,0,0,0,0,2.0,2.4,10.9,7.0,False,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Leeds,4,0,0,0,0,4,0,0,0,0,0,0,0.4,0.2,4.1,0.0,True,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,West Ham,5,0,0,0,0,4,0,0,0,0,0,0,1.6,2.2,14.2,0.0,False,1,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Southampton,56,0,0,2,0,3,0,0,0,0,0,0,2.9,0.8,20.6,8.0,True,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Fábio Ferreira Vieira,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Fábio Ferreira Vieira,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Fábio Ferreira Vieira,MID,Arsenal,Nott'm Forest,20,0,0,0,0,3,0,0,0,0,0,0,1.8,4.6,11.6,2.0,False,1,4.0,2.0,2.0
+Fábio Ferreira Vieira,MID,Arsenal,Wolves,15,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,2.0,2.0

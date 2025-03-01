@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+David de Gea,GK,Man Utd,Crystal Palace,90,0,0,3,0,12,0,0,0,2,0,0,1.7,16.6,0.0,0.0,True,2020-09-19T16:30:00Z,1
+David de Gea,GK,Man Utd,Brighton,90,0,0,2,0,13,0,0,0,3,0,0,2.6,25.8,0.0,0.0,False,2020-09-26T11:30:00Z,2
+David de Gea,GK,Man Utd,Spurs,90,0,0,6,0,11,0,0,0,2,0,0,2.0,19.8,0.0,0.0,True,2020-10-04T15:30:00Z,-1
+David de Gea,GK,Man Utd,Newcastle,90,0,0,1,0,15,0,0,0,4,0,0,2.7,26.6,0.0,0.0,False,2020-10-17T19:00:00Z,3
+David de Gea,GK,Man Utd,Chelsea,90,0,0,0,1,22,0,0,0,1,0,0,0.9,9.4,0.0,0.0,True,2020-10-24T16:30:00Z,6
+David de Gea,GK,Man Utd,Arsenal,90,0,0,1,0,9,0,0,0,1,0,0,0.6,5.8,0.0,0.0,True,2020-11-01T16:30:00Z,2
+David de Gea,GK,Man Utd,Everton,90,0,0,1,0,7,0,0,0,0,0,0,0.2,1.8,0.0,0.0,False,2020-11-07T12:30:00Z,2
+David de Gea,GK,Man Utd,West Brom,90,0,0,0,1,22,0,0,0,2,0,0,2.0,20.2,0.0,0.0,True,2020-11-21T20:00:00Z,6
+David de Gea,GK,Man Utd,Southampton,45,0,0,2,0,5,0,0,0,1,0,0,0.4,3.6,0.0,0.0,False,2020-11-29T14:00:00Z,0
+David de Gea,GK,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-05T17:30:00Z,0
+David de Gea,GK,Man Utd,Man City,90,0,0,0,1,24,0,0,0,2,0,0,2.0,19.8,0.0,0.0,True,2020-12-12T17:30:00Z,6
+David de Gea,GK,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-17T20:00:00Z,0
+David de Gea,GK,Man Utd,Leeds,90,0,0,2,0,10,0,0,0,1,0,0,1.9,18.8,0.0,0.0,True,2020-12-20T16:30:00Z,1
+David de Gea,GK,Man Utd,Leicester,90,0,0,2,0,9,0,0,0,1,0,0,1.0,10.4,0.0,0.0,False,2020-12-26T12:30:00Z,1
+David de Gea,GK,Man Utd,Wolves,90,0,0,0,1,30,0,0,0,5,0,0,3.4,34.2,0.0,0.0,True,2020-12-29T20:00:00Z,10
+David de Gea,GK,Man Utd,Aston Villa,90,0,0,1,0,14,0,0,0,4,0,0,3.0,30.4,0.0,0.0,True,2021-01-01T20:00:00Z,3
+David de Gea,GK,Man Utd,Burnley,90,0,0,0,1,20,0,0,0,0,0,0,0.1,1.4,0.0,0.0,False,2021-01-12T20:15:00Z,6
+David de Gea,GK,Man Utd,Liverpool,90,0,0,0,1,27,0,0,0,3,0,0,2.2,22.2,0.0,0.0,False,2021-01-17T16:30:00Z,7
+David de Gea,GK,Man Utd,Fulham,90,0,0,1,0,18,0,0,0,4,0,0,3.1,31.0,0.0,0.0,False,2021-01-20T20:15:00Z,3
+David de Gea,GK,Man Utd,Sheffield Utd,90,0,0,2,0,9,0,0,0,1,0,0,1.1,11.2,0.0,0.0,True,2021-01-27T20:15:00Z,1
+David de Gea,GK,Man Utd,Arsenal,90,0,0,0,1,25,0,0,0,3,0,0,2.3,23.0,0.0,0.0,False,2021-01-30T17:30:00Z,7
+David de Gea,GK,Man Utd,Southampton,90,0,0,0,1,21,0,0,0,1,0,0,0.6,6.0,0.0,0.0,True,2021-02-02T20:15:00Z,6
+David de Gea,GK,Man Utd,Everton,90,0,0,3,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-06T20:00:00Z,1
+David de Gea,GK,Man Utd,West Brom,90,0,0,1,0,12,0,0,0,2,0,0,2.1,21.4,0.0,0.0,False,2021-02-14T14:00:00Z,2
+David de Gea,GK,Man Utd,Newcastle,90,0,0,1,0,18,0,0,0,5,0,0,2.4,24.0,0.0,0.0,True,2021-02-21T19:00:00Z,3
+David de Gea,GK,Man Utd,Chelsea,90,0,0,0,1,32,0,0,0,6,0,0,3.2,32.4,0.0,0.0,False,2021-02-28T16:30:00Z,9
+David de Gea,GK,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-03T20:15:00Z,0
+David de Gea,GK,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-07T16:30:00Z,0
+David de Gea,GK,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-14T19:15:00Z,0
+David de Gea,GK,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-04T18:30:00Z,0
+David de Gea,GK,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-11T15:30:00Z,0
+David de Gea,GK,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-18T15:00:00Z,0
+David de Gea,GK,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-25T13:00:00Z,0
+David de Gea,GK,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-09T13:05:00Z,0
+David de Gea,GK,Man Utd,Leicester,90,0,0,2,0,12,0,0,0,1,0,0,1.4,13.8,0.0,0.0,True,2021-05-11T17:00:00Z,1
+David de Gea,GK,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-13T19:15:00Z,0
+David de Gea,GK,Man Utd,Fulham,90,0,0,1,0,15,0,0,0,4,0,0,3.5,34.6,0.0,0.0,True,2021-05-18T17:00:00Z,3
+David de Gea,GK,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-23T15:00:00Z,0

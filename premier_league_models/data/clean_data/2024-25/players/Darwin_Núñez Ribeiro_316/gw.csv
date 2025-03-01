@@ -1,0 +1,23 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Darwin Núñez Ribeiro,FWD,Liverpool,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Brentford,18,0,0,0,0,2,0,0,0,0,0,0,0.7,1.4,3.8,2.0,True,1,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Man Utd,14,0,0,0,0,3,0,0,0,0,0,0,0.5,2.4,1.1,1.0,False,1,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Nott'm Forest,30,0,0,1,0,5,0,0,0,0,0,0,1.5,4.2,10.6,0.0,True,1,5.0,4.0,1.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Bournemouth,71,1,0,0,1,29,0,0,0,0,0,0,9.1,43.6,2.3,45.0,True,6,5.0,4.0,1.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Chelsea,60,0,0,1,0,9,1,0,0,0,0,0,1.0,6.6,3.3,0.0,True,1,5.0,4.0,1.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Arsenal,90,0,1,2,0,15,1,0,0,0,0,0,3.9,16.8,11.9,10.0,False,4,5.0,4.0,1.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Brighton,76,0,0,1,0,11,0,0,0,0,0,0,4.8,7.6,11.3,29.0,True,2,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Aston Villa,64,1,0,0,1,32,0,0,0,0,0,0,8.8,33.6,4.9,49.0,True,7,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Southampton,89,0,0,2,0,10,0,0,0,0,0,0,4.5,5.8,11.4,28.0,False,2,5.0,2.0,3.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Man City,17,0,0,0,0,7,0,0,0,0,0,0,2.0,8.0,10.0,2.0,True,1,5.0,4.0,1.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Newcastle,90,0,0,3,0,-4,1,0,0,0,0,0,1.4,0.0,2.3,16.0,False,1,5.0,4.0,1.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Fulham,20,0,1,1,0,14,1,0,0,0,0,0,3.4,15.2,11.1,8.0,True,3,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Spurs,3,0,0,0,0,5,0,0,0,0,0,0,0.5,3.0,0.3,2.0,False,1,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Leicester,77,0,0,1,0,2,0,0,0,0,0,0,3.9,0.0,1.9,40.0,True,2,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Man Utd,30,0,0,1,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Brentford,25,2,0,0,0,52,1,0,0,0,0,0,10.4,61.0,0.3,43.0,False,11,5.0,3.0,2.0
+Darwin Núñez Ribeiro,FWD,Liverpool,Ipswich,22,0,0,1,0,5,0,0,0,0,0,0,0.3,0.2,0.7,2.0,True,1,5.0,3.0,2.0

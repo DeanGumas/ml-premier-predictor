@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jamie Shackleton,MID,Leeds,Liverpool,9,0,0,1,0,6,0,0,0,0,0,0,0.3,3.0,0.4,0.0,False,2020-09-12T16:30:00Z,1
+Jamie Shackleton,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-09-19T14:00:00Z,0
+Jamie Shackleton,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-27T11:00:00Z,0
+Jamie Shackleton,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-03T16:30:00Z,0
+Jamie Shackleton,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-19T19:00:00Z,0
+Jamie Shackleton,MID,Leeds,Aston Villa,69,0,0,0,1,10,0,0,0,0,0,0,3.1,8.2,16.5,6.0,False,2020-10-23T19:00:00Z,3
+Jamie Shackleton,MID,Leeds,Leicester,45,0,0,2,0,3,0,0,0,0,0,0,1.0,2.6,3.8,4.0,True,2020-11-02T20:00:00Z,1
+Jamie Shackleton,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-07T15:00:00Z,0
+Jamie Shackleton,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-22T16:30:00Z,0
+Jamie Shackleton,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-11-28T17:30:00Z,0
+Jamie Shackleton,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-05T20:00:00Z,0
+Jamie Shackleton,MID,Leeds,West Ham,45,0,0,1,0,5,0,0,0,0,0,0,2.2,7.6,12.8,2.0,True,2020-12-11T20:00:00Z,1
+Jamie Shackleton,MID,Leeds,Newcastle,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,2020-12-16T18:00:00Z,1
+Jamie Shackleton,MID,Leeds,Man Utd,45,0,0,2,0,3,0,0,0,0,0,0,1.1,9.8,1.4,0.0,False,2020-12-20T16:30:00Z,1
+Jamie Shackleton,MID,Leeds,Burnley,24,0,0,0,0,4,0,0,0,0,0,0,0.3,2.8,0.5,0.0,True,2020-12-27T12:00:00Z,1
+Jamie Shackleton,MID,Leeds,West Brom,32,0,0,0,0,6,0,0,0,0,0,0,0.9,4.6,2.7,2.0,False,2020-12-29T18:00:00Z,1
+Jamie Shackleton,MID,Leeds,Spurs,26,0,0,0,0,5,0,0,0,0,0,0,1.0,7.8,0.3,2.0,False,2021-01-02T12:30:00Z,1
+Jamie Shackleton,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-16T15:00:00Z,0
+Jamie Shackleton,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-26T18:00:00Z,0
+Jamie Shackleton,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-31T14:00:00Z,0
+Jamie Shackleton,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-03T19:30:00Z,0
+Jamie Shackleton,MID,Leeds,Crystal Palace,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2021-02-08T20:00:00Z,1
+Jamie Shackleton,MID,Leeds,Arsenal,90,0,0,4,0,15,0,0,0,0,0,0,0.9,3.8,3.0,2.0,False,2021-02-14T16:30:00Z,2
+Jamie Shackleton,MID,Leeds,Wolves,65,0,0,1,0,6,0,0,0,0,0,0,0.5,1.6,3.4,0.0,False,2021-02-19T20:00:00Z,2
+Jamie Shackleton,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-23T18:00:00Z,0
+Jamie Shackleton,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-27T17:30:00Z,0
+Jamie Shackleton,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-08T20:00:00Z,0
+Jamie Shackleton,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-13T12:30:00Z,0
+Jamie Shackleton,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-03-19T20:00:00Z,0
+Jamie Shackleton,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-03T14:00:00Z,0
+Jamie Shackleton,MID,Leeds,Man City,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-04-10T11:30:00Z,1
+Jamie Shackleton,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-19T19:00:00Z,0
+Jamie Shackleton,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-04-25T13:00:00Z,0
+Jamie Shackleton,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-01T14:00:00Z,0
+Jamie Shackleton,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-08T11:30:00Z,0
+Jamie Shackleton,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-15T11:30:00Z,0
+Jamie Shackleton,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-18T17:00:00Z,0
+Jamie Shackleton,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-23T15:00:00Z,0

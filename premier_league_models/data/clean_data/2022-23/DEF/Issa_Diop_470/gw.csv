@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Issa Diop,DEF,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Issa Diop,DEF,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Arsenal,11,0,0,1,0,4,0,0,0,0,0,0,0.7,7.2,0.0,0.0,False,1,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Nott'm Forest,90,0,0,2,0,9,1,0,0,0,0,0,1.6,13.8,2.3,0.0,False,0,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Newcastle,45,0,0,1,0,5,0,0,0,0,0,0,1.0,9.4,0.3,0.0,True,1,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Bournemouth,90,1,0,2,0,28,0,0,0,0,0,0,8.5,49.0,3.1,33.0,True,9,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Aston Villa,90,0,0,0,1,23,0,0,0,0,0,0,0.8,7.4,0.2,0.0,True,6,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Everton,90,0,0,0,1,28,0,0,0,0,0,0,1.2,11.8,0.6,0.0,True,7,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Man City,90,0,0,2,0,18,0,0,0,0,0,0,4.3,25.2,0.1,18.0,False,1,3.0,5.0,-2.0
+Issa Diop,DEF,West Ham,Man Utd,90,0,0,2,0,15,0,0,0,0,0,0,3.4,19.0,10.6,4.0,True,1,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Crystal Palace,90,0,0,0,1,30,0,0,0,0,0,0,3.8,18.6,0.8,19.0,False,6,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Southampton,90,0,0,1,0,14,0,0,0,0,0,0,2.2,21.0,0.8,0.0,True,2,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Leicester,8,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Newcastle,90,0,0,1,0,8,0,0,0,0,0,0,3.6,36.0,0.3,0.0,False,2,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Spurs,90,0,0,1,0,17,0,0,0,0,0,0,2.0,14.6,1.1,4.0,True,2,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Chelsea,90,0,0,0,1,28,0,0,0,0,0,0,2.3,23.2,0.0,0.0,False,8,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Nott'm Forest,90,0,0,0,1,22,0,0,0,0,0,0,1.3,12.8,0.0,0.0,True,6,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Brighton,90,0,0,0,1,25,1,0,0,0,0,0,2.9,28.6,0.0,0.0,False,6,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Wolves,90,0,0,1,0,13,0,0,0,0,0,0,2.0,19.6,0.3,0.0,True,2,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Brentford,90,0,0,3,0,12,0,0,0,0,0,0,1.0,8.8,1.6,0.0,False,1,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Bournemouth,90,0,0,2,0,14,0,0,0,0,0,0,2.0,18.0,2.1,0.0,False,1,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Man City,68,0,0,1,0,12,0,0,0,0,0,0,1.8,18.0,0.4,0.0,True,2,3.0,5.0,-2.0
+Issa Diop,DEF,West Ham,Liverpool,90,0,0,1,0,14,0,0,0,0,0,0,1.3,12.0,1.1,0.0,False,2,3.0,4.0,-1.0
+Issa Diop,DEF,West Ham,Leicester,76,0,0,1,0,13,0,0,0,0,0,0,1.9,18.4,0.3,0.0,True,2,3.0,3.0,0.0
+Issa Diop,DEF,West Ham,Southampton,90,0,0,0,1,29,0,0,0,0,0,0,2.5,23.4,1.3,0.0,False,8,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Crystal Palace,90,0,0,2,0,17,0,0,0,0,0,0,1.6,15.8,0.4,0.0,True,1,3.0,2.0,1.0
+Issa Diop,DEF,West Ham,Man Utd,90,0,0,2,0,21,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,4.0,-1.0

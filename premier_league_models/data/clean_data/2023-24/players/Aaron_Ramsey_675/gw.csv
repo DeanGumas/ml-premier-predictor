@@ -1,0 +1,38 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Aaron Ramsey,MID,Burnley,Aston Villa,22,0,0,0,0,3,0,0,0,0,0,0,0.2,1.2,1.0,0.0,True,1,2.0,4.0,-2.0
+Aaron Ramsey,MID,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Aaron Ramsey,MID,Burnley,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Man Utd,72,0,0,1,0,16,0,0,0,0,0,0,4.6,14.2,15.9,16.0,True,2,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Newcastle,66,0,0,1,0,-1,0,0,0,0,0,0,0.2,0.0,0.8,2.0,False,2,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Luton,19,0,0,1,0,5,0,0,0,0,0,0,0.1,1.0,0.3,0.0,False,1,2.0,2.0,0.0
+Aaron Ramsey,MID,Burnley,Chelsea,29,0,0,2,0,4,0,0,0,0,0,0,0.7,6.0,1.3,0.0,True,1,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Arsenal,10,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.6,0.0,False,1,2.0,5.0,-3.0
+Aaron Ramsey,MID,Burnley,West Ham,17,0,0,2,0,-1,0,0,0,0,0,0,0.7,0.2,1.1,6.0,True,1,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Aaron Ramsey,MID,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Brighton,20,0,0,1,0,4,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Liverpool,1,0,0,0,0,7,0,0,0,0,0,0,0.5,4.8,0.0,0.0,True,1,2.0,4.0,-2.0
+Aaron Ramsey,MID,Burnley,Aston Villa,31,0,0,1,0,0,0,0,0,0,0,0,0.1,1.0,0.3,0.0,False,1,2.0,4.0,-2.0
+Aaron Ramsey,MID,Burnley,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Aaron Ramsey,MID,Burnley,Man City,31,0,0,0,0,2,0,0,0,0,0,0,0.5,3.2,1.6,0.0,False,1,2.0,5.0,-3.0
+Aaron Ramsey,MID,Burnley,Fulham,62,0,0,2,0,8,0,0,0,0,0,0,3.3,9.8,4.1,19.0,True,2,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Liverpool,80,0,0,3,0,12,0,0,0,0,0,0,1.6,9.2,0.4,6.0,False,2,2.0,4.0,-2.0
+Aaron Ramsey,MID,Burnley,Arsenal,62,0,0,3,0,0,1,0,0,0,0,0,0.0,0.0,0.3,4.0,True,1,2.0,5.0,-3.0
+Aaron Ramsey,MID,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Aaron Ramsey,MID,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Aaron Ramsey,MID,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Aaron Ramsey,MID,Burnley,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

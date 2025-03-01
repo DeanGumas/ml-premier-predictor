@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Yehor Yarmoliuk,MID,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Yehor Yarmoliuk,MID,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Yehor Yarmoliuk,MID,Brentford,Man City,6,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,1.0,False,1,3.0,4.0,-1.0
+Yehor Yarmoliuk,MID,Brentford,Spurs,62,0,0,2,0,13,0,0,0,0,0,0,2.2,17.2,5.1,0.0,False,2,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,West Ham,30,0,0,0,0,2,1,0,0,0,0,0,3.3,7.2,18.3,7.0,True,0,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Wolves,13,0,0,1,0,4,0,0,0,0,0,0,0.2,1.6,0.7,0.0,True,1,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Man Utd,15,0,0,0,0,3,0,0,0,0,0,0,0.5,4.2,1.0,0.0,False,1,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Fulham,1,0,0,1,0,3,0,0,0,0,0,0,0.6,0.2,0.3,5.0,False,1,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Bournemouth,11,0,0,0,0,4,0,0,0,0,0,0,1.5,11.4,1.1,2.0,True,1,3.0,4.0,-1.0
+Yehor Yarmoliuk,MID,Brentford,Everton,4,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Leicester,20,0,0,0,0,6,0,0,0,0,0,0,2.2,6.0,11.9,4.0,True,1,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Aston Villa,63,0,0,3,0,14,0,0,0,0,0,0,4.1,13.2,20.4,7.0,False,2,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Newcastle,90,0,0,2,0,26,0,0,0,0,0,0,3.8,23.0,10.1,5.0,True,2,3.0,4.0,-1.0
+Yehor Yarmoliuk,MID,Brentford,Chelsea,74,0,0,1,0,16,0,0,0,0,0,0,1.2,10.0,2.4,0.0,False,2,3.0,4.0,-1.0
+Yehor Yarmoliuk,MID,Brentford,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Yehor Yarmoliuk,MID,Brentford,Brighton,18,0,0,0,0,3,1,0,0,0,0,0,2.8,15.0,10.7,2.0,False,0,3.0,3.0,0.0
+Yehor Yarmoliuk,MID,Brentford,Arsenal,90,0,0,3,0,16,0,0,0,0,0,0,1.7,10.6,4.8,2.0,True,2,3.0,4.0,-1.0
+Yehor Yarmoliuk,MID,Brentford,Southampton,9,0,0,0,0,2,0,0,0,0,0,0,0.9,0.4,0.7,8.0,False,1,3.0,2.0,1.0
+Yehor Yarmoliuk,MID,Brentford,Man City,11,0,0,0,0,2,0,0,0,0,0,0,0.2,1.6,0.7,0.0,True,1,3.0,4.0,-1.0
+Yehor Yarmoliuk,MID,Brentford,Liverpool,90,0,0,2,0,8,0,0,0,0,0,0,1.3,8.4,1.3,3.0,True,2,3.0,5.0,-2.0
+Yehor Yarmoliuk,MID,Brentford,Crystal Palace,6,0,0,1,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,False,1,3.0,3.0,0.0

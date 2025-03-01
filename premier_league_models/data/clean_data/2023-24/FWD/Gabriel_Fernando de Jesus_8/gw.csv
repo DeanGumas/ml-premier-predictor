@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Gabriel Fernando de Jesus,FWD,Arsenal,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Fulham,1,0,0,0,0,1,0,0,0,0,0,0,3.8,3.0,0.3,35.0,True,1,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Man Utd,14,1,0,0,0,25,1,0,0,0,0,0,6.9,35.0,11.3,23.0,True,6,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Everton,24,0,0,0,0,-1,0,0,0,0,0,0,0.3,1.0,0.3,2.0,False,1,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Spurs,76,0,0,2,0,1,0,0,0,0,0,0,4.5,9.6,2.6,33.0,True,2,5.0,4.0,1.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Bournemouth,90,0,1,0,1,20,0,0,0,0,0,0,6.5,9.4,35.2,20.0,False,5,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Man City,90,0,0,0,1,-1,1,0,0,0,0,0,3.4,9.2,8.2,17.0,True,1,5.0,5.0,0.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Chelsea,67,0,0,2,0,6,0,0,0,0,0,0,1.5,0.6,0.8,14.0,False,2,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Brentford,65,0,0,0,1,0,0,0,0,0,0,0,5.4,4.6,2.1,47.0,False,2,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Wolves,66,0,0,0,1,1,0,0,0,0,0,0,4.9,2.6,12.0,34.0,True,2,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Luton,90,1,1,3,0,48,1,0,0,0,0,0,21.5,67.8,58.2,89.0,False,11,5.0,2.0,3.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Aston Villa,81,0,0,1,0,3,0,0,0,0,0,0,5.5,12.2,15.9,27.0,False,2,5.0,4.0,1.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Brighton,80,1,0,0,1,40,0,0,0,0,0,0,13.3,40.8,28.3,64.0,True,9,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Liverpool,77,0,0,1,0,1,0,0,0,0,0,0,5.8,3.6,6.3,48.0,False,2,5.0,4.0,1.0
+Gabriel Fernando de Jesus,FWD,Arsenal,West Ham,90,0,0,2,0,8,1,0,0,0,0,0,11.0,16.8,51.1,42.0,True,1,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Fulham,23,0,0,0,0,1,0,0,0,0,0,0,0.7,0.4,1.3,5.0,False,1,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Crystal Palace,80,0,1,0,1,26,0,0,0,0,0,0,9.3,25.8,46.9,20.0,True,5,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Nott'm Forest,77,1,1,0,1,31,1,0,0,0,0,0,17.0,53.0,33.8,83.0,False,10,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Gabriel Fernando de Jesus,FWD,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Sheffield Utd,26,0,0,0,0,2,0,0,0,0,0,0,3.1,4.6,2.9,23.0,False,1,5.0,2.0,3.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Brentford,20,0,0,0,0,-1,0,0,0,0,0,0,0.5,2.2,0.8,2.0,True,1,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Man City,71,0,0,0,1,5,1,0,0,0,0,0,4.3,4.4,17.6,21.0,False,1,5.0,5.0,0.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Brighton,63,0,1,0,1,6,0,0,0,0,0,0,5.5,3.8,13.8,37.0,False,5,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Aston Villa,78,0,0,0,1,8,0,0,0,0,0,0,5.5,11.2,14.3,29.0,True,2,5.0,4.0,1.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Wolves,79,0,1,0,1,14,0,0,0,0,0,0,5.4,15.6,14.0,24.0,False,5,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Chelsea,18,0,0,0,0,5,0,0,0,0,0,0,1.0,2.4,1.1,6.0,True,1,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Bournemouth,4,0,1,0,0,12,0,0,0,0,0,0,3.2,18.4,11.3,2.0,True,4,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Man Utd,8,0,0,0,0,4,0,0,0,0,0,0,0.5,2.4,0.3,2.0,False,1,5.0,3.0,2.0
+Gabriel Fernando de Jesus,FWD,Arsenal,Everton,12,0,0,0,0,6,0,0,0,0,0,0,2.4,4.4,12.3,7.0,True,1,5.0,3.0,2.0

@@ -1,0 +1,21 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Carlos Roberto Forbs Borges,MID,Wolves,Newcastle,4,0,0,0,0,5,0,0,0,0,0,0,1.1,2.2,0.8,8.0,True,1,3.0,4.0,-1.0
+Carlos Roberto Forbs Borges,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Liverpool,38,0,0,1,0,-1,1,0,0,0,0,0,0.9,0.0,0.8,9.0,True,0,3.0,5.0,-2.0
+Carlos Roberto Forbs Borges,MID,Wolves,Brentford,67,0,0,4,0,14,1,0,0,0,0,0,3.5,14.2,16.7,4.0,False,1,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Man City,23,0,0,1,0,3,0,0,0,0,0,0,0.5,2.0,0.6,2.0,True,1,3.0,4.0,-1.0
+Carlos Roberto Forbs Borges,MID,Wolves,Brighton,49,0,0,1,0,1,0,0,0,0,0,0,0.4,0.0,1.6,4.0,False,1,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Carlos Roberto Forbs Borges,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Bournemouth,26,0,0,1,0,1,0,0,0,0,0,0,0.2,1.2,0.6,0.0,True,1,3.0,4.0,-1.0
+Carlos Roberto Forbs Borges,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Leicester,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Spurs,12,0,0,0,0,4,0,0,0,0,0,0,0.9,1.2,2.2,6.0,False,1,3.0,3.0,0.0
+Carlos Roberto Forbs Borges,MID,Wolves,Nott'm Forest,15,0,0,1,0,2,0,0,0,0,0,0,0.6,3.0,0.8,2.0,True,1,3.0,4.0,-1.0
+Carlos Roberto Forbs Borges,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Carlos Roberto Forbs Borges,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Carlos Roberto Forbs Borges,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0

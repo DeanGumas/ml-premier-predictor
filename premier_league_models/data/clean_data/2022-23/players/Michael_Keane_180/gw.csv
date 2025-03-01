@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Michael Keane,DEF,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Brentford,22,0,0,1,0,4,0,0,0,0,0,0,0.7,6.4,0.3,0.0,False,1,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Michael Keane,DEF,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Arsenal,90,0,0,4,0,9,0,0,0,0,0,0,0.8,7.6,0.2,0.0,False,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Nott'm Forest,90,0,1,2,0,25,0,0,0,0,0,0,5.8,34.8,10.3,13.0,False,5,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Brentford,90,0,0,0,1,19,0,0,0,0,0,0,3.6,10.6,0.3,25.0,True,6,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Chelsea,90,0,0,2,0,13,0,0,0,0,0,0,3.3,23.6,0.7,9.0,False,1,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Spurs,90,1,0,1,0,22,0,0,0,0,0,0,7.3,40.4,0.8,32.0,True,10,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Man Utd,90,0,0,2,0,12,0,0,0,0,0,0,2.3,22.4,0.7,0.0,False,1,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Fulham,90,0,0,3,0,11,0,0,0,0,0,0,3.0,12.0,1.0,17.0,True,1,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Crystal Palace,90,0,0,0,1,24,0,0,0,0,0,0,2.7,24.8,0.3,2.0,False,6,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Newcastle,90,0,0,4,0,11,0,0,0,0,0,0,3.0,21.8,0.7,7.0,True,0,2.0,4.0,-2.0
+Michael Keane,DEF,Everton,Leicester,90,0,0,2,0,9,0,0,0,0,0,0,4.4,12.8,10.7,20.0,False,1,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Michael Keane,DEF,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Michael Keane,DEF,Everton,Wolves,61,0,1,1,0,21,0,0,0,0,0,0,4.8,25.4,16.6,6.0,False,7,2.0,2.0,0.0
+Michael Keane,DEF,Everton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0

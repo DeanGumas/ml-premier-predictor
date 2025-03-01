@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Illan Meslier,GK,Leeds,Liverpool,90,0,0,4,0,20,0,0,0,3,0,0,1.8,17.8,0.0,0.0,False,2020-09-12T16:30:00Z,1
+Illan Meslier,GK,Leeds,Fulham,90,0,0,3,0,19,0,0,0,3,0,0,3.2,22.2,10.0,0.0,True,2020-09-19T14:00:00Z,2
+Illan Meslier,GK,Leeds,Sheffield Utd,90,0,0,0,1,36,0,0,0,4,0,0,3.2,31.6,0.0,0.0,False,2020-09-27T11:00:00Z,10
+Illan Meslier,GK,Leeds,Man City,90,0,0,1,0,11,0,0,0,1,0,0,0.3,3.0,0.0,0.0,True,2020-10-03T16:30:00Z,2
+Illan Meslier,GK,Leeds,Wolves,90,0,0,1,0,12,0,0,0,2,0,0,1.6,16.4,0.0,0.0,True,2020-10-19T19:00:00Z,2
+Illan Meslier,GK,Leeds,Aston Villa,90,0,0,0,1,27,0,0,0,3,0,0,2.4,23.6,0.0,0.0,False,2020-10-23T19:00:00Z,7
+Illan Meslier,GK,Leeds,Leicester,90,0,0,4,0,16,0,0,0,4,0,0,2.7,26.8,0.0,0.0,True,2020-11-02T20:00:00Z,1
+Illan Meslier,GK,Leeds,Crystal Palace,90,0,0,4,0,12,0,0,0,3,0,0,1.9,18.8,0.0,0.0,False,2020-11-07T15:00:00Z,1
+Illan Meslier,GK,Leeds,Arsenal,90,0,0,0,1,23,0,0,0,2,0,0,2.0,20.2,0.0,0.0,True,2020-11-22T16:30:00Z,6
+Illan Meslier,GK,Leeds,Everton,90,0,0,0,1,38,0,0,0,8,0,0,5.2,51.6,0.0,0.0,False,2020-11-28T17:30:00Z,11
+Illan Meslier,GK,Leeds,Chelsea,90,0,0,3,0,21,0,0,0,7,0,0,5.4,54.2,0.0,0.0,False,2020-12-05T20:00:00Z,3
+Illan Meslier,GK,Leeds,West Ham,90,0,0,2,0,25,0,0,0,6,0,0,4.9,49.0,0.0,0.0,True,2020-12-11T20:00:00Z,3
+Illan Meslier,GK,Leeds,Newcastle,90,0,0,2,0,12,0,0,0,2,0,0,2.1,20.6,0.0,0.0,True,2020-12-16T18:00:00Z,1
+Illan Meslier,GK,Leeds,Man Utd,90,0,0,6,0,23,0,0,0,8,0,0,6.0,60.2,0.0,0.0,False,2020-12-20T16:30:00Z,1
+Illan Meslier,GK,Leeds,Burnley,90,0,0,0,1,38,0,0,0,6,0,0,4.5,45.0,0.0,0.0,True,2020-12-27T12:00:00Z,11
+Illan Meslier,GK,Leeds,West Brom,90,0,0,0,1,25,0,0,0,1,0,0,1.0,9.8,0.0,0.0,False,2020-12-29T18:00:00Z,6
+Illan Meslier,GK,Leeds,Spurs,90,0,0,3,0,21,0,0,0,4,0,0,3.8,37.6,0.0,0.0,False,2021-01-02T12:30:00Z,2
+Illan Meslier,GK,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-16T15:00:00Z,0
+Illan Meslier,GK,Leeds,Newcastle,90,0,0,1,0,17,0,0,0,4,0,0,2.4,23.8,0.0,0.0,False,2021-01-26T18:00:00Z,3
+Illan Meslier,GK,Leeds,Leicester,90,0,0,1,0,24,0,0,0,7,0,0,3.9,39.0,0.0,0.0,False,2021-01-31T14:00:00Z,4
+Illan Meslier,GK,Leeds,Everton,90,0,0,2,0,16,0,0,0,4,0,0,3.2,31.8,0.0,0.0,True,2021-02-03T19:30:00Z,2
+Illan Meslier,GK,Leeds,Crystal Palace,90,0,0,0,1,34,0,0,0,3,0,0,2.3,23.4,0.0,0.0,True,2021-02-08T20:00:00Z,10
+Illan Meslier,GK,Leeds,Arsenal,90,0,0,4,0,6,0,0,0,1,0,0,0.0,0.0,0.0,0.0,False,2021-02-14T16:30:00Z,0
+Illan Meslier,GK,Leeds,Wolves,90,0,0,1,0,13,0,0,1,5,0,0,2.6,26.2,0.0,0.0,False,2021-02-19T20:00:00Z,1
+Illan Meslier,GK,Leeds,Southampton,90,0,0,0,1,34,0,0,0,5,0,0,4.2,42.0,0.0,0.0,True,2021-02-23T18:00:00Z,9
+Illan Meslier,GK,Leeds,Aston Villa,90,0,0,1,0,13,0,0,0,3,0,0,2.0,19.6,0.0,0.0,True,2021-02-27T17:30:00Z,3
+Illan Meslier,GK,Leeds,West Ham,90,0,0,2,0,36,0,0,0,3,0,1,4.1,41.0,0.0,0.0,False,2021-03-08T20:00:00Z,9
+Illan Meslier,GK,Leeds,Chelsea,90,0,0,0,1,39,0,0,0,8,0,0,6.0,60.4,0.0,0.0,True,2021-03-13T12:30:00Z,11
+Illan Meslier,GK,Leeds,Fulham,90,0,0,1,0,21,0,0,0,5,0,0,3.3,33.2,0.0,0.0,False,2021-03-19T20:00:00Z,3
+Illan Meslier,GK,Leeds,Sheffield Utd,90,0,0,1,0,8,0,0,0,0,0,0,0.4,3.6,0.0,0.0,True,2021-04-03T14:00:00Z,2
+Illan Meslier,GK,Leeds,Man City,90,0,0,1,0,23,0,0,0,6,0,0,3.7,37.0,0.0,0.0,False,2021-04-10T11:30:00Z,4
+Illan Meslier,GK,Leeds,Liverpool,90,0,0,1,0,24,0,0,0,6,0,0,4.2,42.4,0.0,0.0,True,2021-04-19T19:00:00Z,5
+Illan Meslier,GK,Leeds,Man Utd,90,0,0,0,1,28,0,0,0,4,0,0,2.2,22.4,0.0,0.0,True,2021-04-25T13:00:00Z,7
+Illan Meslier,GK,Leeds,Brighton,90,0,0,2,0,16,0,0,0,3,0,0,2.3,23.0,0.0,0.0,False,2021-05-01T14:00:00Z,2
+Illan Meslier,GK,Leeds,Spurs,90,0,0,1,0,12,0,0,0,2,0,0,1.9,19.2,0.0,0.0,True,2021-05-08T11:30:00Z,2
+Illan Meslier,GK,Leeds,Burnley,90,0,0,0,1,31,0,0,0,4,0,0,3.0,29.6,0.0,0.0,False,2021-05-15T11:30:00Z,7
+Illan Meslier,GK,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-18T17:00:00Z,0
+Illan Meslier,GK,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-23T15:00:00Z,0

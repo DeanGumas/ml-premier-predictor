@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jørgen Strand Larsen,FWD,Wolves,Arsenal,83,0,0,2,0,2,0,0,0,0,0,0,2.7,2.4,1.9,23.0,False,2,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Chelsea,90,1,0,6,0,35,0,0,0,0,0,0,8.1,44.2,11.8,25.0,True,6,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Nott'm Forest,85,0,0,1,0,6,0,0,0,0,0,0,1.7,1.4,11.2,4.0,False,2,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Newcastle,85,0,1,2,0,14,0,0,0,0,0,0,5.3,16.0,16.2,21.0,True,5,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Aston Villa,64,0,0,0,1,6,0,0,0,0,0,0,2.8,3.4,0.9,24.0,False,2,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Liverpool,67,0,0,2,0,4,0,0,0,0,0,0,2.0,0.0,14.4,8.0,True,2,3.0,5.0,-2.0
+Jørgen Strand Larsen,FWD,Wolves,Brentford,90,1,0,5,0,34,0,0,0,0,0,0,6.2,37.4,1.2,23.0,False,6,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Man City,79,1,0,1,0,31,0,0,0,0,0,0,5.4,37.0,0.3,17.0,True,9,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Brighton,90,0,0,2,0,10,1,0,0,0,0,0,7.7,12.4,10.5,54.0,False,1,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Crystal Palace,90,1,0,2,0,38,0,0,0,0,0,0,10.8,47.2,23.2,38.0,True,8,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Southampton,72,0,0,0,1,7,0,0,0,0,0,0,2.4,2.2,4.6,17.0,True,2,3.0,2.0,1.0
+Jørgen Strand Larsen,FWD,Wolves,Fulham,90,0,1,1,0,18,0,0,0,0,0,0,3.2,14.6,11.7,6.0,False,5,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Bournemouth,90,2,0,4,0,51,1,0,0,0,0,0,12.2,69.2,4.8,48.0,True,11,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Everton,90,0,0,4,0,1,0,0,0,0,0,0,4.6,3.2,13.4,29.0,False,2,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,West Ham,61,0,0,1,0,5,0,0,0,0,0,0,0.8,1.6,1.9,4.0,False,2,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Ipswich,90,0,0,2,0,4,0,0,0,0,0,0,7.9,6.4,12.3,60.0,True,2,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Leicester,83,0,0,0,1,0,0,0,0,0,0,0,0.1,0.0,1.6,0.0,False,2,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Man Utd,90,0,0,0,1,4,0,0,0,0,0,0,2.4,3.0,2.3,19.0,True,2,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Spurs,45,1,0,0,0,28,0,0,0,0,0,0,5.2,33.2,1.8,17.0,False,6,3.0,3.0,0.0
+Jørgen Strand Larsen,FWD,Wolves,Nott'm Forest,90,0,0,3,0,8,0,0,0,0,0,0,10.7,14.8,23.8,68.0,True,2,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Newcastle,90,0,0,3,0,1,0,0,0,0,0,0,5.0,4.0,25.1,21.0,False,2,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Chelsea,90,0,0,3,0,8,0,0,0,0,0,0,4.1,6.6,0.5,34.0,False,2,3.0,4.0,-1.0
+Jørgen Strand Larsen,FWD,Wolves,Arsenal,31,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,4.0,-1.0

@@ -1,0 +1,37 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Gonzalo Montiel,DEF,Nott'm Forest,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Chelsea,18,0,0,0,0,3,0,0,0,0,0,0,0.4,4.0,0.0,0.0,False,1,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Burnley,52,0,0,1,0,1,1,0,0,0,0,0,0.7,3.2,1.6,2.0,True,0,3.0,2.0,1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Man City,51,0,0,0,0,6,1,0,0,0,0,0,3.7,10.8,23.9,2.0,False,0,3.0,5.0,-2.0
+Gonzalo Montiel,DEF,Nott'm Forest,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Crystal Palace,45,0,0,0,0,3,0,0,0,0,0,0,1.4,5.4,1.3,7.0,False,1,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Gonzalo Montiel,DEF,Nott'm Forest,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Newcastle,69,0,0,1,0,20,1,0,0,0,0,0,3.4,22.8,11.0,0.0,False,1,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Man Utd,73,0,1,0,1,38,0,0,0,0,0,0,4.1,24.4,14.6,2.0,True,12,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Brentford,85,0,0,3,0,12,1,0,0,0,0,0,2.1,15.4,3.1,2.0,False,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Arsenal,90,0,1,2,0,25,0,0,0,0,0,0,5.6,43.2,10.9,2.0,True,4,3.0,5.0,-2.0
+Gonzalo Montiel,DEF,Nott'm Forest,Bournemouth,12,0,0,0,0,2,0,0,0,0,0,0,0.3,1.6,1.3,0.0,False,1,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Spurs,3,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,False,1,3.0,4.0,-1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Man City,55,0,0,1,0,6,0,0,0,0,0,0,3.9,8.0,22.2,9.0,True,1,3.0,5.0,-2.0
+Gonzalo Montiel,DEF,Nott'm Forest,Sheffield Utd,82,0,0,1,0,2,1,0,0,0,0,0,0.1,0.0,2.6,2.0,False,1,3.0,2.0,1.0
+Gonzalo Montiel,DEF,Nott'm Forest,Chelsea,71,0,0,1,0,10,0,0,0,0,0,0,3.6,8.8,25.1,2.0,True,2,3.0,3.0,0.0
+Gonzalo Montiel,DEF,Nott'm Forest,Burnley,90,0,0,1,0,21,0,0,0,0,0,0,2.5,22.6,0.4,2.0,False,3,3.0,2.0,1.0

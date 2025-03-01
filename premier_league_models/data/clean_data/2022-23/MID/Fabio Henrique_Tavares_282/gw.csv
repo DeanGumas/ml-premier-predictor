@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Fabio Henrique Tavares,MID,Liverpool,Fulham,58,0,0,1,0,12,0,0,0,0,0,0,1.6,9.8,4.3,2.0,False,1,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Crystal Palace,90,0,0,1,0,18,0,0,0,0,0,0,4.0,19.8,18.5,2.0,True,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Man Utd,31,0,0,0,0,4,0,0,0,0,0,0,2.4,5.8,0.7,17.0,False,1,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Bournemouth,90,0,0,0,1,14,0,0,0,0,0,0,3.1,15.4,16.0,0.0,True,3,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Newcastle,90,0,0,1,0,6,0,0,0,0,0,0,1.4,2.6,5.9,5.0,True,2,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Everton,90,0,0,0,1,10,1,0,0,0,0,0,4.3,12.8,13.6,17.0,False,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Brighton,90,0,0,3,0,14,0,0,0,0,0,0,2.0,14.8,2.8,2.0,True,2,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Arsenal,21,0,0,1,0,1,0,0,0,0,0,0,0.2,0.8,1.2,0.0,False,1,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Man City,72,0,0,0,1,4,1,0,0,0,0,0,1.0,6.6,1.5,2.0,True,2,4.0,5.0,-1.0
+Fabio Henrique Tavares,MID,Liverpool,West Ham,32,0,0,0,0,2,0,0,0,0,0,0,0.3,2.2,0.6,0.0,True,1,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Nott'm Forest,90,0,0,1,0,11,0,0,0,0,0,0,1.2,6.0,6.4,0.0,False,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Leeds,60,0,0,1,0,11,0,0,0,0,0,0,1.7,14.4,2.3,0.0,True,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Spurs,90,0,0,1,0,18,0,0,0,0,0,0,4.6,21.6,24.3,0.0,False,2,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Southampton,90,0,0,1,0,12,0,0,0,0,0,0,1.8,9.8,3.9,4.0,True,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,2.3,15.6,6.8,1.0,False,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Brentford,90,0,0,3,0,16,0,0,0,0,0,0,3.0,15.6,7.8,7.0,False,2,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Brighton,67,0,0,2,0,8,0,0,0,0,0,0,1.9,7.4,11.5,0.0,False,2,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Chelsea,8,0,0,0,0,4,0,0,0,0,0,0,1.2,4.2,4.0,4.0,True,1,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Everton,90,0,0,0,1,8,0,0,0,0,0,0,2.2,5.6,14.8,2.0,True,3,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Newcastle,90,0,0,0,1,15,1,0,0,0,0,0,2.9,16.8,12.2,0.0,False,2,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Crystal Palace,19,0,0,0,0,2,1,0,0,0,0,0,0.6,4.8,0.7,0.0,False,0,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Wolves,90,0,0,0,1,12,1,0,0,0,0,0,2.1,9.8,3.4,8.0,True,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Man Utd,78,0,0,0,1,9,1,0,0,0,0,0,1.9,5.2,13.8,0.0,True,2,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Bournemouth,64,0,0,1,0,12,0,0,0,0,0,0,0.6,1.8,1.3,3.0,False,2,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Man City,90,0,0,4,0,6,0,0,0,0,0,0,1.7,14.6,1.9,0.0,False,2,4.0,5.0,-1.0
+Fabio Henrique Tavares,MID,Liverpool,Chelsea,90,0,0,0,1,5,1,0,0,0,0,0,3.3,10.2,13.1,10.0,False,2,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Arsenal,77,0,0,2,0,12,1,0,0,0,0,0,2.3,9.2,12.2,2.0,True,1,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Leeds,84,0,0,1,0,12,1,0,0,0,0,0,1.8,9.2,8.4,0.0,False,1,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Nott'm Forest,59,0,1,1,0,26,0,0,0,0,0,0,3.9,21.4,12.8,5.0,True,4,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,West Ham,90,0,0,1,0,20,0,0,0,0,0,0,5.6,29.0,16.7,10.0,False,2,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Spurs,90,0,0,3,0,16,0,0,0,0,0,0,2.6,9.4,16.1,0.0,True,2,4.0,4.0,0.0
+Fabio Henrique Tavares,MID,Liverpool,Fulham,90,0,0,0,1,16,0,0,0,0,0,0,2.9,10.0,17.0,2.0,True,3,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Brentford,90,0,0,0,1,10,1,0,0,0,0,0,2.0,14.0,6.3,0.0,True,2,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Leicester,90,0,0,0,1,9,0,0,0,0,0,0,1.9,11.0,6.0,2.0,False,3,4.0,3.0,1.0
+Fabio Henrique Tavares,MID,Liverpool,Aston Villa,80,0,0,1,0,6,1,0,0,0,0,0,2.7,12.0,13.2,2.0,True,1,4.0,2.0,2.0
+Fabio Henrique Tavares,MID,Liverpool,Southampton,56,0,1,3,0,20,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,4,4.0,2.0,2.0

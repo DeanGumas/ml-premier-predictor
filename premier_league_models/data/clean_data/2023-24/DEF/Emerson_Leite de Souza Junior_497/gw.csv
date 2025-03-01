@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Emerson Leite de Souza Junior,DEF,Spurs,Brentford,90,1,0,2,0,27,0,0,0,0,0,0,7.2,48.6,12.3,11.0,False,8,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Man Utd,2,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.1,0.0,True,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Burnley,4,0,0,1,0,3,0,0,0,0,0,0,0.5,2.8,1.7,0.0,False,1,4.0,2.0,2.0
+Emerson Leite de Souza Junior,DEF,Spurs,Sheffield Utd,1,0,0,0,0,2,0,0,0,0,0,0,0.2,1.0,0.6,0.0,True,1,4.0,2.0,2.0
+Emerson Leite de Souza Junior,DEF,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Emerson Leite de Souza Junior,DEF,Spurs,Luton,14,0,0,0,0,3,0,0,0,0,0,0,0.7,6.6,0.5,0.0,False,1,4.0,2.0,2.0
+Emerson Leite de Souza Junior,DEF,Spurs,Fulham,34,0,0,0,0,7,0,0,0,0,0,0,1.6,15.2,0.4,0.0,True,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Crystal Palace,45,0,0,1,0,13,0,0,0,0,0,0,1.7,9.4,3.7,4.0,False,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Chelsea,45,0,0,3,0,9,0,0,0,0,0,0,2.2,18.6,1.2,2.0,True,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Wolves,90,0,0,2,0,13,1,0,0,0,0,0,2.9,21.0,6.0,2.0,False,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Aston Villa,90,0,0,2,0,12,0,0,0,0,0,0,2.1,11.2,2.3,7.0,True,1,4.0,4.0,0.0
+Emerson Leite de Souza Junior,DEF,Spurs,Man City,90,0,0,3,0,16,1,0,0,0,0,0,2.3,19.6,1.1,2.0,False,0,4.0,5.0,-1.0
+Emerson Leite de Souza Junior,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Nott'm Forest,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Everton,90,0,0,1,0,30,0,0,0,0,0,0,5.2,34.0,17.8,0.0,True,5,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Brighton,90,0,0,4,0,15,0,0,0,0,0,0,3.6,23.4,13.0,0.0,False,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Bournemouth,90,0,0,1,0,10,1,0,0,0,0,0,3.2,21.6,3.8,7.0,True,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.1,0.0,False,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Wolves,84,0,0,2,0,15,0,0,0,0,0,0,4.5,26.2,9.8,9.0,True,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Crystal Palace,90,0,0,1,0,17,0,0,0,0,0,0,4.0,21.0,14.6,4.0,True,2,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Emerson Leite de Souza Junior,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Emerson Leite de Souza Junior,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Newcastle,41,0,0,2,0,10,0,0,0,0,0,0,1.5,5.6,7.1,2.0,False,0,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Chelsea,85,0,0,2,0,15,0,0,0,0,0,0,2.6,6.4,18.2,1.0,False,1,4.0,3.0,1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Liverpool,60,0,0,4,0,4,1,0,0,0,0,0,2.4,20.8,3.1,0.0,False,-1,4.0,4.0,0.0
+Emerson Leite de Souza Junior,DEF,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Emerson Leite de Souza Junior,DEF,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Emerson Leite de Souza Junior,DEF,Spurs,Sheffield Utd,14,0,0,0,0,4,0,0,0,0,0,0,0.8,2.0,2.1,4.0,False,1,4.0,2.0,2.0

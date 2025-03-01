@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Che Adams,FWD,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Leeds,90,0,0,2,0,6,0,0,0,0,0,0,2.2,5.2,13.5,3.0,True,2,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Leicester,31,2,0,0,0,53,0,0,0,0,0,0,10.3,64.0,0.5,38.0,False,12,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Man Utd,90,0,0,1,0,6,0,0,0,0,0,0,7.9,2.6,12.0,64.0,True,2,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Chelsea,90,0,0,1,0,6,0,0,0,0,0,0,6.4,12.8,39.2,12.0,True,2,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Wolves,90,0,0,1,0,7,0,0,0,0,0,0,5.9,8.6,35.8,15.0,False,2,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Aston Villa,70,0,0,1,0,7,0,0,0,0,0,0,0.8,1.6,1.8,5.0,False,2,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Everton,90,0,1,2,0,11,0,0,0,0,0,0,10.1,26.2,38.1,37.0,True,5,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Man City,90,0,0,4,0,6,0,0,0,0,0,0,1.2,5.6,2.4,4.0,False,2,2.0,5.0,-3.0
+Che Adams,FWD,Southampton,West Ham,73,0,0,1,0,6,0,0,0,0,0,0,8.4,20.4,12.1,51.0,True,2,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Bournemouth,90,1,0,0,1,28,0,0,0,0,0,0,7.5,35.6,4.8,35.0,False,6,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Arsenal,17,0,0,0,0,2,0,0,0,0,0,0,0.3,0.2,0.3,2.0,True,1,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Crystal Palace,90,0,0,1,0,-4,0,0,0,0,0,0,9.5,10.4,23.8,61.0,False,2,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Newcastle,63,0,0,3,0,5,0,0,0,0,0,0,4.1,0.8,12.0,28.0,True,2,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Liverpool,90,1,0,3,0,35,0,0,0,0,0,0,10.2,40.2,18.1,44.0,False,8,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Brighton,90,0,0,3,0,7,0,0,0,0,0,0,2.8,3.2,11.5,13.0,True,2,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Fulham,90,0,1,2,0,9,0,0,0,0,0,0,6.0,7.8,11.6,41.0,False,5,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Nott'm Forest,90,0,0,1,0,-3,0,0,0,0,0,0,0.3,0.0,3.4,4.0,True,2,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Everton,84,0,2,1,0,26,0,0,0,0,0,0,5.7,24.2,22.2,11.0,False,9,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Aston Villa,60,0,0,0,1,2,0,0,0,0,0,0,1.1,0.0,12.1,2.0,True,2,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Brentford,80,0,0,3,0,3,0,0,0,0,0,0,1.6,7.6,0.9,7.0,False,2,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Wolves,16,0,0,1,0,2,0,0,0,0,0,0,0.1,0.0,1.8,0.0,True,1,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Leicester,62,0,1,0,1,9,1,0,0,0,0,0,3.4,14.6,17.7,2.0,True,4,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Man Utd,75,0,0,0,1,1,0,0,0,0,0,0,1.2,1.6,4.3,6.0,False,2,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Brentford,90,0,0,2,0,3,0,0,0,0,0,0,3.9,5.8,15.8,17.0,True,2,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Spurs,69,1,0,2,0,32,0,0,0,0,0,0,9.6,36.8,11.9,47.0,True,9,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Che Adams,FWD,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Bournemouth,29,0,0,0,0,0,0,0,0,0,0,0,0.8,0.6,3.2,4.0,True,1,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Newcastle,13,0,0,2,0,3,0,0,0,0,0,0,0.5,4.0,1.3,0.0,False,1,2.0,4.0,-2.0
+Che Adams,FWD,Southampton,Nott'm Forest,75,0,0,4,0,-6,0,0,0,0,0,0,2.8,0.0,4.3,30.0,False,2,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Che Adams,FWD,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Che Adams,FWD,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

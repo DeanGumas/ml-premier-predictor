@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Roméo Lavia,MID,Chelsea,Man City,65,0,0,1,0,18,0,0,0,0,0,0,2.9,15.2,13.5,0.0,True,2,4.0,4.0,0.0
+Roméo Lavia,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Roméo Lavia,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Brighton,11,0,0,0,0,2,0,0,0,0,0,0,0.4,0.4,3.3,0.0,True,1,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Roméo Lavia,MID,Chelsea,Liverpool,52,0,0,2,0,6,0,0,0,0,0,0,1.2,9.4,2.8,0.0,False,1,4.0,5.0,-1.0
+Roméo Lavia,MID,Chelsea,Newcastle,71,0,1,1,0,25,1,0,0,0,0,0,4.3,27.0,15.8,0.0,True,4,4.0,4.0,0.0
+Roméo Lavia,MID,Chelsea,Man Utd,70,0,0,1,0,10,0,0,0,0,0,0,2.7,13.4,13.2,0.0,False,2,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Arsenal,67,0,0,1,0,8,0,0,0,0,0,0,3.1,8.2,22.6,0.0,True,2,4.0,4.0,0.0
+Roméo Lavia,MID,Chelsea,Leicester,9,0,0,1,0,-5,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Aston Villa,85,0,0,0,1,8,0,0,0,0,0,0,1.7,2.8,9.6,5.0,True,3,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Roméo Lavia,MID,Chelsea,Spurs,45,0,0,2,0,9,1,0,0,0,0,0,2.5,11.8,13.5,0.0,False,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Bournemouth,55,0,0,1,0,0,1,0,0,0,0,0,0.8,2.2,5.5,0.0,True,0,4.0,4.0,0.0
+Roméo Lavia,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Roméo Lavia,MID,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0

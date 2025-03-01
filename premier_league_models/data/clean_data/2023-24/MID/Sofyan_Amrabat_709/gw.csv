@@ -1,0 +1,35 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Sofyan Amrabat,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Burnley,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,2.0,1.0
+Sofyan Amrabat,MID,Man Utd,Crystal Palace,90,0,0,1,0,5,1,0,0,0,0,0,3.0,23.6,6.2,0.0,True,1,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Brentford,86,0,0,1,0,14,0,0,0,0,0,0,5.4,12.4,39.6,2.0,True,2,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Sheffield Utd,90,0,0,1,0,13,0,0,0,0,0,0,2.0,16.2,2.4,1.0,False,2,3.0,2.0,1.0
+Sofyan Amrabat,MID,Man Utd,Man City,45,0,0,1,0,-1,1,0,0,0,0,0,0.8,7.6,0.3,0.0,True,0,3.0,5.0,-2.0
+Sofyan Amrabat,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Sofyan Amrabat,MID,Man Utd,Everton,18,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,False,1,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Newcastle,10,0,0,0,0,0,0,0,0,0,0,0,0.3,1.6,0.5,1.0,False,1,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Chelsea,90,0,0,1,0,21,0,0,0,0,0,0,2.2,9.6,12.5,0.0,True,2,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Bournemouth,90,0,0,3,0,16,0,0,0,0,0,0,1.9,14.8,3.7,0.0,True,2,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Liverpool,90,0,0,0,1,2,1,0,0,0,0,0,1.2,11.2,0.6,0.0,False,2,3.0,4.0,-1.0
+Sofyan Amrabat,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Sofyan Amrabat,MID,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Sofyan Amrabat,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,4.0,-1.0
+Sofyan Amrabat,MID,Man Utd,Luton,4,0,0,0,0,6,0,0,0,0,0,0,0.5,4.2,0.3,0.0,False,1,3.0,2.0,1.0
+Sofyan Amrabat,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Man City,8,0,0,1,0,-2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,5.0,-2.0
+Sofyan Amrabat,MID,Man Utd,Everton,11,0,0,0,0,4,0,0,0,0,0,0,0.3,1.8,0.7,0.0,True,1,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Liverpool,11,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,4.0,-1.0
+Sofyan Amrabat,MID,Man Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Sheffield Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.3,0.0,True,1,3.0,2.0,1.0
+Sofyan Amrabat,MID,Man Utd,Burnley,9,0,0,1,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,3.0,2.0,1.0
+Sofyan Amrabat,MID,Man Utd,Crystal Palace,30,0,0,1,0,2,1,0,0,0,0,0,1.5,14.6,0.6,0.0,False,0,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Arsenal,86,0,0,1,0,14,0,0,0,0,0,0,3.7,16.0,19.0,2.0,True,2,3.0,5.0,-2.0
+Sofyan Amrabat,MID,Man Utd,Newcastle,90,0,0,2,0,9,1,0,0,0,0,0,2.5,11.0,13.5,0.0,True,1,3.0,3.0,0.0
+Sofyan Amrabat,MID,Man Utd,Brighton,68,0,0,0,1,5,1,0,0,0,0,0,1.1,9.2,1.7,0.0,False,2,3.0,3.0,0.0

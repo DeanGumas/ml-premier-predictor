@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kyle Walker-Peters,DEF,Southampton,Newcastle,80,0,0,1,0,8,0,0,0,0,0,0,2.1,2.0,10.9,8.0,False,2,2.0,4.0,-2.0
+Kyle Walker-Peters,DEF,Southampton,Nott'm Forest,90,0,0,1,0,13,0,0,0,0,0,0,4.5,21.0,4.2,20.0,True,2,2.0,4.0,-2.0
+Kyle Walker-Peters,DEF,Southampton,Brentford,90,0,0,3,0,8,0,0,0,0,0,0,5.2,13.8,16.7,21.0,False,1,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Man Utd,90,0,0,3,0,1,0,0,0,0,0,0,2.1,15.6,1.6,4.0,True,1,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kyle Walker-Peters,DEF,Southampton,Arsenal,90,0,0,3,0,0,1,0,0,0,0,0,3.0,19.6,3.6,7.0,False,0,2.0,4.0,-2.0
+Kyle Walker-Peters,DEF,Southampton,Leicester,90,0,1,3,0,16,0,0,0,0,0,0,6.0,33.8,22.6,4.0,True,4,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Man City,90,0,0,1,0,9,0,0,0,0,0,0,2.2,7.6,14.6,0.0,False,2,2.0,4.0,-2.0
+Kyle Walker-Peters,DEF,Southampton,Everton,90,0,0,0,1,39,0,0,0,0,0,0,8.3,29.0,42.6,11.0,True,9,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Wolves,90,0,0,2,0,7,1,0,0,0,0,0,3.0,24.4,3.7,2.0,False,0,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Liverpool,90,0,0,3,0,5,0,0,0,0,0,0,2.2,16.4,3.4,2.0,True,1,2.0,5.0,-3.0
+Kyle Walker-Peters,DEF,Southampton,Brighton,90,0,0,1,0,7,1,0,0,0,0,0,1.7,15.8,0.7,0.0,False,1,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Chelsea,90,0,1,5,0,9,0,0,0,0,0,0,5.2,31.2,12.7,8.0,True,3,2.0,4.0,-2.0
+Kyle Walker-Peters,DEF,Southampton,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,3.8,12.8,19.3,6.0,False,2,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Spurs,90,0,0,5,0,-9,0,0,0,0,0,0,2.6,9.4,7.0,10.0,True,0,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,1.6,11.8,2.6,2.0,False,6,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,West Ham,85,0,0,1,0,21,0,0,0,0,0,0,9.8,20.4,35.8,42.0,True,2,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Crystal Palace,85,0,0,2,0,10,0,0,0,0,0,0,3.4,16.8,12.8,4.0,False,1,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Brentford,90,0,0,5,0,-19,1,0,0,0,0,0,2.5,0.0,11.5,16.0,True,-1,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Man Utd,90,0,0,3,0,3,0,0,0,0,0,0,4.9,24.8,22.5,2.0,False,1,2.0,3.0,-1.0
+Kyle Walker-Peters,DEF,Southampton,Nott'm Forest,90,0,0,3,0,0,1,0,0,0,0,0,3.1,9.0,19.3,3.0,False,0,2.0,4.0,-2.0
+Kyle Walker-Peters,DEF,Southampton,Newcastle,90,0,0,3,0,0,0,0,0,0,0,0,4.7,9.8,28.8,8.0,True,1,2.0,4.0,-2.0

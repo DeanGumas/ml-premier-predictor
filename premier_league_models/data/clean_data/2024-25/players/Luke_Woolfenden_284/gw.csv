@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Luke Woolfenden,DEF,Ipswich,Liverpool,90,0,0,2,0,7,1,0,0,0,0,0,3.0,27.2,0.3,2.0,True,0,3.0,5.0,-2.0
+Luke Woolfenden,DEF,Ipswich,Man City,90,0,0,4,0,-2,0,0,0,0,0,0,1.2,11.6,0.2,0.0,False,0,3.0,4.0,-1.0
+Luke Woolfenden,DEF,Ipswich,Fulham,90,0,0,1,0,11,0,0,0,0,0,0,2.4,19.4,0.8,4.0,True,2,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Luke Woolfenden,DEF,Ipswich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Everton,90,0,0,2,0,8,0,0,0,0,0,0,1.6,14.0,1.5,0.0,True,1,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Brentford,17,0,0,1,0,-1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Luke Woolfenden,DEF,Ipswich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Luke Woolfenden,DEF,Ipswich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Luke Woolfenden,DEF,Ipswich,Arsenal,90,0,0,1,0,10,0,0,0,0,0,0,1.4,13.0,0.9,0.0,False,2,3.0,4.0,-1.0
+Luke Woolfenden,DEF,Ipswich,Chelsea,90,0,0,0,1,22,0,0,0,0,0,0,2.2,22.2,0.1,0.0,True,6,3.0,4.0,-1.0
+Luke Woolfenden,DEF,Ipswich,Fulham,90,0,0,2,0,2,0,0,0,0,0,0,2.7,26.6,0.3,0.0,False,1,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Brighton,90,0,0,2,0,6,1,0,0,0,0,0,1.4,13.4,0.3,0.0,True,0,3.0,3.0,0.0
+Luke Woolfenden,DEF,Ipswich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Luke Woolfenden,DEF,Ipswich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

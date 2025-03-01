@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Joël Veltman,DEF,Brighton,Everton,90,0,0,0,1,34,0,0,0,0,0,0,2.2,20.6,1.3,0.0,False,8,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Man Utd,90,0,0,1,0,16,0,0,0,0,0,0,4.5,16.6,25.9,2.0,True,2,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Arsenal,71,0,0,1,0,5,0,0,0,0,0,0,1.4,7.2,1.7,5.0,False,2,3.0,4.0,-1.0
+Joël Veltman,DEF,Brighton,Ipswich,90,0,0,0,1,31,1,0,0,0,0,0,2.2,18.6,3.6,0.0,True,7,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Nott'm Forest,90,0,0,2,0,-1,0,0,0,0,0,0,1.8,10.6,3.3,4.0,True,1,3.0,4.0,-1.0
+Joël Veltman,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Joël Veltman,DEF,Brighton,Spurs,90,0,0,2,0,-1,0,0,0,0,0,0,1.1,9.8,1.3,0.0,True,1,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Newcastle,90,0,0,0,1,30,0,0,0,0,0,0,3.1,15.2,13.7,2.0,False,7,3.0,4.0,-1.0
+Joël Veltman,DEF,Brighton,Wolves,90,0,0,2,0,4,0,0,0,0,0,0,1.9,8.2,7.4,3.0,True,1,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Liverpool,75,0,0,2,0,6,0,0,0,0,0,0,1.7,11.0,5.7,0.0,False,1,3.0,5.0,-2.0
+Joël Veltman,DEF,Brighton,Man City,90,0,0,1,0,13,0,0,0,0,0,0,2.0,16.4,1.8,2.0,True,2,3.0,4.0,-1.0
+Joël Veltman,DEF,Brighton,Bournemouth,90,0,0,1,0,15,0,0,0,0,0,0,2.7,22.6,4.6,0.0,False,2,3.0,4.0,-1.0
+Joël Veltman,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Joël Veltman,DEF,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,West Ham,66,0,0,1,0,5,1,0,0,0,0,0,1.7,13.6,1.4,2.0,False,1,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Brentford,87,0,0,0,1,30,0,0,0,0,0,0,2.5,20.4,3.5,1.0,True,8,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Arsenal,90,0,0,1,0,10,1,0,0,0,0,0,2.0,8.0,11.5,0.0,True,1,3.0,4.0,-1.0
+Joël Veltman,DEF,Brighton,Ipswich,90,0,0,0,1,28,1,0,0,0,0,0,2.1,9.8,11.6,0.0,False,5,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Man Utd,90,0,0,1,0,7,0,0,0,0,0,0,2.0,15.4,2.2,2.0,False,2,3.0,3.0,0.0
+Joël Veltman,DEF,Brighton,Everton,83,0,0,1,0,9,0,0,0,0,0,0,6.2,21.0,37.8,3.0,True,2,3.0,3.0,0.0

@@ -1,0 +1,25 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Conor Bradley,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Conor Bradley,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Conor Bradley,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Conor Bradley,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Bournemouth,82,0,1,0,1,24,1,0,0,0,0,0,7.4,30.4,15.9,28.0,False,8,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Chelsea,67,1,2,0,1,62,0,0,0,0,0,0,15.6,81.4,58.0,17.0,True,21,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Conor Bradley,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Conor Bradley,DEF,Liverpool,Brentford,82,0,0,1,0,13,0,0,0,0,0,0,3.7,8.0,7.1,22.0,False,2,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Luton,67,0,0,1,0,22,0,0,0,0,0,0,8.2,20.6,36.0,25.0,True,2,4.0,2.0,2.0
+Conor Bradley,DEF,Liverpool,Nott'm Forest,83,0,0,0,1,28,0,0,0,0,0,0,5.6,20.4,27.5,8.0,False,8,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Man City,60,0,0,1,0,16,0,0,0,0,0,0,2.9,17.0,2.9,9.0,True,2,4.0,5.0,-1.0
+Conor Bradley,DEF,Liverpool,Brighton,90,0,0,1,0,24,0,0,0,0,0,0,10.3,30.6,45.8,27.0,True,4,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Sheffield Utd,90,0,0,1,0,6,0,0,1,0,0,0,2.1,6.4,5.5,9.0,True,0,4.0,2.0,2.0
+Conor Bradley,DEF,Liverpool,Man Utd,65,0,0,1,0,6,1,0,0,0,0,0,3.7,9.4,14.1,13.0,False,1,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Crystal Palace,47,0,0,1,0,7,0,0,0,0,0,0,0.9,5.0,2.0,2.0,True,1,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Conor Bradley,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Conor Bradley,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Conor Bradley,DEF,Liverpool,Wolves,19,0,0,0,0,3,0,0,0,0,0,0,0.2,1.2,1.0,0.0,True,1,4.0,3.0,1.0

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ryan Yates,MID,Nott'm Forest,Bournemouth,75,0,1,1,0,29,0,0,0,0,0,0,6.5,12.4,16.9,36.0,True,7,4.0,4.0,0.0
+Ryan Yates,MID,Nott'm Forest,Southampton,24,0,0,0,0,8,0,0,0,0,0,0,1.7,5.0,10.7,1.0,False,1,4.0,2.0,2.0
+Ryan Yates,MID,Nott'm Forest,Wolves,32,0,0,0,0,4,0,0,0,0,0,0,2.8,7.0,11.0,10.0,True,1,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Liverpool,90,0,0,0,1,6,1,0,0,0,0,0,0.5,2.8,1.7,0.0,False,2,4.0,5.0,-1.0
+Ryan Yates,MID,Nott'm Forest,Brighton,45,0,0,0,0,3,0,0,0,0,0,0,0.5,4.6,0.3,0.0,False,1,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Fulham,90,0,0,1,0,15,1,0,0,0,0,0,4.3,15.0,14.4,14.0,True,1,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Chelsea,90,0,0,1,0,6,0,0,0,0,0,0,4.0,13.4,3.3,23.0,False,2,4.0,4.0,0.0
+Ryan Yates,MID,Nott'm Forest,Crystal Palace,90,0,0,0,1,10,0,0,0,0,0,0,7.8,18.0,43.3,17.0,True,3,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Leicester,90,1,0,1,0,31,0,0,0,0,0,0,7.8,46.4,13.9,18.0,False,8,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,West Ham,90,0,0,0,1,9,0,0,0,0,0,0,2.6,12.6,4.7,9.0,True,3,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Newcastle,90,0,0,3,0,15,1,0,0,0,0,0,6.0,14.6,26.1,19.0,True,1,4.0,4.0,0.0
+Ryan Yates,MID,Nott'm Forest,Arsenal,90,0,0,3,0,8,1,0,0,0,0,0,1.1,0.8,2.3,8.0,False,1,4.0,4.0,0.0
+Ryan Yates,MID,Nott'm Forest,Ipswich,90,0,0,0,1,16,0,0,0,0,0,0,1.6,6.4,1.8,8.0,True,3,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Man City,45,0,0,2,0,1,0,0,0,0,0,0,0.6,5.8,0.5,0.0,False,1,4.0,4.0,0.0
+Ryan Yates,MID,Nott'm Forest,Man Utd,90,0,0,2,0,7,0,0,0,0,0,0,1.9,4.0,12.6,2.0,False,2,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Aston Villa,67,0,0,1,0,15,0,0,0,0,0,0,3.1,8.4,4.4,18.0,True,2,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Brentford,26,0,0,0,0,2,0,0,0,0,0,0,0.7,6.2,0.3,0.0,False,1,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Spurs,90,0,0,0,1,7,1,0,0,0,0,0,0.6,4.8,1.0,0.0,True,2,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Wolves,20,0,0,0,0,3,0,0,0,0,0,0,0.7,6.2,0.3,0.0,False,1,4.0,3.0,1.0
+Ryan Yates,MID,Nott'm Forest,Liverpool,75,0,0,1,0,7,1,0,0,0,0,0,0.7,6.2,0.8,0.0,True,1,4.0,5.0,-1.0
+Ryan Yates,MID,Nott'm Forest,Southampton,7,0,0,1,0,3,0,0,0,0,0,0,0.1,1.0,0.1,0.0,True,1,4.0,2.0,2.0
+Ryan Yates,MID,Nott'm Forest,Bournemouth,45,0,0,1,0,4,0,0,0,0,0,0,2.3,10.8,0.7,11.0,False,1,4.0,4.0,0.0

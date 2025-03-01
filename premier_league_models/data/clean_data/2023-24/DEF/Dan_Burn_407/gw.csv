@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Dan Burn,DEF,Newcastle,Aston Villa,90,0,0,1,0,9,0,0,0,0,0,0,3.2,21.4,1.3,9.0,True,2,3.0,4.0,-1.0
+Dan Burn,DEF,Newcastle,Man City,90,0,0,1,0,12,0,0,0,0,0,0,1.6,14.0,1.8,0.0,False,2,3.0,5.0,-2.0
+Dan Burn,DEF,Newcastle,Liverpool,90,0,0,2,0,15,0,0,0,0,0,0,3.7,23.2,12.2,2.0,True,1,3.0,4.0,-1.0
+Dan Burn,DEF,Newcastle,Brighton,90,0,0,3,0,4,1,0,0,0,0,0,0.5,0.2,0.3,4.0,False,0,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Brentford,90,0,0,0,1,25,0,0,0,0,0,0,3.4,19.8,12.6,2.0,True,6,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Sheffield Utd,90,1,0,0,1,42,0,0,0,0,0,0,9.9,50.6,5.7,43.0,False,12,3.0,2.0,1.0
+Dan Burn,DEF,Newcastle,Burnley,90,0,0,0,1,20,0,0,0,0,0,0,1.6,11.0,1.1,4.0,True,6,3.0,2.0,1.0
+Dan Burn,DEF,Newcastle,West Ham,90,0,0,2,0,15,0,0,0,0,0,0,6.0,14.8,18.8,26.0,False,1,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Crystal Palace,90,0,0,0,1,26,0,0,0,0,0,0,1.7,15.0,1.9,0.0,True,6,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Wolves,90,0,0,2,0,7,1,0,0,0,0,0,3.4,15.6,1.0,17.0,False,0,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Arsenal,45,0,0,0,0,0,0,0,0,0,0,0,1.4,13.0,0.7,0.0,True,1,3.0,5.0,-2.0
+Dan Burn,DEF,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Dan Burn,DEF,Newcastle,Fulham,83,1,0,0,1,33,0,0,0,0,0,0,11.9,48.6,2.5,68.0,True,14,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Luton,84,0,0,1,0,11,0,0,0,0,0,0,2.4,13.8,2.3,8.0,False,2,3.0,2.0,1.0
+Dan Burn,DEF,Newcastle,Nott'm Forest,54,0,0,2,0,4,0,0,0,0,0,0,1.5,10.0,0.3,5.0,True,0,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Liverpool,81,0,0,3,0,9,0,0,0,0,0,0,2.5,24.4,0.7,0.0,False,1,3.0,4.0,-1.0
+Dan Burn,DEF,Newcastle,Man City,90,0,1,3,0,23,0,0,0,0,0,0,5.8,35.6,20.3,2.0,True,4,3.0,5.0,-2.0
+Dan Burn,DEF,Newcastle,Aston Villa,90,0,0,1,0,14,0,0,0,0,0,0,2.8,23.8,0.3,4.0,False,2,3.0,4.0,-1.0
+Dan Burn,DEF,Newcastle,Luton,63,0,0,4,0,1,1,0,0,0,0,0,0.9,6.6,0.2,2.0,True,-1,3.0,2.0,1.0
+Dan Burn,DEF,Newcastle,Nott'm Forest,90,0,0,2,0,20,0,0,0,0,0,0,3.6,34.2,2.0,0.0,False,1,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Bournemouth,70,0,0,2,0,11,0,0,0,0,0,0,1.7,8.4,0.8,8.0,True,1,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Arsenal,17,0,1,0,0,12,0,0,0,0,0,0,3.8,24.0,14.3,0.0,False,4,3.0,5.0,-2.0
+Dan Burn,DEF,Newcastle,Wolves,90,0,0,0,1,30,0,0,0,0,0,0,5.8,19.0,21.7,17.0,True,8,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Chelsea,68,0,0,2,0,7,0,0,0,0,0,0,1.4,9.6,0.6,4.0,False,1,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,West Ham,90,0,0,3,0,15,0,0,0,0,0,0,2.4,23.4,0.3,0.0,True,1,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Everton,90,0,0,1,0,14,0,0,0,0,0,0,3.2,21.2,0.4,10.0,True,2,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Fulham,90,0,0,0,1,22,0,0,0,0,0,0,2.0,20.2,0.1,0.0,False,6,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Spurs,90,0,0,0,1,18,0,0,0,0,0,0,1.6,8.4,1.0,7.0,True,6,3.0,4.0,-1.0
+Dan Burn,DEF,Newcastle,Crystal Palace,90,0,0,2,0,17,0,0,0,0,0,0,5.4,25.2,24.7,4.0,False,1,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Sheffield Utd,90,0,0,1,0,17,0,0,0,0,0,0,4.1,32.8,0.3,8.0,True,2,3.0,2.0,1.0
+Dan Burn,DEF,Newcastle,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,1.8,12.8,0.8,4.0,False,2,3.0,2.0,1.0
+Dan Burn,DEF,Newcastle,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,3.8,26.0,1.3,11.0,True,2,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Man Utd,90,0,0,3,0,11,0,0,0,0,0,0,3.7,18.8,0.8,17.0,False,1,3.0,3.0,0.0
+Dan Burn,DEF,Newcastle,Brentford,90,0,0,2,0,7,1,0,0,0,0,0,1.2,11.0,0.7,0.0,False,0,3.0,3.0,0.0

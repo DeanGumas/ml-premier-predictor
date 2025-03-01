@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Rico Lewis,DEF,Man City,Burnley,78,0,0,0,1,25,0,0,0,0,0,0,0.8,2.2,5.8,0.0,False,6,5.0,2.0,3.0
+Rico Lewis,DEF,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Rico Lewis,DEF,Man City,Fulham,1,0,0,0,0,2,0,0,0,0,0,0,0.3,0.0,0.8,2.0,True,1,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Arsenal,67,0,0,0,1,23,0,0,0,0,0,0,0.7,2.4,2.8,2.0,False,6,5.0,5.0,0.0
+Rico Lewis,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Bournemouth,19,0,0,1,0,3,0,0,0,0,0,0,0.4,1.0,0.8,2.0,True,1,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Rico Lewis,DEF,Man City,Spurs,17,0,0,1,0,7,0,0,0,0,0,0,2.0,4.2,12.1,4.0,True,1,5.0,4.0,1.0
+Rico Lewis,DEF,Man City,Aston Villa,67,0,0,0,1,11,1,0,0,0,0,0,0.8,3.0,3.3,2.0,False,5,5.0,4.0,1.0
+Rico Lewis,DEF,Man City,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Rico Lewis,DEF,Man City,Crystal Palace,90,1,0,2,0,30,0,0,0,0,0,0,12.3,48.0,45.1,30.0,True,8,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Sheffield Utd,22,0,0,0,0,2,0,0,0,0,0,0,0.5,1.0,1.9,2.0,True,1,5.0,2.0,3.0
+Rico Lewis,DEF,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Burnley,90,0,0,1,0,15,0,0,0,0,0,0,1.6,10.0,6.1,0.0,True,2,5.0,2.0,3.0
+Rico Lewis,DEF,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Rico Lewis,DEF,Man City,Arsenal,63,0,0,0,1,26,0,0,0,0,0,0,0.8,4.0,3.8,0.0,True,6,5.0,5.0,0.0
+Rico Lewis,DEF,Man City,Aston Villa,90,0,0,1,0,15,0,0,0,0,0,0,6.9,14.2,44.6,10.0,True,2,5.0,4.0,1.0
+Rico Lewis,DEF,Man City,Crystal Palace,90,1,0,2,0,29,0,0,0,0,0,0,10.8,43.8,25.8,38.0,False,8,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Luton,90,0,0,1,0,19,0,0,0,0,0,0,7.1,13.2,41.3,16.0,True,2,5.0,2.0,3.0
+Rico Lewis,DEF,Man City,Brighton,11,0,0,0,0,3,0,0,0,0,0,0,0.3,0.8,0.6,2.0,False,1,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Fulham,8,0,0,0,0,2,0,0,0,0,0,0,0.4,0.0,0.8,4.0,False,1,5.0,3.0,2.0
+Rico Lewis,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Rico Lewis,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0

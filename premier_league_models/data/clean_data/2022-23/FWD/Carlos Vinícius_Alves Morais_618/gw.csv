@@ -1,0 +1,34 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Carlos Vinícius Alves Morais,FWD,Fulham,Spurs,5,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Nott'm Forest,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.5,0.0,False,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Newcastle,53,0,0,2,0,2,0,0,0,0,0,0,1.9,2.0,12.9,4.0,True,1,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,West Ham,90,0,0,3,0,-2,1,0,0,0,0,0,3.9,0.0,11.8,30.0,False,1,2.0,3.0,-1.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Bournemouth,3,0,0,0,0,5,0,0,0,0,0,0,0.2,0.0,0.1,2.0,True,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Aston Villa,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Leeds,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Man City,75,0,0,1,0,3,0,0,0,0,0,0,0.6,1.4,4.5,0.0,False,2,2.0,5.0,-3.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Man Utd,90,0,0,2,0,4,0,0,0,0,0,0,9.5,10.2,10.9,74.0,True,2,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Crystal Palace,5,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.0,2.0,False,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Chelsea,90,1,0,1,0,31,0,0,0,0,0,0,10.9,41.4,11.3,56.0,True,9,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Newcastle,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Spurs,3,0,0,0,0,3,0,0,0,0,0,0,0.4,0.0,1.5,2.0,True,1,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Nott'm Forest,6,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Brighton,28,0,1,0,0,5,1,0,0,0,0,0,2.8,13.4,10.2,4.0,False,3,2.0,3.0,-1.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Wolves,90,0,0,1,0,0,0,0,0,0,0,0,5.3,8.6,2.4,42.0,True,2,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Brentford,7,1,0,1,0,26,0,0,0,0,0,0,5.1,32.2,1.3,17.0,False,7,2.0,3.0,-1.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Bournemouth,90,0,0,2,0,3,0,0,0,0,0,0,1.3,0.0,5.8,12.0,False,2,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,West Ham,90,0,0,1,0,5,1,0,0,0,0,0,2.9,0.0,14.1,15.0,True,1,2.0,3.0,-1.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.7,2.0,4.5,0.0,False,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Leeds,8,0,0,0,0,2,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Aston Villa,23,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Man City,90,1,0,2,0,26,0,0,0,0,0,0,6.8,38.4,0.6,29.0,True,8,2.0,5.0,-3.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Liverpool,78,0,0,1,0,4,0,0,0,0,0,0,5.1,11.6,1.7,38.0,False,2,2.0,4.0,-2.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Leicester,90,1,1,3,0,32,0,0,0,0,0,0,7.3,47.8,12.1,13.0,True,9,2.0,3.0,-1.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Southampton,64,1,0,0,1,32,0,0,0,0,0,0,7.6,34.6,11.3,30.0,False,9,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Carlos Vinícius Alves Morais,FWD,Fulham,Man Utd,10,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0

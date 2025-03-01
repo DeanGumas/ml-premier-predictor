@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Scott McTominay,MID,Man Utd,Brighton,77,0,0,2,0,1,1,0,0,0,0,0,2.7,0.0,2.1,26.0,True,1,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,Brentford,45,0,0,0,0,8,1,0,0,0,0,0,1.5,11.2,3.3,0.0,False,0,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,Liverpool,90,0,0,1,0,14,0,0,0,0,0,0,1.4,13.0,0.5,0.0,True,2,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Southampton,90,0,0,0,1,6,1,0,0,0,0,0,4.5,14.8,2.2,28.0,False,2,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Leicester,90,0,0,0,1,13,0,0,0,0,0,0,2.5,13.0,12.0,0.0,False,3,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,Arsenal,90,0,0,1,0,7,1,0,0,0,0,0,2.3,16.4,2.2,4.0,True,1,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Man City,58,0,0,4,0,10,0,0,0,0,0,0,1.8,16.2,2.0,0.0,False,1,4.0,5.0,-1.0
+Scott McTominay,MID,Man Utd,Everton,7,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Spurs,14,0,0,0,0,3,0,0,0,0,0,0,0.4,0.6,1.0,2.0,True,1,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Chelsea,10,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.5,4.0,False,1,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,West Ham,29,0,0,0,0,10,0,0,0,0,0,0,3.4,10.6,21.8,2.0,True,1,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Fulham,35,0,0,1,0,-3,0,0,0,0,0,0,1.7,2.6,0.1,14.0,False,1,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Man City,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,5.0,-1.0
+Scott McTominay,MID,Man Utd,Crystal Palace,21,0,0,1,0,1,0,0,0,0,0,0,0.2,0.0,0.6,2.0,False,1,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Arsenal,90,0,0,3,0,15,0,0,0,0,0,0,4.3,31.8,3.7,7.0,False,2,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Leicester,31,0,0,0,0,5,0,0,0,0,0,0,0.6,4.8,1.5,0.0,True,1,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,Liverpool,32,0,0,4,0,1,1,0,0,0,0,0,0.1,1.2,0.2,0.0,False,0,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Southampton,46,0,0,0,0,9,0,0,0,0,0,0,3.9,25.2,11.3,2.0,True,1,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Newcastle,82,0,0,1,0,4,0,0,0,0,0,0,1.8,12.6,1.1,4.0,False,2,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Brentford,90,0,0,0,1,5,1,0,0,0,0,0,2.2,7.2,5.7,9.0,True,2,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,Everton,90,1,0,0,1,30,0,0,0,0,0,0,11.9,50.4,40.5,28.0,True,10,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Scott McTominay,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Bournemouth,4,0,0,0,0,3,0,0,0,0,0,0,1.3,5.4,0.4,7.0,False,1,4.0,2.0,2.0
+Scott McTominay,MID,Man Utd,Chelsea,4,0,0,1,0,1,0,0,0,0,0,0,3.2,5.2,10.1,17.0,True,1,4.0,4.0,0.0
+Scott McTominay,MID,Man Utd,Fulham,23,0,0,0,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

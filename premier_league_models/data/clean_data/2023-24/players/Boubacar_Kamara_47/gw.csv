@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Boubacar Kamara,MID,Aston Villa,Newcastle,90,0,0,5,0,10,0,0,0,0,0,0,3.1,4.8,19.3,7.0,False,2,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Everton,90,0,0,0,1,12,0,0,0,0,0,0,0.9,4.2,2.6,2.0,True,3,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Burnley,90,0,0,1,0,23,0,0,0,0,0,0,4.1,18.2,22.9,0.0,False,3,4.0,2.0,2.0
+Boubacar Kamara,MID,Aston Villa,Liverpool,90,0,0,3,0,12,1,0,0,0,0,0,2.3,11.8,11.1,0.0,False,1,4.0,4.0,0.0
+Boubacar Kamara,MID,Aston Villa,Crystal Palace,57,0,0,1,0,7,0,0,0,0,0,0,1.1,7.8,3.0,0.0,True,1,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Chelsea,89,0,0,0,1,20,0,0,0,0,0,0,6.7,23.4,41.2,2.0,False,3,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Brighton,89,0,0,1,0,11,0,0,0,0,0,0,1.4,12.0,1.7,0.0,True,2,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Wolves,81,0,0,1,0,2,1,0,0,0,0,0,2.0,6.0,14.1,0.0,False,1,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,West Ham,90,0,0,1,0,18,0,0,0,0,0,0,6.8,25.0,40.7,2.0,True,2,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Luton,78,0,0,0,1,12,1,0,0,0,0,0,3.2,14.4,17.2,0.0,True,2,4.0,2.0,2.0
+Boubacar Kamara,MID,Aston Villa,Nott'm Forest,77,0,0,2,0,13,1,0,0,0,0,0,3.0,15.4,15.0,0.0,False,1,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Fulham,90,0,0,1,0,10,0,0,0,0,0,0,0.9,2.6,2.1,4.0,True,2,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Spurs,90,0,0,1,0,12,1,0,0,0,0,0,2.2,9.8,4.8,7.0,False,1,4.0,4.0,0.0
+Boubacar Kamara,MID,Aston Villa,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Man City,90,0,0,0,1,13,1,0,0,0,0,0,5.7,16.0,39.2,2.0,True,2,4.0,5.0,-1.0
+Boubacar Kamara,MID,Aston Villa,Arsenal,66,0,0,0,1,7,0,0,0,0,0,0,1.9,15.4,3.2,0.0,True,3,4.0,5.0,-1.0
+Boubacar Kamara,MID,Aston Villa,Brentford,90,0,1,1,0,18,0,1,0,0,0,0,6.4,28.6,25.8,10.0,False,2,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Boubacar Kamara,MID,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Boubacar Kamara,MID,Aston Villa,Everton,90,0,0,0,1,16,0,0,0,0,0,0,3.4,16.0,15.8,2.0,False,3,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Newcastle,62,0,0,3,0,4,1,0,0,0,0,0,0.5,0.0,2.6,6.0,True,1,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Sheffield Utd,90,0,0,0,1,8,0,0,0,0,0,0,1.7,11.0,5.9,0.0,False,3,4.0,2.0,2.0
+Boubacar Kamara,MID,Aston Villa,Man Utd,64,0,0,1,0,19,0,0,0,0,0,0,1.8,13.8,4.5,0.0,True,2,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Boubacar Kamara,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Boubacar Kamara,MID,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Boubacar Kamara,MID,Aston Villa,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Boubacar Kamara,MID,Aston Villa,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Boubacar Kamara,MID,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Boubacar Kamara,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0

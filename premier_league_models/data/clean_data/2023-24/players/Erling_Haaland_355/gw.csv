@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Erling Haaland,FWD,Man City,Burnley,79,2,0,0,1,56,0,0,0,0,0,0,13.9,67.6,23.7,48.0,False,13,5.0,2.0,3.0
+Erling Haaland,FWD,Man City,Newcastle,90,0,0,0,1,1,0,0,0,0,0,0,6.3,3.2,11.8,48.0,True,2,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Sheffield Utd,90,1,0,1,0,14,0,0,0,0,1,0,14.4,34.2,12.9,97.0,False,4,5.0,2.0,3.0
+Erling Haaland,FWD,Man City,Fulham,90,3,1,1,0,90,0,0,0,0,0,0,19.8,119.4,23.4,55.0,True,20,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,West Ham,90,1,0,1,0,15,0,0,0,0,0,0,17.4,41.2,14.5,118.0,False,6,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Nott'm Forest,90,1,0,0,1,24,0,0,0,0,0,0,5.9,32.4,3.3,23.0,True,6,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Wolves,90,0,0,2,0,7,0,0,0,0,0,0,4.6,6.0,12.6,27.0,False,2,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Arsenal,90,0,0,1,0,11,0,0,0,0,0,0,3.8,7.8,21.8,8.0,False,2,5.0,5.0,0.0
+Erling Haaland,FWD,Man City,Brighton,90,1,0,1,0,33,0,0,0,0,0,0,6.6,38.6,0.9,26.0,True,8,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Man Utd,90,2,1,0,1,63,0,0,0,0,0,0,20.8,89.2,12.8,106.0,False,16,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Bournemouth,45,0,0,0,0,4,0,0,0,0,0,0,2.4,0.4,1.6,22.0,True,1,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Chelsea,90,2,1,4,0,57,0,0,0,0,0,0,20.3,86.4,32.3,84.0,False,16,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Liverpool,90,1,0,1,0,25,0,0,0,0,0,0,10.8,36.4,1.0,71.0,True,7,5.0,4.0,1.0
+Erling Haaland,FWD,Man City,Spurs,90,0,2,3,0,18,1,0,0,0,0,0,6.4,13.4,23.3,27.0,True,7,5.0,4.0,1.0
+Erling Haaland,FWD,Man City,Aston Villa,90,0,0,1,0,-1,0,0,0,0,0,0,6.4,12.4,1.6,50.0,False,2,5.0,4.0,1.0
+Erling Haaland,FWD,Man City,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Erling Haaland,FWD,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Erling Haaland,FWD,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Burnley,19,0,0,1,0,2,0,0,0,0,0,0,2.0,0.0,0.5,21.0,True,1,5.0,2.0,3.0
+Erling Haaland,FWD,Man City,Brentford,85,0,1,1,0,18,0,0,0,0,0,0,7.9,25.6,22.3,31.0,False,5,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Everton,90,2,0,0,1,57,0,0,0,0,0,0,14.1,69.6,21.8,50.0,True,13,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Chelsea,90,0,0,1,0,-8,0,0,0,0,0,0,10.3,1.4,21.2,80.0,True,2,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Brentford,90,1,0,0,1,31,0,0,0,0,0,0,10.6,40.4,3.8,62.0,True,8,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Bournemouth,74,0,1,0,1,3,0,0,0,0,0,0,6.4,3.6,2.6,58.0,False,5,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Man Utd,90,1,0,1,0,21,0,0,0,0,0,0,6.2,26.2,2.1,34.0,True,6,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Liverpool,90,0,0,1,0,11,0,0,0,0,0,0,5.7,15.4,32.3,9.0,False,2,5.0,4.0,1.0
+Erling Haaland,FWD,Man City,Arsenal,90,0,0,0,1,-2,0,0,0,0,0,0,2.2,0.0,2.4,24.0,True,2,5.0,5.0,0.0
+Erling Haaland,FWD,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Erling Haaland,FWD,Man City,Crystal Palace,90,1,0,2,0,33,0,0,0,0,0,0,11.1,39.2,12.0,60.0,False,8,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Luton,80,1,1,0,1,32,0,0,0,0,0,0,11.9,36.0,23.1,60.0,True,10,5.0,2.0,3.0
+Erling Haaland,FWD,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Nott'm Forest,28,1,0,0,0,26,0,0,0,0,0,0,7.6,37.0,3.0,36.0,False,5,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Wolves,82,4,0,1,0,97,0,0,0,0,0,0,30.2,142.6,14.9,144.0,True,21,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Fulham,81,0,0,0,1,2,0,0,0,0,0,0,1.9,0.0,2.9,17.0,False,2,5.0,3.0,2.0
+Erling Haaland,FWD,Man City,Spurs,90,2,0,0,1,56,0,0,0,0,0,0,12.3,69.0,1.8,52.0,False,13,5.0,4.0,1.0
+Erling Haaland,FWD,Man City,West Ham,90,0,0,1,0,-4,0,0,0,0,0,0,3.1,0.0,3.0,33.0,True,2,5.0,3.0,2.0

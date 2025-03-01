@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ben Osborn,MID,Sheffield Utd,Crystal Palace,86,0,0,1,0,6,0,0,0,0,0,0,1.5,8.2,1.6,5.0,True,2,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Nott'm Forest,90,0,0,2,0,8,1,0,0,0,0,0,1.8,11.0,7.4,0.0,False,1,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Man City,16,0,0,0,0,4,0,0,0,0,0,0,0.1,1.4,0.0,0.0,True,1,2.0,5.0,-3.0
+Ben Osborn,MID,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ben Osborn,MID,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Man Utd,12,0,0,0,0,4,0,0,0,0,0,0,1.9,4.6,14.8,0.0,True,1,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Arsenal,31,0,0,2,0,-1,1,0,0,0,0,0,0.0,0.0,0.8,0.0,False,0,2.0,5.0,-3.0
+Ben Osborn,MID,Sheffield Utd,Wolves,1,0,0,0,0,4,0,0,0,0,0,0,1.4,2.0,10.1,2.0,True,1,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Brighton,38,0,0,0,0,3,0,0,0,0,0,0,0.5,2.6,2.3,0.0,False,1,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Bournemouth,24,0,0,0,0,4,0,0,0,0,0,0,2.1,6.4,15.0,0.0,True,1,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Ben Osborn,MID,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Ben Osborn,MID,Sheffield Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ben Osborn,MID,Sheffield Utd,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Ben Osborn,MID,Sheffield Utd,Man City,10,0,0,0,0,4,0,0,0,0,0,0,0.5,3.0,0.3,2.0,False,1,2.0,5.0,-3.0
+Ben Osborn,MID,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Aston Villa,40,0,0,0,0,5,0,0,0,0,0,0,2.0,5.4,12.3,2.0,True,1,2.0,4.0,-2.0
+Ben Osborn,MID,Sheffield Utd,Luton,90,0,1,1,0,16,0,0,0,0,0,0,3.7,24.8,12.4,0.0,False,5,2.0,2.0,0.0
+Ben Osborn,MID,Sheffield Utd,Brighton,78,0,0,4,0,8,0,0,0,0,0,0,0.8,3.8,1.8,2.0,True,2,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Wolves,18,0,0,0,0,5,0,0,0,0,0,0,1.9,4.4,14.7,0.0,False,1,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Arsenal,73,0,0,3,0,8,0,0,0,0,0,0,0.7,4.6,0.7,2.0,True,2,2.0,5.0,-3.0
+Ben Osborn,MID,Sheffield Utd,Bournemouth,90,0,0,2,0,8,0,0,0,0,0,0,3.0,12.2,15.3,2.0,False,2,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Fulham,90,0,0,3,0,13,0,0,0,0,0,0,1.8,13.2,5.2,0.0,True,2,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Liverpool,28,0,0,2,0,1,0,0,0,0,0,0,0.4,4.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Ben Osborn,MID,Sheffield Utd,Chelsea,90,0,0,2,0,14,0,0,0,0,0,0,1.3,7.8,2.1,3.0,True,2,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Brentford,90,0,0,2,0,13,0,0,0,0,0,0,4.1,18.4,21.0,2.0,False,2,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Burnley,90,0,0,4,0,5,1,0,0,0,0,0,2.7,10.8,16.0,0.0,True,1,2.0,2.0,0.0
+Ben Osborn,MID,Sheffield Utd,Man Utd,90,0,1,4,0,25,0,0,0,0,0,0,4.0,26.0,11.6,2.0,False,5,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Newcastle,90,0,0,5,0,9,0,0,1,0,0,0,2.9,5.8,21.6,2.0,False,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Nott'm Forest,90,0,0,3,0,12,0,0,0,0,0,0,2.5,9.8,14.9,0.0,True,2,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Osborn,MID,Sheffield Utd,Spurs,4,0,0,0,0,4,0,0,0,0,0,0,1.2,1.2,10.3,0.0,True,1,2.0,4.0,-2.0

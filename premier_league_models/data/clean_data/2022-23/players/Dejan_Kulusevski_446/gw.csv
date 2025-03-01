@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Dejan Kulusevski,MID,Spurs,Southampton,85,1,1,1,0,45,0,0,0,0,0,0,15.3,65.8,40.3,47.0,True,13,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Chelsea,90,0,0,2,0,5,0,0,0,0,0,0,0.6,3.0,1.1,2.0,False,2,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Wolves,85,0,0,0,1,9,0,0,0,0,0,0,6.0,8.0,39.8,12.0,True,3,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Nott'm Forest,82,0,1,0,1,21,0,0,0,0,0,0,10.2,21.8,35.9,44.0,False,6,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,West Ham,75,0,0,1,0,7,0,0,0,0,0,0,7.3,7.0,26.2,40.0,False,2,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,Fulham,12,0,0,1,0,0,0,0,0,0,0,0,0.3,0.2,0.6,2.0,True,1,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Leicester,69,0,1,2,0,17,0,0,0,0,0,0,6.0,24.0,16.3,20.0,True,5,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Liverpool,22,0,1,0,0,13,0,0,0,0,0,0,3.7,19.4,15.5,2.0,True,4,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Leeds,89,0,1,3,0,15,0,0,0,0,0,0,13.4,28.2,46.3,59.0,True,5,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Brentford,90,0,0,2,0,14,0,0,0,0,0,0,7.1,18.0,28.3,25.0,False,2,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Arsenal,87,0,0,2,0,3,0,0,0,0,0,0,4.2,8.2,12.3,21.0,True,2,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Man City,90,1,0,4,0,37,0,0,0,0,0,0,12.4,53.4,47.8,23.0,False,9,4.0,5.0,-1.0
+Dejan Kulusevski,MID,Spurs,Fulham,90,0,0,0,1,9,0,0,0,0,0,0,3.5,8.6,15.8,11.0,False,3,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Man City,88,0,0,0,1,-1,0,0,0,0,0,0,1.9,2.8,1.7,14.0,True,3,4.0,5.0,-1.0
+Dejan Kulusevski,MID,Spurs,Leicester,78,0,0,3,0,0,0,0,0,0,0,0,1.2,1.0,3.1,8.0,False,2,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,West Ham,89,0,0,0,1,16,0,0,0,0,0,0,8.4,15.2,42.4,26.0,True,3,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,Chelsea,78,0,0,0,1,7,0,0,0,0,0,0,2.5,3.6,16.9,4.0,True,3,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Wolves,76,0,0,0,1,8,1,0,0,0,0,0,7.6,11.4,37.9,27.0,False,2,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Nott'm Forest,6,0,0,0,0,1,0,0,0,0,0,0,0.5,0.0,0.6,9.0,True,1,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Southampton,80,0,1,2,0,23,0,0,0,0,0,0,8.7,30.8,50.6,6.0,False,5,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Everton,90,0,0,1,0,9,0,0,0,0,0,0,4.1,11.8,13.8,15.0,False,2,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Brighton,77,0,0,1,0,4,0,0,0,0,0,0,2.8,2.0,12.3,14.0,True,2,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,Bournemouth,90,0,0,3,0,13,0,0,0,0,0,0,6.2,17.2,27.1,18.0,True,2,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Newcastle,71,0,0,6,0,1,1,0,0,0,0,0,3.5,10.0,16.9,8.0,False,1,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Man Utd,29,0,0,0,0,0,0,0,0,0,0,0,0.8,1.2,0.5,6.0,True,1,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Liverpool,65,0,0,3,0,8,0,0,0,0,0,0,3.6,7.4,11.6,17.0,False,2,4.0,4.0,0.0
+Dejan Kulusevski,MID,Spurs,Crystal Palace,11,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Aston Villa,28,0,0,1,0,2,0,0,0,0,0,0,2.1,2.6,5.4,13.0,False,1,4.0,2.0,2.0
+Dejan Kulusevski,MID,Spurs,Brentford,74,0,1,2,0,18,0,0,0,0,0,0,10.8,26.6,60.6,21.0,True,5,4.0,3.0,1.0
+Dejan Kulusevski,MID,Spurs,Leeds,66,0,0,0,1,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,3,4.0,2.0,2.0

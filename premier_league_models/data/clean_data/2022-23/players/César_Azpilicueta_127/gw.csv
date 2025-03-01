@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+César Azpilicueta,DEF,Chelsea,Everton,90,0,0,0,1,30,0,0,0,0,0,0,4.7,19.0,25.9,2.0,False,7,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Spurs,17,0,0,1,0,3,0,0,0,0,0,0,0.3,2.6,0.3,0.0,True,1,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Leeds,3,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.3,0.0,False,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Leicester,45,0,0,1,0,7,0,0,0,0,0,0,1.3,12.6,0.6,0.0,True,1,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Southampton,66,0,0,2,0,12,0,0,0,0,0,0,3.0,16.2,13.8,0.0,False,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Wolves,90,0,0,0,1,27,1,0,0,0,0,0,9.5,19.8,45.5,30.0,True,5,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Aston Villa,45,0,0,0,0,9,0,0,0,0,0,0,3.6,11.6,21.9,2.0,False,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Brentford,90,0,0,0,1,33,0,0,0,0,0,0,5.1,21.2,14.3,15.0,False,9,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Man Utd,90,0,0,1,0,7,0,0,0,0,0,0,0.9,4.8,2.4,2.0,True,2,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Arsenal,90,0,0,1,0,11,1,0,0,0,0,0,2.1,20.0,0.8,0.0,True,1,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Newcastle,45,0,0,0,0,4,0,0,0,0,0,0,1.0,7.4,0.3,2.0,False,1,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Bournemouth,37,0,0,0,0,6,0,0,0,0,0,0,3.6,14.8,18.8,2.0,True,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Nott'm Forest,90,0,0,1,0,7,1,0,0,0,0,0,3.8,20.8,4.8,12.0,False,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Man City,90,0,0,1,0,8,0,0,0,0,0,0,1.9,16.0,2.8,0.0,True,2,4.0,5.0,-1.0
+César Azpilicueta,DEF,Chelsea,Fulham,90,0,0,2,0,11,0,0,0,0,0,0,1.7,10.4,1.4,5.0,False,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Crystal Palace,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Liverpool,9,0,0,0,0,3,0,0,0,0,0,0,0.2,2.2,0.0,0.0,False,1,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Fulham,30,0,0,0,0,5,0,0,0,0,0,0,0.6,5.8,0.3,0.0,True,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Southampton,83,0,0,1,0,14,0,0,0,0,0,0,3.9,10.2,16.6,12.0,True,2,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Brentford,45,0,0,1,0,-2,0,0,1,0,0,0,0.1,0.0,1.9,2.0,True,-1,4.0,3.0,1.0
+César Azpilicueta,DEF,Chelsea,Arsenal,90,0,0,3,0,11,0,0,0,0,0,0,1.9,10.6,2.7,6.0,False,1,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Bournemouth,15,0,0,0,0,2,0,0,0,0,0,0,0.2,1.0,0.3,1.0,False,1,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+César Azpilicueta,DEF,Chelsea,Man City,90,0,0,1,0,5,0,0,0,0,0,0,0.8,6.4,1.6,0.0,False,2,4.0,5.0,-1.0
+César Azpilicueta,DEF,Chelsea,Man Utd,90,0,0,4,0,18,0,0,0,0,0,0,5.4,24.4,29.4,0.0,False,0,4.0,4.0,0.0
+César Azpilicueta,DEF,Chelsea,Newcastle,90,0,0,1,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,4.0,4.0,0.0

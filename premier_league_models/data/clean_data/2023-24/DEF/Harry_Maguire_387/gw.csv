@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Harry Maguire,DEF,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Harry Maguire,DEF,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Arsenal,23,0,0,2,0,3,0,0,0,0,0,0,0.2,1.2,0.5,0.0,False,0,3.0,5.0,-2.0
+Harry Maguire,DEF,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Harry Maguire,DEF,Man Utd,Crystal Palace,3,0,0,0,0,5,0,0,0,0,0,0,0.3,2.2,0.3,0.0,True,1,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Brentford,90,0,1,1,0,23,0,0,0,0,0,0,4.8,25.6,18.6,4.0,True,6,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Sheffield Utd,90,0,0,1,0,14,0,0,0,0,0,0,3.0,28.6,0.9,0.0,False,2,3.0,2.0,1.0
+Harry Maguire,DEF,Man Utd,Man City,90,0,0,3,0,14,0,0,0,0,0,0,2.2,16.8,0.9,4.0,True,1,3.0,5.0,-2.0
+Harry Maguire,DEF,Man Utd,Fulham,90,0,0,0,1,26,0,0,0,0,0,0,3.6,33.0,0.6,2.0,False,7,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Luton,90,0,0,0,1,28,0,0,0,0,0,0,4.5,27.6,13.8,4.0,True,6,3.0,2.0,1.0
+Harry Maguire,DEF,Man Utd,Everton,90,0,0,0,1,22,0,0,0,0,0,0,2.7,23.0,0.3,4.0,False,6,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Newcastle,90,0,0,1,0,1,1,0,0,0,0,0,3.9,27.2,0.7,11.0,False,1,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Chelsea,90,0,1,1,0,22,0,0,0,0,0,0,1.7,8.8,0.9,7.0,True,5,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Bournemouth,90,0,0,3,0,15,0,0,0,0,0,0,5.1,24.8,1.9,24.0,True,1,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Harry Maguire,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Harry Maguire,DEF,Man Utd,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Harry Maguire,DEF,Man Utd,Wolves,4,0,0,1,0,3,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,1,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,West Ham,90,0,0,0,1,27,0,0,0,0,0,0,2.4,23.8,0.2,0.0,True,6,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Aston Villa,90,0,1,1,0,28,0,0,0,0,0,0,6.1,38.4,10.9,12.0,False,7,3.0,4.0,-1.0
+Harry Maguire,DEF,Man Utd,Luton,45,0,0,1,0,-3,1,0,0,0,0,0,1.3,2.6,10.3,0.0,False,0,3.0,2.0,1.0
+Harry Maguire,DEF,Man Utd,Fulham,90,1,0,2,0,23,1,0,0,0,0,0,13.8,59.6,23.4,55.0,True,6,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Harry Maguire,DEF,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Brentford,45,0,0,1,0,7,0,0,0,0,0,0,1.9,14.2,0.1,5.0,False,1,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Chelsea,90,0,0,4,0,10,0,0,0,0,0,0,2.1,8.4,0.3,12.0,False,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Liverpool,90,0,0,2,0,16,0,0,0,0,0,0,3.2,27.8,0.4,4.0,True,1,3.0,4.0,-1.0
+Harry Maguire,DEF,Man Utd,Bournemouth,90,0,0,2,0,18,0,0,0,0,0,0,3.0,24.6,0.8,5.0,False,1,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Sheffield Utd,90,1,1,2,0,37,0,0,0,0,0,0,9.6,57.0,4.1,35.0,True,12,3.0,2.0,1.0
+Harry Maguire,DEF,Man Utd,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,2.1,18.2,0.7,2.0,True,2,3.0,2.0,1.0
+Harry Maguire,DEF,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Harry Maguire,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Harry Maguire,DEF,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

@@ -1,0 +1,38 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Harrison,MID,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jack Harrison,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jack Harrison,MID,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Jack Harrison,MID,Everton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Luton,45,0,0,0,0,9,0,0,0,0,0,0,4.4,12.8,29.3,2.0,True,1,3.0,2.0,1.0
+Jack Harrison,MID,Everton,Bournemouth,77,1,1,0,1,35,0,0,0,0,0,0,10.2,58.0,11.9,32.0,True,14,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Liverpool,45,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.3,0.0,False,1,3.0,4.0,-1.0
+Jack Harrison,MID,Everton,West Ham,90,0,1,0,1,13,0,0,0,0,0,0,5.7,24.0,14.8,18.0,False,6,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Brighton,90,0,0,1,0,7,0,0,0,0,0,0,0.7,5.4,0.0,2.0,True,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Crystal Palace,90,0,1,2,0,17,0,0,0,0,0,0,6.4,28.4,29.6,6.0,False,5,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Man Utd,90,0,0,3,0,5,0,0,0,0,0,0,6.1,7.2,12.8,41.0,True,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Nott'm Forest,90,0,0,0,1,3,0,0,0,0,0,0,1.1,7.0,2.2,2.0,False,3,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Newcastle,90,0,0,0,1,15,0,0,0,0,0,0,7.4,15.6,39.6,19.0,True,3,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Chelsea,85,0,0,0,1,9,0,0,0,0,0,0,4.6,10.6,30.2,5.0,True,3,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Burnley,90,0,0,0,1,14,0,0,0,0,0,0,3.0,11.0,16.9,2.0,False,3,3.0,2.0,1.0
+Jack Harrison,MID,Everton,Spurs,65,0,0,2,0,3,0,0,0,0,0,0,4.6,9.2,15.6,21.0,False,2,3.0,4.0,-1.0
+Jack Harrison,MID,Everton,Man City,79,1,0,2,0,28,0,0,0,0,0,0,10.6,40.6,15.1,50.0,True,7,3.0,5.0,-2.0
+Jack Harrison,MID,Everton,Wolves,90,0,0,3,0,10,0,0,0,0,0,0,2.8,6.0,15.3,7.0,False,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Aston Villa,90,0,0,0,1,8,0,0,0,0,0,0,2.3,5.2,15.8,2.0,True,3,3.0,4.0,-1.0
+Jack Harrison,MID,Everton,Fulham,90,0,0,0,1,7,0,0,0,0,0,0,3.6,5.0,11.6,19.0,False,3,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Spurs,90,1,0,2,0,24,0,0,0,0,0,0,7.9,36.2,2.5,40.0,True,9,3.0,4.0,-1.0
+Jack Harrison,MID,Everton,Man City,90,0,0,2,0,9,0,0,0,0,0,0,2.0,4.8,10.8,4.0,False,2,3.0,5.0,-2.0
+Jack Harrison,MID,Everton,Crystal Palace,24,0,0,1,0,4,0,0,0,0,0,0,1.4,7.4,4.9,2.0,True,1,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Brighton,90,0,0,1,0,6,0,0,0,0,0,0,3.0,8.6,17.7,4.0,False,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,West Ham,79,0,0,1,0,6,0,0,0,0,0,0,2.1,4.8,12.5,4.0,True,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Man Utd,60,0,0,2,0,4,0,0,0,0,0,0,0.7,3.4,2.1,1.0,False,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Bournemouth,71,0,0,1,0,7,0,0,0,0,0,0,1.3,9.6,2.7,1.0,False,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Burnley,7,0,0,0,0,3,0,0,0,0,0,0,0.4,1.2,0.5,2.0,True,1,3.0,2.0,1.0
+Jack Harrison,MID,Everton,Chelsea,45,0,0,2,0,4,0,0,0,0,0,0,0.5,2.4,2.7,0.0,False,1,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Nott'm Forest,90,0,0,0,1,-1,1,0,0,0,0,0,1.4,6.0,2.2,6.0,True,2,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Liverpool,90,0,0,0,1,18,0,0,0,0,0,0,10.2,33.8,53.2,15.0,True,3,3.0,4.0,-1.0
+Jack Harrison,MID,Everton,Brentford,90,0,0,0,1,6,0,0,0,0,0,0,2.8,7.0,2.5,18.0,True,3,3.0,3.0,0.0
+Jack Harrison,MID,Everton,Luton,90,0,0,1,0,16,0,0,0,0,0,0,7.0,25.6,30.4,14.0,False,2,3.0,2.0,1.0
+Jack Harrison,MID,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jack Harrison,MID,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

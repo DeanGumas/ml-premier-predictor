@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ben Brereton Díaz,MID,Southampton,Newcastle,70,0,0,1,0,-2,1,0,0,0,0,0,3.3,2.6,14.0,16.0,False,1,2.0,4.0,-2.0
+Ben Brereton Díaz,MID,Southampton,Nott'm Forest,90,0,0,1,0,12,0,0,0,0,0,0,4.1,7.0,30.4,4.0,True,2,2.0,4.0,-2.0
+Ben Brereton Díaz,MID,Southampton,Brentford,90,0,0,3,0,7,0,0,0,0,0,0,4.1,0.8,6.7,33.0,False,2,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Man Utd,63,0,0,2,0,7,0,0,0,0,0,0,1.5,6.2,6.7,2.0,True,2,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Ipswich,31,0,0,1,0,4,0,0,0,0,0,0,1.1,0.6,0.9,9.0,True,1,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Bournemouth,45,0,0,0,0,2,0,0,0,0,0,0,1.6,0.6,2.9,12.0,False,1,2.0,4.0,-2.0
+Ben Brereton Díaz,MID,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ben Brereton Díaz,MID,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ben Brereton Díaz,MID,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Wolves,17,0,0,0,0,2,0,0,0,0,0,0,0.7,2.0,0.3,5.0,False,1,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Ben Brereton Díaz,MID,Southampton,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,1,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Chelsea,28,0,0,2,0,5,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1,2.0,4.0,-2.0
+Ben Brereton Díaz,MID,Southampton,Aston Villa,11,0,0,0,0,3,0,0,0,0,0,0,0.3,1.6,1.3,0.0,False,1,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Ben Brereton Díaz,MID,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Ben Brereton Díaz,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

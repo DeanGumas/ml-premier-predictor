@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Chris Wood,FWD,Nott'm Forest,Bournemouth,71,1,0,0,1,30,0,0,0,0,0,0,5.9,32.2,5.7,21.0,True,9,4.0,4.0,0.0
+Chris Wood,FWD,Nott'm Forest,Southampton,74,0,0,0,1,5,1,0,0,0,0,0,6.3,6.2,16.9,40.0,False,1,4.0,2.0,2.0
+Chris Wood,FWD,Nott'm Forest,Wolves,90,1,0,1,0,31,0,0,0,0,0,0,13.0,41.2,7.3,81.0,True,9,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Liverpool,80,0,0,0,1,4,0,0,0,0,0,0,3.2,4.4,10.6,17.0,False,2,4.0,5.0,-1.0
+Chris Wood,FWD,Nott'm Forest,Brighton,71,1,0,2,0,32,0,0,0,0,0,0,5.1,33.4,0.3,17.0,False,8,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Fulham,90,0,0,1,0,3,0,0,0,0,0,0,0.5,3.4,1.3,0.0,True,2,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Chelsea,81,1,0,1,0,32,0,0,0,0,0,0,5.8,35.2,3.3,19.0,False,8,4.0,4.0,0.0
+Chris Wood,FWD,Nott'm Forest,Crystal Palace,83,1,0,0,1,30,0,0,0,0,0,0,9.9,34.0,10.9,54.0,True,7,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Leicester,80,2,0,1,0,60,0,0,0,0,0,0,12.3,66.4,16.1,40.0,False,13,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,West Ham,78,1,0,0,1,37,0,0,0,0,0,0,7.7,36.4,5.0,36.0,True,7,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Newcastle,90,0,0,3,0,7,0,0,0,0,0,0,3.7,9.8,25.1,2.0,True,2,4.0,4.0,0.0
+Chris Wood,FWD,Nott'm Forest,Arsenal,27,0,0,1,0,2,0,0,0,0,0,0,1.0,2.4,1.6,6.0,False,1,4.0,4.0,0.0
+Chris Wood,FWD,Nott'm Forest,Ipswich,90,1,0,0,1,35,0,0,0,0,0,0,6.2,35.2,1.3,25.0,True,9,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Man City,61,0,0,3,0,4,0,0,0,0,0,0,2.6,0.2,1.1,25.0,False,2,4.0,4.0,0.0
+Chris Wood,FWD,Nott'm Forest,Man Utd,78,1,0,2,0,32,0,0,0,0,0,0,6.8,30.4,0.4,37.0,False,8,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Aston Villa,90,0,0,1,0,6,0,0,0,0,0,0,1.6,2.4,2.1,11.0,True,2,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Brentford,90,0,0,0,1,5,0,0,0,0,0,0,4.2,13.8,0.8,27.0,False,2,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Spurs,86,0,0,0,1,4,0,0,0,0,0,0,0.7,1.8,3.4,2.0,True,2,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Everton,75,1,1,0,1,38,0,0,0,0,0,0,8.1,46.2,11.0,24.0,False,12,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Wolves,87,1,0,0,1,31,0,0,0,0,0,0,5.2,29.8,1.6,21.0,False,8,4.0,3.0,1.0
+Chris Wood,FWD,Nott'm Forest,Liverpool,89,1,0,1,0,31,0,0,0,0,0,0,5.5,32.6,3.1,19.0,True,9,4.0,5.0,-1.0
+Chris Wood,FWD,Nott'm Forest,Southampton,82,1,1,1,0,46,0,0,0,0,0,0,11.2,54.0,23.0,35.0,True,12,4.0,2.0,2.0
+Chris Wood,FWD,Nott'm Forest,Bournemouth,90,0,0,5,0,6,0,0,0,0,0,0,2.2,5.2,12.9,4.0,False,2,4.0,4.0,0.0

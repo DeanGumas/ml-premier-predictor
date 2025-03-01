@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Sean Longstaff,MID,Newcastle,Southampton,90,0,0,0,1,11,0,0,0,0,0,0,1.5,9.4,1.3,4.0,True,3,4.0,2.0,2.0
+Sean Longstaff,MID,Newcastle,Bournemouth,69,0,0,1,0,17,0,0,0,0,0,0,1.9,3.8,12.7,2.0,False,2,4.0,4.0,0.0
+Sean Longstaff,MID,Newcastle,Spurs,67,0,0,1,0,6,1,0,0,0,0,0,1.7,16.2,0.9,0.0,True,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Wolves,45,0,0,1,0,2,0,0,0,0,0,0,0.3,0.0,3.3,0.0,False,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Man City,12,0,0,0,0,4,0,0,0,0,0,0,0.5,1.2,0.0,4.0,True,1,4.0,4.0,0.0
+Sean Longstaff,MID,Newcastle,Everton,19,0,0,0,0,3,0,0,0,0,0,0,0.7,3.2,1.6,2.0,False,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Brighton,5,0,0,0,0,3,0,0,0,0,0,0,0.1,0.8,0.5,0.0,True,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Chelsea,22,0,0,0,0,1,1,0,0,0,0,0,0.9,6.0,0.6,2.0,False,0,4.0,4.0,0.0
+Sean Longstaff,MID,Newcastle,Arsenal,90,0,0,0,1,6,0,0,0,0,0,0,2.5,12.4,1.8,11.0,True,3,4.0,4.0,0.0
+Sean Longstaff,MID,Newcastle,Nott'm Forest,90,0,1,1,0,20,0,0,0,0,0,0,4.5,14.2,20.8,10.0,False,5,4.0,4.0,0.0
+Sean Longstaff,MID,Newcastle,West Ham,56,0,0,2,0,4,0,0,0,0,0,0,3.6,14.0,2.8,19.0,True,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Crystal Palace,15,0,0,1,0,3,0,0,0,0,0,0,0.1,0.6,0.7,0.0,False,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Liverpool,3,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,4.0,5.0,-1.0
+Sean Longstaff,MID,Newcastle,Brentford,72,0,0,3,0,10,0,0,0,0,0,0,2.1,2.0,13.3,6.0,False,2,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Leicester,26,0,0,0,0,4,0,0,0,0,0,0,3.0,4.6,11.6,14.0,True,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Ipswich,26,0,0,0,0,4,0,0,0,0,0,0,0.7,1.4,3.3,2.0,False,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Spurs,4,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Sean Longstaff,MID,Newcastle,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Sean Longstaff,MID,Newcastle,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,2.0,2.0

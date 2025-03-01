@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Taiwo Awoniyi,FWD,Nott'm Forest,Newcastle,27,0,0,1,0,6,0,0,0,0,0,0,0.4,3.2,0.4,0.0,False,1,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,West Ham,71,1,0,0,1,26,0,0,0,0,0,0,5.6,31.6,7.2,17.0,True,8,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Everton,60,0,0,0,1,7,0,0,0,0,0,0,4.4,7.2,14.0,23.0,False,2,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Spurs,15,0,0,1,0,3,0,0,0,0,0,0,1.2,1.4,10.5,0.0,True,1,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Man City,32,0,0,2,0,-1,0,0,0,0,0,0,0.6,1.6,0.8,4.0,False,1,2.0,5.0,-3.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Bournemouth,23,0,0,1,0,0,0,0,0,0,0,0,1.3,0.0,1.9,13.0,True,1,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Fulham,69,1,0,3,0,24,0,0,0,0,0,0,7.8,37.4,0.7,40.0,True,7,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Leicester,61,0,0,3,0,-3,0,0,0,0,0,0,1.8,1.2,1.4,15.0,False,2,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Wolves,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Brighton,4,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.0,2.0,False,1,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Liverpool,63,1,0,0,1,34,0,0,0,0,0,0,12.9,40.6,32.1,56.0,True,9,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Arsenal,63,0,0,4,0,2,0,0,0,0,0,0,0.2,0.0,0.5,2.0,False,2,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Brentford,11,0,0,0,0,-1,0,0,0,0,0,0,0.2,0.0,0.0,4.0,True,1,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Man Utd,61,0,0,2,0,4,0,0,0,0,0,0,0.3,2.0,0.8,0.0,False,2,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Chelsea,87,0,0,1,0,9,0,0,0,0,0,0,6.6,17.4,21.8,27.0,True,2,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Southampton,70,1,0,0,1,35,0,0,0,0,0,0,6.9,37.0,11.9,20.0,False,9,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Taiwo Awoniyi,FWD,Nott'm Forest,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Wolves,4,0,0,0,0,3,0,0,0,0,0,0,0.4,0.0,0.3,4.0,True,1,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Leeds,34,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.4,2.0,False,1,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Aston Villa,25,0,0,1,0,-4,1,0,0,0,0,0,0.0,0.0,0.3,2.0,False,0,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Man Utd,64,0,0,1,0,4,0,0,0,0,0,0,1.8,3.2,1.6,13.0,True,2,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Liverpool,86,0,0,3,0,0,0,0,0,0,0,0,2.0,2.4,0.7,17.0,False,2,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Brighton,80,0,1,1,0,12,0,0,0,0,0,0,6.3,21.8,17.3,24.0,True,5,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Brentford,53,0,0,0,0,0,0,0,0,0,0,0,1.1,5.6,1.0,4.0,False,1,2.0,3.0,-1.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Southampton,80,2,0,2,0,49,0,0,0,0,0,0,10.5,64.4,2.1,38.0,True,12,2.0,2.0,0.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Chelsea,80,2,0,2,0,48,0,0,0,0,0,0,10.3,67.2,1.5,34.0,False,12,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Arsenal,78,1,0,0,1,25,1,0,0,0,0,0,4.8,30.4,0.4,17.0,True,6,2.0,4.0,-2.0
+Taiwo Awoniyi,FWD,Nott'm Forest,Crystal Palace,88,1,0,1,0,30,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,8,2.0,2.0,0.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Abdoulaye Doucouré,MID,Everton,Chelsea,90,0,0,1,0,13,0,0,0,0,0,0,3.9,10.0,3.5,25.0,True,2,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Aston Villa,34,0,0,1,0,3,0,0,0,0,0,0,0.3,0.2,0.6,2.0,False,1,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,West Ham,9,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.8,0.0,True,1,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Crystal Palace,4,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Leicester,29,0,0,1,0,3,0,0,0,0,0,0,0.8,0.6,3.5,4.0,True,1,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Bournemouth,15,0,0,0,0,3,0,0,0,0,0,0,0.3,2.2,0.7,0.0,False,1,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Wolves,7,0,0,1,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,1,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Man City,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1,2.0,5.0,-3.0
+Abdoulaye Doucouré,MID,Everton,Brighton,32,0,0,0,0,-2,1,0,0,0,0,0,0.1,0.0,0.4,4.0,True,0,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Arsenal,90,0,0,0,1,6,0,0,0,0,0,0,3.3,11.4,11.8,10.0,True,3,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Liverpool,90,0,0,2,0,5,1,0,0,0,0,0,0.5,1.0,2.1,2.0,False,1,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Leeds,90,0,0,0,1,13,1,0,0,0,0,0,5.4,19.4,29.0,6.0,True,2,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Aston Villa,90,0,0,2,0,9,1,0,0,0,0,0,4.8,10.6,17.6,20.0,True,1,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Arsenal,78,0,0,3,0,7,0,0,0,0,0,0,2.7,5.8,21.3,0.0,False,2,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Nott'm Forest,90,1,0,2,0,32,0,0,0,0,0,0,12.2,45.8,35.0,41.0,False,9,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Brentford,90,0,1,0,1,11,1,0,0,0,0,0,3.2,18.4,12.0,2.0,True,5,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Chelsea,90,1,1,2,0,37,0,0,0,0,0,0,11.9,62.6,21.3,35.0,False,13,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Spurs,57,0,0,1,0,-10,0,1,0,0,0,0,1.8,0.2,13.7,4.0,True,-2,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Newcastle,90,0,0,4,0,14,0,0,0,0,0,0,5.1,17.8,23.8,9.0,True,2,2.0,4.0,-2.0
+Abdoulaye Doucouré,MID,Everton,Leicester,90,0,0,2,0,12,0,0,0,0,0,0,5.5,17.0,24.8,13.0,False,2,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Brighton,90,2,0,1,0,44,1,0,0,0,0,0,14.2,80.4,21.1,40.0,False,13,2.0,3.0,-1.0
+Abdoulaye Doucouré,MID,Everton,Man City,90,0,0,3,0,8,0,0,0,0,0,0,1.5,5.8,2.7,6.0,True,2,2.0,5.0,-3.0
+Abdoulaye Doucouré,MID,Everton,Wolves,90,0,0,1,0,9,0,0,0,0,0,0,2.5,4.6,14.8,6.0,False,2,2.0,2.0,0.0
+Abdoulaye Doucouré,MID,Everton,Bournemouth,90,1,0,0,1,31,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,11,2.0,2.0,0.0

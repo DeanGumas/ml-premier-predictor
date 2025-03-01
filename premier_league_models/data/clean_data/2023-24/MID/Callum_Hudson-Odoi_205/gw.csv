@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Callum Hudson-Odoi,MID,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Callum Hudson-Odoi,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Callum Hudson-Odoi,MID,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Burnley,70,1,0,1,0,30,0,0,0,0,0,0,11.0,44.4,36.3,29.0,True,10,3.0,2.0,1.0
+Callum Hudson-Odoi,MID,Chelsea,Man City,34,0,0,0,0,3,0,0,0,0,0,0,0.8,1.2,4.4,2.0,False,1,3.0,5.0,-2.0
+Callum Hudson-Odoi,MID,Chelsea,Brentford,59,0,0,1,0,4,0,0,0,0,0,0,2.3,5.6,15.5,2.0,True,1,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Crystal Palace,65,0,0,0,1,5,0,0,0,0,0,0,1.0,2.6,3.0,4.0,False,3,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Callum Hudson-Odoi,MID,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Callum Hudson-Odoi,MID,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Callum Hudson-Odoi,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Brighton,28,0,1,0,0,14,0,0,0,0,0,0,2.6,5.2,16.5,4.0,True,4,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Everton,25,0,0,1,0,7,0,0,0,0,0,0,1.7,4.4,12.8,0.0,True,1,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Fulham,57,0,0,3,0,-2,0,0,0,0,0,0,1.4,2.8,7.2,4.0,False,1,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Spurs,7,0,0,0,0,4,0,0,0,0,0,0,2.0,5.4,14.7,0.0,True,1,3.0,4.0,-1.0
+Callum Hudson-Odoi,MID,Chelsea,Bournemouth,45,0,0,3,0,4,0,0,0,0,0,0,1.3,5.2,2.5,5.0,True,1,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Newcastle,78,0,0,1,0,7,0,0,0,0,0,0,3.6,7.6,11.3,17.0,False,2,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Man Utd,11,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Brentford,90,0,1,3,0,23,0,0,0,0,0,0,7.8,31.2,36.1,11.0,False,5,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Arsenal,26,0,0,2,0,3,0,0,0,0,0,0,0.4,2.0,1.5,0.0,True,1,3.0,5.0,-2.0
+Callum Hudson-Odoi,MID,Chelsea,Bournemouth,89,1,0,1,0,26,0,0,0,0,0,0,6.7,43.8,12.5,11.0,False,10,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Newcastle,90,1,0,3,0,32,0,0,0,0,0,0,8.0,42.4,28.8,9.0,True,9,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,West Ham,90,1,0,0,1,39,0,0,0,0,0,0,13.3,48.8,49.0,35.0,True,11,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Aston Villa,90,0,0,4,0,6,0,0,0,0,0,0,4.9,6.8,13.7,28.0,False,2,3.0,4.0,-1.0
+Callum Hudson-Odoi,MID,Chelsea,Liverpool,90,0,0,1,0,10,0,0,0,0,0,0,5.3,19.4,12.9,21.0,True,2,3.0,4.0,-1.0
+Callum Hudson-Odoi,MID,Chelsea,Brighton,18,0,0,0,0,3,0,0,0,0,0,0,1.2,1.2,10.5,0.0,False,1,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Luton,15,0,0,1,0,5,0,0,0,0,0,0,2.2,5.2,11.3,5.0,False,1,3.0,2.0,1.0
+Callum Hudson-Odoi,MID,Chelsea,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,8.5,13.8,29.2,42.0,True,2,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Fulham,69,1,0,1,0,22,0,0,0,0,0,0,8.8,39.8,12.6,36.0,True,7,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Spurs,90,0,0,3,0,6,0,0,0,0,0,0,3.1,4.0,3.0,24.0,False,2,3.0,4.0,-1.0
+Callum Hudson-Odoi,MID,Chelsea,Wolves,90,0,0,2,0,7,0,0,0,0,0,0,7.1,11.8,29.6,30.0,True,2,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Everton,79,0,0,2,0,3,0,0,0,0,0,0,3.0,3.2,3.5,23.0,False,2,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Man City,90,0,0,2,0,14,0,0,0,0,0,0,6.0,10.2,35.3,14.0,True,2,3.0,5.0,-2.0
+Callum Hudson-Odoi,MID,Chelsea,Sheffield Utd,89,2,0,1,0,46,0,0,0,0,0,0,15.7,70.0,38.1,49.0,False,15,3.0,2.0,1.0
+Callum Hudson-Odoi,MID,Chelsea,Chelsea,85,1,0,3,0,27,0,0,0,0,0,0,12.0,41.2,45.3,33.0,True,7,3.0,3.0,0.0
+Callum Hudson-Odoi,MID,Chelsea,Burnley,87,0,0,1,0,13,0,0,0,0,0,0,3.3,9.8,16.8,6.0,False,2,3.0,2.0,1.0

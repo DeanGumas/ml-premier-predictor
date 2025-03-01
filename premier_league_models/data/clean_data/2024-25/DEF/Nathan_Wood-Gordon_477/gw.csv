@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Nathan Wood-Gordon,DEF,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Nathan Wood-Gordon,DEF,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Nathan Wood-Gordon,DEF,Southampton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Ipswich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Nathan Wood-Gordon,DEF,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Nathan Wood-Gordon,DEF,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Nathan Wood-Gordon,DEF,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Nathan Wood-Gordon,DEF,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Chelsea,90,0,0,5,0,-2,0,0,0,0,0,0,1.2,11.4,0.3,0.0,True,0,2.0,4.0,-2.0
+Nathan Wood-Gordon,DEF,Southampton,Aston Villa,90,0,0,1,0,12,1,0,0,0,0,0,2.8,26.4,1.5,0.0,False,1,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Spurs,75,0,0,2,0,2,0,0,0,0,0,0,2.0,2.2,10.7,7.0,True,1,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Fulham,90,0,0,0,1,29,0,0,0,0,0,0,2.5,24.0,0.8,0.0,False,8,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,West Ham,90,0,0,1,0,6,1,0,0,0,0,0,1.4,4.2,2.4,7.0,True,1,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Crystal Palace,90,0,0,2,0,4,0,0,0,0,0,0,2.1,19.6,1.0,0.0,False,1,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Brentford,45,0,0,1,0,0,0,0,0,0,0,0,0.7,4.8,2.2,0.0,True,1,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Man Utd,7,0,0,2,0,-5,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Nathan Wood-Gordon,DEF,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Nathan Wood-Gordon,DEF,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+João Pedro Ferreira Silva,MID,Nott'm Forest,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.2,0.0,0.0,False,1,4.0,2.0,2.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Wolves,1,0,0,0,0,1,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Liverpool,9,0,0,0,0,10,0,0,0,0,0,0,1.9,5.4,13.3,0.0,False,1,4.0,5.0,-1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Brighton,45,0,1,0,0,12,1,0,0,0,0,0,3.6,19.4,10.3,6.0,False,3,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Fulham,33,0,0,0,0,6,0,0,0,0,0,0,2.3,2.4,0.8,20.0,True,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Chelsea,24,0,0,0,0,2,0,0,0,0,0,0,3.8,10.4,10.3,17.0,False,1,4.0,4.0,0.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Crystal Palace,27,0,0,0,0,0,0,0,0,0,0,0,1.4,3.2,0.3,10.0,True,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Leicester,14,0,0,0,0,5,0,0,0,0,0,0,0.5,1.0,0.3,4.0,False,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,West Ham,27,0,0,0,0,3,0,0,0,0,0,0,0.6,1.2,0.8,4.0,True,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Newcastle,31,0,0,2,0,10,0,0,0,0,0,0,3.1,12.4,19.0,0.0,True,1,4.0,4.0,0.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Arsenal,45,0,0,2,0,3,0,0,0,0,0,0,0.7,0.4,1.3,5.0,False,1,4.0,4.0,0.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Ipswich,77,0,1,0,1,22,0,0,0,0,0,0,3.3,4.8,11.7,16.0,True,6,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Man City,71,0,0,3,0,7,0,0,0,0,0,0,2.6,1.8,22.9,1.0,False,2,4.0,4.0,0.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Man Utd,67,0,0,2,0,5,1,0,0,0,0,0,2.7,2.4,12.3,12.0,False,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Aston Villa,22,0,0,0,0,3,0,0,0,0,0,0,1.4,1.0,13.0,0.0,True,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Brentford,15,0,0,0,0,-4,1,0,0,0,0,0,0.0,0.0,0.5,0.0,False,0,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Spurs,8,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Everton,14,0,0,0,0,7,0,0,0,0,0,0,2.1,8.0,10.6,2.0,False,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Wolves,21,0,0,0,0,9,0,0,0,0,0,0,2.7,13.0,14.0,0.0,False,1,4.0,3.0,1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Liverpool,7,0,0,0,0,5,0,0,0,0,0,0,0.7,3.0,0.0,4.0,True,1,4.0,5.0,-1.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Southampton,52,0,0,2,0,5,0,0,0,0,0,0,3.6,3.4,12.8,20.0,True,1,4.0,2.0,2.0
+João Pedro Ferreira Silva,MID,Nott'm Forest,Bournemouth,65,0,0,3,0,10,1,0,0,0,0,0,2.0,10.2,0.4,9.0,False,1,4.0,4.0,0.0

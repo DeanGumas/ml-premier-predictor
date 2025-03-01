@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Luke Thomas,DEF,Leicester,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Luke Thomas,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Man Utd,90,0,0,1,0,13,0,0,0,0,0,0,1.6,13.8,2.1,0.0,True,2,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Brighton,90,0,0,5,0,4,1,0,1,0,0,0,0.6,4.8,1.3,0.0,False,-3,3.0,3.0,0.0
+Luke Thomas,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Wolves,2,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Luke Thomas,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,West Ham,90,0,0,0,1,25,0,0,0,0,0,0,1.2,11.0,1.3,0.0,False,6,3.0,3.0,0.0
+Luke Thomas,DEF,Leicester,Newcastle,90,0,0,3,0,22,0,0,0,0,0,0,4.0,18.2,19.9,2.0,True,1,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Liverpool,90,0,0,2,0,17,0,0,0,0,0,0,2.8,14.6,13.7,0.0,False,1,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Fulham,71,0,0,1,0,21,0,0,0,0,0,0,3.4,20.2,13.8,0.0,True,2,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Nott'm Forest,67,0,0,1,0,7,0,0,0,0,0,0,1.1,9.2,1.5,0.0,False,2,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Brighton,90,0,1,2,0,14,0,0,0,0,0,0,1.3,3.8,1.3,8.0,True,4,3.0,3.0,0.0
+Luke Thomas,DEF,Leicester,Aston Villa,9,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,False,1,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Luke Thomas,DEF,Leicester,Crystal Palace,30,0,0,1,0,8,0,0,0,0,0,0,1.1,10.4,0.3,0.0,False,1,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Man City,45,0,0,0,0,5,0,0,0,0,0,0,2.2,8.2,14.1,0.0,False,1,3.0,5.0,-2.0
+Luke Thomas,DEF,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Everton,87,0,0,2,0,7,1,0,0,0,0,0,3.7,22.8,12.3,2.0,True,0,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Fulham,14,0,0,0,0,5,0,0,0,0,0,0,1.2,6.8,5.1,0.0,False,1,3.0,2.0,1.0
+Luke Thomas,DEF,Leicester,Liverpool,23,0,0,1,0,2,1,0,0,0,0,0,0.8,6.8,1.3,0.0,True,0,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,Newcastle,90,0,0,0,1,19,0,0,0,0,0,0,1.3,11.2,1.4,0.0,False,6,3.0,4.0,-1.0
+Luke Thomas,DEF,Leicester,West Ham,90,0,0,1,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,3.0,3.0,0.0

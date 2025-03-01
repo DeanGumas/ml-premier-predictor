@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kai Havertz,MID,Arsenal,Nott'm Forest,90,0,0,1,0,11,0,0,0,0,0,0,5.5,9.4,30.3,15.0,True,2,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Crystal Palace,90,0,0,0,1,-1,1,0,0,0,0,0,1.9,0.0,13.8,6.0,False,2,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Fulham,55,0,0,1,0,2,0,0,0,0,0,0,4.2,5.4,23.6,13.0,True,1,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Man Utd,76,0,0,1,0,5,0,0,0,0,0,0,4.1,7.8,12.3,21.0,True,2,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Everton,10,0,0,0,0,4,0,0,0,0,0,0,0.5,2.4,0.3,2.0,False,1,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Spurs,45,0,0,1,0,-1,1,0,0,0,0,0,1.0,5.2,1.7,3.0,True,0,5.0,4.0,1.0
+Kai Havertz,MID,Arsenal,Bournemouth,80,1,0,0,1,18,1,0,0,0,0,0,6.9,39.6,3.5,26.0,False,7,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Man City,15,0,1,0,0,12,0,0,0,0,0,0,3.5,17.2,11.4,6.0,True,4,5.0,5.0,0.0
+Kai Havertz,MID,Arsenal,Chelsea,12,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.8,0.0,False,1,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Sheffield Utd,90,0,0,0,1,7,0,0,0,0,0,0,3.0,4.2,16.3,9.0,True,3,5.0,2.0,3.0
+Kai Havertz,MID,Arsenal,Newcastle,90,0,0,1,0,5,1,0,0,0,0,0,3.2,5.2,3.3,23.0,False,1,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Burnley,58,0,0,1,0,0,0,0,0,0,0,0,3.4,0.0,12.5,23.0,True,1,5.0,2.0,3.0
+Kai Havertz,MID,Arsenal,Brentford,11,1,0,0,0,22,0,0,0,0,0,0,7.3,36.8,1.2,35.0,False,6,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Wolves,12,0,0,1,0,3,0,0,0,0,0,0,0.2,1.4,0.5,0.0,True,1,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Luton,90,1,0,3,0,25,0,0,0,0,0,0,12.0,41.0,42.0,37.0,False,7,5.0,2.0,3.0
+Kai Havertz,MID,Arsenal,Aston Villa,90,0,0,1,0,6,0,0,0,0,0,0,5.2,8.6,22.3,21.0,False,2,5.0,4.0,1.0
+Kai Havertz,MID,Arsenal,Brighton,88,1,0,0,1,24,0,0,0,0,0,0,6.7,30.6,6.6,30.0,True,8,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Liverpool,90,0,0,1,0,2,1,0,0,0,0,0,1.6,2.2,5.3,8.0,False,1,5.0,4.0,1.0
+Kai Havertz,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Fulham,76,0,0,2,0,6,0,0,0,0,0,0,1.7,2.4,14.3,0.0,False,2,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Crystal Palace,68,0,0,0,1,5,0,0,0,0,0,0,1.2,5.8,2.3,4.0,True,3,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Nott'm Forest,19,0,0,1,0,4,0,0,0,0,0,0,1.8,5.6,10.6,2.0,False,1,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Liverpool,90,0,1,1,0,4,1,0,0,0,0,0,8.6,11.6,25.8,49.0,True,4,5.0,4.0,1.0
+Kai Havertz,MID,Arsenal,West Ham,90,0,0,0,1,13,0,0,0,0,0,0,7.9,14.8,37.8,26.0,False,3,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Burnley,83,1,1,0,1,38,0,0,0,0,0,0,8.8,40.6,11.8,36.0,False,12,5.0,2.0,3.0
+Kai Havertz,MID,Arsenal,Newcastle,75,1,1,0,1,31,0,0,0,0,0,0,9.5,47.4,14.8,33.0,True,14,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Sheffield Utd,90,1,1,0,1,41,0,0,0,0,0,0,16.1,62.6,48.8,50.0,False,14,5.0,2.0,3.0
+Kai Havertz,MID,Arsenal,Brentford,90,1,0,1,0,26,1,0,0,0,0,0,8.8,34.6,5.3,48.0,True,7,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Man City,90,0,0,0,1,2,0,0,0,0,0,0,4.1,7.4,0.8,33.0,False,3,5.0,5.0,0.0
+Kai Havertz,MID,Arsenal,Luton,65,0,1,0,1,14,1,0,0,0,0,0,6.3,18.4,14.9,30.0,True,5,5.0,2.0,3.0
+Kai Havertz,MID,Arsenal,Brighton,88,1,1,0,1,38,0,0,0,0,0,0,15.6,57.0,47.3,52.0,False,14,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Aston Villa,90,0,0,2,0,1,1,0,0,0,0,0,8.8,11.8,20.2,56.0,True,1,5.0,4.0,1.0
+Kai Havertz,MID,Arsenal,Wolves,90,0,0,0,1,10,0,0,0,0,0,0,9.7,13.2,27.5,56.0,False,3,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Chelsea,71,2,0,0,1,37,0,0,0,0,0,0,19.7,75.2,26.0,96.0,True,14,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Spurs,90,1,1,2,0,40,0,0,0,0,0,0,12.5,62.4,23.9,39.0,False,13,5.0,4.0,1.0
+Kai Havertz,MID,Arsenal,Bournemouth,90,0,1,0,1,23,1,0,0,0,0,0,10.6,20.4,35.3,50.0,True,5,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Man Utd,90,0,1,0,1,18,0,0,0,0,0,0,5.6,25.6,24.7,6.0,False,6,5.0,3.0,2.0
+Kai Havertz,MID,Arsenal,Everton,90,1,0,1,0,18,1,0,0,0,0,0,12.6,29.4,13.6,83.0,True,6,5.0,3.0,2.0

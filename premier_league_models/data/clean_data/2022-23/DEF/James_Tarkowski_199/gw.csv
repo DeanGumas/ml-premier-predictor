@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+James Tarkowski,DEF,Everton,Chelsea,90,0,0,1,0,12,0,0,0,0,0,0,7.8,30.4,13.7,34.0,True,2,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Aston Villa,90,0,0,2,0,19,0,0,0,0,0,0,6.3,18.2,20.8,24.0,False,1,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Nott'm Forest,90,0,0,1,0,9,0,0,0,0,0,0,1.9,16.8,0.6,2.0,True,2,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Brentford,90,0,0,1,0,18,0,0,0,0,0,0,6.2,40.0,0.8,21.0,False,2,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Leeds,90,0,0,1,0,16,0,0,0,0,0,0,3.0,17.6,10.0,2.0,False,2,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Liverpool,90,0,0,0,1,27,0,0,0,0,0,0,3.9,37.2,0.1,2.0,True,6,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,West Ham,90,0,0,0,1,30,0,0,0,0,0,0,5.1,48.0,3.4,0.0,True,8,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Southampton,90,0,0,1,0,12,0,0,0,0,0,0,2.4,20.0,0.2,4.0,False,2,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Man Utd,90,0,0,2,0,13,0,0,0,0,0,0,4.1,20.0,0.7,20.0,True,1,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Spurs,90,0,0,2,0,16,0,0,0,0,0,0,5.2,42.0,0.8,9.0,False,1,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Newcastle,90,0,0,1,0,8,1,0,0,0,0,0,2.0,19.4,0.2,0.0,False,1,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Crystal Palace,90,0,0,0,1,22,1,0,0,0,0,0,2.6,23.6,0.3,2.0,True,5,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Fulham,90,0,0,0,1,27,0,0,0,0,0,0,7.2,43.0,10.4,19.0,False,6,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Leicester,90,0,0,2,0,12,0,0,0,0,0,0,6.8,37.2,11.3,19.0,True,1,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Bournemouth,90,0,0,3,0,14,0,0,0,0,0,0,3.8,28.2,0.8,9.0,False,1,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Wolves,90,0,0,2,0,21,0,0,0,0,0,0,5.3,19.2,11.5,22.0,True,3,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Man City,90,0,0,1,0,11,1,0,0,0,0,0,3.2,32.0,0.3,0.0,False,1,2.0,5.0,-3.0
+James Tarkowski,DEF,Everton,Brighton,90,0,0,4,0,13,0,0,0,0,0,0,2.9,22.2,0.8,6.0,True,0,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Southampton,90,0,0,2,0,15,0,0,0,0,0,0,3.6,20.0,10.8,5.0,True,1,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,West Ham,90,0,0,2,0,13,1,0,0,0,0,0,3.4,29.8,2.0,2.0,False,0,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Arsenal,90,1,0,0,1,37,0,0,0,0,0,0,9.1,49.8,0.6,41.0,True,15,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Liverpool,90,0,0,2,0,12,0,0,0,0,0,0,3.3,21.4,0.4,11.0,False,1,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Leeds,90,0,0,0,1,28,0,0,0,0,0,0,9.6,31.0,20.9,44.0,True,8,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Aston Villa,90,0,0,2,0,11,0,0,0,0,0,0,2.2,8.8,3.6,10.0,True,1,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Arsenal,90,0,0,4,0,7,1,0,0,0,0,0,3.8,35.0,0.8,2.0,False,-1,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Nott'm Forest,90,0,0,2,0,8,1,0,0,0,0,0,3.0,25.2,0.9,4.0,False,0,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Brentford,90,0,0,0,1,28,0,0,0,0,0,0,3.1,24.2,0.3,6.0,True,8,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Chelsea,90,0,1,2,0,20,0,0,0,0,0,0,8.0,60.6,10.1,9.0,False,4,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Spurs,90,0,0,1,0,10,0,0,0,0,0,0,4.1,15.2,12.5,13.0,True,2,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Man Utd,90,0,0,2,0,13,0,0,0,0,0,0,2.7,6.0,10.8,10.0,False,1,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Fulham,90,0,0,3,0,18,0,0,0,0,0,0,5.1,31.4,11.3,8.0,True,1,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Crystal Palace,90,0,0,0,1,25,0,0,0,0,0,0,2.5,18.2,0.5,6.0,False,6,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Newcastle,90,0,0,4,0,12,0,0,0,0,0,0,2.6,23.6,0.5,2.0,True,0,2.0,4.0,-2.0
+James Tarkowski,DEF,Everton,Leicester,90,0,0,2,0,11,0,0,0,0,0,0,3.5,29.2,0.2,6.0,False,1,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Brighton,90,0,0,1,0,13,0,0,0,0,0,0,5.7,39.4,0.1,17.0,False,2,2.0,3.0,-1.0
+James Tarkowski,DEF,Everton,Man City,90,0,0,3,0,16,0,0,0,0,0,0,6.1,21.8,11.0,28.0,True,1,2.0,5.0,-3.0
+James Tarkowski,DEF,Everton,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,3.1,14.0,0.7,16.0,False,2,2.0,2.0,0.0
+James Tarkowski,DEF,Everton,Bournemouth,90,0,0,0,1,25,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,8,2.0,2.0,0.0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Aaron Wan-Bissaka,DEF,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Liverpool,4,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,True,1,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Nott'm Forest,90,0,0,0,1,25,0,0,0,0,0,0,5.4,14.4,28.0,12.0,True,6,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Wolves,90,0,0,0,1,29,0,0,0,0,0,0,3.4,19.2,12.3,2.0,False,9,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Bournemouth,68,0,0,0,1,22,0,0,0,0,0,0,2.5,8.6,12.0,4.0,True,6,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Man City,90,0,0,1,0,15,0,0,0,0,0,0,2.0,14.6,0.9,4.0,True,2,4.0,5.0,-1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Crystal Palace,90,0,0,1,0,17,0,0,0,0,0,0,4.7,22.6,22.6,2.0,False,2,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Arsenal,90,0,0,3,0,9,0,0,0,0,0,0,3.8,21.2,13.0,4.0,False,1,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Crystal Palace,86,0,0,1,0,17,0,0,0,0,0,0,1.8,11.2,4.4,2.0,True,2,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Leeds,17,0,0,0,0,4,0,0,0,0,0,0,0.4,4.0,0.3,0.0,False,1,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Leicester,21,0,0,0,0,7,0,0,0,0,0,0,1.8,6.4,12.0,0.0,True,1,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Southampton,90,0,0,0,1,23,0,0,0,0,0,0,2.7,20.2,0.9,6.0,True,6,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Everton,90,0,0,0,1,24,0,0,0,0,0,0,8.8,25.8,28.3,34.0,True,6,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Nott'm Forest,90,0,0,0,1,26,0,0,0,0,0,0,5.7,22.4,19.2,15.0,False,6,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Spurs,70,0,0,1,0,6,1,0,0,0,0,0,3.2,10.2,1.2,21.0,False,1,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,2.7,18.4,1.9,7.0,False,2,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,West Ham,86,0,0,1,0,10,1,0,0,0,0,0,5.7,18.6,34.6,4.0,False,1,4.0,3.0,1.0
+Aaron Wan-Bissaka,DEF,Man Utd,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,3.1,14.2,12.9,4.0,True,6,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Bournemouth,90,0,0,0,1,21,0,0,0,0,0,0,4.6,14.6,14.5,17.0,False,6,4.0,2.0,2.0
+Aaron Wan-Bissaka,DEF,Man Utd,Chelsea,90,0,0,1,0,13,0,0,0,0,0,0,2.9,20.8,2.9,5.0,True,2,4.0,4.0,0.0
+Aaron Wan-Bissaka,DEF,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

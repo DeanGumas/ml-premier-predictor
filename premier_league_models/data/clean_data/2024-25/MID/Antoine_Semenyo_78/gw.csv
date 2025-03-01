@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Antoine Semenyo,MID,Bournemouth,Nott'm Forest,90,1,0,1,0,25,0,0,0,0,0,0,9.9,39.0,6.7,53.0,False,8,4.0,4.0,0.0
+Antoine Semenyo,MID,Bournemouth,Newcastle,90,0,1,1,0,20,0,0,0,0,0,0,9.8,26.0,33.9,38.0,True,5,4.0,4.0,0.0
+Antoine Semenyo,MID,Bournemouth,Everton,90,1,0,2,0,23,1,0,0,0,0,0,11.5,40.4,15.8,59.0,False,6,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Chelsea,90,0,0,1,0,4,1,0,0,0,0,0,1.2,0.0,2.3,13.0,True,1,4.0,4.0,0.0
+Antoine Semenyo,MID,Bournemouth,Liverpool,69,0,0,3,0,9,0,0,0,0,0,0,5.1,8.6,3.2,39.0,False,2,4.0,5.0,-1.0
+Antoine Semenyo,MID,Bournemouth,Southampton,88,1,0,1,0,24,0,0,0,0,0,0,9.4,39.8,23.6,31.0,True,7,4.0,2.0,2.0
+Antoine Semenyo,MID,Bournemouth,Leicester,90,0,0,1,0,13,0,0,0,0,0,0,5.2,13.2,15.0,24.0,False,2,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Arsenal,90,0,0,0,1,-1,1,0,0,0,0,0,6.4,9.4,22.0,33.0,True,2,4.0,4.0,0.0
+Antoine Semenyo,MID,Bournemouth,Aston Villa,90,0,0,1,0,6,1,0,0,0,0,0,4.2,4.4,23.6,14.0,False,1,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Man City,90,1,0,1,0,50,0,0,0,0,0,0,14.8,59.0,40.6,48.0,True,10,4.0,4.0,0.0
+Antoine Semenyo,MID,Bournemouth,Brentford,90,0,0,3,0,12,0,0,0,0,0,0,5.4,7.4,3.8,43.0,False,2,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Brighton,90,0,0,2,0,8,1,0,0,0,0,0,5.3,0.0,19.6,36.0,True,1,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Spurs,84,0,0,0,1,7,0,0,0,0,0,0,5.2,9.8,36.4,6.0,True,3,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Ipswich,90,0,0,1,0,13,0,0,0,0,0,0,9.7,25.2,29.1,43.0,False,2,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,West Ham,67,0,0,0,1,8,0,0,0,0,0,0,7.8,8.8,12.9,56.0,True,3,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Man Utd,88,1,0,0,1,27,0,0,0,0,0,0,7.0,37.0,2.9,30.0,False,8,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Crystal Palace,90,0,0,0,1,2,0,0,0,0,0,0,3.6,0.0,4.1,32.0,True,3,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Fulham,90,0,1,2,0,19,0,0,0,0,0,0,8.2,29.8,20.4,32.0,False,5,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Everton,90,0,0,0,1,10,0,0,0,0,0,0,9.9,13.2,19.7,66.0,True,3,4.0,3.0,1.0
+Antoine Semenyo,MID,Bournemouth,Chelsea,90,1,1,2,0,33,0,0,0,0,0,0,6.3,37.6,2.8,23.0,False,12,4.0,4.0,0.0
+Antoine Semenyo,MID,Bournemouth,Newcastle,90,0,1,1,0,20,0,0,0,0,0,0,7.4,24.4,28.8,21.0,False,5,4.0,4.0,0.0
+Antoine Semenyo,MID,Bournemouth,Nott'm Forest,90,1,0,0,1,38,0,0,0,0,0,0,15.9,57.4,39.5,62.0,True,9,4.0,4.0,0.0

@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Declan Rice,MID,Arsenal,Wolves,84,0,0,0,1,9,0,0,0,0,0,0,2.8,6.6,13.4,8.0,True,3,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Aston Villa,90,0,0,0,1,18,1,0,0,0,0,0,5.2,18.8,12.3,21.0,False,2,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Brighton,48,0,0,1,0,-10,0,1,0,0,0,0,0.1,0.0,1.7,6.0,True,-2,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Man City,90,0,0,2,0,2,1,0,0,0,0,0,2.0,16.6,1.0,2.0,False,1,4.0,4.0,0.0
+Declan Rice,MID,Arsenal,Leicester,90,0,0,2,0,22,0,0,0,0,0,0,6.6,15.4,29.3,21.0,True,2,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Southampton,90,0,0,1,0,15,0,0,0,0,0,0,7.9,15.4,54.2,9.0,True,2,4.0,2.0,2.0
+Declan Rice,MID,Arsenal,Bournemouth,90,0,0,2,0,20,0,0,0,0,0,0,6.1,21.6,35.8,4.0,False,2,4.0,4.0,0.0
+Declan Rice,MID,Arsenal,Liverpool,90,0,1,2,0,26,0,0,0,0,0,0,7.2,34.8,35.2,2.0,True,5,4.0,5.0,-1.0
+Declan Rice,MID,Arsenal,Newcastle,90,0,0,1,0,9,0,0,0,0,0,0,7.3,18.0,40.8,14.0,False,2,4.0,4.0,0.0
+Declan Rice,MID,Arsenal,Chelsea,70,0,0,1,0,11,0,0,0,0,0,0,1.7,9.0,5.7,2.0,False,2,4.0,4.0,0.0
+Declan Rice,MID,Arsenal,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Declan Rice,MID,Arsenal,West Ham,90,0,0,2,0,14,0,0,0,0,0,0,5.9,16.8,39.9,2.0,False,2,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Man Utd,90,0,1,0,1,33,0,0,0,0,0,0,8.6,31.8,47.1,7.0,True,7,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Fulham,90,0,0,1,0,21,1,0,0,0,0,0,7.3,10.4,46.3,16.0,False,2,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Everton,61,0,0,0,1,16,0,0,0,0,0,0,3.1,12.0,16.8,2.0,True,3,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Crystal Palace,32,1,1,0,0,40,0,0,0,0,0,0,10.5,63.2,19.9,22.0,False,11,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Ipswich,86,0,0,0,1,19,0,0,0,0,0,0,4.7,16.6,24.6,6.0,True,3,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Brentford,12,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.2,0.0,False,1,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Brighton,90,0,0,1,0,28,0,0,0,0,0,0,8.2,15.4,57.7,9.0,False,4,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Spurs,86,0,0,1,0,18,0,0,0,0,0,0,4.1,10.6,17.8,13.0,True,2,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Aston Villa,90,0,0,2,0,17,0,0,0,0,0,0,5.0,15.2,27.4,7.0,True,2,4.0,3.0,1.0
+Declan Rice,MID,Arsenal,Wolves,90,0,0,0,1,19,0,0,0,0,0,0,9.1,23.0,44.8,23.0,False,3,4.0,3.0,1.0

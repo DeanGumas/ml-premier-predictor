@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Dominic Calvert-Lewin,FWD,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Aston Villa,37,0,0,2,0,1,0,0,0,0,0,0,0.3,0.0,1.6,4.0,False,1,3.0,4.0,-1.0
+Dominic Calvert-Lewin,FWD,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Dominic Calvert-Lewin,FWD,Everton,Arsenal,24,0,0,1,0,4,0,0,0,0,0,0,1.7,1.0,10.3,6.0,True,1,3.0,5.0,-2.0
+Dominic Calvert-Lewin,FWD,Everton,Brentford,27,1,0,0,0,25,0,0,0,0,0,0,5.9,39.2,0.3,19.0,False,5,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Luton,90,1,0,2,0,17,0,0,0,0,0,0,10.8,32.4,5.8,70.0,True,6,3.0,2.0,1.0
+Dominic Calvert-Lewin,FWD,Everton,Bournemouth,82,0,0,0,1,-1,0,0,0,0,0,0,2.0,0.0,2.3,23.0,True,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Liverpool,60,0,0,0,1,10,0,0,0,0,0,0,3.9,9.2,10.3,19.0,False,2,3.0,4.0,-1.0
+Dominic Calvert-Lewin,FWD,Everton,West Ham,88,1,0,0,1,32,0,0,0,0,0,0,7.7,36.2,14.1,27.0,False,9,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Brighton,89,0,0,1,0,5,0,0,0,0,0,0,0.7,0.0,3.1,5.0,True,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Crystal Palace,76,0,0,2,0,3,0,0,0,0,0,0,1.9,0.0,11.1,8.0,False,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Man Utd,81,0,0,3,0,0,0,0,0,0,0,0,7.0,10.2,0.8,59.0,True,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Newcastle,84,0,0,0,1,-6,1,0,0,0,0,0,13.2,6.2,13.1,113.0,True,1,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Chelsea,66,0,1,0,1,10,0,0,0,0,0,0,2.6,4.4,2.9,19.0,True,5,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Burnley,81,0,0,0,1,1,0,0,0,0,0,0,3.0,7.2,3.3,19.0,False,2,3.0,2.0,1.0
+Dominic Calvert-Lewin,FWD,Everton,Spurs,90,0,0,2,0,-4,0,0,0,0,0,0,4.9,4.2,11.1,34.0,False,2,3.0,4.0,-1.0
+Dominic Calvert-Lewin,FWD,Everton,Man City,25,0,0,1,0,-1,0,0,0,0,0,0,0.3,0.0,0.8,4.0,True,1,3.0,5.0,-2.0
+Dominic Calvert-Lewin,FWD,Everton,Wolves,73,0,0,3,0,3,0,0,0,0,0,0,6.0,7.2,44.0,9.0,False,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Aston Villa,62,0,0,0,1,0,0,0,0,0,0,0,2.7,3.4,0.4,23.0,True,2,3.0,4.0,-1.0
+Dominic Calvert-Lewin,FWD,Everton,Fulham,80,0,0,0,1,3,0,0,0,0,0,0,4.7,0.0,22.0,26.0,False,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Spurs,84,0,1,2,0,10,0,0,0,0,0,0,5.7,14.4,11.6,31.0,True,5,3.0,4.0,-1.0
+Dominic Calvert-Lewin,FWD,Everton,Man City,77,0,0,1,0,4,0,0,0,0,0,0,0.8,5.2,0.6,2.0,False,2,3.0,5.0,-2.0
+Dominic Calvert-Lewin,FWD,Everton,Crystal Palace,90,0,0,1,0,2,0,0,0,0,0,0,3.8,4.2,14.3,19.0,True,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Brighton,67,0,0,0,1,9,0,0,0,0,0,0,1.4,9.6,0.5,4.0,False,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,West Ham,16,0,0,2,0,4,0,0,0,0,0,0,3.9,5.6,11.3,22.0,True,1,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Man Utd,29,0,0,0,0,1,0,0,0,0,0,0,2.2,2.4,0.8,19.0,False,1,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Bournemouth,90,0,0,2,0,1,0,0,0,0,0,0,4.4,7.2,2.3,34.0,False,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Newcastle,29,1,0,0,0,23,0,0,0,0,0,0,6.8,31.2,10.0,27.0,False,6,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Burnley,82,1,0,0,1,29,0,0,0,0,0,0,10.2,44.8,10.6,47.0,True,9,3.0,2.0,1.0
+Dominic Calvert-Lewin,FWD,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Nott'm Forest,66,0,0,0,1,2,0,0,0,0,0,0,3.1,4.0,2.6,24.0,True,2,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Liverpool,90,1,0,0,1,24,0,0,0,0,0,0,12.0,46.2,2.1,72.0,True,6,3.0,4.0,-1.0
+Dominic Calvert-Lewin,FWD,Everton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Dominic Calvert-Lewin,FWD,Everton,Luton,79,1,0,1,0,27,0,0,0,0,0,0,9.5,36.0,4.6,54.0,False,8,3.0,2.0,1.0
+Dominic Calvert-Lewin,FWD,Everton,Sheffield Utd,78,0,1,0,1,21,1,0,0,0,0,0,8.8,31.4,26.3,30.0,True,4,3.0,2.0,1.0
+Dominic Calvert-Lewin,FWD,Everton,Arsenal,74,0,0,1,0,0,0,0,0,0,0,0,2.9,0.0,0.7,29.0,False,2,3.0,5.0,-2.0

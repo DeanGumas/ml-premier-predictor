@@ -1,0 +1,24 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Flynn Downes,MID,Southampton,Newcastle,90,0,0,1,0,12,0,0,0,0,0,0,7.0,19.4,43.3,7.0,False,2,2.0,4.0,-2.0
+Flynn Downes,MID,Southampton,Nott'm Forest,90,0,0,1,0,13,1,0,0,0,0,0,3.5,17.6,14.9,2.0,True,1,2.0,4.0,-2.0
+Flynn Downes,MID,Southampton,Brentford,90,0,0,3,0,22,0,0,0,0,0,0,6.7,18.0,44.0,5.0,False,2,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Man Utd,90,0,0,3,0,8,0,0,0,0,0,0,2.3,8.8,8.5,6.0,True,2,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Ipswich,90,0,0,1,0,18,1,0,0,0,0,0,3.1,8.6,18.4,4.0,True,1,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Bournemouth,90,0,0,3,0,13,1,0,0,0,0,0,4.0,9.4,30.7,0.0,False,1,2.0,4.0,-2.0
+Flynn Downes,MID,Southampton,Arsenal,90,0,0,3,0,9,0,0,0,0,0,0,2.3,7.2,13.9,2.0,False,2,2.0,4.0,-2.0
+Flynn Downes,MID,Southampton,Leicester,90,0,0,3,0,15,0,0,0,0,0,0,5.5,14.8,5.1,35.0,True,2,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Man City,86,0,0,1,0,9,1,0,0,0,0,0,1.4,9.4,4.6,0.0,False,1,2.0,4.0,-2.0
+Flynn Downes,MID,Southampton,Everton,90,0,0,0,1,12,0,0,0,0,0,0,3.3,12.6,20.2,0.0,True,3,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Liverpool,90,0,0,3,0,14,0,0,0,0,0,0,2.7,9.8,0.2,17.0,True,2,2.0,5.0,-3.0
+Flynn Downes,MID,Southampton,Brighton,65,1,0,1,0,19,1,0,0,0,0,0,5.3,33.2,2.6,17.0,False,6,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Flynn Downes,MID,Southampton,Aston Villa,78,0,0,1,0,9,1,0,0,0,0,0,1.9,4.8,12.0,2.0,False,1,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Spurs,90,0,0,5,0,12,0,0,0,0,0,0,1.1,5.2,1.8,4.0,True,2,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Fulham,90,0,0,0,1,12,1,0,0,0,0,0,1.7,13.6,3.3,0.0,False,2,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,West Ham,60,0,0,1,0,9,0,0,0,0,0,0,0.4,1.4,1.5,1.0,True,2,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Man Utd,17,0,0,3,0,1,1,0,0,0,0,0,0.5,2.4,0.3,2.0,False,0,2.0,3.0,-1.0
+Flynn Downes,MID,Southampton,Nott'm Forest,45,0,0,3,0,7,1,0,0,0,0,0,1.2,3.2,3.4,5.0,False,0,2.0,4.0,-2.0
+Flynn Downes,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

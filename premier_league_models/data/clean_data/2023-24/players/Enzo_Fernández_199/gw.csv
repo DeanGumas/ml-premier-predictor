@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Enzo Fernández,MID,Chelsea,Liverpool,90,0,0,1,0,18,1,0,0,0,0,0,6.7,19.8,38.5,9.0,True,1,3.0,4.0,-1.0
+Enzo Fernández,MID,Chelsea,West Ham,90,0,0,3,0,9,0,0,0,0,1,0,11.5,23.0,69.7,22.0,False,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Luton,90,0,0,0,1,1,1,0,0,0,0,0,5.4,0.0,38.5,18.0,True,2,3.0,2.0,1.0
+Enzo Fernández,MID,Chelsea,Nott'm Forest,90,0,0,1,0,14,0,0,0,0,0,0,8.1,22.8,46.6,12.0,True,2,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Bournemouth,80,0,0,0,1,10,0,0,0,0,0,0,2.5,8.6,7.3,9.0,False,3,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Aston Villa,67,0,0,0,1,6,0,0,0,0,0,0,1.8,7.8,3.7,6.0,True,3,3.0,4.0,-1.0
+Enzo Fernández,MID,Chelsea,Fulham,90,0,0,0,1,14,0,0,0,0,0,0,5.6,21.2,14.9,20.0,False,3,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Burnley,90,0,0,1,0,11,1,0,0,0,0,0,5.5,18.2,11.9,25.0,False,1,3.0,2.0,1.0
+Enzo Fernández,MID,Chelsea,Arsenal,90,0,0,2,0,10,0,0,0,0,0,0,4.4,14.4,17.3,12.0,True,2,3.0,5.0,-2.0
+Enzo Fernández,MID,Chelsea,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Spurs,57,0,1,1,0,12,0,0,0,0,0,0,2.5,9.2,11.5,4.0,False,4,3.0,4.0,-1.0
+Enzo Fernández,MID,Chelsea,Man City,63,0,0,3,0,13,0,0,0,0,0,0,1.0,6.4,1.3,2.0,True,2,3.0,5.0,-2.0
+Enzo Fernández,MID,Chelsea,Newcastle,90,0,0,4,0,12,0,0,0,0,0,0,3.7,13.0,6.6,17.0,False,2,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Brighton,90,2,0,2,0,44,1,0,0,0,0,0,13.2,71.8,2.0,58.0,True,14,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Man Utd,90,0,0,2,0,7,0,0,0,0,0,0,2.6,7.6,2.2,16.0,False,2,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Everton,65,0,0,1,0,13,0,0,0,0,0,0,3.6,11.6,6.5,18.0,False,2,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Sheffield Utd,21,0,0,0,0,3,0,0,0,0,0,0,0.4,0.6,3.0,0.0,True,1,3.0,2.0,1.0
+Enzo Fernández,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Luton,9,0,0,1,0,2,0,0,0,0,0,0,0.4,0.0,0.3,4.0,False,1,3.0,2.0,1.0
+Enzo Fernández,MID,Chelsea,Fulham,90,0,0,0,1,17,1,0,0,0,0,0,9.5,29.2,48.0,18.0,True,2,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Liverpool,90,0,0,4,0,6,1,0,0,0,0,0,3.3,19.8,6.6,7.0,False,1,3.0,4.0,-1.0
+Enzo Fernández,MID,Chelsea,Wolves,90,0,0,4,0,14,0,0,0,0,0,0,5.5,22.4,29.2,3.0,True,2,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Crystal Palace,90,1,0,1,0,29,0,0,0,0,0,0,8.0,48.0,11.3,21.0,False,8,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Man City,90,0,0,1,0,11,0,0,0,0,0,0,5.7,35.4,15.1,6.0,False,2,3.0,5.0,-2.0
+Enzo Fernández,MID,Chelsea,Brentford,70,0,0,2,0,19,0,0,0,0,0,0,7.9,14.4,57.6,7.0,False,2,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Newcastle,90,0,1,2,0,23,0,0,0,0,0,0,4.9,35.0,13.3,1.0,True,5,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Burnley,90,0,0,2,0,19,0,0,0,0,0,0,7.8,22.8,30.7,24.0,True,2,3.0,2.0,1.0
+Enzo Fernández,MID,Chelsea,Man Utd,90,0,1,3,0,20,1,0,0,0,0,0,8.5,28.6,34.6,22.0,True,4,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Sheffield Utd,90,0,0,2,0,7,0,0,0,0,0,0,5.1,13.2,34.1,4.0,False,2,3.0,2.0,1.0
+Enzo Fernández,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Arsenal,66,0,0,4,0,5,0,0,0,0,0,0,1.2,2.4,5.4,4.0,False,2,3.0,5.0,-2.0
+Enzo Fernández,MID,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Enzo Fernández,MID,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Enzo Fernández,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Enzo Fernández,MID,Chelsea,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

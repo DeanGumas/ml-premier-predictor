@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Alex Oxlade-Chamberlain,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Nott'm Forest,14,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Southampton,15,0,0,0,0,2,0,0,0,0,0,0,1.2,1.4,10.3,0.0,True,1,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Aston Villa,66,0,0,1,0,3,0,0,0,0,0,0,2.3,2.8,14.3,6.0,False,2,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Leicester,61,0,0,1,0,10,0,0,0,0,0,0,2.9,11.2,11.6,6.0,True,2,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Brentford,82,1,0,2,0,29,0,0,0,0,0,0,10.6,44.2,24.2,38.0,False,9,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Brighton,68,0,0,2,0,3,0,0,0,0,0,0,3.9,7.4,4.0,28.0,False,2,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Wolves,5,0,0,0,0,1,0,0,0,0,0,0,0.4,0.0,1.6,2.0,False,1,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Man City,20,0,0,1,0,3,0,0,0,0,0,0,1.0,5.4,0.3,4.0,False,1,4.0,5.0,-1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Alex Oxlade-Chamberlain,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

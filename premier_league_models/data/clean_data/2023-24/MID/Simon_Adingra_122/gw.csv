@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Simon Adingra,MID,Brighton,Luton,16,1,0,1,0,20,0,0,0,0,0,0,6.9,33.0,1.3,35.0,True,6,3.0,2.0,1.0
+Simon Adingra,MID,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,West Ham,18,0,0,0,0,5,0,0,0,0,0,0,2.9,9.0,11.8,8.0,True,1,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Newcastle,1,0,0,1,0,3,0,0,0,0,0,0,0.9,0.0,1.6,7.0,True,1,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Man Utd,84,0,1,1,0,21,0,0,0,0,0,0,5.4,28.2,24.0,2.0,False,5,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Bournemouth,87,0,0,1,0,8,0,0,0,0,0,0,3.6,7.0,27.1,2.0,True,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Aston Villa,28,0,0,3,0,-2,0,0,0,0,0,0,1.2,2.2,0.8,9.0,False,1,3.0,4.0,-1.0
+Simon Adingra,MID,Brighton,Liverpool,90,1,0,2,0,23,0,0,0,0,0,0,8.0,48.4,3.9,28.0,True,7,3.0,4.0,-1.0
+Simon Adingra,MID,Brighton,Man City,90,0,0,2,0,6,0,0,0,0,0,0,2.1,5.0,16.2,0.0,False,2,3.0,5.0,-2.0
+Simon Adingra,MID,Brighton,Fulham,70,0,0,1,0,3,0,0,0,0,0,0,4.5,6.8,2.6,36.0,True,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Everton,89,0,0,1,0,11,0,0,0,0,0,0,1.9,1.0,5.3,13.0,False,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Sheffield Utd,90,1,0,1,0,25,1,0,0,0,0,0,9.6,48.0,14.8,33.0,True,9,3.0,2.0,1.0
+Simon Adingra,MID,Brighton,Nott'm Forest,90,0,0,2,0,12,1,0,0,0,0,0,2.2,8.0,14.0,0.0,False,1,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Chelsea,90,0,0,3,0,10,0,0,0,0,0,0,11.4,11.4,64.0,39.0,False,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Brentford,83,0,0,1,0,9,0,0,0,0,0,0,6.8,12.2,27.1,29.0,True,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Burnley,90,1,0,1,0,31,0,0,0,0,0,0,17.6,48.8,49.7,77.0,True,10,3.0,2.0,1.0
+Simon Adingra,MID,Brighton,Arsenal,78,0,0,1,0,4,0,0,0,0,0,0,0.9,2.8,2.3,4.0,False,2,3.0,5.0,-2.0
+Simon Adingra,MID,Brighton,Crystal Palace,45,0,0,1,0,2,0,0,0,0,0,0,3.3,5.0,5.4,23.0,False,1,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Simon Adingra,MID,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Luton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Simon Adingra,MID,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Simon Adingra,MID,Brighton,Sheffield Utd,90,2,0,0,1,39,0,0,0,0,0,0,16.2,74.2,8.3,79.0,False,15,3.0,2.0,1.0
+Simon Adingra,MID,Brighton,Everton,90,0,0,1,0,7,0,0,0,0,0,0,5.1,0.8,10.3,40.0,True,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Fulham,45,0,0,1,0,3,0,0,0,0,0,0,3.3,8.4,16.3,8.0,False,1,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Nott'm Forest,79,0,0,0,1,6,0,0,0,0,0,0,4.8,5.2,12.9,30.0,True,3,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Liverpool,82,0,0,2,0,6,0,0,0,0,0,0,2.6,7.2,12.3,6.0,False,2,3.0,4.0,-1.0
+Simon Adingra,MID,Brighton,Brentford,73,0,0,0,1,20,0,0,0,0,0,0,6.3,13.8,40.8,8.0,False,3,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Arsenal,90,0,0,3,0,7,0,0,0,0,0,0,3.3,12.0,3.7,17.0,True,2,3.0,5.0,-2.0
+Simon Adingra,MID,Brighton,Burnley,76,0,0,1,0,5,0,0,0,0,0,0,10.1,17.6,15.6,68.0,False,2,3.0,2.0,1.0
+Simon Adingra,MID,Brighton,Man City,45,0,0,1,0,-3,0,0,0,0,0,0,0.9,0.0,0.8,10.0,True,1,3.0,5.0,-2.0
+Simon Adingra,MID,Brighton,Bournemouth,65,0,0,2,0,4,0,0,0,0,0,0,2.3,5.6,3.7,14.0,False,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Aston Villa,90,0,0,0,1,18,1,0,0,0,0,0,16.1,28.6,64.1,68.0,True,2,3.0,4.0,-1.0
+Simon Adingra,MID,Brighton,Newcastle,86,0,0,1,0,17,0,0,0,0,0,0,5.5,16.6,23.3,15.0,False,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Chelsea,90,0,0,2,0,3,0,0,0,0,0,0,4.6,3.8,7.5,35.0,True,2,3.0,3.0,0.0
+Simon Adingra,MID,Brighton,Man Utd,80,0,0,1,0,7,0,0,0,0,0,0,3.1,7.0,16.3,8.0,True,2,3.0,3.0,0.0

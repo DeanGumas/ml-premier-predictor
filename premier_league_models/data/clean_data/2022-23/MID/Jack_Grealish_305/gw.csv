@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Grealish,MID,Man City,West Ham,90,0,0,0,1,19,0,0,0,0,0,0,5.0,7.2,29.2,14.0,False,3,5.0,3.0,2.0
+Jack Grealish,MID,Man City,Bournemouth,45,0,0,0,0,5,0,0,0,0,0,0,3.5,6.0,25.2,4.0,True,1,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Wolves,76,1,0,0,1,38,0,0,0,0,0,0,11.3,44.8,28.1,40.0,False,10,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Man Utd,74,0,0,1,0,15,0,0,0,0,0,0,8.5,10.8,34.4,40.0,True,2,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Southampton,32,0,0,0,0,4,0,0,0,0,0,0,5.6,11.6,25.7,19.0,True,1,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Brighton,76,0,0,1,0,4,0,0,0,0,0,0,2.0,1.8,13.7,4.0,True,2,5.0,3.0,2.0
+Jack Grealish,MID,Man City,Leicester,90,0,1,0,1,19,0,0,0,0,0,0,5.6,8.6,43.8,4.0,False,6,5.0,3.0,2.0
+Jack Grealish,MID,Man City,Fulham,63,0,0,1,0,5,0,0,0,0,0,0,2.9,0.0,6.1,26.0,True,2,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Jack Grealish,MID,Man City,Leeds,72,0,2,0,1,27,0,0,0,0,0,0,12.3,31.6,34.8,57.0,False,9,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Everton,86,0,0,1,0,10,0,0,0,0,0,0,5.3,2.2,9.2,42.0,True,2,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Chelsea,30,0,1,0,0,18,0,0,0,0,0,0,4.0,22.0,11.5,6.0,False,4,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Man Utd,33,1,0,2,0,17,0,0,0,0,0,0,6.9,33.4,2.3,33.0,False,6,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Spurs,90,0,0,2,0,12,0,0,0,0,0,0,7.6,11.8,46.4,18.0,True,2,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Wolves,90,0,0,0,1,14,0,0,0,0,0,0,7.9,15.4,30.3,33.0,True,3,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Spurs,90,0,0,1,0,10,1,0,0,0,0,0,5.3,9.2,23.9,20.0,False,1,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Aston Villa,68,0,1,1,0,17,0,0,0,0,0,0,5.5,4.6,16.9,33.0,True,5,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Arsenal,76,1,0,1,0,30,1,0,0,0,0,0,7.0,38.4,12.6,19.0,False,8,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Nott'm Forest,90,0,1,1,0,20,0,0,0,0,0,0,10.8,27.0,55.6,25.0,False,5,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Bournemouth,71,0,0,0,1,18,0,0,0,0,0,0,2.8,15.2,3.8,9.0,False,3,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Newcastle,90,0,0,0,1,17,0,0,0,0,0,0,6.7,14.0,41.8,11.0,True,3,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Crystal Palace,90,0,0,0,1,15,0,0,0,0,0,0,5.4,13.6,35.8,5.0,False,3,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Liverpool,88,1,1,1,0,44,0,0,0,0,0,0,14.3,57.0,22.8,63.0,True,12,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Southampton,90,1,1,1,0,41,0,0,0,0,0,0,15.8,62.0,31.2,65.0,False,12,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Leicester,73,0,1,0,1,22,0,0,0,0,0,0,2.7,6.8,7.5,13.0,True,7,5.0,3.0,2.0
+Jack Grealish,MID,Man City,Arsenal,86,0,0,1,0,10,1,0,0,0,0,0,6.1,12.4,42.2,6.0,True,1,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Fulham,90,0,0,1,0,10,1,0,0,0,0,0,10.4,20.4,26.9,57.0,False,1,5.0,2.0,3.0
+Jack Grealish,MID,Man City,West Ham,90,0,1,0,1,29,0,0,0,0,0,0,10.3,27.0,58.8,17.0,True,6,5.0,3.0,2.0
+Jack Grealish,MID,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Everton,12,0,0,0,0,0,0,0,0,0,0,0,0.2,1.0,0.8,0.0,False,1,5.0,2.0,3.0
+Jack Grealish,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Jack Grealish,MID,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Jack Grealish,MID,Man City,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0

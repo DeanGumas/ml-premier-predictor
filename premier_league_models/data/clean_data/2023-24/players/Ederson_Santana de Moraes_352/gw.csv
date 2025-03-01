@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ederson Santana de Moraes,GK,Man City,Burnley,90,0,0,0,1,27,0,0,0,1,0,0,1.8,18.4,0.0,0.0,False,6,5.0,2.0,3.0
+Ederson Santana de Moraes,GK,Man City,Newcastle,90,0,0,0,1,25,0,0,0,1,0,0,2.3,12.8,10.0,0.0,True,6,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Sheffield Utd,90,0,0,1,0,7,0,0,0,0,0,0,0.4,4.4,0.0,0.0,False,2,5.0,2.0,3.0
+Ederson Santana de Moraes,GK,Man City,Fulham,90,0,0,1,0,17,0,0,0,3,0,0,3.1,31.4,0.0,0.0,True,3,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,West Ham,90,0,0,1,0,12,0,0,0,2,0,0,1.6,16.2,0.0,0.0,False,2,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Nott'm Forest,90,0,0,0,1,23,1,0,0,3,0,0,2.3,23.2,0.0,0.0,True,6,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Wolves,90,0,0,2,0,7,0,0,0,0,0,0,0.2,2.4,0.0,0.0,False,1,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Arsenal,90,0,0,1,0,11,1,0,0,1,0,0,1.5,15.4,0.0,0.0,False,1,5.0,5.0,0.0
+Ederson Santana de Moraes,GK,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Man Utd,90,0,0,0,1,27,0,0,0,3,0,0,2.6,26.0,0.0,0.0,False,7,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Bournemouth,90,0,0,1,0,12,0,0,0,0,0,0,0.8,8.0,0.0,0.0,True,2,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Chelsea,90,0,0,4,0,24,0,0,0,5,0,0,3.3,33.2,0.0,0.0,False,1,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Liverpool,90,0,0,1,0,19,0,0,0,2,0,0,2.8,27.6,0.0,0.0,True,2,5.0,4.0,1.0
+Ederson Santana de Moraes,GK,Man City,Spurs,90,0,0,3,0,13,0,0,0,1,0,0,1.1,10.8,0.0,0.0,True,1,5.0,4.0,1.0
+Ederson Santana de Moraes,GK,Man City,Aston Villa,90,0,0,1,0,23,0,0,0,6,0,0,4.6,45.6,0.0,0.0,False,4,5.0,4.0,1.0
+Ederson Santana de Moraes,GK,Man City,Luton,90,0,0,1,0,10,0,0,0,1,0,0,0.8,8.0,0.0,0.0,False,2,5.0,2.0,3.0
+Ederson Santana de Moraes,GK,Man City,Crystal Palace,90,0,0,2,0,4,1,0,0,0,0,0,0.1,1.4,0.0,0.0,True,0,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Everton,90,0,0,1,0,19,0,0,0,1,0,0,1.6,15.6,0.0,0.0,False,2,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Sheffield Utd,90,0,0,0,1,24,0,0,0,2,0,0,2.0,19.8,0.0,0.0,True,6,5.0,2.0,3.0
+Ederson Santana de Moraes,GK,Man City,Newcastle,7,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Burnley,90,0,0,1,0,15,1,0,0,2,0,0,1.3,13.0,0.0,0.0,True,1,5.0,2.0,3.0
+Ederson Santana de Moraes,GK,Man City,Brentford,90,0,0,1,0,10,0,0,0,1,0,0,1.2,11.8,0.0,0.0,False,2,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Everton,90,0,0,0,1,28,0,0,0,1,0,0,1.8,17.6,0.0,0.0,True,7,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Chelsea,90,0,0,1,0,23,0,0,0,5,0,0,4.1,41.2,0.0,0.0,True,5,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Brentford,90,0,0,0,1,24,0,0,0,2,0,0,1.9,19.2,0.0,0.0,True,6,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Bournemouth,90,0,0,0,1,33,0,0,0,4,0,0,2.7,27.0,0.0,0.0,False,9,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Man Utd,90,0,0,1,0,9,0,0,0,0,0,0,0.5,5.2,0.0,0.0,True,2,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Liverpool,55,0,0,1,0,1,1,0,0,1,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Ederson Santana de Moraes,GK,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,5.0,0.0
+Ederson Santana de Moraes,GK,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Ederson Santana de Moraes,GK,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Luton,90,0,0,1,0,14,0,0,0,1,0,0,1.3,13.4,0.0,0.0,True,2,5.0,2.0,3.0
+Ederson Santana de Moraes,GK,Man City,Brighton,90,0,0,0,1,32,0,0,0,3,0,0,2.9,29.2,0.0,0.0,False,7,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Nott'm Forest,45,0,0,0,0,6,0,0,0,1,0,0,1.1,10.6,0.0,0.0,False,1,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Wolves,90,0,0,1,0,14,0,0,0,0,0,0,0.8,8.2,0.0,0.0,True,2,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Fulham,90,0,0,0,1,29,0,0,0,1,0,0,1.3,13.4,0.0,0.0,False,6,5.0,3.0,2.0
+Ederson Santana de Moraes,GK,Man City,Spurs,68,0,0,0,1,25,0,0,0,3,0,0,2.2,21.8,0.0,0.0,False,7,5.0,4.0,1.0
+Ederson Santana de Moraes,GK,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0

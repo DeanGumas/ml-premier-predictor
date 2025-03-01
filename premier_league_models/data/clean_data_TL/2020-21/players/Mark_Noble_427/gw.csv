@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Mark Noble,MID,West Ham,Newcastle,66,0,0,1,0,8,0,0,0,0,0,0,1.7,4.4,12.2,0.0,True,2020-09-12T19:00:00Z,2
+Mark Noble,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-09-19T19:00:00Z,0
+Mark Noble,MID,West Ham,Wolves,2,0,0,0,0,3,0,0,0,0,0,0,0.3,2.6,0.5,0.0,True,2020-09-27T18:00:00Z,1
+Mark Noble,MID,West Ham,Leicester,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,2020-10-04T11:00:00Z,1
+Mark Noble,MID,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-18T15:30:00Z,0
+Mark Noble,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-10-24T11:30:00Z,0
+Mark Noble,MID,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-10-31T17:30:00Z,0
+Mark Noble,MID,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-11-07T20:00:00Z,0
+Mark Noble,MID,West Ham,Sheffield Utd,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,2020-11-22T14:00:00Z,1
+Mark Noble,MID,West Ham,Aston Villa,11,0,0,0,0,3,0,0,0,0,0,0,0.0,0.4,0.0,0.0,True,2020-11-30T20:00:00Z,1
+Mark Noble,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-05T17:30:00Z,0
+Mark Noble,MID,West Ham,Leeds,6,0,0,0,0,-1,1,0,0,0,0,0,0.1,0.0,0.7,0.0,False,2020-12-11T20:00:00Z,0
+Mark Noble,MID,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2020-12-16T20:00:00Z,0
+Mark Noble,MID,West Ham,Chelsea,90,0,0,3,0,13,0,0,0,0,0,0,1.7,7.4,3.9,6.0,False,2020-12-21T20:00:00Z,2
+Mark Noble,MID,West Ham,Brighton,45,0,0,1,0,4,0,0,0,0,0,0,2.1,4.0,16.9,0.0,True,2020-12-27T14:15:00Z,1
+Mark Noble,MID,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2020-12-29T18:00:00Z,0
+Mark Noble,MID,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-01-01T17:30:00Z,0
+Mark Noble,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-01-16T15:00:00Z,0
+Mark Noble,MID,West Ham,West Brom,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2021-01-19T18:00:00Z,1
+Mark Noble,MID,West Ham,Crystal Palace,3,0,0,1,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,2021-01-26T18:00:00Z,1
+Mark Noble,MID,West Ham,Liverpool,11,0,0,1,0,3,0,0,0,0,0,0,0.2,0.8,0.8,0.0,True,2021-01-31T16:30:00Z,1
+Mark Noble,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-03T20:15:00Z,0
+Mark Noble,MID,West Ham,Fulham,34,0,0,0,0,2,0,0,0,0,0,0,0.4,3.4,0.8,0.0,False,2021-02-06T17:30:00Z,1
+Mark Noble,MID,West Ham,Sheffield Utd,27,0,0,0,0,3,0,0,0,0,0,0,0.4,2.6,1.5,0.0,True,2021-02-15T18:00:00Z,1
+Mark Noble,MID,West Ham,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-02-21T12:00:00Z,1
+Mark Noble,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-02-27T12:30:00Z,0
+Mark Noble,MID,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-03-08T20:00:00Z,0
+Mark Noble,MID,West Ham,Man Utd,61,0,0,1,0,15,0,0,0,0,0,0,0.9,6.4,2.3,0.0,False,2021-03-14T19:15:00Z,2
+Mark Noble,MID,West Ham,Arsenal,16,0,0,1,0,3,0,0,0,0,0,0,0.1,0.0,0.6,0.0,True,2021-03-21T15:00:00Z,1
+Mark Noble,MID,West Ham,Wolves,90,0,0,2,0,18,0,0,0,0,0,0,1.8,16.8,1.2,0.0,False,2021-04-05T19:15:00Z,2
+Mark Noble,MID,West Ham,Leicester,81,0,0,1,0,11,0,0,0,0,0,0,1.0,7.8,2.1,0.0,True,2021-04-11T13:05:00Z,2
+Mark Noble,MID,West Ham,Newcastle,74,0,0,2,0,14,0,0,0,0,0,0,4.2,10.2,31.0,1.0,False,2021-04-17T11:30:00Z,2
+Mark Noble,MID,West Ham,Chelsea,68,0,0,1,0,16,0,0,0,0,0,0,2.7,13.4,13.3,0.0,True,2021-04-24T16:30:00Z,2
+Mark Noble,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-03T19:15:00Z,0
+Mark Noble,MID,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-09T15:30:00Z,0
+Mark Noble,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-15T19:00:00Z,0
+Mark Noble,MID,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-05-19T19:15:00Z,0
+Mark Noble,MID,West Ham,Southampton,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-05-23T15:00:00Z,1

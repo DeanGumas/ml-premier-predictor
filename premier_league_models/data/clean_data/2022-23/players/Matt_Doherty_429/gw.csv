@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Matt Doherty,DEF,Spurs,Southampton,3,0,0,0,0,3,0,0,0,0,0,0,0.5,5.0,0.0,0.0,True,1,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,Arsenal,19,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Brighton,90,0,0,0,1,20,0,0,0,0,0,0,2.1,13.8,1.2,6.0,False,6,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,Everton,90,0,0,0,1,22,0,0,0,0,0,0,4.7,6.2,4.1,37.0,True,6,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Man Utd,81,0,0,2,0,13,0,0,0,0,0,0,4.6,16.8,23.0,6.0,False,1,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Newcastle,9,0,0,0,0,4,0,0,0,0,0,0,0.2,1.2,0.5,0.0,True,1,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Liverpool,22,0,0,0,0,2,0,0,0,0,0,0,0.7,1.0,2.2,4.0,True,1,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Leeds,33,0,0,1,0,5,0,0,0,0,0,0,2.0,11.6,2.8,6.0,True,1,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Brentford,90,0,0,2,0,10,0,0,0,0,0,0,5.5,11.6,28.8,15.0,False,1,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,Aston Villa,79,0,0,2,0,15,0,0,0,0,0,0,4.1,10.6,8.4,22.0,True,1,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Crystal Palace,77,1,0,0,1,38,0,0,0,0,0,0,13.3,53.2,31.3,48.0,False,14,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Arsenal,70,0,0,2,0,13,0,0,0,0,0,0,2.6,16.0,7.9,2.0,True,1,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Matt Doherty,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Matt Doherty,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Matt Doherty,DEF,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Matt Doherty,DEF,Spurs,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Matt Doherty,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

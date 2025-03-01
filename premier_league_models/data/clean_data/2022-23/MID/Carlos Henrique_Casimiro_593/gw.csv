@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Carlos Henrique Casimiro,MID,Man Utd,Southampton,10,0,0,0,0,6,0,0,0,0,0,0,0.9,9.4,0.0,0.0,False,1,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Leicester,31,0,0,0,0,9,0,0,0,0,0,0,1.3,11.4,1.3,0.0,False,1,4.0,3.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,Arsenal,10,0,0,0,0,3,0,0,0,0,0,0,1.1,11.0,0.0,0.0,True,1,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Man City,31,0,0,2,0,1,0,0,0,0,0,0,1.6,8.4,0.6,7.0,False,1,4.0,5.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Everton,90,0,1,1,0,21,0,0,0,0,0,0,6.6,33.4,27.7,5.0,False,5,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Newcastle,90,0,0,0,1,8,1,0,0,0,0,0,4.9,22.4,18.8,8.0,True,2,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Spurs,86,0,0,0,1,15,1,0,0,0,0,0,4.2,13.2,23.9,5.0,True,2,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Chelsea,90,1,0,1,0,31,0,0,0,0,0,0,7.2,53.4,1.7,17.0,False,10,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,West Ham,90,0,0,0,1,13,0,0,0,0,0,0,2.7,14.6,12.7,0.0,True,3,4.0,3.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,Aston Villa,90,0,0,3,0,6,0,0,0,0,0,0,4.1,14.6,17.9,8.0,False,2,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Fulham,90,0,0,1,0,17,0,0,0,0,0,0,5.6,27.6,15.1,13.0,False,2,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Nott'm Forest,90,0,1,0,1,30,0,0,0,0,0,0,14.8,53.6,41.3,53.0,True,8,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Wolves,90,0,0,0,1,7,1,0,0,0,0,0,4.1,10.2,7.5,23.0,False,2,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Bournemouth,90,1,0,0,1,34,0,0,0,0,0,0,7.2,37.4,16.5,18.0,True,10,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Man City,90,0,1,1,0,23,1,0,0,0,0,0,6.4,36.2,27.9,0.0,True,6,4.0,5.0,-1.0
+Carlos Henrique Casimiro,MID,Man Utd,Crystal Palace,90,0,0,1,0,4,1,0,0,0,0,0,6.7,31.4,22.3,13.0,False,1,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Crystal Palace,69,0,0,1,0,0,0,1,0,0,0,0,1.0,2.4,3.3,4.0,True,-1,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,Liverpool,76,0,0,5,0,12,0,0,0,0,0,0,3.4,19.2,14.5,0.0,False,2,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Southampton,33,0,0,0,0,-2,0,1,0,0,0,0,0.6,4.6,0.9,0.0,True,-2,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Nott'm Forest,90,0,0,0,1,13,0,0,0,0,0,0,3.4,17.6,16.3,0.0,False,3,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Spurs,90,0,0,2,0,17,0,0,0,0,0,0,3.6,18.2,13.9,4.0,False,2,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Aston Villa,90,0,0,0,1,11,0,0,0,0,0,0,5.5,18.4,22.8,14.0,True,3,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Brighton,90,0,0,1,0,5,1,0,0,0,0,0,3.2,13.8,12.9,5.0,False,1,4.0,3.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,West Ham,90,0,0,1,0,14,0,0,0,0,0,0,5.3,27.4,17.9,8.0,False,2,4.0,3.0,1.0
+Carlos Henrique Casimiro,MID,Man Utd,Wolves,90,0,0,0,1,15,1,0,0,0,0,0,4.1,20.2,13.7,7.0,True,2,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Bournemouth,90,1,0,0,1,32,0,0,0,0,0,0,14.0,57.4,34.5,48.0,False,9,4.0,2.0,2.0
+Carlos Henrique Casimiro,MID,Man Utd,Chelsea,90,1,0,1,0,29,0,0,0,0,0,0,7.6,51.2,7.1,18.0,True,7,4.0,4.0,0.0
+Carlos Henrique Casimiro,MID,Man Utd,Fulham,66,0,0,1,0,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,4.0,2.0,2.0
