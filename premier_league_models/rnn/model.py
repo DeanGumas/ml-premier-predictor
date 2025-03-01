@@ -396,7 +396,7 @@ def build_train_rnn(X_train, d_train, y_train,
     torch.onnx.export(
         model,
         (x_input, d_input),  # Pass tuple of inputs
-        "model.onnx",  # Output ONNX filename
+        position+"_model.onnx",  # Output ONNX filename
         export_params=True,  # Store trained parameters
         opset_version=11,  # ONNX opset version
         do_constant_folding=True,  # Optimize constants
@@ -441,7 +441,7 @@ def full_rnn_pipeline(data_dir: str,
                     standardize: bool = True,
                     test_size: float = 0.15, 
                     val_size: float = 0.3,
-                    stratify_by: str = 'skill' 
+                    stratify_by: str = 'skill'
                     ):
     
     # Generate datasets
