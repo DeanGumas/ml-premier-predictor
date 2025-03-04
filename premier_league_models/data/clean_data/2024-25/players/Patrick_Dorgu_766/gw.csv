@@ -1,0 +1,3 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Patrick Dorgu,DEF,Man Utd,Spurs,90,0,0,1,0,14,1,0,0,0,0,0,4.7,13.8,27.3,6.0,False,1,3.0,3.0,0.0
+Patrick Dorgu,DEF,Man Utd,Everton,90,0,0,2,0,10,0,0,0,0,0,0,2.5,14.6,4.8,6.0,False,1,3.0,3.0,0.0

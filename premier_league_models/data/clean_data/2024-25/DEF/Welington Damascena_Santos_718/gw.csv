@@ -2,3 +2,6 @@ name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,cle
 Welington Damascena Santos,DEF,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
 Welington Damascena Santos,DEF,Southampton,Nott'm Forest,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
 Welington Damascena Santos,DEF,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Welington Damascena Santos,DEF,Southampton,Ipswich,80,0,0,1,0,12,1,0,0,0,0,0,7.0,28.6,39.2,2.0,False,1,2.0,3.0,-1.0
+Welington Damascena Santos,DEF,Southampton,Bournemouth,45,0,0,2,0,-2,0,0,0,0,0,0,1.9,16.6,0.7,2.0,True,0,2.0,4.0,-2.0
+Welington Damascena Santos,DEF,Southampton,Brighton,45,0,0,1,0,3,0,0,0,0,0,0,1.0,8.6,0.7,1.0,True,1,2.0,3.0,-1.0

@@ -1,0 +1,3 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kevin Danso,DEF,Spurs,Man Utd,77,0,0,0,1,27,0,0,0,0,0,0,4.0,17.6,16.4,6.0,True,6,3.0,3.0,0.0
+Kevin Danso,DEF,Spurs,Ipswich,90,0,0,1,0,11,0,0,0,0,0,0,2.0,16.8,1.2,2.0,False,2,3.0,3.0,0.0

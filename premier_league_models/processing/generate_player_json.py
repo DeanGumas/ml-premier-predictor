@@ -102,10 +102,10 @@ def generate_player_json(data_dir : str,
                         seasons.append(season)
 
                     if len(d) >= 6:
-                        player_dict[player_name] = {"player_data": [row[:-1] for row in X[-1].values.tolist()], "team_rating": list(d[-6:]), "actual_score": int(y[-1])}
+                        player_dict[player_name] = {"player_team": player_data.sample(n=1)["team"].values[0], "player_data": [row[:-1] for row in X[-1].values.tolist()], "team_rating": list(d[-6:]), "actual_score": int(y[-1])}
 
 
-    with open('./json/' + position + '_' + season + '.json', 'w') as file:
+    with open('./json/' + season + '_' + position + '.json', 'w') as file:
         json.dump(player_dict, file, indent=2)
 
     if verbose:

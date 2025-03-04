@@ -2,3 +2,6 @@ name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,cle
 Emmanuel Agbadou,DEF,Wolves,Newcastle,90,0,0,3,0,-3,1,0,0,0,0,0,2.3,21.8,0.8,0.0,False,0,3.0,4.0,-1.0
 Emmanuel Agbadou,DEF,Wolves,Chelsea,90,0,0,3,0,3,0,0,0,0,0,0,2.3,22.2,1.0,0.0,False,1,3.0,4.0,-1.0
 Emmanuel Agbadou,DEF,Wolves,Arsenal,90,0,0,1,0,22,0,0,0,0,0,0,3.1,28.6,1.5,1.0,True,2,3.0,4.0,-1.0
+Emmanuel Agbadou,DEF,Wolves,Aston Villa,90,0,0,0,1,25,0,0,0,0,0,0,2.3,22.4,0.3,0.0,True,6,3.0,3.0,0.0
+Emmanuel Agbadou,DEF,Wolves,Liverpool,60,0,0,2,0,7,1,0,0,0,0,0,2.9,15.6,0.8,13.0,False,0,3.0,5.0,-2.0
+Emmanuel Agbadou,DEF,Wolves,Bournemouth,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
