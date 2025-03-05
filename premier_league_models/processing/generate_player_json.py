@@ -101,7 +101,7 @@ def generate_player_json(data_dir : str,
                         stdev_scores.append(stdev_score)
                         seasons.append(season)
 
-                    if len(d) >= 6:
+                    if len(d) >= window_size:
                         player_dict[player_name] = {"player_team": player_data.sample(n=1)["team"].values[0], "player_data": [row[:-1] for row in X[-1].values.tolist()], "team_rating": list(d[-6:]), "actual_score": int(y[-1])}
 
 
