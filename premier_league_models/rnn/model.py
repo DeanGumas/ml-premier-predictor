@@ -73,7 +73,9 @@ class rnnModel(nn.Module):
         if temporal_attention:
             if bidirectional:
                 self.linear_relu_stack = nn.Sequential(
-                    nn.Linear(num_dense * 2 + d_input_shape[0], 1)
+                    nn.Linear(num_dense * 2 + d_input_shape[0], num_dense // 2),
+                    nn.ReLU(),
+                    nn.Linear(num_dense // 2, 1)
                 )
             else:
                 self.linear_relu_stack = nn.Sequential(
@@ -396,7 +398,7 @@ def build_train_rnn(X_train, d_train, y_train,
     torch.onnx.export(
         model,
         (x_input, d_input),  # Pass tuple of inputs
-        position+"_model.onnx",  # Output ONNX filename
+        "./onnx_models/" + position + "_" + str(learning_rate) + "_model.onnx",  # Output ONNX filename
         export_params=True,  # Store trained parameters
         opset_version=11,  # ONNX opset version
         do_constant_folding=True,  # Optimize constants
